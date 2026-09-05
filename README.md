@@ -19,10 +19,14 @@ npm run collect          # RSS 수집 → docs/data/*.json 갱신
 DISCORD_WEBHOOK_URL=... npm run digest   # Discord로 요약 발송 테스트
 ```
 
-## GitHub Pages 활성화
+## 대시보드 배포
 
-저장소 Settings → Pages → Source를 "Deploy from a branch", Branch를 `main` / `docs` 폴더로 지정하면
-`https://<username>.github.io/mynews-2609/` 에서 대시보드를 볼 수 있습니다.
+저장소가 Private이라 GitHub Pages 대신 Vercel에 정적 사이트로 배포합니다
+(`vercel.json`에서 `outputDirectory: docs`로 설정). 저장소가 Vercel 프로젝트와
+Git 연동되어 있어서, `collect.yml`이 `docs/data`를 커밋·푸시할 때마다 Vercel이
+자동으로 새 프로덕션 배포를 실행합니다 (별도의 Vercel 토큰/CI 설정 불필요).
+
+대시보드 URL: https://mynews-2609.vercel.app
 
 ## Discord 웹훅
 

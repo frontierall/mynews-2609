@@ -41,15 +41,17 @@ export const FEEDS = [
     url: "https://www.tubefilter.com/feed/",
     category: "크리에이터 이코노미",
   },
-  // NOTE: 기상청의 옛 RSS 엔드포인트(rss.jsp, mid-term-rss3.jsp)는 현재 전부
-  // "RSS 서비스 안내" 페이지로 리다이렉트되어 더 이상 실제 피드를 내려주지 않습니다.
-  // 유효한 대체 RSS 주소를 알려주시면 다시 활성화하겠습니다.
-  // {
-  //   id: "weather-kma",
-  //   name: "기상청 날씨",
-  //   url: "https://www.weather.go.kr/plus/rss.jsp",
-  //   category: "날씨",
-  // },
+  // 기상청 날씨누리 RSS는 2025-03-31부로 공식 중단(대체: 회원가입이 필요한
+  // 기상청 API허브). 대신 날씨 관련 뉴스 헤드라인을 모아주는 구글뉴스 검색
+  // RSS로 대체.
+  {
+    id: "weather-news",
+    name: "날씨 뉴스",
+    url: `https://news.google.com/rss/search?q=${encodeURIComponent(
+      "날씨 기상특보 OR 예보"
+    )}&hl=ko&gl=KR&ceid=KR:ko`,
+    category: "날씨",
+  },
   {
     id: "gov-support",
     name: "정부지원정책",

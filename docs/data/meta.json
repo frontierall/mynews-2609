@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T07:07:38.916Z",
+  "lastUpdated": "2026-09-05T07:18:40.897Z",
   "feeds": [
     {
       "id": "aitimes",
@@ -44,6 +44,12 @@
       "count": 12
     },
     {
+      "id": "weather-news",
+      "name": "날씨 뉴스",
+      "ok": true,
+      "count": 100
+    },
+    {
       "id": "gov-support",
       "name": "정부지원정책",
       "ok": true,
@@ -56,5 +62,5 @@
       "count": 50
     }
   ],
-  "latestCount": 271
+  "latestCount": 339
 }

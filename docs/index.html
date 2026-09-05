@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>mynews — RSS 뉴스 대시보드</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>📰 mynews</h1>
+    <p id="last-updated">불러오는 중…</p>
+  </header>
+  <main>
+    <nav class="tabs">
+      <button data-tab="latest" class="active">최신 뉴스</button>
+      <button data-tab="history">히스토리 검색</button>
+    </nav>
+
+    <section id="tab-latest">
+      <div class="controls">
+        <input type="text" id="latest-search" placeholder="제목 검색…" />
+        <select id="latest-category"></select>
+      </div>
+      <div id="latest-content"></div>
+    </section>
+
+    <section id="tab-history" hidden>
+      <div class="controls">
+        <input type="text" id="history-search" placeholder="키워드 검색…" />
+        <select id="history-month"></select>
+        <select id="history-category"></select>
+      </div>
+      <div id="history-content"></div>
+    </section>
+  </main>
+  <footer>2시간마다 자동 수집 · 매일 오전 9시 Discord로 요약 발송</footer>
+  <script src="app.js"></script>
+</body>
+</html>

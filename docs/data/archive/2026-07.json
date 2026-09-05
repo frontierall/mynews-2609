@@ -1,0 +1,572 @@
+[
+  {
+    "id": "b86dc435d64acf26",
+    "title": "Advancing responsible AI across Europe",
+    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-31T15:00:00.000Z",
+    "snippet": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+  },
+  {
+    "id": "6e145b017b5af327",
+    "title": "Building abundant intelligence",
+    "link": "https://openai.com/index/building-abundant-intelligence",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-31T15:00:00.000Z",
+    "snippet": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
+  },
+  {
+    "id": "185e475f6a0f3206",
+    "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-07-31T14:00:00.000Z",
+    "snippet": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations"
+  },
+  {
+    "id": "eb335d09e7f6ada5",
+    "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-07-31T14:00:00.000Z",
+    "snippet": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions"
+  },
+  {
+    "id": "4879819590782b03",
+    "title": "Univé builds an AI-ready workforce",
+    "link": "https://openai.com/index/unive",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-31T07:00:00.000Z",
+    "snippet": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
+  },
+  {
+    "id": "c5ad624a6ffb30ef",
+    "title": "Disrupting a Criminal Scam Operation",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-31T00:00:00.000Z",
+    "snippet": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+  },
+  {
+    "id": "0edb7afd0aae2320",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-07-30T15:00:00.000Z",
+    "snippet": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank"
+  },
+  {
+    "id": "aabe730a8f85c384",
+    "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-07-30T15:00:00.000Z",
+    "snippet": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank"
+  },
+  {
+    "id": "fc362ba711f59d44",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-30T10:00:00.000Z",
+    "snippet": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+  },
+  {
+    "id": "9146ff1756af0f60",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "link": "https://openai.com/index/avatarin",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-30T00:00:00.000Z",
+    "snippet": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
+  },
+  {
+    "id": "b31df595e972b068",
+    "title": "Federal Reserve issues FOMC statement",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-07-29T18:00:00.000Z",
+    "snippet": "Federal Reserve issues FOMC statement"
+  },
+  {
+    "id": "cc8e132c619995d1",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-29T15:00:00.000Z",
+    "snippet": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+  },
+  {
+    "id": "14fd05ad34f9923e",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-29T10:00:00.000Z",
+    "snippet": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+  },
+  {
+    "id": "6d964f10c3337bbc",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-29T00:00:00.000Z",
+    "snippet": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
+  },
+  {
+    "id": "df22037e3e0ff3ea",
+    "title": "Scientific computing in the age of agentic AI",
+    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-28T17:00:00.000Z",
+    "snippet": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+  },
+  {
+    "id": "f143efbfe201f040",
+    "title": "How AI is expanding what people do at work",
+    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-27T03:30:00.000Z",
+    "snippet": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
+  },
+  {
+    "id": "1d2811dbc2c410af",
+    "title": "공정, 혁신, 포용의 경기 - 경기도청",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wTVBTMEsyVmRSSWJmR0RCWk9xczRFSnpFNERlNkhBZmk0dzliU1d1YjhGc05YbUR4RWNMTi1aOHlWZWYyeGMzbHYtNTNrWU41dHNyb0ZVdVJzUzBUSk1xVmR4ZnN6ZEJsSzNZZVVFVGVxa2Z6bUlBOTEtcVRoeFU?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-07-24T07:00:00.000Z",
+    "snippet": "공정, 혁신, 포용의 경기 경기도청"
+  },
+  {
+    "id": "7569338ee0d35289",
+    "title": "Launching Health in ChatGPT",
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-23T00:00:00.000Z",
+    "snippet": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+  },
+  {
+    "id": "bd6ce42035f55001",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-22T13:00:00.000Z",
+    "snippet": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+  },
+  {
+    "id": "130e23c4bd2f87cb",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-22T13:00:00.000Z",
+    "snippet": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
+  },
+  {
+    "id": "fc3528d001b5387a",
+    "title": "Advancing the next era of national science",
+    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-22T12:00:00.000Z",
+    "snippet": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
+  },
+  {
+    "id": "c54f46e53d48e304",
+    "title": "Introducing OpenAI Presence",
+    "link": "https://openai.com/index/introducing-openai-presence",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-22T05:30:00.000Z",
+    "snippet": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+  },
+  {
+    "id": "ce627deb992812da",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "link": "https://openai.com/index/ntt-data",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-22T00:00:00.000Z",
+    "snippet": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
+  },
+  {
+    "id": "d42362617c640879",
+    "title": "Introducing the ChatGPT for small business program",
+    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-21T17:00:00.000Z",
+    "snippet": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+  },
+  {
+    "id": "20b0eb2d5c149974",
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-21T07:00:00.000Z",
+    "snippet": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+  },
+  {
+    "id": "40359dbf5a246645",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-21T00:00:00.000Z",
+    "snippet": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+  },
+  {
+    "id": "d4ff9ec891b78868",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-20T10:00:00.000Z",
+    "snippet": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+  },
+  {
+    "id": "3ebda52fc80ebe33",
+    "title": "A scorecard for the AI age",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-17T10:00:00.000Z",
+    "snippet": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
+  },
+  {
+    "id": "12b5808ff7e453a7",
+    "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-07-16T18:00:00.000Z",
+    "snippet": "Agencies issue joint statement on handling of highly sensitive information during bank examinations"
+  },
+  {
+    "id": "8fe39edff791751d",
+    "title": "Why teens deserve access to safe AI",
+    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-16T16:00:00.000Z",
+    "snippet": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+  },
+  {
+    "id": "f4aa45acdb264cc6",
+    "title": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-07-16T15:00:00.000Z",
+    "snippet": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank"
+  },
+  {
+    "id": "eeac6a04af4fa80e",
+    "title": "How Codex became a collaborator for OpenAI’s creative team",
+    "link": "https://openai.com/index/codex-collaborator-creative-team",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-16T07:00:00.000Z",
+    "snippet": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI."
+  },
+  {
+    "id": "6f16a999c8ddd889",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "link": "https://openai.com/index/cars24",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-16T00:00:00.000Z",
+    "snippet": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+  },
+  {
+    "id": "1e97faa490facd0c",
+    "title": "The US is advancing AI safety through state and federal action",
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-15T12:00:00.000Z",
+    "snippet": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+  },
+  {
+    "id": "ee230258f27f8a0d",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-15T10:00:00.000Z",
+    "snippet": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+  },
+  {
+    "id": "a84bffd253669030",
+    "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-07-14T18:00:00.000Z",
+    "snippet": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026"
+  },
+  {
+    "id": "92ab1f77dd8ccf54",
+    "title": "How to manage AI investments in the agentic era",
+    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-14T10:00:00.000Z",
+    "snippet": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+  },
+  {
+    "id": "6ea7ece247beb542",
+    "title": "[게시판] 한유원, 'AI 활용 콘텐츠 제작 지원사업' 참여기업 모집 - yna.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uNE9MN2Z4cDgzdkNJdUZYTmNVRmJjbzV2WWRLcHF1SXBMVEowYm1taXNVZTYzRDJJUjJKaHJFbk1Ld0lPOXZ3aThlVkZWdjdabWRHYlFaa0VtcVXSAWBBVV95cUxPU1NPQjVUNHhTRV9KYjB4czZ6V3VaNGVWWTRRbmphai1zazUyUHhqa1JUY2dWWHY3c1lxZkxyY0d0OHgtQTB2c1IxdjNic0twVmN0OE5hYUc4NFJZZjJ0T24?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-07-14T07:00:00.000Z",
+    "snippet": "[게시판] 한유원, 'AI 활용 콘텐츠 제작 지원사업' 참여기업 모집 yna.co.kr"
+  },
+  {
+    "id": "7010e3ef4dd6e0d8",
+    "title": "중기부, 해외규격인증 지원 사업 2차 공고…최대 1억원 지원 - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjZxb2hSRHY3YmF3RTdyRko5RW5XUDBVWkc2UzBNb3lURHo3a1BuQW15aC05MVFFT1pvbF9XZkpNMFRNcTkwRENwZ2ZzWkwtdTZwak1rOW53Y0JDSFFsYWdja3cwR3I5U182clAwV09kbFAteXhPSFFlbEZic25LY1Y3dXFrdVQ4clJibDVBNl_SAaQBQVVfeXFMT3kweXY5WUJfS29NNVBoTGxySXVpdFdaaUxDX1lDV1h6OVZ5Q1VoSUdlaUVBQXJVbTBGQjRtMG1NNWl0blNTNHRJT21UMGRPTjZuMkU3dm1zSmZocEh4OHprWEZ1ZndqeXNua0h3UEY0WkNyS2NsckhuTllyYkdzaGNfUHU0X1FSQmg3cHFJYlh3NTdoX25UTlNObk5SR1ZHd1hySWI?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-07-14T07:00:00.000Z",
+    "snippet": "중기부, 해외규격인증 지원 사업 2차 공고…최대 1억원 지원 - 조선비즈 Chosunbiz"
+  },
+  {
+    "id": "ba9f9d994d3b75a5",
+    "title": "‘2026년 해외규격인증획득 지원사업’ 2차 모집 실시 - 기계신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82NUpmQS1RT2lXVDhnMXJIcEpUcVRTVnJvam1BRXpQNlRWWmlyVlB5Sjg0aFA2RS0ycjdiT2Q4VnNQNWdYNndSUG43Mi11MGxwMjFyU3g0RHpidTZ2akRHRzFSempqUEU?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-07-14T07:00:00.000Z",
+    "snippet": "‘2026년 해외규격인증획득 지원사업’ 2차 모집 실시 기계신문"
+  },
+  {
+    "id": "40d7f59e47186db1",
+    "title": "Sales workflows with ChatGPT Work",
+    "link": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-14T00:00:00.000Z",
+    "snippet": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis."
+  },
+  {
+    "id": "b9a7811027c857a9",
+    "title": "Data science workflows with ChatGPT Work",
+    "link": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-14T00:00:00.000Z",
+    "snippet": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications."
+  },
+  {
+    "id": "027b05f9d0faae18",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "link": "https://openai.com/index/deutsche-telekom",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-10T07:00:00.000Z",
+    "snippet": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
+  },
+  {
+    "id": "2c539797fe263ec5",
+    "title": "Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-10T00:00:00.000Z",
+    "snippet": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+  },
+  {
+    "id": "2674fe6f069a3823",
+    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-07-09T19:00:00.000Z",
+    "snippet": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy"
+  },
+  {
+    "id": "e799563c0958e055",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-09T13:00:00.000Z",
+    "snippet": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
+  },
+  {
+    "id": "54ee76ae9206d639",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-09T10:00:00.000Z",
+    "snippet": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
+  },
+  {
+    "id": "8fd74bd3f51991b5",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-09T10:00:00.000Z",
+    "snippet": "Details about the OpenAI Bio Bounty program"
+  },
+  {
+    "id": "5941cef110c0f469",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-09T10:00:00.000Z",
+    "snippet": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
+  },
+  {
+    "id": "41b85c9cdb7a0122",
+    "title": "Our approach to government and national security partnerships",
+    "link": "https://openai.com/index/government-national-security-partnerships",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-08T13:30:00.000Z",
+    "snippet": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
+  },
+  {
+    "id": "eaad4cbcfa7f5327",
+    "title": "Separating signal from noise in coding evaluations",
+    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-08T13:00:00.000Z",
+    "snippet": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+  },
+  {
+    "id": "de92863115274012",
+    "title": "Helping K–12 educators build practical AI skills",
+    "link": "https://openai.com/index/k-12-educators-practical-skills",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-08T10:00:00.000Z",
+    "snippet": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+  },
+  {
+    "id": "48ef2c0a113c6dae",
+    "title": "공정, 혁신, 포용의 경기 - 경기도청",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SQk9wYWlLNnYtaHZ1QVYySk41bm5NdlVxdWtBLXZvU3dUQWYtR0NVYmd6eWNQMXVCSGNsX1p5bi1uNHB4M2V4VGoyLWdZdm5jYmt4VkYyN014ckRtUXVmT3RhZ29jUDRqTDJza0VEOXI0RkNycXdfNHJYLVdaUFE?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-07-08T08:32:38.000Z",
+    "snippet": "공정, 혁신, 포용의 경기 경기도청"
+  },
+  {
+    "id": "d7499a6963c6e5c4",
+    "title": "Introducing GPT-Live",
+    "link": "https://openai.com/index/introducing-gpt-live",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-08T00:00:00.000Z",
+    "snippet": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+  },
+  {
+    "id": "519dce141e4f6c8d",
+    "title": "한국데이터산업진흥원, 'AI·데이터 문제해결은행 맞춤 지원 사업' 모집 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55T2xKN0Q2RnoxUDdBNTVqdnd1NVFFekREdmJLY3FRSFRMYWEwQkZTR3hlM0ZvTDNVZjE3VEp3UWVnTHJNX0V2Nkg5TktqQQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-07-07T07:00:00.000Z",
+    "snippet": "한국데이터산업진흥원, 'AI·데이터 문제해결은행 맞춤 지원 사업' 모집 전자신문"
+  },
+  {
+    "id": "60d1b56766e3b677",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-07T00:00:00.000Z",
+    "snippet": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+  },
+  {
+    "id": "cb031b5cf3e3be67",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-07-07T00:00:00.000Z",
+    "snippet": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+  }
+]

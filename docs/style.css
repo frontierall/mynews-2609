@@ -1,0 +1,143 @@
+:root {
+  --bg: #0f1115;
+  --panel: #171a21;
+  --border: #262b36;
+  --text: #e6e8ec;
+  --muted: #8b93a3;
+  --accent: #5865f2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Pretendard, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  padding: 0 16px 64px;
+}
+
+header {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 32px 0 16px;
+}
+
+header h1 {
+  margin: 0 0 4px;
+  font-size: 22px;
+}
+
+header p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+nav.tabs {
+  display: flex;
+  gap: 8px;
+  margin: 16px 0 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+nav.tabs button {
+  background: none;
+  border: none;
+  color: var(--muted);
+  padding: 10px 4px;
+  font-size: 14px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+
+nav.tabs button.active {
+  color: var(--text);
+  border-bottom-color: var(--accent);
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.controls input,
+.controls select {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.controls input[type="text"] {
+  flex: 1;
+  min-width: 200px;
+}
+
+.category-group {
+  margin-bottom: 28px;
+}
+
+.category-group h2 {
+  font-size: 15px;
+  color: var(--muted);
+  margin: 0 0 10px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin-bottom: 8px;
+}
+
+.card a {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.card a:hover {
+  color: var(--accent);
+}
+
+.card .meta {
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.card .snippet {
+  margin-top: 6px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.empty {
+  color: var(--muted);
+  font-size: 14px;
+  padding: 24px 0;
+}
+
+footer {
+  max-width: 1000px;
+  margin: 32px auto 0;
+  color: var(--muted);
+  font-size: 12px;
+}

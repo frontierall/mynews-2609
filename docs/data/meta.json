@@ -1,0 +1,60 @@
+{
+  "lastUpdated": "2026-09-05T06:53:57.745Z",
+  "feeds": [
+    {
+      "id": "aitimes",
+      "name": "AI타임스",
+      "ok": true,
+      "count": 50
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "ok": true,
+      "count": 1170
+    },
+    {
+      "id": "mk-economy",
+      "name": "매일경제 경제",
+      "ok": true,
+      "count": 50
+    },
+    {
+      "id": "hankyung-economy",
+      "name": "한국경제",
+      "ok": true,
+      "count": 50
+    },
+    {
+      "id": "fed-press",
+      "name": "미 연준 보도자료",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "id": "platum",
+      "name": "플래텀",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "id": "tubefilter",
+      "name": "Tubefilter",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "id": "gov-support",
+      "name": "정부지원정책",
+      "ok": true,
+      "count": 100
+    },
+    {
+      "id": "geeknews",
+      "name": "긱뉴스(GeekNews)",
+      "ok": true,
+      "count": 50
+    }
+  ],
+  "latestCount": 266
+}

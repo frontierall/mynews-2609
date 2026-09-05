@@ -13,16 +13,36 @@
   </header>
   <main>
     <nav class="tabs">
-      <button data-tab="latest" class="active">최신 뉴스</button>
-      <button data-tab="history">히스토리 검색</button>
+      <button data-tab="explore" class="active"><span class="num">01</span>탐색</button>
+      <button data-tab="category"><span class="num">02</span>카테고리</button>
+      <button data-tab="trend"><span class="num">03</span>트렌드</button>
+      <button data-tab="history"><span class="num">04</span>히스토리</button>
+      <button data-tab="bookmark"><span class="num">05</span>즐겨찾기</button>
+      <button data-tab="status"><span class="num">06</span>수집현황</button>
     </nav>
 
-    <section id="tab-latest">
+    <section id="tab-explore">
       <div class="controls">
-        <input type="text" id="latest-search" placeholder="제목 검색…" />
-        <select id="latest-category"></select>
+        <input type="text" id="explore-search" placeholder="제목 검색…" />
+        <select id="explore-category"></select>
       </div>
-      <div id="latest-content"></div>
+      <div id="explore-content"></div>
+    </section>
+
+    <section id="tab-category" hidden>
+      <nav class="subtabs" id="category-subtabs"></nav>
+      <div class="controls">
+        <input type="text" id="category-search" placeholder="제목 검색…" />
+      </div>
+      <div id="category-content"></div>
+    </section>
+
+    <section id="tab-trend" hidden>
+      <nav class="subtabs" id="trend-subtabs">
+        <button data-range="24" class="active">최근 24시간</button>
+        <button data-range="72">최근 3일</button>
+      </nav>
+      <div id="trend-content"></div>
     </section>
 
     <section id="tab-history" hidden>
@@ -32,6 +52,14 @@
         <select id="history-category"></select>
       </div>
       <div id="history-content"></div>
+    </section>
+
+    <section id="tab-bookmark" hidden>
+      <div id="bookmark-content"></div>
+    </section>
+
+    <section id="tab-status" hidden>
+      <div id="status-content"></div>
     </section>
   </main>
   <footer>2시간마다 자동 수집 · 매일 오전 9시 Discord로 요약 발송</footer>

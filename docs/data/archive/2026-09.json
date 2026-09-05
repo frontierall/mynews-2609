@@ -30,6 +30,46 @@
     "snippet": "미국 정치권에서 AI 기술의 급격한 발전에 따른 통제력 상실을 막기 위해 강한 규제책을 마련하려는 움직임이 본격화하고 있다.무소속 버니 샌더스 미국 버몬트주 상원의원과 민주당 그렉 카사르 텍사스주 하원의원은 3일(현지시간) '인공 초지능(Artificial Superintelligence)' 개발을 금지하고, 위험한 역량을 감시할 전담 정부 기관이 설립될 때까지 첨단 AI 시스템 개발을 즉시 중단하는 법안을 발의할 예정이라고 "
   },
   {
+    "id": "f52f600a9ad4ecb6",
+    "title": "AI가 인시던트를 처리할수록 엔지니어는 시스템 감각을 잃는다",
+    "link": "https://news.hada.io/topic?id=33263",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-05T17:37:53.000Z",
+    "snippet": "AI SRE가 경보 분석부터 가설 수립, 텔레메트리 조회, 배포 내역 연계, 수정까지 맡으면 평균 복구 시간은 줄어들지만, 엔지니어가 시스템의 동작과 장애 방식을 체득할 기회도 감소함 자동화는 일상적인 대응 경험을 없애면서 사람이 해결해야 할 새롭고 비정상적인 장애..."
+  },
+  {
+    "id": "e056b0ffa0d1240e",
+    "title": "네덜란드, 미국·캐나다 보관 금 86톤 회수",
+    "link": "https://news.hada.io/topic?id=33262",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-05T17:34:53.000Z",
+    "snippet": "네덜란드 중앙은행 DNB는 지정학적 불안에 대비해 미국·캐나다에 보관하던 금 86톤을 영국과 네덜란드로 옮겨 위기 대응력을 강화함 2026년 3~8월 북미 보관분 313톤 중 86톤을 이전했으며, 영란은행(Bank of England) 보관 금은 국제 거래 표준을 충족해 위기 때 ..."
+  },
+  {
+    "id": "92a3d298c7bfae90",
+    "title": "AI는 아직 회로 기판을 어디까지 설계할 수 있는가?",
+    "link": "https://news.hada.io/topic?id=33261",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-05T16:37:16.000Z",
+    "snippet": "현재 AI는 실제 부품과 제약을 반영한 일부 회로 문제를 해결하지만, 완제품의 PCB 배치·제조·초기 구동까지 맡길 수준인지는 아직 평가되지 않음 EEBench V1은 회로를 선언형 코드로 작성하게 하고 SPICE 시뮬레이션으로 전압, 응답, 부품 공차, 비용 등을 포함한..."
+  },
+  {
+    "id": "a57aefe35e2d857e",
+    "title": "오픈소스 AI에 빠져드는 미국 기업들",
+    "link": "https://news.hada.io/topic?id=33260",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-05T16:34:16.000Z",
+    "snippet": "오픈소스 AI에 빠져드는 미국 기업들"
+  },
+  {
     "id": "60d3db3abab25d37",
     "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214890",
@@ -60,6 +100,16 @@
     "snippet": "젠슨 황 엔비디아 CEO가 오픈소스 AI 플랫폼 허깅페이스를 인수하는 데 무려 129억달러(약 17조 2000억원)를 투입한 배경을 밝혔다. 경쟁사들을 따돌리기 위해 천문학적인 자금을 쏟아부은 '격렬한 쟁탈전'의 결과라는 설명이다.황 CEO는 4일(현지시간) CNBC 방송과의 인터뷰에서 130억달러에 달하는 평가액에 대해 \"다른 입찰자들을 물리치고 거래를 성사시키는 데 반드시 필요했던 금액\"이라고 밝혔다.이번 인수액은 지난해 "
   },
   {
+    "id": "b73363fdf66eae0e",
+    "title": "OpenTrailPaper - 오픈소스 전자잉크 자전거 컴퓨터",
+    "link": "https://news.hada.io/topic?id=33259",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-05T15:31:57.000Z",
+    "snippet": "OpenTrailPaper는 LilyGO T5S3 4.7\" E-Paper PRO에서 주행 데이터와 오프라인 지도를 표시하며, GPX 경로 안내·FIT 기록·Bluetooth 센서 연결을 지원하는 DIY 펌웨어임 지도와 경로를 미리 저장하면 휴대전화나 데이터 연결 없이 GPS 주행 기록, 턴바이턴 안내..."
+  },
+  {
     "id": "f106f8b5e8962f7b",
     "title": "미 국방부, 앤트로픽 여전히 '공급망 위험'으로 간주...상무장관과 온도 차",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214888",
@@ -88,6 +138,16 @@
     "category": "AI",
     "publishedAt": "2026-09-05T14:50:37.000Z",
     "snippet": "시진핑 중국 국가주석이 오는 24일 미국 워싱턴에서 도널드 트럼프 미국 대통령과 정상회담을 갖는 가운데, 대규모 중국 기업 CEO 대표단을 동행시키는 방안을 준비하고 있는 것으로 알려졌다. 4일(현지시간) 로이터에 따르면, 사안에 정통한 소식통들은 이번 정상회담에 중국 기업인 대표단이 동행할 가능성이 있다고 전했다.구체적인 참가 기업과 CEO 명단은 아직 확정되지 않았다. 시 주석이 대규모 기업인단과 함께 미국을 방문한 것은 "
+  },
+  {
+    "id": "fcf7b7e8ff88e5c7",
+    "title": "구글, 글로벌 실시간 날씨 AI 모델 ‘웨더넥스트 3’ 공개....실시간 위성 데이터 학습, 5km 고해상도·시간 단위 예측 - 인공지능신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lRi01bmpzZU5WV05KQ19UNV9FS294QjN5QmEtLVRBM3dkOFhwQTRaT3JQMUgwVnVqekZGTW9RMWdRWkdzMmVZLV93SXZPeVB0V1J3eUFZdHBQTVF1OEtYSGtaSWlUekE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-05T14:11:50.000Z",
+    "snippet": "구글, 글로벌 실시간 날씨 AI 모델 ‘웨더넥스트 3’ 공개....실시간 위성 데이터 학습, 5km 고해상도·시간 단위 예측 인공지능신문"
   },
   {
     "id": "96f217326c28b8d4",
@@ -318,6 +378,16 @@
     "category": "개발",
     "publishedAt": "2026-09-05T09:56:27.000Z",
     "snippet": "취득세를 검색하면 나오는 계산기 중에 개정 전 요율을 그대로 쓰는 곳이 꽤 있었습니다. 전월세 전환율도 옛 기준금리로 계산하는 곳이 많고요. 숫자가 틀린 계산기는 없는 것보다 나쁘다고 생각해서, 세율과 요율마다 법령 근거와 기준일을 화면에 같이 표시하는 계산기를 만들었습니다. 부동산·대출:"
+  },
+  {
+    "id": "d769fcb19daf9b61",
+    "title": "오늘 밤과 내일(2026년 9월 6일) 날씨 예보: 북부 지역은 맑고, 중부 지역에는 국지적으로 뇌우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0EyQ1Yta25fRWZwT3VjU1NQMHBEVjR0bFpJdUlSVGZ3VXdrX2g1ZFhPdzNWRWJzUXZKdk91MUFjWk05QUh0T3k5TzNmTXFpUnFubDBoSmc2RUNFYW1zM01HNEdzMkFEMUNvVjJtZk9oMXU2TmN0c3FUYTRGeksxclZ4ZXE2bzVtTTRvOHVnTjRsMld6cWhJQlk4a0s2cDVFS1lER3ozbFIwaHFiekVvenpJdFlLZw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-05T09:45:24.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 6일) 날씨 예보: 북부 지역은 맑고, 중부 지역에는 국지적으로 뇌우가 예상됩니다. Vietnam.vn"
   },
   {
     "id": "861ec5bf564161d1",
@@ -3948,6 +4018,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-01T10:18:48.000Z",
     "snippet": "오늘 밤과 내일(2026년 9월 2일) 날씨 예보: 베트남 북부는 강한 햇볕과 폭염이 예상되며, 남부는 천둥번개가 칠 것으로 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "9483d8293a126eeb",
+    "title": "‘9.3’기간 연변주 날씨예보→--국내뉴스 - 인민넷",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54NDZGcTR6d0dQUlhQeTViR0w3MzFkYmdxTjBvMFpfMVJEdFRzZ0Rxa2pQRkMwNnU4WndaS2RGMEhCT21jRThTWGd2SmZyNUt6WFM0bmZvQkRzX1ZndVBjaFdhQnlTN2xyYXZqbllB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-01T08:11:00.000Z",
+    "snippet": "‘9.3’기간 연변주 날씨예보→--국내뉴스 인민넷"
   },
   {
     "id": "bdde2e716773bbf8",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T11:30:38.074Z",
+  "lastUpdated": "2026-09-05T14:18:38.077Z",
   "feeds": [
     {
       "id": "aitimes",
@@ -22,8 +22,8 @@
     {
       "id": "mk-economy",
       "name": "매일경제 경제",
-      "ok": false,
-      "error": "The operation was aborted due to timeout"
+      "ok": true,
+      "count": 50
     },
     {
       "id": "hankyung-economy",
@@ -74,5 +74,5 @@
       "count": 50
     }
   ],
-  "latestCount": 362
+  "latestCount": 372
 }

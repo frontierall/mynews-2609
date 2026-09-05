@@ -410,6 +410,16 @@
     "snippet": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI."
   },
   {
+    "id": "cdd96eab13f0ffdb",
+    "title": "중기부, 온라인 수출기업 물류비 지원 참여기업 모집 - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuRVBteEcyWFh0TzAxN3B6YVlpVDZSalVmOTBUdmxxMUp5ZjB6QUlaNDBZeGNqUDg1WVg5Z0tuaE9tbkVianBkUVRzVmRXRzRaWm5xdElWMENobWpNWjY1YXJETkJ1YTg?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-07-16T07:00:00.000Z",
+    "snippet": "중기부, 온라인 수출기업 물류비 지원 참여기업 모집 연합뉴스TV"
+  },
+  {
     "id": "6f16a999c8ddd889",
     "title": "How Cars24 scales conversations and builds faster with OpenAI",
     "link": "https://openai.com/index/cars24",
@@ -718,5 +728,25 @@
     "category": "AI",
     "publishedAt": "2026-07-07T00:00:00.000Z",
     "snippet": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+  },
+  {
+    "id": "f8b75bc16ce34b60",
+    "title": "[날씨체크] 이번 주 강수 변동성 커요···덥고 습한 날씨 계속 - 대구MBC",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IMVVZOHB3UEhRZGJCOG5WTE0zQkpSVkdpSjRMT0QwdFUyMXFsRlI3UDZEMk0wSVhUWnd3M0pJeFJqLXdmWVEwUW8zbmk?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-07-06T07:00:00.000Z",
+    "snippet": "[날씨체크] 이번 주 강수 변동성 커요···덥고 습한 날씨 계속 대구MBC"
+  },
+  {
+    "id": "ba47b9f4910cf3d4",
+    "title": "기상청 '허위 날씨정보' 감시 강화…과태료 부과 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jcHBWNm05bnNqTl9nTUVOU3Rqam9MMW1UeFk1RktNcldXajhPTVg4SzRQM3ozVktsczhRa1l5VlVYc2h6dDNpaVN3a2JsSk13V2hPemFIME0wcTjSAWBBVV95cUxPOFlHZS1YSkRUbVNkMHlwQnRDNTVzTDRZbk1hRnB5NFZCQ18xaENBRkxLSlNWb2VBRTAwallGOGh1cmlrNTV3OGFuTUstUXpHS2UyRDIwQTVxY0J5bU1WTTM?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-07-01T07:00:00.000Z",
+    "snippet": "기상청 '허위 날씨정보' 감시 강화…과태료 부과 연합뉴스"
   }
 ]

@@ -12,6 +12,12 @@ export const FEEDS = [
     category: "AI",
   },
   {
+    id: "mit-tech-review-ai",
+    name: "MIT Technology Review AI",
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+    category: "AI",
+  },
+  {
     id: "mk-economy",
     name: "매일경제 경제",
     url: "https://www.mk.co.kr/rss/30100041/",
@@ -39,6 +45,12 @@ export const FEEDS = [
     id: "tubefilter",
     name: "Tubefilter",
     url: "https://www.tubefilter.com/feed/",
+    category: "크리에이터 이코노미",
+  },
+  {
+    id: "youtube-blog",
+    name: "YouTube 공식 블로그",
+    url: "https://blog.youtube/rss/",
     category: "크리에이터 이코노미",
   },
   // 기상청 날씨누리 RSS는 2025-03-31부로 공식 중단(대체: 회원가입이 필요한

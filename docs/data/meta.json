@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T07:18:40.897Z",
+  "lastUpdated": "2026-09-05T11:30:38.074Z",
   "feeds": [
     {
       "id": "aitimes",
@@ -14,10 +14,16 @@
       "count": 1170
     },
     {
+      "id": "mit-tech-review-ai",
+      "name": "MIT Technology Review AI",
+      "ok": true,
+      "count": 10
+    },
+    {
       "id": "mk-economy",
       "name": "매일경제 경제",
-      "ok": true,
-      "count": 50
+      "ok": false,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "hankyung-economy",
@@ -44,6 +50,12 @@
       "count": 12
     },
     {
+      "id": "youtube-blog",
+      "name": "YouTube 공식 블로그",
+      "ok": true,
+      "count": 20
+    },
+    {
       "id": "weather-news",
       "name": "날씨 뉴스",
       "ok": true,
@@ -62,5 +74,5 @@
       "count": 50
     }
   ],
-  "latestCount": 339
+  "latestCount": 362
 }

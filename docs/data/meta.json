@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T13:18:55.373Z",
+  "lastUpdated": "2026-09-06T16:36:20.172Z",
   "feeds": [
     {
       "id": "aitimes",
@@ -11,7 +11,7 @@
       "id": "openai",
       "name": "OpenAI",
       "ok": true,
-      "count": 1170
+      "count": 1171
     },
     {
       "id": "mit-tech-review-ai",
@@ -58,14 +58,14 @@
     {
       "id": "weather-news",
       "name": "날씨 뉴스",
-      "ok": false,
-      "error": "HTTP 503"
+      "ok": true,
+      "count": 100
     },
     {
       "id": "gov-support",
       "name": "정부지원정책",
-      "ok": false,
-      "error": "HTTP 503"
+      "ok": true,
+      "count": 100
     },
     {
       "id": "geeknews",

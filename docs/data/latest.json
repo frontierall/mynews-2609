@@ -1,5 +1,85 @@
 [
   {
+    "id": "c75403e7d7d46ee4",
+    "title": "AI, 도구와 전환",
+    "link": "https://news.hada.io/topic?id=33293",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T21:46:00.000Z",
+    "snippet": "AI로 도구를 쉽게 만들거나 업무를 직접 처리할 수 있어도, 어떤 도구가 필요한지 발견하고 조직 전체가 쓰게 만드는 일은 별개임 기업 소프트웨어는 표준화한 전용 시스템과 Excel·이메일을 활용한 즉흥적 업무 처리 사이를 오가며 발전하고, AI는 이 구도를 없애..."
+  },
+  {
+    "id": "18194b9621525fbb",
+    "title": "로봇 팔을 제어하는 GPT-6 Astra",
+    "link": "https://news.hada.io/topic?id=33292",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T21:40:42.000Z",
+    "snippet": "같은 YAM 로봇 팔과 에이전트 정책으로 두 조작 과제를 비교한 결과, GPT-6 Astra는 블록을 그릇에 넣는 작업에서 20회 중 19회 성공해 Fable 5.1의 8회를 크게 앞섬 각 모델은 매 차례 카메라 3개 시점과 로봇 상태를 받아 말단 장치의 목표 자세..."
+  },
+  {
+    "id": "331ef5abdda8c00f",
+    "title": "Artificial Analysis, AAII v4.2 발표 - 실제 업무 평가 강화, 비공개 테스트 확대",
+    "link": "https://news.hada.io/topic?id=33291",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T21:35:57.000Z",
+    "snippet": "AI 모델의 종합 성능을 비교하는 Intelligence Index v4.2를 공개하며, 복잡한 업무 수행과 장문 문서 분석을 평가에 추가함 수천 개의 자료를 활용하는 에이전트 지식 업무와 여러 페이지에 흩어진 근거를 종합하는 전문 문서 추론을 평가하고, ..."
+  },
+  {
+    "id": "356006a636da3770",
+    "title": "UN, 지구 온난화 1.5°C 한계 초과 전망",
+    "link": "https://news.hada.io/topic?id=33290",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T21:34:25.000Z",
+    "snippet": "UN 환경계획은 석탄·석유·가스 사용에 따른 온난화로 향후 몇 년 안에 산업화 이전 대비 1.5°C 한계를 넘을 것으로 전망하며, 초과 폭을 억제한 뒤 기온을 다시 낮추는 대응을 권고함 1.5°C 목표는 유지하되, 화석연료 사용 중단과 대기 중 이산화탄소 제거로 한계..."
+  },
+  {
+    "id": "affe601b4453cb26",
+    "title": "50만원 백주가 5만원대로…먹거리 줄줄이 '미니'로 작아진 까닭 [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609066776i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T21:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "116b9df02083f80f",
+    "title": "당신의 지적 바지 지퍼가 열려 있습니다 (2025)",
+    "link": "https://news.hada.io/topic?id=33289",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T20:33:14.000Z",
+    "snippet": "LinkedIn에서 LLM에 게시물 작성을 맡기면 글쓴이 고유의 목소리가 사라지고, 독자가 내용의 진정성까지 의심하게 될 수 있음 이모지, 한 문장짜리 문단, 반복적인 대조 구문, 긴 대시는 LLM 생성 글에 익숙한 독자에게 쉽게 눈에 띄어, 그럴듯한 글을 기대한 것과..."
+  },
+  {
+    "id": "b8657b82e7cbf1b3",
+    "title": "NAS/백업에 어떤 파일시스템을 사용하고 있으며, 그 이유는 무엇인가요?",
+    "link": "https://news.hada.io/topic?id=33288",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T20:03:14.000Z",
+    "snippet": "NAS와 백업에 어떤 파일시스템을 쓰고 왜 선택했는지, 여러 디스크는 파일시스템 내장 RAID나 별도 도구로 어떻게 관리하는지 묻는 lobsters의 질문글 ZFS는 오랜 운영 경험과 데이터 무결성, 스냅샷, 암호화된 원격 증분 복제를 이유로 많이 선택됐으며, Linux에서..."
+  },
+  {
+    "id": "a5c20a6bfb040687",
+    "title": "초가을 접어든 시애틀, 일교차 큰 한 주… 이번 주 날씨 - 시애틀코리안데일리",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMnB3NGRRT1dROUtGVFFWTHY5OVNTdWZPazQwSGxRQmlaWVhYejg1N1AzZUVpOFhjV2s3QUVLSEhkYi1KOWE4bHBYY05MY2t3YXhicnJDZHlyakE1QWpiWFc0R01MTUwtQVcwbW5QSDTSAXNBVV95cUxOOWRQWnlZcm83UXF0OTc1OWIzeGx5RHVXUlhlQTZLQW9HdGFvTXZjem5rTlZmbnAtSWNhSF8tTjI2Mm5RWnNZS1Z3Ym1KWEtfWTFic2E1VlpKUHh2WG1YNHIyZmdUOURVMnppOTF6LWp5dk5J?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T19:57:09.000Z",
+    "snippet": "초가을 접어든 시애틀, 일교차 큰 한 주… 이번 주 날씨 시애틀코리안데일리"
+  },
+  {
     "id": "7d56a42796f3972f",
     "title": "A/I 운영 종료 — 인간다움을 지키자",
     "link": "https://news.hada.io/topic?id=33287",
@@ -100,6 +180,16 @@
     "snippet": "‘Onward and Upward’ 임무에서 위성을 궤도에 투입한 Isar Aerospace가 단 두 번의 비행 만에 유럽 상업 우주기업 최초로 이 성과를 달성함 발사체는 MaxQ 통과부터 주엔진 연소 종료, 단 분리, 2단 점화를 거쳐 궤도 속도에 도달했으며, 원궤도..."
   },
   {
+    "id": "471877deb113d5ba",
+    "title": "콘진원, 콘텐츠 우수인재 연계 인턴십 참여기업 모집 - 워크투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HT0NkWGNodHZsc3B2amlHbWZER1FTV1VBN1E1NGRUVjM3azRSY1lfdGRVMTdwQThZZ0lYN09FNUVwOFk4OXVIQWx2cGoxdTRYY25XQkZySjNUZmd5S1FWUGp2VThhNXZYbm9ESw?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-06T14:12:12.000Z",
+    "snippet": "콘진원, 콘텐츠 우수인재 연계 인턴십 참여기업 모집 워크투데이"
+  },
+  {
     "id": "00282f3167597300",
     "title": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 - 아시아뉴스통신",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FSjFxMjZkYlNUbHRzTEhaaUpQMHNLMUtKczdBRVBaZl9SbG83V2VNMHYzV2VPWkR0S0ZCWElGRlBrMGZNekEwc21TSU9ZUmdGSmpJc1F5TzJ6QWoz?oc=5",
@@ -108,6 +198,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-06T14:09:14.000Z",
     "snippet": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 아시아뉴스통신"
+  },
+  {
+    "id": "391a25ab3da4855e",
+    "title": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 - anewsa.com",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ISzRVWXZQQlF4czQ1NXhUMVFPRDYzMi1lVjlxZS04a1ZXaV9EREp0TFpJQ0c2eDVtTTlSdVFpT3EydnpZRjJwWXd4VmF3QXZrLW1VMlgxSDVmSHJwYWV2N2dvN1lqQUszd3JoVmVFUkFSdFNy?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-06T14:09:14.000Z",
+    "snippet": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 anewsa.com"
   },
   {
     "id": "0336cb9fe7f83e56",
@@ -4830,6 +4930,16 @@
     "snippet": "화순군, 가을철 영농부산물 안전처리 지원사업 신청자 모집 한국미디어뉴스"
   },
   {
+    "id": "cbb246bda29d477f",
+    "title": "2026년 스마트상점 기술보급사업 참여 소상공인 모집공고(2차) - 벤처스퀘어",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBITjJuSkx6VXVTQmwxZUROSVdMd1NKTlNHbGozTHVmOGdOTDhkU1RmMk9SWWtpaEtnT1hOMUwtYmJkWUNIU05LWVlqZDFYTHEwQkU0RDAtMVVYdllFcy1v?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-04T02:51:17.000Z",
+    "snippet": "2026년 스마트상점 기술보급사업 참여 소상공인 모집공고(2차) 벤처스퀘어"
+  },
+  {
     "id": "de18c63e0e7f2d95",
     "title": "하나은행, 소상공인 사업장 500곳 디지털기기 지원…신청자 모집 - 뉴시스",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKNUM1alJQVkxMV0g4ZjBLeEg2V2ZySHppbFlndXhLM2VyV3hiYWgzRlFhRXhjMzd5eU1LSDZwSlVQNU45R0ZoQ0hWT0s4Q1FEcFpjc2tPcERmZDRPUzU1N9IBeEFVX3lxTFBqbWxZSmd0ZFF0ekNwVHdMQWduLUlpX3R4VnZwR0JDbkd3aTd4bWw4Ti1qX21kZGExSDJhQlFBSkRTU0tyTFRManRpUTRSb2l0NTl5Ykt3RkV6LVJ3S2V5MGtSdXN5cmI2dUhLaW1xbVdlcDI1Z2tEUA?oc=5",
@@ -4888,115 +4998,5 @@
     "category": "개발",
     "publishedAt": "2026-09-04T01:47:40.000Z",
     "snippet": "AI 애플리케이션 경쟁이 UI·워크플로·시장 진입을 넘어, 제품의 학습 방식과 성능을 좌우하는 지능 계층의 소유권 경쟁으로 확대되고 있음 Kimi K3·GLM 5.2 같은 오픈 웨이트 모델과 독립적인 사후 학습 기술이 발전하면서, 평가·하네스·온라인 학습을 결합해 특정..."
-  },
-  {
-    "id": "e890cab39ef6af2e",
-    "title": "“상폐 직행 대신 코넥스로”…정부, 부실기업 퇴출 속도조절",
-    "link": "https://www.mk.co.kr/news/economy/12144248",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-04T01:38:08.000Z",
-    "snippet": "상폐 시총 기준 강화도 내년 7월로 연기정부가 시가총액 기준 미달로 상장폐지 위기에 놓인 기업에 퇴로를 열어주기로 했다. 일정 수준의 재무건전성을 갖춘 기업까지 곧바로 시장에서 내.."
-  },
-  {
-    "id": "dee5893777c6305c",
-    "title": "“전기차 금융에 3500억 실탄”…현대캐피탈, 녹색채권 발행",
-    "link": "https://www.mk.co.kr/news/economy/12144242",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-04T01:35:05.000Z",
-    "snippet": "3년물·5년물로 나눠 발행 친환경차 금융 지원에 활용현대캐피탈이 전기차와 수소차 등 친환경차 금융 지원을 확대하기 위해 3500억원 규모의 녹색채권을 발행했다. 현대캐피탈은 K-택.."
-  },
-  {
-    "id": "70d4f2382bf05079",
-    "title": "“스마트 매장 구축에 최대 200만원 지원”… 하나은행, 소상공인 디지털 전환 3차 모집 - 스마트경제",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43dndHeGZBdnd0Mldya0hqVXVjZ3JudlJmQ3hqcmF5YTZyeExDeG9XUVl2dWdqNGN2WFdfVFVSQVZscm1DeG41VElpWERuZm1ueWw4WVhRdFVnQjRFZ2RVQ1NIMDZCQkRNMEFVWmstSQ?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-04T01:33:43.000Z",
-    "snippet": "“스마트 매장 구축에 최대 200만원 지원”… 하나은행, 소상공인 디지털 전환 3차 모집 스마트경제"
-  },
-  {
-    "id": "d306c40e5d0463a0",
-    "title": "“100만원도 없는데 신용점수 높다고 대출 거절”…불법사금융예방대출 문턱 낮아진다",
-    "link": "https://www.mk.co.kr/news/economy/12144237",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-04T01:32:44.000Z",
-    "snippet": "저소득층 신용평점 요건 없앤다소득은 적은데 신용점수가 높아 당장 급한 100만원도 빌리지 못했던 사람들도 앞으로는 불법사금융예방대출을 신청할 수 있게 된다. 서민금융진흥원은 4일 .."
-  },
-  {
-    "id": "ecede8d30e4b9186",
-    "title": "하나은행, '소상공인 경쟁력 강화 지원 사업' 3차 모집 - fetv.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hSEFyMF9SZlZrbWRkODMwOWNrajdCNnFyR1ZsSVdtMF80VGYyRXZIM05qM2tKbkoxb2VWbjFxVmtuX2lrMTdDb1hTaE94UlRGamkxbTV3UXRDczg0YUh6SGpCYUxUdFk0?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-04T01:22:02.000Z",
-    "snippet": "하나은행, '소상공인 경쟁력 강화 지원 사업' 3차 모집 fetv.co.kr"
-  },
-  {
-    "id": "de35b753194a0093",
-    "title": "“추석 전 세금 고민 덜고, 전통시장 살리고”…‘마을세무사’ 전국서 활동나서",
-    "link": "https://www.mk.co.kr/news/economy/12144226",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-04T01:21:49.000Z",
-    "snippet": "4일부터 전통시장서 무료 세무상담·장보기 행사 ‘세금 고민 현장에서 해결’ 마을세무사 출범 10주년 15일엔 서울 돈암시장서 지역사회 나눔 실천 나서한국세무사회가 행정안전부와 함께.."
-  },
-  {
-    "id": "17b41d6c7f0be0fc",
-    "title": "VC는 더 이상 VC가 아니다",
-    "link": "https://news.hada.io/topic?id=33210",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-04T01:21:02.000Z",
-    "snippet": "소수의 초대형 투자사가 전통적인 스타트업 투자를 넘어 막대한 자산과 정치적 영향력을 축적한 현상을 Cancer Capital로 규정하고, 이들을 금융회사가 아닌 정치·사회 권력으로 봐야 한다고 주장 규제 완화로 VC와 사모펀드를 결합한 종합 투자사가 등장했으며, 5..."
-  },
-  {
-    "id": "af012bb726ba55f5",
-    "title": "하나은행, 29일까지 소상공인 경쟁력 강화 지원 사업 3차 모집 - news.nate.com",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Lb2R1RWcwcV81NDExS19KZC1Md0FvTklmV2ltUGtVdWw2OFZLQmozdWF6bUN4azBPb0hKbUwzUWQ1cDU4RjlfZnpEMExnZE9CMGg4?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-04T01:21:00.000Z",
-    "snippet": "하나은행, 29일까지 소상공인 경쟁력 강화 지원 사업 3차 모집 news.nate.com"
-  },
-  {
-    "id": "89f1783979498eb3",
-    "title": "하나은행, 소상공인 디지털 전환 지원 사업 3차 모집 실시 - 이슈투데이",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xSXQzajRQODVSNWw1YXZteEZ0RC1EN0pLUmJmekYxTmo5UlNzdy1UX0tVT2NvMV9Yd2EtVmlNWGxsYmc0NmlEeF91NFlPVE5yVDBJallFNV9IaTY3MkZHUFBBbGJIdw?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-04T01:15:45.000Z",
-    "snippet": "하나은행, 소상공인 디지털 전환 지원 사업 3차 모집 실시 이슈투데이"
-  },
-  {
-    "id": "f37132b8e535e5d6",
-    "title": "Google Antigravity의 서드파티 사용 금지와 계정 정지 약관 논란",
-    "link": "https://news.hada.io/topic?id=33209",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-04T01:14:31.000Z",
-    "snippet": "Antigravity 약관은 OpenClaw 같은 서드파티 도구에서 Antigravity OAuth를 사용하는 행위를 위반으로 규정하고, Antigravity와 Gemini CLI 이용을 정지할 수 있다고 명시함 최초 약관에는 제재 대상이 단순히 your account로 적혀 있어 Google 계정 전체가 정..."
-  },
-  {
-    "id": "793ef0e6830121d7",
-    "title": "9월 4일 일기예보: 태풍 5호는 소멸하고, 베트남 북부와 중부 지역은 무더위가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3o3X2JJZ184UXJFWTJWanhjbUtqdWZZVFhsTHhMN3Qtb0ZNYU5TdFVoOFZobTVRblNFUGVBVG00ckpSc09YMExWd0xtVEVnWGtKSWxLaTRMeENoc3RMekRsQTZ2b3NXQVA2Um9jdFEyUHU5Y0pBTDR0QWdTdWVKdWdqVG9vcm9RRE5SejAxLXdvWEw0eGNYM3pkbkhoN0FPQlpyaA?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-04T00:55:13.000Z",
-    "snippet": "9월 4일 일기예보: 태풍 5호는 소멸하고, 베트남 북부와 중부 지역은 무더위가 예상됩니다. Vietnam.vn"
   }
 ]

@@ -1,5 +1,85 @@
 [
   {
+    "id": "c75403e7d7d46ee4",
+    "title": "AI, 도구와 전환",
+    "link": "https://news.hada.io/topic?id=33293",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T21:46:00.000Z",
+    "snippet": "AI로 도구를 쉽게 만들거나 업무를 직접 처리할 수 있어도, 어떤 도구가 필요한지 발견하고 조직 전체가 쓰게 만드는 일은 별개임 기업 소프트웨어는 표준화한 전용 시스템과 Excel·이메일을 활용한 즉흥적 업무 처리 사이를 오가며 발전하고, AI는 이 구도를 없애..."
+  },
+  {
+    "id": "18194b9621525fbb",
+    "title": "로봇 팔을 제어하는 GPT-6 Astra",
+    "link": "https://news.hada.io/topic?id=33292",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T21:40:42.000Z",
+    "snippet": "같은 YAM 로봇 팔과 에이전트 정책으로 두 조작 과제를 비교한 결과, GPT-6 Astra는 블록을 그릇에 넣는 작업에서 20회 중 19회 성공해 Fable 5.1의 8회를 크게 앞섬 각 모델은 매 차례 카메라 3개 시점과 로봇 상태를 받아 말단 장치의 목표 자세..."
+  },
+  {
+    "id": "331ef5abdda8c00f",
+    "title": "Artificial Analysis, AAII v4.2 발표 - 실제 업무 평가 강화, 비공개 테스트 확대",
+    "link": "https://news.hada.io/topic?id=33291",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T21:35:57.000Z",
+    "snippet": "AI 모델의 종합 성능을 비교하는 Intelligence Index v4.2를 공개하며, 복잡한 업무 수행과 장문 문서 분석을 평가에 추가함 수천 개의 자료를 활용하는 에이전트 지식 업무와 여러 페이지에 흩어진 근거를 종합하는 전문 문서 추론을 평가하고, ..."
+  },
+  {
+    "id": "356006a636da3770",
+    "title": "UN, 지구 온난화 1.5°C 한계 초과 전망",
+    "link": "https://news.hada.io/topic?id=33290",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T21:34:25.000Z",
+    "snippet": "UN 환경계획은 석탄·석유·가스 사용에 따른 온난화로 향후 몇 년 안에 산업화 이전 대비 1.5°C 한계를 넘을 것으로 전망하며, 초과 폭을 억제한 뒤 기온을 다시 낮추는 대응을 권고함 1.5°C 목표는 유지하되, 화석연료 사용 중단과 대기 중 이산화탄소 제거로 한계..."
+  },
+  {
+    "id": "affe601b4453cb26",
+    "title": "50만원 백주가 5만원대로…먹거리 줄줄이 '미니'로 작아진 까닭 [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609066776i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T21:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "116b9df02083f80f",
+    "title": "당신의 지적 바지 지퍼가 열려 있습니다 (2025)",
+    "link": "https://news.hada.io/topic?id=33289",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T20:33:14.000Z",
+    "snippet": "LinkedIn에서 LLM에 게시물 작성을 맡기면 글쓴이 고유의 목소리가 사라지고, 독자가 내용의 진정성까지 의심하게 될 수 있음 이모지, 한 문장짜리 문단, 반복적인 대조 구문, 긴 대시는 LLM 생성 글에 익숙한 독자에게 쉽게 눈에 띄어, 그럴듯한 글을 기대한 것과..."
+  },
+  {
+    "id": "b8657b82e7cbf1b3",
+    "title": "NAS/백업에 어떤 파일시스템을 사용하고 있으며, 그 이유는 무엇인가요?",
+    "link": "https://news.hada.io/topic?id=33288",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T20:03:14.000Z",
+    "snippet": "NAS와 백업에 어떤 파일시스템을 쓰고 왜 선택했는지, 여러 디스크는 파일시스템 내장 RAID나 별도 도구로 어떻게 관리하는지 묻는 lobsters의 질문글 ZFS는 오랜 운영 경험과 데이터 무결성, 스냅샷, 암호화된 원격 증분 복제를 이유로 많이 선택됐으며, Linux에서..."
+  },
+  {
+    "id": "a5c20a6bfb040687",
+    "title": "초가을 접어든 시애틀, 일교차 큰 한 주… 이번 주 날씨 - 시애틀코리안데일리",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMnB3NGRRT1dROUtGVFFWTHY5OVNTdWZPazQwSGxRQmlaWVhYejg1N1AzZUVpOFhjV2s3QUVLSEhkYi1KOWE4bHBYY05MY2t3YXhicnJDZHlyakE1QWpiWFc0R01MTUwtQVcwbW5QSDTSAXNBVV95cUxOOWRQWnlZcm83UXF0OTc1OWIzeGx5RHVXUlhlQTZLQW9HdGFvTXZjem5rTlZmbnAtSWNhSF8tTjI2Mm5RWnNZS1Z3Ym1KWEtfWTFic2E1VlpKUHh2WG1YNHIyZmdUOURVMnppOTF6LWp5dk5J?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T19:57:09.000Z",
+    "snippet": "초가을 접어든 시애틀, 일교차 큰 한 주… 이번 주 날씨 시애틀코리안데일리"
+  },
+  {
     "id": "7d56a42796f3972f",
     "title": "A/I 운영 종료 — 인간다움을 지키자",
     "link": "https://news.hada.io/topic?id=33287",
@@ -100,6 +180,16 @@
     "snippet": "‘Onward and Upward’ 임무에서 위성을 궤도에 투입한 Isar Aerospace가 단 두 번의 비행 만에 유럽 상업 우주기업 최초로 이 성과를 달성함 발사체는 MaxQ 통과부터 주엔진 연소 종료, 단 분리, 2단 점화를 거쳐 궤도 속도에 도달했으며, 원궤도..."
   },
   {
+    "id": "471877deb113d5ba",
+    "title": "콘진원, 콘텐츠 우수인재 연계 인턴십 참여기업 모집 - 워크투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HT0NkWGNodHZsc3B2amlHbWZER1FTV1VBN1E1NGRUVjM3azRSY1lfdGRVMTdwQThZZ0lYN09FNUVwOFk4OXVIQWx2cGoxdTRYY25XQkZySjNUZmd5S1FWUGp2VThhNXZYbm9ESw?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-06T14:12:12.000Z",
+    "snippet": "콘진원, 콘텐츠 우수인재 연계 인턴십 참여기업 모집 워크투데이"
+  },
+  {
     "id": "00282f3167597300",
     "title": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 - 아시아뉴스통신",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FSjFxMjZkYlNUbHRzTEhaaUpQMHNLMUtKczdBRVBaZl9SbG83V2VNMHYzV2VPWkR0S0ZCWElGRlBrMGZNekEwc21TSU9ZUmdGSmpJc1F5TzJ6QWoz?oc=5",
@@ -108,6 +198,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-06T14:09:14.000Z",
     "snippet": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 아시아뉴스통신"
+  },
+  {
+    "id": "391a25ab3da4855e",
+    "title": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 - anewsa.com",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ISzRVWXZQQlF4czQ1NXhUMVFPRDYzMi1lVjlxZS04a1ZXaV9EREp0TFpJQ0c2eDVtTTlSdVFpT3EydnpZRjJwWXd4VmF3QXZrLW1VMlgxSDVmSHJwYWV2N2dvN1lqQUszd3JoVmVFUkFSdFNy?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-06T14:09:14.000Z",
+    "snippet": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 anewsa.com"
   },
   {
     "id": "0336cb9fe7f83e56",
@@ -4828,6 +4928,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-04T03:10:49.000Z",
     "snippet": "화순군, 가을철 영농부산물 안전처리 지원사업 신청자 모집 한국미디어뉴스"
+  },
+  {
+    "id": "cbb246bda29d477f",
+    "title": "2026년 스마트상점 기술보급사업 참여 소상공인 모집공고(2차) - 벤처스퀘어",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBITjJuSkx6VXVTQmwxZUROSVdMd1NKTlNHbGozTHVmOGdOTDhkU1RmMk9SWWtpaEtnT1hOMUwtYmJkWUNIU05LWVlqZDFYTHEwQkU0RDAtMVVYdllFcy1v?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-04T02:51:17.000Z",
+    "snippet": "2026년 스마트상점 기술보급사업 참여 소상공인 모집공고(2차) 벤처스퀘어"
   },
   {
     "id": "de18c63e0e7f2d95",

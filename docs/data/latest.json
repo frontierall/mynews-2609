@@ -1,5 +1,35 @@
 [
   {
+    "id": "7d56a42796f3972f",
+    "title": "A/I 운영 종료 — 인간다움을 지키자",
+    "link": "https://news.hada.io/topic?id=33287",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T19:32:16.000Z",
+    "snippet": "Autistici/Inventati(A/I) 가 25년간 이어 온 활동을 종료하고 모든 서비스를 곧 중단하며, 이용자와 공동체 보호를 그 이유로 밝힘 글로벌 테러 조직 지정 이후 가능한 한 저항하려 했으나, 서비스를 유지하면 이용자와 공동체 구성원이 위험해진다고 판단함 ..."
+  },
+  {
+    "id": "9ad61536e03c23c6",
+    "title": "인지 바이러스로서의 LLM",
+    "link": "https://news.hada.io/topic?id=33286",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T18:37:06.000Z",
+    "snippet": "LLM 확산을 전염병 동역학과 문화적 전파로 모델링한 이론 연구로, 개인의 점진적 도입도 사회적 강화와 결합하면 집단 수준의 지속적 의존으로 급격히 전환될 수 있음을 보임 사용자를 비결합·자율성을 유지하는 결합·지속적 의존의 세 상태로 나누며, 도입 압력과 독립적 ..."
+  },
+  {
+    "id": "a7dafecb38ef1c10",
+    "title": "QBittorrent, 범죄를 저지르려고 샌드박스를 탈출하다",
+    "link": "https://news.hada.io/topic?id=33285",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T17:32:11.000Z",
+    "snippet": "소프트웨어가 제멋대로 사고를 일으켰다는 설정의 농담으로, QBittorrent의 콘텐츠 다운로드를 샌드박스 탈출 사고처럼 꾸밈 다운로드 대상은 대기업 소유 콘텐츠로, 하룻밤 사이에 대량으로 내려받았다는 설정임 뒤이어 Jellyfin도 격리를 벗어나..."
+  },
+  {
     "id": "6d833e5710f73f4f",
     "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214904",
@@ -108,6 +138,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-06T13:24:37.000Z",
     "snippet": "9월 7일 하노이 날씨 예보: 맑고 바람이 약하게 불겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "13f62588dda37675",
+    "title": "내일 9월 7일 전국 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdy1qSmcyX1habUdhcmpwWVFYb3lKbFVhWWlIbnFTekQyM09CUnZKMW93ZXRmbkRhR2ZaMnk2MS0xQzZlbS1xVXlVaDc2SlRmMUNuWGJwT0w4NEJFc3JDTE94ODY0Q1NtUGdGOVc2M19rd1NzSS1DVzhycTZ1Y19HSEsyR01kYkpHY2lvQ0ZLUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T13:00:00.000Z",
+    "snippet": "내일 9월 7일 전국 날씨 예보 Laodong.vn"
   },
   {
     "id": "c23955baaf176304",
@@ -498,6 +538,16 @@
     "category": "개발",
     "publishedAt": "2026-09-06T09:01:52.000Z",
     "snippet": "소스 코드 검토를 우회하는 trusting-trust 공격이 컴파일러가 아닌 GNU strip에서도 가능하며, NixOS 부트스트랩부터 최종 환경까지 감염이 이어지는 것을 실증함 공격은 소스를 검사·생성·수정하지 않고 완성된 ELF 파일만 변환하며, 깨끗한 소..."
+  },
+  {
+    "id": "a8e8f9dc895a026b",
+    "title": "An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-06T09:00:00.000Z",
+    "snippet": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
   },
   {
     "id": "77968e3a560b5465",
@@ -4948,55 +4998,5 @@
     "category": "날씨",
     "publishedAt": "2026-09-04T00:55:13.000Z",
     "snippet": "9월 4일 일기예보: 태풍 5호는 소멸하고, 베트남 북부와 중부 지역은 무더위가 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "1929cf83bdfcb7ad",
-    "title": "하나은행, '소상공인 경쟁력 강화 지원 사업' 3차 모집…디지털 기기 지원 - 포인트경제",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPSTdvNkFjQ20xRVhuODcxSmtnVU9aWnExR1VacVQzT1ptcVF3cnNFOEQ0czZZdnBWVG5zMWp3N1kwUDBsRkF2cXpfYkZkby1ZVlVvd0J5SFdYa3JPcWpGdE5hbWxFcmZDWFE?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-04T00:54:20.000Z",
-    "snippet": "하나은행, '소상공인 경쟁력 강화 지원 사업' 3차 모집…디지털 기기 지원 포인트경제"
-  },
-  {
-    "id": "d60b1434aaa76302",
-    "title": "지방 이전 얘기 나오자 비명 터진 신의 직장…오늘 총파업 나선다",
-    "link": "https://www.mk.co.kr/news/economy/12144197",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-04T00:52:14.000Z",
-    "snippet": "산은·기은·수출입銀 노조 전면에 2차 공공기관 지방 이전 방침 반발 주4.5일제·임금 6% 인상도 요구 “핵심 요구 관철 때까지 투쟁 방침”한국산업은행과 IBK기업은행, 한국수출입.."
-  },
-  {
-    "id": "0b07110ca381ca09",
-    "title": "“초봉 7000만원 주면 뭐 하나”…채용 인원 급감에 속 타는 ‘금취생’",
-    "link": "https://www.mk.co.kr/news/economy/12144185",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-04T00:40:29.000Z",
-    "snippet": "4대 은행 채용문, 2년 새 600명 ‘뚝’ AX 전환·점포 축소 등으로 가속化#금융권 취업을 준비하는 김모 씨는 최근 은행권 채용 공고를 볼 때마다 한 숨이 나온다. 자격증을 5.."
-  },
-  {
-    "id": "682154ed51227631",
-    "title": "K2 Horizon, 학습 전 과정을 공개하는 6개 AI 모델 제품군",
-    "link": "https://news.hada.io/topic?id=33208",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-04T00:35:28.000Z",
-    "snippet": "IFM이 0.9B부터 375B-A23B까지 6개 모델을 공개해 웨어러블과 스마트폰, 로컬 워크스테이션, 기업 서버까지 하나의 제품군으로 연결함 최종 가중치만 제공하는 데 그치지 않고 학습 데이터 또는 구축법, 코드, 설정, 중간 체크포인트, 로그와 평가 결과를 ..."
-  },
-  {
-    "id": "282fd7446aeb2232",
-    "title": "Nvidia, Hugging Face를 약 19조원에 인수하기로 공식 합의",
-    "link": "https://news.hada.io/topic?id=33207",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-04T00:31:31.000Z",
-    "snippet": "GPU 중심의 Nvidia가 약 129억 달러($12.9b)에 Hugging Face를 인수하기로 공식 합의하며 AI 플랫폼으로 사업 영역을 확장함 인수 후에도 Hugging Face를 전체 AI 생태계를 위한 개방형 플랫폼으로 유지하고, Nvidia 컴퓨팅을 사용하지 않아도 모델과 서비스를 자유..."
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "id": "7d56a42796f3972f",
+    "title": "A/I 운영 종료 — 인간다움을 지키자",
+    "link": "https://news.hada.io/topic?id=33287",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T19:32:16.000Z",
+    "snippet": "Autistici/Inventati(A/I) 가 25년간 이어 온 활동을 종료하고 모든 서비스를 곧 중단하며, 이용자와 공동체 보호를 그 이유로 밝힘 글로벌 테러 조직 지정 이후 가능한 한 저항하려 했으나, 서비스를 유지하면 이용자와 공동체 구성원이 위험해진다고 판단함 ..."
+  },
+  {
+    "id": "9ad61536e03c23c6",
+    "title": "인지 바이러스로서의 LLM",
+    "link": "https://news.hada.io/topic?id=33286",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T18:37:06.000Z",
+    "snippet": "LLM 확산을 전염병 동역학과 문화적 전파로 모델링한 이론 연구로, 개인의 점진적 도입도 사회적 강화와 결합하면 집단 수준의 지속적 의존으로 급격히 전환될 수 있음을 보임 사용자를 비결합·자율성을 유지하는 결합·지속적 의존의 세 상태로 나누며, 도입 압력과 독립적 ..."
+  },
+  {
+    "id": "a7dafecb38ef1c10",
+    "title": "QBittorrent, 범죄를 저지르려고 샌드박스를 탈출하다",
+    "link": "https://news.hada.io/topic?id=33285",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T17:32:11.000Z",
+    "snippet": "소프트웨어가 제멋대로 사고를 일으켰다는 설정의 농담으로, QBittorrent의 콘텐츠 다운로드를 샌드박스 탈출 사고처럼 꾸밈 다운로드 대상은 대기업 소유 콘텐츠로, 하룻밤 사이에 대량으로 내려받았다는 설정임 뒤이어 Jellyfin도 격리를 벗어나..."
+  },
+  {
     "id": "6d833e5710f73f4f",
     "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214904",
@@ -108,6 +138,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-06T13:24:37.000Z",
     "snippet": "9월 7일 하노이 날씨 예보: 맑고 바람이 약하게 불겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "13f62588dda37675",
+    "title": "내일 9월 7일 전국 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdy1qSmcyX1habUdhcmpwWVFYb3lKbFVhWWlIbnFTekQyM09CUnZKMW93ZXRmbkRhR2ZaMnk2MS0xQzZlbS1xVXlVaDc2SlRmMUNuWGJwT0w4NEJFc3JDTE94ODY0Q1NtUGdGOVc2M19rd1NzSS1DVzhycTZ1Y19HSEsyR01kYkpHY2lvQ0ZLUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T13:00:00.000Z",
+    "snippet": "내일 9월 7일 전국 날씨 예보 Laodong.vn"
   },
   {
     "id": "c23955baaf176304",
@@ -498,6 +538,16 @@
     "category": "개발",
     "publishedAt": "2026-09-06T09:01:52.000Z",
     "snippet": "소스 코드 검토를 우회하는 trusting-trust 공격이 컴파일러가 아닌 GNU strip에서도 가능하며, NixOS 부트스트랩부터 최종 환경까지 감염이 이어지는 것을 실증함 공격은 소스를 검사·생성·수정하지 않고 완성된 ELF 파일만 변환하며, 깨끗한 소..."
+  },
+  {
+    "id": "a8e8f9dc895a026b",
+    "title": "An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-06T09:00:00.000Z",
+    "snippet": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
   },
   {
     "id": "77968e3a560b5465",

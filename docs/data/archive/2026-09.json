@@ -1,5 +1,175 @@
 [
   {
+    "id": "c10037818b5cdb39",
+    "title": "9월 7일 하노이 날씨 예보: 낮에는 맑겠고, 늦은 오후와 저녁에는 천둥번개가 칠 가능성이 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb25NREZFZlRvQWE3WVBCWGcyTnFwRVNHTWtWcU8zZVo1R1l4SFM3eHNZOE9RMUVzY09qMGlGQWJ0VWpONmlkaHItNFRtbUcyT0czZklTYVhLb2NFMXY5LTNKUkFTVDZKT0RHY0prZ0ZuQWV5Zk9ad19kYmFsOVZnUS1feUNsN0FzWUJGVUVB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T23:20:32.000Z",
+    "snippet": "9월 7일 하노이 날씨 예보: 낮에는 맑겠고, 늦은 오후와 저녁에는 천둥번개가 칠 가능성이 있습니다. Vietnam.vn"
+  },
+  {
+    "id": "ab804c098a73cc6f",
+    "title": "LVMH 시총 반토막…명품 소비층 6000만명 이탈",
+    "link": "https://www.hankyung.com/article/202609077346i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T23:18:28.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3def290e587af2ee",
+    "title": "홈플러스 정상화 시험대…'식료품 전문' 체질개선, 점포 19곳 매각",
+    "link": "https://www.hankyung.com/article/202609077331g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T23:17:28.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8078dc1b5d4ff96e",
+    "title": "[밤 사이 해외 뉴스 영상] 금리 인상 공포 속 LVMH '반토막'…소비 심리 급랭",
+    "link": "https://www.hankyung.com/article/202609077347i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T23:16:21.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ff86093d83e0ea03",
+    "title": "Show GN: 빵어전 – 재료를 조합해 빵 타워를 만드는 모바일 타워디펜스",
+    "link": "https://news.hada.io/topic?id=33296",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T23:16:03.000Z",
+    "snippet": "안녕하세요. 빵어전을 만들고 있는 개발자입니다. 반죽에 소금·버터·팥 같은 재료를 더해 빵 타워를 만들고, 밀려오는 안개 괴물에게서 작은 화덕을 지키는 세로형 픽셀 타워디펜스입니다. 같은 재료도 조합 순서에 따라 다른 빵이 되고, 적의 특성과 길을 보고 배치해야 합니다. 64종 빵 타워의 조합을 발견하"
+  },
+  {
+    "id": "f6290772341065ae",
+    "title": "[단독] \"전력기기 호황 10년은 더 간다…구조적 성장 국면 진입\"",
+    "link": "https://www.hankyung.com/article/2026090668811",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T23:10:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f7f02211952d3a31",
+    "title": "[단독] LG전자 美자회사 베어로보틱스, 나스닥 상장 도전",
+    "link": "https://www.hankyung.com/article/2026090668751",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T23:10:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c99674faa322231b",
+    "title": "2년 전 황당했던 'AI 5000억달러 투자'…빅테크는 이미 도달 [AI노스트라다무스⑤]",
+    "link": "https://www.hankyung.com/article/202609044446i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T23:00:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b68ff2427faf5087",
+    "title": "\"일본은 옛말\" 글로벌 브랜드들, 이젠 한국이 진입 1순위 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202609067126i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T23:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c382dc0a96f4fa54",
+    "title": "국책사업 속도전에 예타면제 벌써 13.5조…‘행정부 마음대로’ 우려",
+    "link": "https://www.mk.co.kr/news/economy/12145672",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T22:57:31.000Z",
+    "snippet": "주요 9개 사업만 13조4400억 호남 반도체 등 대형사업 면제 러시 지역균형발전에 10조8000억 투입 3대 메가프로젝트 인프라도 면제 지난해 전체 예타면제 19조원대 재량 큰 .."
+  },
+  {
+    "id": "462c3f09de2763ce",
+    "title": "[밤 사이 해외 뉴스] 美 '깜짝 고용'에 금리 인상론 재점화…흔들리는 글로벌 시장",
+    "link": "https://www.hankyung.com/article/202609077320i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T22:57:26.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "202e8442ff424538",
+    "title": "OPEC+, 10월 생산량 동결…2027년 쿼터 재편이 변수",
+    "link": "https://www.hankyung.com/article/202609077316i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T22:53:58.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1cafafe4ba62086e",
+    "title": "둠스크롤링으로 스스로를 죽음으로 몰아가는 우리",
+    "link": "https://news.hada.io/topic?id=33295",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T22:42:13.000Z",
+    "snippet": "학생의 독해력과 성인·아동의 여가 독서가 함께 줄어드는 가운데, James Marriott의 《The New Dark Ages》 는 문해력 쇠퇴가 문화와 정치, 민주주의에 미치는 영향을 추적함 변화는 스마트폰 이전의 텔레비전 확산에서 시작됨 — TV가 독서와 사회적 교류를 잠식한..."
+  },
+  {
+    "id": "7ebcec22972b1652",
+    "title": "Nitter와 XCancel, 법률 자문 후 서비스 재개",
+    "link": "https://news.hada.io/topic?id=33294",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T22:39:13.000Z",
+    "snippet": "X Corp.가 Nitter 인스턴스와 프로젝트 저장소의 영구 폐쇄를 요구한 가운데, Nitter는 법률 자문을 거쳐 프로젝트를 계속 진행하기로 함 Nitter는 개인정보 보호와 성능에 초점을 둔 무료 오픈소스 Twitter 대체 프런트엔드로, 모든 요청을 백엔드로 전달해 클라이..."
+  },
+  {
+    "id": "f331f42227abfc91",
+    "title": "“국민 대출은 조이더니”…LH 직원은 최대 1.4억 사내 주택대출",
+    "link": "https://www.mk.co.kr/news/economy/12145656",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T22:34:14.000Z",
+    "snippet": "한국토지주택공사(LH)가 직원들에게 정부 기준보다 높은 한도의 주택 임차자금을 빌려주는 등 사내 주택대출을 운영하면서 공공기관 주택자금 대출 관련 정부 지침을 제대로 지키지 않은 .."
+  },
+  {
+    "id": "e86035c028f69561",
+    "title": "[단독] 대형마트가 마라톤까지…롯데마트, 업계 첫 3000명 '통큰런'",
+    "link": "https://www.hankyung.com/article/202609066759i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T22:00:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1ebb962dce5e0e0a",
+    "title": "러시아 男心 사로잡더니…샴푸로 부활 날갯짓하는 애경산업 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202609067059i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T22:00:04.000Z",
+    "snippet": ""
+  },
+  {
     "id": "c75403e7d7d46ee4",
     "title": "AI, 도구와 전환",
     "link": "https://news.hada.io/topic?id=33293",
@@ -8,6 +178,16 @@
     "category": "개발",
     "publishedAt": "2026-09-06T21:46:00.000Z",
     "snippet": "AI로 도구를 쉽게 만들거나 업무를 직접 처리할 수 있어도, 어떤 도구가 필요한지 발견하고 조직 전체가 쓰게 만드는 일은 별개임 기업 소프트웨어는 표준화한 전용 시스템과 Excel·이메일을 활용한 즉흥적 업무 처리 사이를 오가며 발전하고, AI는 이 구도를 없애..."
+  },
+  {
+    "id": "b7cc66617e4a04d8",
+    "title": "[광주·전남 날씨예보] 대체로 맑음 낮 최고 31도…해상 높은 물결 주의 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yd0JWR3A4LThsSi1xME9mdEZKY0pLTzk4R2dzay1uR2JVQUhsdkVLYW9yRnYxQnhCWUMtNnBOVk5sZGRLTTBXSk90US0tUXFMT003bjJWVW90TVVWcndHRzBlMzFHTnNqX3lSa2tydlDSAXRBVV95cUxOX1RxcDdzSXo3S2dpR29EdnAxd2xUV19oTzhXcnNEemFRZW5HcEF3N1VwWVZfX2tIb3pqOE5oN2NtUnNoTnR6Qk9DTmVObWJQbGJMMVg2SEFHUlpxSDh4NEpISVlPNjhtWkV3d2pVbDdMZW1ORw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T21:45:29.000Z",
+    "snippet": "[광주·전남 날씨예보] 대체로 맑음 낮 최고 31도…해상 높은 물결 주의 thefairnews.co.kr"
   },
   {
     "id": "18194b9621525fbb",
@@ -38,6 +218,16 @@
     "category": "개발",
     "publishedAt": "2026-09-06T21:34:25.000Z",
     "snippet": "UN 환경계획은 석탄·석유·가스 사용에 따른 온난화로 향후 몇 년 안에 산업화 이전 대비 1.5°C 한계를 넘을 것으로 전망하며, 초과 폭을 억제한 뒤 기온을 다시 낮추는 대응을 권고함 1.5°C 목표는 유지하되, 화석연료 사용 중단과 대기 중 이산화탄소 제거로 한계..."
+  },
+  {
+    "id": "9a21d640bab859fe",
+    "title": "\"나중에 큰 돈 든다\" 공포 확산…사람들 눈 돌린 '이 보험' [불신 청구서]",
+    "link": "https://www.hankyung.com/article/202609032558H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T21:28:01.000Z",
+    "snippet": ""
   },
   {
     "id": "affe601b4453cb26",
@@ -88,6 +278,56 @@
     "category": "개발",
     "publishedAt": "2026-09-06T19:32:16.000Z",
     "snippet": "Autistici/Inventati(A/I) 가 25년간 이어 온 활동을 종료하고 모든 서비스를 곧 중단하며, 이용자와 공동체 보호를 그 이유로 밝힘 글로벌 테러 조직 지정 이후 가능한 한 저항하려 했으나, 서비스를 유지하면 이용자와 공동체 구성원이 위험해진다고 판단함 ..."
+  },
+  {
+    "id": "21178176d2d3a1f1",
+    "title": "[충남권 날씨예보] 맑음 일교차 최대 14도…아침 최저 15도 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jWDdrc09MTmRWc3g3YzJyd0hiMFh3MWltNnp6NmMxVXZGWXpoNGhpQTZ3QmdaU0ZPcFVsR3RpWGhmUTZKZTdTZ2xWSXlHemxaRWx0RFlGeEVmd2dDRXdjR3QzVXF2STZwTTFKam5rSmXSAXRBVV95cUxQNXRQWnBXb05fdEh4ZE5OaHdZMUJhU1BKX3ZCZnVtbXRtVDFoTzZKYmVKakgzaHJEbjZXYlZzdGJ0Tnd4RGNIS0d1QWlLazN6SGcxWjZsX2Z0eVJWQjczejZGdDlScWhhNHM5Y0NIRHdMTU8yUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T19:30:00.000Z",
+    "snippet": "[충남권 날씨예보] 맑음 일교차 최대 14도…아침 최저 15도 thefairnews.co.kr"
+  },
+  {
+    "id": "898979ae361d8a95",
+    "title": "[대구·경북 날씨예보] 경북동해안·북동산지 오전까지 비…강풍·풍랑·너울 주의 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54WDBoWlBZRm5iSHZ2X2NTRFNiRG5RY1BvT083ZkYzNWsxdVBVb1hoaGJHZFdrd05SOEN0bkRZVjUxdjJBV3JSRTR5ODRZT2ZhdUQ1ejM5RGM5X1hlbzFFMTR0RjA3VXR5NTRHVXlTTVLSAXRBVV95cUxOZzIzWjU1SThLQXBoR1c5Ulo0M21NUjAtMHd6SnFqajZsTmhqaFRJUEx0dDB4R19YZkhPcUgxMUJtMXEwMnFqWHJQaFFZNmJrSS1NNEF0TGlITE83RnRwU2J2VUFtSDh0eV9YRHRYVEJRNmN2eg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T19:25:00.000Z",
+    "snippet": "[대구·경북 날씨예보] 경북동해안·북동산지 오전까지 비…강풍·풍랑·너울 주의 thefairnews.co.kr"
+  },
+  {
+    "id": "acb802b9b971f4c5",
+    "title": "[부산·울산·경남 날씨예보] 구름 많고 강풍…해상 최대 5m 높은 물결 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lbnBka2Z2VFhoSGRwT0trV09QazgxTkNmTm1ybExKTFZWcXo0Z002Vkx5amdiTHZVZS1TQk93ZDc2bFZwNnI3VG02OUQxZHN5OGxfWVFkWF9sdW54MlpvNXBYNjlpVkgyc25jblZfTmHSAXRBVV95cUxNM0xONGdsWnIyQmhNQnNuMlJFMkRHSzJOaWFuNHVOQVVtdmxFTkxjRy1TSjMyeXpvTnAtQkw4bUg4Um4tVC1wZjhwN193OEtzcmFqbkVNQjFkMjhHb2pRekdkS1V6ODhPVU1jWldWZW9ZNlg3cQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T19:20:00.000Z",
+    "snippet": "[부산·울산·경남 날씨예보] 구름 많고 강풍…해상 최대 5m 높은 물결 thefairnews.co.kr"
+  },
+  {
+    "id": "853e614c2379092f",
+    "title": "[강원도 날씨예보] 동해안·산지 오전까지 비…해안 강한 너울 주의 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUaUVHcl9zSG16N3pNWmh2REV0TndmODVZcE5ZNEsyRV9yMUYxN3hCOXRPOFFiam5xMzVoTm1JZmhzMUtIeHRiRzBfMnN2ZmkxbDFqMVBFaWNJZlRrTmc3ZU93QlZqWFk0U011eXZwLVDSAXRBVV95cUxQcDhDSmN3dGFudEtOUHJKUVFsWXJVcTM0eTh6RGFpdUU1RXJsUnZBeUN4Y082YmZBQWIxZGdFYi1UMDFmSTBORmNYb2FlOWpKTW80dGgtSW03MjdiVi1yMzdQT2w5bS02cWJtUmZVNFFZVkVYWQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T19:15:00.000Z",
+    "snippet": "[강원도 날씨예보] 동해안·산지 오전까지 비…해안 강한 너울 주의 thefairnews.co.kr"
+  },
+  {
+    "id": "fd6a94f974a28dee",
+    "title": "[제주도 날씨예보] 중산간·산지 중심 10~40㎜ 비…해상 물결 최대 5m - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vRXJrcWNhSzFWNm5IajNJZEFyYlUwa3Vhd2JJUVRUaXE4ZHQtcEF2cjR2WGFBaWZwc3hFamp5dDlUbXk5b3I4ZHJrcWJSS3NFdkFLTDZmcGd1aWZNRkNZSEN3Qi01RHl6SXUyVmJDX0fSAXRBVV95cUxQV0ZDT3BIRHdZX21nNUJ5N0pUM1ZObVR6WDJKcGpqa1NFc00ycUVjcmJKdGJicnNMSk50dDFXOEVYd2cxcXBHWW1CSlFxOU5Fd0hlakl5blNBblJkd3dfa2JQN1RnY1czU0p4eExDeUF1TjNsaQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T19:10:00.000Z",
+    "snippet": "[제주도 날씨예보] 중산간·산지 중심 10~40㎜ 비…해상 물결 최대 5m thefairnews.co.kr"
   },
   {
     "id": "9ad61536e03c23c6",
@@ -1838,6 +2078,16 @@
     "category": "경제",
     "publishedAt": "2026-09-06T01:31:07.000Z",
     "snippet": "원달러 환율 23개월 만에 최저 수출기업들 달러매도 늦추고 수입기업 적극적으로 분할 매입원·달러 환율이 1345원까지 떨어져 23개월 만에 최저 수준을 기록하면서 기업을 중심으로 .."
+  },
+  {
+    "id": "3e03f0f39b883a19",
+    "title": "[수도권 날씨예보] 아침엔 선선...강한 햇살 늦더위 낮 최고 30도 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nVFRWOV92eFJVeXlvRHRFTHM1OUJmRGx3LTctSE1vdk9DZUQzSlA3Nl90RFNGMENkNENJY0hkS2ZDWU5JZEFOZzVTVDlya0E4OGpyMEg1bzdSaGxLbnU1WU0yOHd4eVNXcDhKRmw1emrSAXRBVV95cUxQbEVPYlp1WUc2M0JwOW1HTUhLMU54T20zVUhIQmVXVktyR0ZWNG1YQW9fYUk1RUNCWnppTnRBd2kwTXhTaEg4SlJRRmZEX3ZCVVo2MWFYdFpPd3h5UzNTTEQtVjMtZ2NsZ3ViXzdYNlBFYXBSUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T01:25:09.000Z",
+    "snippet": "[수도권 날씨예보] 아침엔 선선...강한 햇살 늦더위 낮 최고 30도 thefairnews.co.kr"
   },
   {
     "id": "d42f6490b5cf706b",

@@ -20,6 +20,26 @@
     "snippet": "구글이 고품질 음악 생성 모델 ‘리리아 3.5(Lyria 3.5)’를 AI 챗봇 ‘제미나이’에 탑재하며 AI 음악 생성 기능의 대중화에 나섰다.구글은 4일(현지시간) 리리아 3.5를 제미나이 앱에서 제공하기 시작했다.지난 7월 말 음악 창작자를 위한 ‘구글 플로우 뮤직(Flow Music)’에 처음 적용한 데 이어 제미나이 앱과 API, 구글 AI 스튜디오(AI Studio), 구글 비즈(Vids) 등으로 지원 범위를 확대하면"
   },
   {
+    "id": "c23955baaf176304",
+    "title": "\"20억원 집 팔고 미국 주식 올인\"…연봉 2.5억 부부의 결심",
+    "link": "https://www.hankyung.com/article/2026090670997",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T12:27:10.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b9acc54e1975e967",
+    "title": "노량진서 암꽃게 1kg 사고 1만원 냈는데…'이게 맞아' 깜짝 [프라이스&]",
+    "link": "https://www.hankyung.com/article/202609066796i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T12:00:01.000Z",
+    "snippet": ""
+  },
+  {
     "id": "1988b7b97084f226",
     "title": "머스크, 미네소타 ‘AI 딥페이크 누드 금지법’ 저지 실패",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214908",
@@ -48,6 +68,16 @@
     "category": "AI",
     "publishedAt": "2026-09-06T11:37:36.000Z",
     "snippet": "오픈AI가 자사 AI 에이전트들이 폐쇄된 테스트 환경을 벗어나 독일의 한 위키 사이트를 장악하고 에이전트 간 소통 공간으로 활용한 ‘위키 사건’을 공식 인정했다. 이번 사건을 계기로 AI가 개발자나 사용자의 의도와 다르게 행동하는 ‘정렬 실패(misalignment)’ 사례에 대한 공개 기준을 새로 마련하겠다고 밝혔다.오픈AI는 5일(현지시간) 소셜미디어 X를 통해 “언제, 어떻게 정렬 실패 사건을 공유할지에 대한 기준을 정립"
+  },
+  {
+    "id": "8ac517fe5e05e18b",
+    "title": "‘60달러 게이밍 PC’ — AMD BC-250 (2025)",
+    "link": "https://news.hada.io/topic?id=33281",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T11:33:14.000Z",
+    "snippet": "AMD BC-250은 콘솔 규격을 충족하지 못한 PS5 APU를 재활용한 채굴용 보드로, 개조하면 Cyberpunk 2077 등을 즐기는 저가 PC로 활용할 수 있음 ‘60달러’는 운이 좋으면 eBay에서 구할 수 있는 보드 단품 가격이며, 2025년 11월 기준 일반적인 가격은 70~..."
   },
   {
     "id": "69fa0508dca87b89",
@@ -100,6 +130,16 @@
     "snippet": "글로벌 메모리 가격의 급등세로 애플이 차기 플래그십 아이폰의 가격을 역대 최고 수준으로 올릴 것이라는 전망이 나왔다.시장조사 전문 트렌드포스는 3일(현지시간) 발표한 보고서를 통해 메모리 가격 급등 여파로 신형 아이폰 라인업의 출하 가격이 전작 대비 10%에서 최대 20%까지 상승할 것이라고 밝혔다.이에 따르면 256GB 용량의 아이폰 18 프로 모델에 탑재되는 메모리 비용은 불과 1년 사이에 400% 가깝게 급등했다. 이에 "
   },
   {
+    "id": "1980f23615d3ba4a",
+    "title": "zopt - Zig를 위한 간결한 명령줄 인자 파서",
+    "link": "https://news.hada.io/topic?id=33280",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T10:02:22.000Z",
+    "snippet": "사전 스키마 정의 없이 애플리케이션이 조회할 때마다 argv를 탐색하는 Zig 명령줄 인자 파서임 std.process.Args의 얇은 래퍼로, 도움말 작성·오류와 값 부재 처리·기본값 설정은 애플리케이션 코드에 맡김 짧은·긴 플래그와 ..."
+  },
+  {
     "id": "a0f3b13c4dca4279",
     "title": "순천서 조각보·전통자수 만난다…김영복 작가 초대전",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214862",
@@ -130,6 +170,16 @@
     "snippet": "일레븐랩스가 아시아-태평양(APAC) 지역과 한국 시장 집중 공략에 나선다. 음성 AI 에이전트가 매출 성장을 견인하며 이미 의미 있는 성과가 나오고 있다고 밝혔다.일레븐랩스는 3일 노보텔 앰배서더 서울 강남에서 ‘이그제큐티브 조찬 세션’을 개최하고 아태 지역 및 한국 시장 진출 현황을 발표했다.초저지연 AI 음성 에이전트인 ‘일레븐에이전트’는 신규 사업 중 가장 빠르게 성장 중이다. 2026년 1~4월 간 연간 반복 매출(A"
   },
   {
+    "id": "ff12bfb2ba935bf9",
+    "title": "독자의 반란",
+    "link": "https://news.hada.io/topic?id=33279",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T09:34:59.000Z",
+    "snippet": "LLM이 대신 쓴 공개 글은 독자가 기대하는 진정성과 신뢰를 훼손해, 글로 독자를 모으려는 목적 자체를 무너뜨릴 수 있음 글쓰기는 생각을 전달하면서 검증하고 정제하는 과정이며, 글쓴이가 직접 만들지 않은 문장을 독자만 애써 이해해야 한다면 작가와 독자 사이..."
+  },
+  {
     "id": "4d4acd3fc0dc58bb",
     "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214899",
@@ -138,6 +188,106 @@
     "category": "AI",
     "publishedAt": "2026-09-06T09:32:50.000Z",
     "snippet": "오픈AI가 대표적인 AI 성능 평가 플랫폼 '아레나'의 코딩 분야에서 앤트로픽을 제치고 처음으로 1위에 올랐다. 그동안 코딩 및 웹 개발 영역에서 압도적인 강세를 보이며 정상을 지켜오던 앤트로픽의 '클로드' 시리즈를 꺾었다.6일 아레나에 따르면, 오픈AI의 'GPT-6 아스트라(Max)'는 '코드 아레나: 웹개발' 부문에서 1797점을 기록하며 전체 1위를 차지했다. 이는 기존 1위였던 앤트로픽의 '클로드 페이블 5.1(Max"
+  },
+  {
+    "id": "e33624fa45379643",
+    "title": "힘 세진 소액주주…기업분할 철회도 속출",
+    "link": "https://www.hankyung.com/article/2026090669501",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:31:21.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "227f802b24317fcb",
+    "title": "'경험부족' 5년 미만 감독관 급증…작년 사건 78% 아직 '수사중'",
+    "link": "https://www.hankyung.com/article/2026090669781",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:31:10.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c9ed7eccbe02105a",
+    "title": "192시간→12시간 신규 실습교육 축소",
+    "link": "https://www.hankyung.com/article/2026090669771",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:30:35.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e122f0022ebca24a",
+    "title": "\"中企 기술 베끼면 기업 생존 흔들\"…100억 과징금에 연구개발비 물어내야",
+    "link": "https://www.hankyung.com/article/2026090669791",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:30:23.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "07fafc35457032bc",
+    "title": "완성차·부품 이어 강판까지…현대차그룹, 美서 제조 밸류체인 완성",
+    "link": "https://www.hankyung.com/article/2026090669561",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:29:52.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0c56fe4af4fc7efb",
+    "title": "\"美서 생산한 철강, 로봇·우주기업에도 공급\"",
+    "link": "https://www.hankyung.com/article/2026090669551",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:29:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3bcceba7e449ed55",
+    "title": "'철강 라이벌' 현대제철·포스코 원팀됐다",
+    "link": "https://www.hankyung.com/article/2026090669541",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:28:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c5efc745bd3e1244",
+    "title": "AI 열풍에…세계 4번째 '수출 1조달러 클럽' 보인다",
+    "link": "https://www.hankyung.com/article/2026090669271",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:26:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "90f1c53d5406befc",
+    "title": "집값 이대로 오르면 강북·금천·도봉 뺀 서울 전역에 종부세",
+    "link": "https://www.hankyung.com/article/2026090669261",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:26:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8168c1ad2f403600",
+    "title": "다시 뜨는 SPA…유니클로·자라 올해 카드 결제액 '최대'",
+    "link": "https://www.hankyung.com/article/2026090669671",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:25:50.000Z",
+    "snippet": ""
   },
   {
     "id": "b9e3f539d7f8cb83",
@@ -150,6 +300,26 @@
     "snippet": "영국에서 올해 들어 7월까지 약 17만2000건의 태양광 설비가 새로 설치됐다. 특히 7월 신규 설치의 70% 이상을 옥상형 태양광이 차지하면서 가정과 사업장을 중심으로 보급이 이어지고 있다.영국 에너지안보·넷제로부(DESNZ)는 지난달 27일(현지시간) 공개한 태양광 보급 통계에서 올해 1~7월 영국 전역에 약 17만2000건의 태양광 설비가 설치됐다고 밝혔다. 주택과 사업장뿐 아니라 대규모 태양광 프로젝트도 통계에 포함된다"
   },
   {
+    "id": "7ee1701a7cc82a5d",
+    "title": "토종 브랜드 협공에 밀리는 H&M·쉬인",
+    "link": "https://www.hankyung.com/article/2026090669681",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:23:50.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b6cc550d5f69d80b",
+    "title": "獨 상업용 로켓, 유럽서 첫 궤도 진입 성공",
+    "link": "https://www.hankyung.com/article/2026090669861",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:21:15.000Z",
+    "snippet": ""
+  },
+  {
     "id": "cbdd0ea98a9fcdfa",
     "title": "목포, 무인수상정 자율운항 거점 추진…해상실증·R&D 연계",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214860",
@@ -158,6 +328,36 @@
     "category": "AI",
     "publishedAt": "2026-09-06T09:20:00.000Z",
     "snippet": "AI 생성 영상목포시가 무인수상정 자율운항 기술의 해상시험과 실증, 연구개발을 지역에서 연계하는 산업 거점 구축에 나선다. 관련 기업의 제작·부품·정비 참여와 전문인력 양성까지 묶어 지역 조선·해양산업과의 연계를 넓힌다는 구상이다.목포는 지난 3일 전남광주통합특별시, 한화시스템, 유일조선해양과 ‘무인수상정 자율운항산업 거점 구축 및 국방 무인체계 고도화 산업 육성을 위한 업무협약’을 체결했다고 4일 밝혔다.협약의 핵심은 무인수"
+  },
+  {
+    "id": "1bacc09c3e0fe1ef",
+    "title": "\"3년간 보험료 반값\"…5세대 실손 '환승' 고민하시나요",
+    "link": "https://www.hankyung.com/article/2026090668791",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:19:27.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "175df014d5a17347",
+    "title": "5세대 실손 갈아타면 도수치료 맘껏 못한다?",
+    "link": "https://www.hankyung.com/article/2026090668781",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:16:42.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b3c5a52c5ee2099a",
+    "title": "8월 고용, 청년 취업 감소세 이어질까",
+    "link": "https://www.hankyung.com/article/2026090668861",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T09:15:31.000Z",
+    "snippet": ""
   },
   {
     "id": "c753a58c0e73e53d",
@@ -180,6 +380,376 @@
     "snippet": "앤트로픽이 신규 모델 공개와 미국 노동절 연휴를 맞아 최고 등급 유료 플랜인 '클로드 맥스(Claude Max)' 이용자 전원의 주간 사용량 제한을 기습적으로 일괄 초기화했다. 오픈AI 'GPT-6 아스트라'의 초반 돌풍에 대응해 이용자 이탈을 막고 코딩 시장 주도권을 확보하기 위한 공격적인 전략이다.앤트로픽의 기술 연구원 리디아 할리는 5일(현지시간) X를 통해 \"클로드 맥스 플랜을 이용하는 모든 유저의 주간 사용량 제한을 "
   },
   {
+    "id": "9b23467d52186dca",
+    "title": "strip 유틸리티를 통한 Linux 배포판 전체의 Trusting-Trust 공격",
+    "link": "https://news.hada.io/topic?id=33278",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T09:01:52.000Z",
+    "snippet": "소스 코드 검토를 우회하는 trusting-trust 공격이 컴파일러가 아닌 GNU strip에서도 가능하며, NixOS 부트스트랩부터 최종 환경까지 감염이 이어지는 것을 실증함 공격은 소스를 검사·생성·수정하지 않고 완성된 ELF 파일만 변환하며, 깨끗한 소..."
+  },
+  {
+    "id": "77968e3a560b5465",
+    "title": "하나금융, 소진공·소공연과 '착한계란' 12만판 푼다",
+    "link": "https://www.hankyung.com/article/2026090669131",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:50:19.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "bfac1f4439d2be25",
+    "title": "한화, 서울불꽃축제 비용 130억 전액 부담",
+    "link": "https://www.hankyung.com/article/2026090669151",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:50:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7522c3c2c2ecd561",
+    "title": "\"수사 '초짜' 공무원이 한다고\"…12월 앞두고 사장님 '부글부글'",
+    "link": "https://www.hankyung.com/article/2026090669241",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:45:23.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "556a074505b318d8",
+    "title": "[포토] 하나금융, 소진공과 함께 동네슈퍼에 '착한계란' 공급",
+    "link": "https://www.mk.co.kr/news/economy/12145542",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:45:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fea357ae6b923160",
+    "title": "[포토] 장보기 겁나네…차례상 물가 비상",
+    "link": "https://www.mk.co.kr/news/economy/12145541",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:45:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "622e40d302c6513f",
+    "title": "[표] 외국환율고시표",
+    "link": "https://www.mk.co.kr/news/economy/12145543",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:45:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "32b40cd776ed8e22",
+    "title": "대미투자 협상 마무리 수순 … 산업부, 7일 與에 결과보고",
+    "link": "https://www.mk.co.kr/news/economy/12145538",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:45:08.000Z",
+    "snippet": "산업통상부가 7일 비공개 당정협의회를 열고 대미투자 협상 결과를 더불어민주당에 보고한다. 대미투자특별법에 따라 정부가 협상 타결 전 거쳐야 하는 국회 보고 절차에 나서면서 협상이 .."
+  },
+  {
+    "id": "61e2e5e6edf25f0f",
+    "title": "우리銀, 최고 年 7.5% 금리…아시안게임 응원 적금 출시",
+    "link": "https://www.mk.co.kr/news/economy/12145539",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:45:08.000Z",
+    "snippet": "우리은행이 오는 19일 개막하는 아이치·나고야 아시안게임에 출전하는 대한민국 국가대표를 응원하기 위한 적금 상품을 출시했다. 6일 우리은행은 대한체육회와 대한민국 국가대표팀의 공식.."
+  },
+  {
+    "id": "8674a53378bf5c69",
+    "title": "고용·산재기금 수익률 하락 … 건전성 '빨간불'",
+    "link": "https://www.mk.co.kr/news/economy/12145540",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:45:08.000Z",
+    "snippet": "고용보험·산재보험·장애인고용·임금채권보장 등 고용노동부가 운용하는 4대 기금이 위험 자산으로 쏠림과 주력 자산의 변동성이 커짐으로 인해 재정건전성이 위협을 받는다는 우려가 제기된다.."
+  },
+  {
+    "id": "75d409b6bf1082a3",
+    "title": "사망신고 다음날 금융거래 즉시 차단",
+    "link": "https://www.mk.co.kr/news/economy/12145537",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:45:07.000Z",
+    "snippet": "사망 신고가 접수되면 다음 날부터 사망자 명의의 대출 실행, 예금 인출, 신용카드 결제, 보험금 수령, 주식 거래 등 금융 거래가 즉시 차단된다. 사망자 명의를 도용한 부정 금융 .."
+  },
+  {
+    "id": "a0a42eaadda55404",
+    "title": "국책사업 속도전에 … 예타면제 벌써 13.5조",
+    "link": "https://www.mk.co.kr/news/economy/12145535",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:45:03.000Z",
+    "snippet": "정부가 호남권 반도체 클러스터 등 대형 국책 사업에 속도를 내면서 올해 예비타당성조사 면제 규모가 빠르게 불어나고 있다. 특히 정부 재량에 따라 활용할 수 있는 예타 면제 신청 규.."
+  },
+  {
+    "id": "409e60735def2d5c",
+    "title": "한화·신세계도 쪼갠다…대기업 사업재편 우회로로 뜨는 인적분할",
+    "link": "https://www.hankyung.com/article/2026090669511",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:43:58.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3df4cec7be101542",
+    "title": "중동사태 장기화로 유가 뛰면 … \"한국, 내년 물가 0.4%P 더 오른다\"",
+    "link": "https://www.mk.co.kr/news/economy/12145533",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:43:32.000Z",
+    "snippet": "중동발 에너지 공급망 불안이 장기화할 경우 내년 한국의 경제성장률은 0.3%포인트 낮아지고 소비자물가 상승률은 0.4%포인트 높아질 것으로 분석된다. 공급망 차질로 인한 국제유가 .."
+  },
+  {
+    "id": "8adc30097479a988",
+    "title": "지배구조 새판짜기 키워드는 '인적분할'",
+    "link": "https://www.hankyung.com/article/2026090669231",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:42:55.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a679dff09065cd50",
+    "title": "[표] 이번주 머니 캘린더",
+    "link": "https://www.mk.co.kr/news/economy/12145528",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:42:26.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "cd5392b79722b83e",
+    "title": "[데이터로 읽는 머니무브] 대출금리 상승세에도 … '당장 싼' 변동금리 상품에 몰린다",
+    "link": "https://www.mk.co.kr/news/economy/12145527",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:42:25.000Z",
+    "snippet": "주택담보대출을 앞둔 사람들 고민이 깊어지고 있다. 대출 금리 상승세가 나타나고 있지만 당장 적용되는 이자는 변동형이 고정형보다 낮기 때문이다. 지난 7월 신규 취급 기준 변동형과 .."
+  },
+  {
+    "id": "97abc7ca5ea3c8d3",
+    "title": "美서 쇳물 뽑는 현대제철…\"아틀라스에 적용\"",
+    "link": "https://www.hankyung.com/article/2026090669221",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:42:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "54f31f044d834b6b",
+    "title": "화학섬유社, 옷감 대신 'AI센터 전력망' 짠다",
+    "link": "https://www.hankyung.com/article/2026090668671",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:40:26.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "05522e39168d0cbe",
+    "title": "LG전자 \"로봇 관절 액추에이터, 빅테크 공급 추진중\"",
+    "link": "https://www.hankyung.com/article/2026090668691",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:40:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5ad7aad32b25119e",
+    "title": "다이슨, 전동칫솔·공기청정기 등 'AI가전' 10종 쏟아내",
+    "link": "https://www.hankyung.com/article/2026090668711",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:39:46.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "cd6c37c73b2c7266",
+    "title": "이사 수 줄이고 임기 조정…집중투표제 앞두고 '분주'",
+    "link": "https://www.hankyung.com/article/2026090668681",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:39:28.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4369ded80284fe65",
+    "title": "SK \"제조 AI 대전환, 울산서 논의\"",
+    "link": "https://www.hankyung.com/article/2026090668701",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:39:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5e6e85a77a540d9c",
+    "title": "\"로봇용 전고체 배터리 소재 내년 양산\"",
+    "link": "https://www.hankyung.com/article/2026090668721",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:39:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c60aa42c6bb7a17e",
+    "title": "수출, 이미 작년 실적 돌파…첫 1조 달러 '눈앞'",
+    "link": "https://www.hankyung.com/article/2026090669251",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:38:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "654827ddf997df1e",
+    "title": "韓수출 '세계 4강' 보인다 … 반도체 호황에 벌써 신기록",
+    "link": "https://www.mk.co.kr/news/economy/12145512",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:38:02.000Z",
+    "snippet": "우리나라 수출액이 올해 9월 초 기준으로 지난해 전체 수출액을 넘어섰다. 역대 최대 실적을 갈아치운 것이다. 이 추세대로라면 중국, 미국, 독일에 이어 세계에서 네 번째로 연간 '.."
+  },
+  {
+    "id": "28693f4a6bfa1e7b",
+    "title": "EU 新포장 규제 한달…中企 수출현장 혼란",
+    "link": "https://www.hankyung.com/article/2026090668481",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:35:42.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "2db678f53c502670",
+    "title": "윤지용 대표 \"리포좀 건기식 제품 난립…품질 검증 엄격하게 해야\"",
+    "link": "https://www.hankyung.com/article/2026090668501",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:35:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "26c3afc25475f972",
+    "title": "플라스틱 포장, 종이로 대체되나…新포장규제에 제지업계는 '반색'",
+    "link": "https://www.hankyung.com/article/2026090668511",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:34:26.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1b6e244a016034fe",
+    "title": "Chrome, 사용자 사이트 데이터 설정에서 Google을 또다시 예외 처리",
+    "link": "https://news.hada.io/topic?id=33276",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T08:32:03.000Z",
+    "snippet": "모든 창을 닫으면 사이트 데이터를 삭제하도록 설정해도, Google 검색 후 google.com 데이터가 남는 현상이 Chrome에서 재현됨 Chrome 152.0.7977.83을 쓰는 서로 다른 Mac 두 대에서 확인됐으며, 기본 검색 엔진을 DuckDuckGo로 바꾸고 Chrome 로그인..."
+  },
+  {
+    "id": "096f6a77f5b13c58",
+    "title": "[머니 이기자] 세입자 전세금 내고, 주인은 월세 받고 … 전월세 안심신탁 출격",
+    "link": "https://www.mk.co.kr/news/economy/12145489",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:29:26.000Z",
+    "snippet": "최근 몇 년 새 '전세의 월세화'가 빠른 속도로 이뤄지고 있다. 전세사기가 워낙 큰 사회문제였던 데다 정부가 전세 관련 대출과 보증을 축소하는 기조와 맞물렸기 때문이다. 문제는 이.."
+  },
+  {
+    "id": "09a3b803940282e8",
+    "title": "1년 새 45% 폭등했는데…\"더 오를 수도\" 산업계 '초긴장'",
+    "link": "https://www.hankyung.com/article/2026090668551",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:28:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e792d05156275af4",
+    "title": "AI 토큰가격 '사상 최저'…5월 최고점 대비 반토막",
+    "link": "https://www.hankyung.com/article/2026090668581",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:27:41.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "03b74f0c2c151d88",
+    "title": "제철 맞은 무화과, 가격도 한풀 꺾여",
+    "link": "https://www.hankyung.com/article/2026090668591",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:27:19.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "dcd319d0e6472039",
+    "title": "차례상 비용 30만2500원…동태포·달걀·닭고기 값 올라",
+    "link": "https://www.hankyung.com/article/2026090668571",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:26:38.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3c3fb72b0e328bd4",
+    "title": "재생에너지 직접 구매…전력거래시장 확대",
+    "link": "https://www.hankyung.com/article/2026090668391",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:23:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c96aba68d458c6b3",
+    "title": "폐기물이 스마트폰 소재·키링으로 '재탄생'…자원순환 앞장서는 기업들",
+    "link": "https://www.hankyung.com/article/2026090668411",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:22:46.000Z",
+    "snippet": ""
+  },
+  {
     "id": "297440bdc9c3bb65",
     "title": "1300원대 유지중인 원달러 환율",
     "link": "https://www.mk.co.kr/news/economy/12145457",
@@ -188,6 +758,26 @@
     "category": "경제",
     "publishedAt": "2026-09-06T08:10:29.000Z",
     "snippet": "6일 서울 중구 명동의 한 환전소에 환율이 표시돼 있다. 지난 4일 오후 3시 30분 기준 원/달러 환율은 1,350.4원으로 집계됐다. 이는 지난 6월 말 주간거래 종가(1,54.."
+  },
+  {
+    "id": "8eccf134663de8ff",
+    "title": "H.Point, 쇼핑·문화·금융 연결하는 생활 밀착 플랫폼",
+    "link": "https://www.hankyung.com/article/2026090663801",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:06:46.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "633238340d781925",
+    "title": "변하지 않는 핵심가치…소비자 마음 움직였다",
+    "link": "https://www.hankyung.com/article/2026090663651",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:06:09.000Z",
+    "snippet": ""
   },
   {
     "id": "2fee97e3eb40921d",
@@ -200,6 +790,76 @@
     "snippet": "6일 서울 중구 명동의 한 환전소에 환율이 표시돼 있다. 지난 4일 오후 3시 30분 기준 원/달러 환율은 1,350.4원으로 집계됐다. 이는 지난 6월 말 주간거래 종가(1,54.."
   },
   {
+    "id": "6cfb22cedd2b8d3c",
+    "title": "아이비클럽, 입기 편한 교복…인체공학 설계·고신축성 원단",
+    "link": "https://www.hankyung.com/article/2026090663681",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:03:32.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7a45f62f1b8cc14a",
+    "title": "투썸플레이스, 피스 케이크 '떠먹는 아박' MZ세대 취향 저격",
+    "link": "https://www.hankyung.com/article/2026090663701",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:03:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c2609697e797d2b7",
+    "title": "도드람한돈, 돼지 도축부터 판매까지 깐깐한 품질관리",
+    "link": "https://www.hankyung.com/article/2026090663731",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:02:30.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d9fa5ac34d16654f",
+    "title": "동대문엽기떡볶이, 가맹점 상생·고객소통…국가대표 떡볶이 자리매김",
+    "link": "https://www.hankyung.com/article/2026090663751",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:01:55.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "916589e75fabc60b",
+    "title": "교촌치킨, 두 가지 맛을 넉넉하게 즐기는 '반반윙박스'",
+    "link": "https://www.hankyung.com/article/2026090663691",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:01:24.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a14a53723319fd3d",
+    "title": "하이포닉, 반려동물 피부에 좋은 펫샴푸…64개국 수출",
+    "link": "https://www.hankyung.com/article/2026090663721",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:00:51.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9a7a9a94387f517d",
+    "title": "아렉스, 한 장으로 냉·온찜질…근육·관절통 필수품",
+    "link": "https://www.hankyung.com/article/2026090663741",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:00:19.000Z",
+    "snippet": ""
+  },
+  {
     "id": "85a99aa44df931be",
     "title": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214896",
@@ -208,6 +868,26 @@
     "category": "AI",
     "publishedAt": "2026-09-06T08:00:01.000Z",
     "snippet": "오픈AI의 ‘GPT-6 아스트라’가 AI 모델 중 최초로 수능 전 문항 만점을 달성했다.6일 공개된 ‘2026 수능 LLM 풀이 대시보드’에서 GPT-6 아스트라는 2026 수능 총점 450점 만점에 450점으로 전체 1위에 올랐다.이 대시보드는 AI 수능 벤치마크로 유명한 구유겸 순천향대학교 컴퓨터소프트웨어공학과 학생이 직접 개발한 ‘테스트-채점-통계’ 자동 처리 시스템을 토대로 한 결과다. 한 문항씩 제공해 풀도록 하는 ‘"
+  },
+  {
+    "id": "c193367158f9de1c",
+    "title": "삿뽀로, 매일 들어오는 신선한 생선·해산물로 일식 요리",
+    "link": "https://www.hankyung.com/article/2026090663761",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:59:42.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "352c72f2d96d39c7",
+    "title": "e편한세상, 층간소음 진동 실시간 감지…조용한 아파트",
+    "link": "https://www.hankyung.com/article/2026090663791",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:59:04.000Z",
+    "snippet": ""
   },
   {
     "id": "40177ea42672606f",

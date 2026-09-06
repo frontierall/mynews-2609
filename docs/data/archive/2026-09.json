@@ -1,5 +1,95 @@
 [
   {
+    "id": "6d833e5710f73f4f",
+    "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214904",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-06T16:26:59.000Z",
+    "snippet": "마이크로소프트(MS)가 AI 개발자를 겨냥해 불필요한 설정과 기능을 줄이고 개발 도구와 AI 실행 환경을 사전 구성한 윈도우11 기반 ‘프로젝트 제니스(Project Zenith)’를 공개했다. 64기가바이트(GB) 이상의 통합 메모리와 초당 250GB 이상의 메모리 대역폭을 갖춘 개발자용 PC를 전제로 설계해, 대규모 AI 모델을 클라우드가 아닌 PC에서 직접 실행할 수 있도록 한 것이 핵심이다.MS는 4일(현지시간) 개발자"
+  },
+  {
+    "id": "093b01b00ec59594",
+    "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214901",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-06T15:25:24.000Z",
+    "snippet": "구글이 고품질 음악 생성 모델 ‘리리아 3.5(Lyria 3.5)’를 AI 챗봇 ‘제미나이’에 탑재하며 AI 음악 생성 기능의 대중화에 나섰다.구글은 4일(현지시간) 리리아 3.5를 제미나이 앱에서 제공하기 시작했다.지난 7월 말 음악 창작자를 위한 ‘구글 플로우 뮤직(Flow Music)’에 처음 적용한 데 이어 제미나이 앱과 API, 구글 AI 스튜디오(AI Studio), 구글 비즈(Vids) 등으로 지원 범위를 확대하면"
+  },
+  {
+    "id": "1988b7b97084f226",
+    "title": "머스크, 미네소타 ‘AI 딥페이크 누드 금지법’ 저지 실패",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214908",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-06T11:51:02.000Z",
+    "snippet": "일론 머스크 CEO의 xAI(스페이스XAI)가 미네소타주의 AI 생성 가짜 나체 이미지 금지법을 저지하기 위해 제기한 소송에서 패소했다. 미국 연방법원은 xAI가 해당 법의 시행을 막아야 할 긴급한 필요성을 입증하지 못했다고 판단했다. 다만 법 자체의 위헌 여부에 대해서는 본안 심리를 통해 충분히 검토하겠다고 밝혀, 법적 공방은 계속될 전망이다.로이터에 따르면, 미국 미네소타주 연방법원 도너번 프랭크 판사는 4일(현지시간) x"
+  },
+  {
+    "id": "0df6d4c89e9afd5d",
+    "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214905",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-06T11:42:24.000Z",
+    "snippet": "엔비디아와 크라우드스트라이크가 AI를 활용한 사이버 공격이 급속도로 고도화되는 상황에 대응하기 위해 새로운 사이버 보안 특화 AI 모델군을 공동 개발했다. 공격자의 관점에서 기업 시스템의 침투 경로를 찾아내는 동시에 이를 차단하는 방어책까지 자동으로 마련하는 방식으로, AI 시대에 벌어지고 있는 공격자와 방어자 간 속도 격차를 줄이는 것이 목표다.양사는 1일(현지시간) 크라우드스트라이크의 연례 행사에서 사이버 보안 특화 AI "
+  },
+  {
+    "id": "018e09a286ae6d17",
+    "title": "오픈AI, 에이전트 '위키 사건' 인정...\"AI 정렬 실패 공개 기준 만들 것\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214900",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-06T11:37:36.000Z",
+    "snippet": "오픈AI가 자사 AI 에이전트들이 폐쇄된 테스트 환경을 벗어나 독일의 한 위키 사이트를 장악하고 에이전트 간 소통 공간으로 활용한 ‘위키 사건’을 공식 인정했다. 이번 사건을 계기로 AI가 개발자나 사용자의 의도와 다르게 행동하는 ‘정렬 실패(misalignment)’ 사례에 대한 공개 기준을 새로 마련하겠다고 밝혔다.오픈AI는 5일(현지시간) 소셜미디어 X를 통해 “언제, 어떻게 정렬 실패 사건을 공유할지에 대한 기준을 정립"
+  },
+  {
+    "id": "69fa0508dca87b89",
+    "title": "'알트먼 축출 사태' 다룬 영화 '아티피셜', 10월 뉴욕 영화제서 최초 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214907",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-06T11:29:59.000Z",
+    "snippet": "샘 알트먼 오픈AI CEO의 해고와 복귀 사태를 소재로 다뤄 화제를 모은 루카 구아다니노 감독의 신작 영화 '아티피셜(Artificial)'이 제64회 뉴욕 영화제(NYFF)에서 세계 최초로 베일을 벗는다.버라이어티에 따르면, 아티피셜은 오는 10월5일 링컨 센터 앨리스 털리 홀에서 열리는 뉴욕 영화제에서 프리미어 상영을 확정했다. 이번 상영회에는 루카 구아다니노 감독을 비롯해 주연 배우 앤드류 가필드, 모니카 바르바로, 유라"
+  },
+  {
+    "id": "22f75fdf8530bf41",
+    "title": "알트먼 \"AI 혜택 홍보 미흡했다\" 자성… 대중 설득 나선 빅테크",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214906",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-06T11:09:28.000Z",
+    "snippet": "샘 알트먼 오픈AI CEO가 AI 업계가 기술의 혜택을 대중에게 제대로 전달하지 못해 거센 사회적 반발에 직면했다고 자평했다. 전날 스콧 베선트 미 재무장관이 하이퍼스케일러 기업들의 소통 부재를 거세게 비판한 데 이어, AI 산업을 이끄는 리더도 실수를 인정하며 고개를 숙인 모양새다.알트먼 CEO는 3일(현지시간) 블룸버그 TV와의 인터뷰에서 AI 기술의 긍정적인 면을 알리는 데 있어 업계 전반의 대처가 미흡했다고 진단했다. "
+  },
+  {
+    "id": "560923a8a80b56e7",
+    "title": "LGU+, PMDC 얼라이언스 출범…AI 데이터센터 건축기간 줄인다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214909",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-06T11:05:00.000Z",
+    "snippet": "LG유플러스(대표 홍범식)가 GS건설, 자이C&A 등과 손잡고 사전제작형 모듈러 데이터센터(PMDC) 표준모델 확보에 나선다. 급증하는 AI 인프라 수요에 대응하기 위해 AI 데이터센터(AIDC) 구축 기간을 단축하고 품질을 표준화할 수 있는 협력체계를 마련한다는 전략이다.LGU+는 경기 안양시 평촌메가센터에서 GS건설, 자이C&A, 간삼건축, D&O CM과 ‘PMDC 얼라이언스(Alliance) 구축을 위한 업무협약’을 체결"
+  },
+  {
+    "id": "2fad18ab3aeda997",
+    "title": "에이수스 “풀 스펙트럼 전략으로 ‘소버린 AI’ 시장 공략”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214897",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-06T10:50:00.000Z",
+    "snippet": "“각 국가와 기업들이 추구하는 다양한 개념의 ‘소버린 AI’를 지원하기 위해 다양한 규모의 서버부터 스토리지, 소프트웨어부터 서비스까지 ‘풀 스펙트럼 AI’를 구현, 에이수스 AI 팩토리를 실현하겠습니다”대만의 대표적인 컴퓨팅 하드웨어 전문 에이수스는 3일 서울 여의도 콘래드 호텔에서 ‘AI 테크 2026’을 개최했다. AI 시스템을 넘어 AI 팩토리의 구축과 운영을 아우르는 AI 인프라 전략을 소개하는 자리였다.폴 주 에이수"
+  },
+  {
     "id": "bfa6d7930cc0584c",
     "title": "\"메모리 400% 폭등에 '아이폰 18 프로' 20% 올려 178만원 육박할 것\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214903",
@@ -90,6 +180,26 @@
     "snippet": "앤트로픽이 신규 모델 공개와 미국 노동절 연휴를 맞아 최고 등급 유료 플랜인 '클로드 맥스(Claude Max)' 이용자 전원의 주간 사용량 제한을 기습적으로 일괄 초기화했다. 오픈AI 'GPT-6 아스트라'의 초반 돌풍에 대응해 이용자 이탈을 막고 코딩 시장 주도권을 확보하기 위한 공격적인 전략이다.앤트로픽의 기술 연구원 리디아 할리는 5일(현지시간) X를 통해 \"클로드 맥스 플랜을 이용하는 모든 유저의 주간 사용량 제한을 "
   },
   {
+    "id": "297440bdc9c3bb65",
+    "title": "1300원대 유지중인 원달러 환율",
+    "link": "https://www.mk.co.kr/news/economy/12145457",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:10:29.000Z",
+    "snippet": "6일 서울 중구 명동의 한 환전소에 환율이 표시돼 있다. 지난 4일 오후 3시 30분 기준 원/달러 환율은 1,350.4원으로 집계됐다. 이는 지난 6월 말 주간거래 종가(1,54.."
+  },
+  {
+    "id": "2fee97e3eb40921d",
+    "title": "1300원대 유지하고 있는 원달러 환율",
+    "link": "https://www.mk.co.kr/news/economy/12145445",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T08:05:40.000Z",
+    "snippet": "6일 서울 중구 명동의 한 환전소에 환율이 표시돼 있다. 지난 4일 오후 3시 30분 기준 원/달러 환율은 1,350.4원으로 집계됐다. 이는 지난 6월 말 주간거래 종가(1,54.."
+  },
+  {
     "id": "85a99aa44df931be",
     "title": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214896",
@@ -98,6 +208,636 @@
     "category": "AI",
     "publishedAt": "2026-09-06T08:00:01.000Z",
     "snippet": "오픈AI의 ‘GPT-6 아스트라’가 AI 모델 중 최초로 수능 전 문항 만점을 달성했다.6일 공개된 ‘2026 수능 LLM 풀이 대시보드’에서 GPT-6 아스트라는 2026 수능 총점 450점 만점에 450점으로 전체 1위에 올랐다.이 대시보드는 AI 수능 벤치마크로 유명한 구유겸 순천향대학교 컴퓨터소프트웨어공학과 학생이 직접 개발한 ‘테스트-채점-통계’ 자동 처리 시스템을 토대로 한 결과다. 한 문항씩 제공해 풀도록 하는 ‘"
+  },
+  {
+    "id": "40177ea42672606f",
+    "title": "고래사어묵, 보존료 없는 신선한 어묵…하루 생산·배송 원칙",
+    "link": "https://www.hankyung.com/article/2026090663961",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:43:24.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f78f059dd72785f1",
+    "title": "보배반점, 가맹점 표준화에 힘써…미국·인니에도 진출",
+    "link": "https://www.hankyung.com/article/2026090663971",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:42:45.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "24c9b2174514d2cb",
+    "title": "엑셀비프, 7단계 품질관리로 소고기 육질·풍미 완성",
+    "link": "https://www.hankyung.com/article/2026090663981",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:42:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "84a130619e42bf63",
+    "title": "굽네, 시그니처 치킨 리뉴얼한 '뉴 오리지널' 호평",
+    "link": "https://www.hankyung.com/article/2026090663991",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:41:37.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8c6f446c4be55163",
+    "title": "삼육두유, 두유 명가…건강식품·케어푸드까지 확장",
+    "link": "https://www.hankyung.com/article/2026090664001",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:41:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c9bdb8664b98241a",
+    "title": "창신, 신발 10억 켤레 만든 제조력…AX로 공장 혁신",
+    "link": "https://www.hankyung.com/article/2026090664031",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:40:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4389435408675450",
+    "title": "오티콘, 복잡한 소리도 또렷하게 잡는 AI 보청기",
+    "link": "https://www.hankyung.com/article/2026090664041",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:38:48.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "df05119c77b800ae",
+    "title": "케어센스, 5분마다 혈당 재고 앱 전송…114개국 진출",
+    "link": "https://www.hankyung.com/article/2026090664061",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:37:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "26e2db708674114e",
+    "title": "무아스, 감성·편의성 다 갖춘 프리미엄 생활용품",
+    "link": "https://www.hankyung.com/article/2026090664071",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:37:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "411b884caadae49f",
+    "title": "보쉬, 전문가용 고성능 제품군으로 작업 효율 높여",
+    "link": "https://www.hankyung.com/article/2026090664081",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:35:34.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4aba5f08e6f73efa",
+    "title": "JMW, 국내외 사랑받는 K헤어드라이기",
+    "link": "https://www.hankyung.com/article/2026090664091",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:33:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d97e09136c5e6b27",
+    "title": "Cloud in a Bottle: 누구나 쉽게 쓸 수 있는 셀프 호스팅을 향해",
+    "link": "https://news.hada.io/topic?id=33275",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T07:33:19.000Z",
+    "snippet": "Cloud in a Bottle은 컨테이너형 앱과 통합 인증을 결합한 오픈소스 개인 클라우드로, 셀프 호스팅을 시스템 관리 부업이 아니라 웹앱을 제공하는 스마트폰처럼 쉽게 만드는 것이 목표임 Ubuntu 기반 서버의 루트 권한 없는 보안 강화 컨테이너에서 앱을 실행하며,..."
+  },
+  {
+    "id": "faf32f4f35d19ac9",
+    "title": "스펙트라, 작지만 기능은 꽉 채운 유축기",
+    "link": "https://www.hankyung.com/article/2026090664101",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:33:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f47ec10c7a8ba7a2",
+    "title": "정로환, 캠핑·출장 때도 마음 놓이는 '국민 지사제'",
+    "link": "https://www.hankyung.com/article/2026090664141",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:31:41.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "73668d8d8c74ae92",
+    "title": "홈쎄라, 美·日·佛 사로잡은 초정밀 기술 K뷰티기기",
+    "link": "https://www.hankyung.com/article/2026090664151",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:31:10.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "691830b217aa9117",
+    "title": "육회바른연어, 육회·연어로 다양한 조합…계절마다 늘 새롭네",
+    "link": "https://www.hankyung.com/article/2026090664181",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:29:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d56b1aeeb2d5a03a",
+    "title": "칼파제르, 핀란드 명가 100년 노하우 담은 프리미엄 초콜릿",
+    "link": "https://www.hankyung.com/article/2026090664191",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:28:36.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "03b6dee194eb2ce4",
+    "title": "다이와, '업사이클링' 친환경 낚시용품",
+    "link": "https://www.hankyung.com/article/2026090664201",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:28:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9072f54ae30b2949",
+    "title": "사조대림, 한국인 절반이 먹은 참치액",
+    "link": "https://www.hankyung.com/article/2026090664211",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:27:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "619fda56d5c66264",
+    "title": "미녹시딜, 머리에 뿌리고 발라 탈모 치료",
+    "link": "https://www.hankyung.com/article/2026090664221",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:26:55.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d817572f83a4e3c4",
+    "title": "누그레이, 바를수록 빛나는 피부…입소문 난 블러셔",
+    "link": "https://www.hankyung.com/article/2026090664231",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:26:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4368184c8f9c1246",
+    "title": "비단, 실물자산 디지털 거래…원자재도 사고판다",
+    "link": "https://www.hankyung.com/article/2026090664261",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:25:45.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "346b07160f34f192",
+    "title": "삼성전자 DX 노조 '미국 타임스퀘어 광고'…\"부적절한 행위\"",
+    "link": "https://www.hankyung.com/article/2026090667507",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:25:21.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d980dd8f9771ab97",
+    "title": "에스트라, 누적 판매 1000만 신화…민감 피부용 보습 크림",
+    "link": "https://www.hankyung.com/article/2026090664291",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:24:48.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f9baec170bc9cb55",
+    "title": "삭피엔스, 산리오·디즈니와 라이선스 계약한 캐릭터 양말",
+    "link": "https://www.hankyung.com/article/2026090664321",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:24:17.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c0bacdfd357bb960",
+    "title": "릴, 완충·예열 시간 단축…기술혁신 이어온 전자담배",
+    "link": "https://www.hankyung.com/article/2026090664341",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:23:41.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d036b89a64e75785",
+    "title": "킹콩부대찌개, 고물가 시대에도 부대찌개 밥·사리 무한 리필",
+    "link": "https://www.hankyung.com/article/2026090664251",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:23:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "94ee282fc4711fca",
+    "title": "린클, 미생물 기술 적용…집 환경에 맞춰 음식물 분해",
+    "link": "https://www.hankyung.com/article/2026090664281",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:22:30.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "99e11ce399367b62",
+    "title": "라비다, 독자 기술로 14년 1위…피부 세포까지 안티에이징",
+    "link": "https://www.hankyung.com/article/2026090664311",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:21:43.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "22181e1c5f738961",
+    "title": "라치나타, 병·캔·스프레이로 즐기는 스페인산 올리브유",
+    "link": "https://www.hankyung.com/article/2026090664351",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:20:38.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fc465838298ed4a7",
+    "title": "경복궁, 숯불구이 한정식 원조…엄선한 재료로 품격 높여",
+    "link": "https://www.hankyung.com/article/2026090664361",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:19:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8695a804c449351d",
+    "title": "아이나비, AI로 위험 감지…주행·주차 돕는 능동형 블랙박스",
+    "link": "https://www.hankyung.com/article/2026090664381",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:17:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "aebaca2e59b80c78",
+    "title": "마리오아울렛, 서브컬처·가상체험 수혈…진화하는 패션 아울렛",
+    "link": "https://www.hankyung.com/article/2026090664401",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:17:23.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "80037dd57f8ec996",
+    "title": "삼육두유, 현지 입맛에 맞춘 두유로 베트남 시장 잡는다",
+    "link": "https://www.hankyung.com/article/2026090664421",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:16:45.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6b9d172f2d8810a2",
+    "title": "누가베스트, 70개국에 매장 3500곳…의료기기, 써보고 산다",
+    "link": "https://www.hankyung.com/article/2026090664441",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:16:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0e5c21184b6089c5",
+    "title": "라이프밀, 진공에서 동결 건조…곡물 영양소 듬뿍 담은 생식",
+    "link": "https://www.hankyung.com/article/2026090664371",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:15:17.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3d0eb49035473ace",
+    "title": "여명808, 임상 거친 숙취 해소 음료…식약처 시험도 뚫었다",
+    "link": "https://www.hankyung.com/article/2026090664391",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:14:39.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8c3f1145bec3132f",
+    "title": "네오플램, 유해물질 899종 '제로'…국제인증 받은 주방용품",
+    "link": "https://www.hankyung.com/article/2026090664411",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:12:23.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a83846127008e7cb",
+    "title": "투썸플레이스, 커피·디저트 2관왕 올라…디카페인 라인업 강화",
+    "link": "https://www.hankyung.com/article/2026090664431",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:11:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "668703143c79b7a0",
+    "title": "무아스, 옷감 단단히 고정…다림판 없이 쓰는 흡착 다리미",
+    "link": "https://www.hankyung.com/article/2026090664461",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T07:10:19.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "baf784ffd499aa84",
+    "title": "무디스 “9년 만에 재정흑자…미래대응기금, 국가신용에 우호적”",
+    "link": "https://www.mk.co.kr/news/economy/12145366",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T06:58:21.000Z",
+    "snippet": "추가세수 중 12.5조원 규모 내년 국채발행 축소에 사용 무디스 “국가부채 억제 신호”국제신용평가사 무디스가 ‘미래대응기금’ 가운데 신규 국채 발행 축소에 배정된 12조5000억원.."
+  },
+  {
+    "id": "6f001ceba71eb4d0",
+    "title": "세계 식량가격 2개월 연속 상승…2022년 11월 이후 최고 수준",
+    "link": "https://www.mk.co.kr/news/economy/12145363",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T06:57:59.000Z",
+    "snippet": "이상기온·전쟁 여파 겹친 영향 FAO “식량시장 위험 재발 경고”세계 식량가격지수가 지난달에 이어 두 달 연속 오르며 2022년 말 이후 최고 수준을 기록했다. 유럽 지역의 폭염과.."
+  },
+  {
+    "id": "8b75ca1a16d9f532",
+    "title": "구로구, 1인가구 안심장비 지원… 30일까지 54가구 모집 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wSmUtd05XbWVmVHl4VjFEMUxVMVhoOUFUTDFTeVlZN1ljWFRlcUJ3NzhQVDhQUXJHejFaTXo5TS1JbVRtc0NnQ3hRX0s2Z2h5WDhobHpzX3JOeFFaN1A1MGR0YUFWT2t3eXZPRTVUNW4?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-06T06:36:00.000Z",
+    "snippet": "구로구, 1인가구 안심장비 지원… 30일까지 54가구 모집 > 뉴스 더코리아"
+  },
+  {
+    "id": "b04e5f3cfb8c038e",
+    "title": "“당장 돈 빌릴 데가 카드·보험밖에”…5060 카드론 1년 새 1조 증가, 보험대출도 급증",
+    "link": "https://www.mk.co.kr/news/economy/12145321",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T06:25:44.000Z",
+    "snippet": "카드론 연체율 20대가 최고 보험계약대출 잔액 4.9% 늘어서민들의 급전 창구로 꼽히는 카드론의 연체율이 전 연령대에서 상승한 것으로 나타났다. 20~40대는 카드론 잔액이 줄었는.."
+  },
+  {
+    "id": "2f16d0eb177aecf9",
+    "title": "구로구, 1인가구 안심홈세트 지원 대상 54가구 모집 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwaWhyWElibDRiaW84ZDd1VDNRcGlXNk52RUk5MEVXTHVIdmNqWHRXNm9TSkNSSU92N0h3cTlsOWhYU19YdmdKVnNRUXBOVm5lS0ZJcFU0bFlNR1hlZGhxc9IBeEFVX3lxTFB1cHAxSzIwdW5DY0FEdmc5d2tyOUFySElIZ1c2SjlvanRISUNZNE43WWpibTk5aXllZy1hVFlVMVpKakZtVXZ5ZTM0STB4MWlsVi1VUjVOZy1iUzQ5SzF0d2hQZ2lmeWV5YnlvYUtTcWtKRVp1bG5tSQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-06T06:09:29.000Z",
+    "snippet": "구로구, 1인가구 안심홈세트 지원 대상 54가구 모집 뉴시스"
+  },
+  {
+    "id": "eb5436aaa9d9e475",
+    "title": "수출 작년 실적 벌써 넘었다…사상 첫 '1조 달러' 코앞",
+    "link": "https://www.hankyung.com/article/202609066644i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T05:47:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "2ed90ff1a8265341",
+    "title": "중고차 수십만 대 훑어봤더니…테슬라·벤츠도 제친 '전기車' [최수진의 모빌리티톡]",
+    "link": "https://www.hankyung.com/article/202609045199g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T05:30:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9d1b4d7222be7c34",
+    "title": "grep이 LSP를 이긴다고? 코딩 에이전트가 더 정교한 도구를 무시하는 이유",
+    "link": "https://news.hada.io/topic?id=33273",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T05:27:15.000Z",
+    "snippet": "Claude 모델 3종을 비교한 소규모 실험에서, 코드 구조를 이해하는 LSP 기반 탐색 도구를 제공해도 단순 코드 위치 찾기에는 대부분 grep을 사용했으며 LSP를 먼저 쓰도록 강제하면 성공률이 떨어지기도 함 차이는 검색 정확도뿐 아니라 결과를 바로 활용할 수 있는지"
+  },
+  {
+    "id": "756b9cf114503e22",
+    "title": "“죽은 형 폰으로 3000만원 대출?”…고인 사망신고 다음날부터 싹 막힌다",
+    "link": "https://www.mk.co.kr/news/economy/12145292",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T05:14:04.000Z",
+    "snippet": "고인 명의 예금 인출·대출 즉시 차단 금융위·행안부 등 11일부터 가동앞으로 사망신고 다음 날부터 고인 명의의 예금 인출과 대출, 신용카드 결제 등 금융거래가 즉시 차단된다. 금융.."
+  },
+  {
+    "id": "9057792005c66459",
+    "title": "구로구, 1인가구 안심장비 지원…30일까지 54가구 모집 - fnewstv.com",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6U0pyZXczME5aeGFmbHlEclJXTWJRMFhwUUs4ZVZIUmlobzkyTnlVd1dCWmxKQ20xZ2FMcEZSYVpvb1pUdlZtN1UySU5vQXQzOF9PcG9NUmZpSG5KZ241VDFTQWN3R2xZS29XVjBxMEk?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-06T05:00:36.000Z",
+    "snippet": "구로구, 1인가구 안심장비 지원…30일까지 54가구 모집 fnewstv.com"
+  },
+  {
+    "id": "24ef619c31a774c9",
+    "title": "[내일 날씨] '선선한 가을바람', 전국 맑음.제주도 흐림...이번주 주간예보는? - 헤드라인제주",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NVXQtZEJzUE92dzBWWUJ6SXM3dXJNUHN2eGhKTzNGSFlqYjNQbERPODdaY2tRVW5rV09rWmE2dWNQXzVGWHBUSUlyeVVyUVZrSThJLUZNdU5vbWlIQ0F5cVdvX3R5SEtCLVJ3d0V5R29kV1U?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T04:29:00.000Z",
+    "snippet": "[내일 날씨] '선선한 가을바람', 전국 맑음.제주도 흐림...이번주 주간예보는? 헤드라인제주"
+  },
+  {
+    "id": "0b1da684864c29c8",
+    "title": "[단독] '전력기기 빅4' 일진전기 유상석 대표 “호황 10년 더 간다…2030년 매출 4조·시총 10조 시대 열 것”",
+    "link": "https://www.hankyung.com/article/202609066614i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T04:17:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4295cb53265fa4aa",
+    "title": "Show GN: PDF Simple Editor - WinUI 3로 만든 가벼운 PDF 편집기",
+    "link": "https://news.hada.io/topic?id=33272",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T04:09:02.000Z",
+    "snippet": "기존 PDF 편집 프로그램들이 유료거나 광고가 붙는 것들이 많고 웹 기반이거나 너무 복잡하거나 기능제한이 있는 것이 많아서, 자주 쓰는 기능에 집중한 간단한 무료 포터블 Windows용 PDF 편집기를 만들어봤습니다. PDF의 기존 텍스트를 선택·이동·삭제하고 더블클릭으로 직접 수정 (기존 폰트 유지 or"
+  },
+  {
+    "id": "c635964f8db3c6d8",
+    "title": "사전증여, 세금 계산기만 두드렸다간 '가족 분쟁' 부른다",
+    "link": "https://www.hankyung.com/article/202609020056i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T04:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e9297faadfcc8926",
+    "title": "[공모주 분석] '타입캐스트' 네오사피엔스, AI 음성 넘어 '대화형 AI'로 코스닥 도전",
+    "link": "https://www.hankyung.com/article/202609044536i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T03:26:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "70c09a9547443e3a",
+    "title": "베트남 북부는 온화한 날씨를 보이겠고, 남부는 오후와 저녁에 비가 내릴 것으로 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iWUlYZDZnUGhxVVFXajNNMVNoVDJRZENZOE55RXpYTUVMaWY2bHpfLThEbHFzZFJhZXEtR0FlN0Q3dWlKR3R5a2ZCUmpCNXM4SEUxdjB5NUROQTAyd2dSdEJ0TF9WZVlFWUpndTc0eFVfTEgtUWEtSnRpZks?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T03:05:20.000Z",
+    "snippet": "베트남 북부는 온화한 날씨를 보이겠고, 남부는 오후와 저녁에 비가 내릴 것으로 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "6e206ce2b12383d1",
+    "title": "Bespoke: ‘부탁합니다’라고 말하는 사람들을 위한 프로그래밍 언어",
+    "link": "https://news.hada.io/topic?id=33270",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-06T03:03:25.000Z",
+    "snippet": "Bespoke는 명령 대신 정중한 요청과 감사 인사를 요구하는 정적 타입 언어 구상으로, .charming 소스 파일에 빅토리아 시대식 예절을 담음 할당·변경은 Compiler, 출력은 Output Console, 파일·런타임 작업은 Host Environment에 요청하며, 호칭·문장부호·맺..."
+  },
+  {
+    "id": "14e672d9fdc96658",
+    "title": "\"수리비 유독 비싸다는데\" 오명 쓴 '이 車' 알고 보니… [현장+]",
+    "link": "https://www.hankyung.com/article/202609044548g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T03:00:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "db76a3c8ad346555",
+    "title": "9월 6일 낮과 밤의 날씨 예보: 여러 지역에서 소나기와 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNmxzQVBvT3VnVHdjVW1MREphN3E3SDBaRzg2anBlS3JiSjVWRlVfVHR6OGlRdG5qZmJNZXBKZ1psZktwQ3JaR29hX2pHdHVqOFQwTEVVVGRFdGpNU0xwcG5oTl9veG9BZUpTWFpBbWZLa2x5RmxLWUg4YkZUdi1IRjVPQS1VNVVjUmw0OWsxZEJTY2FycGRMTg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T02:47:12.000Z",
+    "snippet": "9월 6일 낮과 밤의 날씨 예보: 여러 지역에서 소나기와 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "01424a14598439aa",
+    "title": "한국, 반도체 세계 최고인데…\"이러다 안방까지 내준다\" 경고",
+    "link": "https://www.hankyung.com/article/202609066520i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T02:17:00.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ff871a7dd9aa9818",
+    "title": "가을밤 화려하게 수놓은 한화 세계불꽃축제…100만 인파 몰렸다",
+    "link": "https://www.hankyung.com/article/2026090664977",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T02:09:39.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4f5f1fde208be74d",
+    "title": "\"메뉴 40개 없앴는데도 대박\"…줄 서서 먹는 한식뷔페 '반전' [박상경의 영수증 리뷰]",
+    "link": "https://www.hankyung.com/article/202609044331g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T02:00:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c3aabaf08703c37f",
+    "title": "\"로봇 관절 LG가 만든다\"…백승태 본부장 \"빅테크와 공급 협의 중\"",
+    "link": "https://www.hankyung.com/article/202609066486i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-06T01:59:10.000Z",
+    "snippet": ""
   },
   {
     "id": "f191d4158e74477e",
@@ -148,6 +888,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-06T01:22:39.000Z",
     "snippet": "9월 6일 날씨 예보: 북부 지역은 맑고 건조하며, 남부 지역은 저녁에 비가 내릴 예정입니다. Vietnam.vn"
+  },
+  {
+    "id": "d769fcb19daf9b61",
+    "title": "오늘 밤과 내일(2026년 9월 6일) 날씨 예보: 북부 지역은 맑고, 중부 지역에는 국지적으로 뇌우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0EyQ1Yta25fRWZwT3VjU1NQMHBEVjR0bFpJdUlSVGZ3VXdrX2g1ZFhPdzNWRWJzUXZKdk91MUFjWk05QUh0T3k5TzNmTXFpUnFubDBoSmc2RUNFYW1zM01HNEdzMkFEMUNvVjJtZk9oMXU2TmN0c3FUYTRGeksxclZ4ZXE2bzVtTTRvOHVnTjRsMld6cWhJQlk4a0s2cDVFS1lER3ozbFIwaHFiekVvenpJdFlLZw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-06T01:11:48.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 6일) 날씨 예보: 북부 지역은 맑고, 중부 지역에는 국지적으로 뇌우가 예상됩니다. Vietnam.vn"
   },
   {
     "id": "47177cdea755fab1",
@@ -680,6 +1430,16 @@
     "snippet": "미국 국방부와 방산업계가 앤트로픽을 여전히 ‘공급망 위험(Supply Chain Risk)’으로 간주하고 있는 것으로 나타났다. 트럼프 행정부와 앤트로픽의 관계가 최근 개선되는 듯한 신호가 나왔지만, 국방 분야에서는 앤트로픽에 대한 경계가 여전히 이어지고 있다.로이터에 따르면, 에밀 마이클 미국 국방부 연구·공학 담당 차관은 3일(현지시간) 앤트로픽이 국방부와 방산업계에서 여전히 공급망 위험으로 간주하고 있다고 밝혔다.이는 하"
   },
   {
+    "id": "aaacb896dcc283af",
+    "title": "[오늘의 북한 날씨] 동해안 중부 이남 여러 지역 비 - SPN 서울평양뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96QlBfS0ZOMmxBbm9fREVkVXhfdUptdWxldVdiVUJ3SEdxRWIzTFRySXRxQ3NIR2g4N2N0UUdHTTlMQ08xZzNSbVJPam1yZTZQTnNycjV1bFdYY0ZSVnhsNnFZa1FnOV9hOVk4?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-05T15:02:18.000Z",
+    "snippet": "[오늘의 북한 날씨] 동해안 중부 이남 여러 지역 비 SPN 서울평양뉴스"
+  },
+  {
     "id": "ff24e84016010889",
     "title": "딥시크, 새로운 데이터센터 구축을 위해 화웨이 AI 칩 대량 주문 계획",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214886",
@@ -938,16 +1698,6 @@
     "category": "개발",
     "publishedAt": "2026-09-05T09:56:27.000Z",
     "snippet": "취득세를 검색하면 나오는 계산기 중에 개정 전 요율을 그대로 쓰는 곳이 꽤 있었습니다. 전월세 전환율도 옛 기준금리로 계산하는 곳이 많고요. 숫자가 틀린 계산기는 없는 것보다 나쁘다고 생각해서, 세율과 요율마다 법령 근거와 기준일을 화면에 같이 표시하는 계산기를 만들었습니다. 부동산·대출:"
-  },
-  {
-    "id": "d769fcb19daf9b61",
-    "title": "오늘 밤과 내일(2026년 9월 6일) 날씨 예보: 북부 지역은 맑고, 중부 지역에는 국지적으로 뇌우가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0EyQ1Yta25fRWZwT3VjU1NQMHBEVjR0bFpJdUlSVGZ3VXdrX2g1ZFhPdzNWRWJzUXZKdk91MUFjWk05QUh0T3k5TzNmTXFpUnFubDBoSmc2RUNFYW1zM01HNEdzMkFEMUNvVjJtZk9oMXU2TmN0c3FUYTRGeksxclZ4ZXE2bzVtTTRvOHVnTjRsMld6cWhJQlk4a0s2cDVFS1lER3ozbFIwaHFiekVvenpJdFlLZw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-05T09:45:24.000Z",
-    "snippet": "오늘 밤과 내일(2026년 9월 6일) 날씨 예보: 북부 지역은 맑고, 중부 지역에는 국지적으로 뇌우가 예상됩니다. Vietnam.vn"
   },
   {
     "id": "861ec5bf564161d1",
@@ -4460,6 +5210,16 @@
     "snippet": "사상여성인력개발센터, ‘든든 채움 대체인력 지원사업’ 참여기업 모집 busan.com"
   },
   {
+    "id": "e9448823560d4f26",
+    "title": "사상여성인력개발센터, ‘든든 채움 대체인력 지원사업’ 참여기업 모집 - 부산일보",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dEVHU0dYaF9mZ1VmYThCdF9wVnNpVkFqRDBpR1o3TEZNSDJra0J3RXh5Mzd5UmxoY0ZzWWExWHc2cGdYSGJoeXp4eDRDb1FGTWYtYmF1cXNLRkx4anRZeEg3bE80bTZHTTdrY1pIWjJmdXhU?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-02T05:53:23.000Z",
+    "snippet": "사상여성인력개발센터, ‘든든 채움 대체인력 지원사업’ 참여기업 모집 부산일보"
+  },
+  {
     "id": "7d2158166a48ceca",
     "title": "나주시, '보금자리 지원사업' 신규 모집…신혼부부·다자녀가정 대상 주택대출 이자 지원 - news.nate.com",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nZUx5X2FETkZJdFVtVHYtWDM3U05wOGVBYXR1b0x3bUxIUUpmUzZrc05KMlJxRTZpZXN1Y0kxWmd0aDFlTVJuNTdtMWhqZnBOSWtr?oc=5",
@@ -4498,6 +5258,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-02T00:50:12.000Z",
     "snippet": "'다자녀 가정 큰 집 마련 지원 사업' 대상자 모집 데일리대구경북뉴스"
+  },
+  {
+    "id": "2fb16ef3ac3141c1",
+    "title": "제천시, 청년 주택자금 대출이자 지원사업 신청자 200명 모집 - gukjenews.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmQTJoWEpLdzA1SEpIV3M2blVucmJ6UW9LdC1yWThpdTlDbFV0WkpqZ203OVUxaGptdjRGNkl4TlVEX2FmREpMLW5wMEpreVFOMi1BUU1RaGVIdG4xRTdMUHhHbVNGQktCZUtxY3pR?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-01T23:48:32.000Z",
+    "snippet": "제천시, 청년 주택자금 대출이자 지원사업 신청자 200명 모집 gukjenews.com"
   },
   {
     "id": "52a29b24a57ae50e",

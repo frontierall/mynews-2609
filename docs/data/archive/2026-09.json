@@ -1,5 +1,105 @@
 [
   {
+    "id": "a7da85978bdb700c",
+    "title": "9월 8일 응에안 지역 날씨 예보: 낮에는 맑고, 밤과 오후에는 소나기가 내리겠으며, 북동풍이 2~3단계로 불겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemZDYk5xWjBKVi1BRkQ0QW5adVFORE9MRXlqSU1GZEdpcUdIZDlhNlNmQTFGLUwyWTlDZUZId1lxNDhRZEZKMlZRVUZjalVHUmdLMTdoV0k4UnFqZjk5ZjRyd2sxdEI5cU5yWEVTLVVoalhpdUtCejlETXJWS0ljRGxOY3l5WW01ajZOOWktRy1QNHF0RGJrTlhfc25UczdicnVqNldtaVdkWE1WSF9UekZSRGlPQ3lXT1lfTmVaTzl2QQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-07T22:22:21.000Z",
+    "snippet": "9월 8일 응에안 지역 날씨 예보: 낮에는 맑고, 밤과 오후에는 소나기가 내리겠으며, 북동풍이 2~3단계로 불겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "0dd9efce39dc991a",
+    "title": "[오늘 전국 날씨예보] 기상청 날씨누리, “8일, 오늘~모레 동해안 중심 가끔 비” - 한국강사신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ERUd3Mm5tT0FsVnFsUHhZdGhfRDFlYUNKejZ0ZWp3cDN2ZEVnQ1BLc081ajd5STVGbjJfbGt5WDVsbzdpMHlRS1RhOURJVGRaXzJxalYzYktJQk9SbXIzRW5GTXFyTkdQTlNTS3Y5VVA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-07T22:03:36.000Z",
+    "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “8일, 오늘~모레 동해안 중심 가끔 비” 한국강사신문"
+  },
+  {
+    "id": "301855931433000f",
+    "title": "2억 1,600만 대의 감시 TV — LG 스마트 TV의 문제 [영상]",
+    "link": "https://news.hada.io/topic?id=33332",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-07T21:51:47.000Z",
+    "snippet": "Gamers Nexus와 보안 연구진이 LG TV에서 주변 기기 탐색·음성 전사 로그 저장을 확인하고, 침해 후에는 몰래 녹음·촬영할 수 있음을 시연함 — 기본 데이터 수집과 공격자가 제어권을 확보한 뒤의 동작은 구분해야 함 자동 콘텐츠 인식(ACR) 은 화면·오디오를 지문..."
+  },
+  {
+    "id": "16e345da53c0dc64",
+    "title": "“이번달도 월급이 통장을 스치운다”…금리 1%P 오르면 연체율 무려",
+    "link": "https://www.mk.co.kr/news/economy/12146587",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-07T21:09:34.000Z",
+    "snippet": "한은 ‘가계부채 리스크 평가’ DSR 46% 넘는 가구 11% 상환 부담커져 소비도 위축가계빚 부담이 소득의 절반에 가까워지면 소비가 줄어들기 시작한다는 연구 결과가 나왔다. 많은.."
+  },
+  {
+    "id": "582545d8e480da02",
+    "title": "\"발망치 소리 들릴라\"…다이소서 불티나게 팔린 '이 제품' [권 기자의 장바구니]",
+    "link": "https://www.hankyung.com/article/202609077936i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-07T21:00:30.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "46e4eabff022d0c2",
+    "title": "뷔페 대박나더니…\"인당 20만원\" 특급호텔 맞먹는 '랍스터 뷔페' 등장",
+    "link": "https://www.hankyung.com/article/202609079071g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-07T21:00:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "bc14421f90e3467a",
+    "title": "BZip3 - BZip2의 더 낫고, 더 빠르고, 더 강력한 정신적 후속작",
+    "link": "https://news.hada.io/topic?id=33330",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-07T20:32:39.000Z",
+    "snippet": "BZip3는 BZip2의 정신적 후속 압축 도구로, 특히 텍스트와 코드 압축에 강점을 가지며 더 높은 압축률과 성능을 목표로 함 0차 문맥 혼합 엔트로피 코더, 접미사 배열 기반 Burrows-Wheeler 변환, RLE 및 Lempel Ziv+Prediction 처리를 결합함 Perl5의 역..."
+  },
+  {
+    "id": "5a4fd31c18e1137f",
+    "title": "[기상속보]오늘날씨 일교차 주의 서울 낮 30도 강원·동해안 5∼40㎜ 비...주말,주간예보 - 퍼블릭타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTmVMenEzajBhSm4wQW5iZnJpcFVPN3o0bGY5VlRWRE8xRDdSNjd1dmtwVU5jd00wY1VLSm1BbEhhSHdscnRjdm9kamtjc2s4VjMxUHhLTWVxLVJpcE8xenpMS2oyUUdMSEHSAW5BVV95cUxNYzFHU1hMemtYWUNxVjFrR2RaN3ZaLWlhUGZhUWxoN1F3c2dxeGtQRjh2endBVUtmdjc4YW1qQkdsa3J5STZ4bnp1TUNoWC1kRWZpLVJjQk1xSUNqem8ydHJMU0pJR0ZpNFdxRjVEQQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-07T20:00:00.000Z",
+    "snippet": "[기상속보]오늘날씨 일교차 주의 서울 낮 30도 강원·동해안 5∼40㎜ 비...주말,주간예보 퍼블릭타임스"
+  },
+  {
+    "id": "66c4eff007dc06ee",
+    "title": "날씨 예보 9월 8일 - 2news.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ILVV1LWplVHZUbEFVYWRVUXVLUUZBc3RvdERHWEJ6Z1BYY2ZtSGpsQ0V1OElvTTdmVkR6Nkl2NzNFMkhlTkJmU2QxVVkySVdOSjg2VjFQVDdEVlJWZlo3TjUyOFVYLTB5?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-07T19:59:55.000Z",
+    "snippet": "날씨 예보 9월 8일 2news.co.kr"
+  },
+  {
+    "id": "e68189ff0e0bf093",
+    "title": "1024바이트로 Python 인터프리터 만들기",
+    "link": "https://news.hada.io/topic?id=33329",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-07T19:33:33.000Z",
+    "snippet": "매크로나 라이브러리 편법 없이 C 소스 1024바이트에 Python 문법 일부를 실행하는 인터프리터를 담음 토큰화·AST·바이트코드 생성 대신 소스를 파싱하면서 즉시 실행하며, 반복문과 함수 호출은 소스 위치를 이동해 다시 파싱하는 방식으로 처리함 정수 ..."
+  },
+  {
     "id": "fb54367f9cdefc46",
     "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
@@ -1800,6 +1900,16 @@
     "snippet": "동해시, 슬레이트 철거 지원사업 추가 모집 네이트"
   },
   {
+    "id": "3bed027f99a92ea6",
+    "title": "동해시, 슬레이트 철거 지원사업 추가 모집 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ILWlvR1MtWmdxZ01QU09RQWhuck1GR0w1NGl0dVNDTU1iOWxINDZUOVE0OENzMDEtMjV6b1M4azQxNkF0MFdGQXdnajNNck1ZTFBuR3Foa2dBQ091?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-07T05:36:00.000Z",
+    "snippet": "동해시, 슬레이트 철거 지원사업 추가 모집 뉴스핌"
+  },
+  {
     "id": "460216251a531996",
     "title": "폭스콘의 놀라운 변신…'아이폰 공장'서 AI 서버 핵심 공급사로",
     "link": "https://www.hankyung.com/article/2026090787636",
@@ -2148,6 +2258,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-07T01:33:55.000Z",
     "snippet": "동해시, 슬레이트 철거 지원사업 추가 모집 reporternside.com"
+  },
+  {
+    "id": "f171f603e663be68",
+    "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wM2VMMGlnb0hvNzN0dmtLbXg5Nk1oYUhQYmpSLVlTLVZvQmpPZFdrZmNhWEhFcERjY3MwVlY0dDByeE94MkZGYzhfOVdVM1E?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-07T01:30:52.000Z",
+    "snippet": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 v.daum.net"
   },
   {
     "id": "780515d3439c4be5",

@@ -20,6 +20,16 @@
     "snippet": "오픈AI가 ‘GPT-6 아스트라’의 강력한 성능을 바탕으로 하는 차세대 사이버 모델 출시를 준비 중이라고 밝혔다. 아스트라도 이미 사이버 방어 측면에서 우수하지만, 더 강력한 방어책을 위해 사이버 보안 특화 모델을 준비한다는 전략이다.오픈AI는 9일 서울 강남구 조선팰리스 호텔에서 한국 오피스 공식 출범 1주년 기념 기자회견을 개최했다. 우선 1년 간 국내 시장에서 이룬 성과와 파트너십 확대를 소개했다. 지난 8월 말 기준 국"
   },
   {
+    "id": "a3ad9fcd60e43aac",
+    "title": "Apple, 첫 폴더블 iPhone Duo 공개",
+    "link": "https://news.hada.io/topic?id=33450",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-09T18:43:17.000Z",
+    "snippet": "7.6인치 내부 화면과 5.4인치 외부 화면에 동일한 화면비를 적용해 접고 펼칠 때 콘텐츠가 자연스럽게 이어지며, 펼친 상태에서는 역대 iPhone 중 가장 얇은 디자인을 구현함 iPhone 최초로 Split View에서 두 앱을 나란히 실행하고 앱 조합을 저장할 수 있으며, 조..."
+  },
+  {
     "id": "97f664f2558ac764",
     "title": "코난테크 \"AI ROI 체감 못하는 이유는...워크플로우·KPI 뜯어 고쳐야\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215067",
@@ -28,6 +38,16 @@
     "category": "AI",
     "publishedAt": "2026-09-09T18:42:08.000Z",
     "snippet": "기업들이 AI 도입 후 기대만큼의 투자수익률(ROI)을 거두지 못하는 원인은 기술 한계가 아닌 기존 업무 방식과의 불협화음 때문이라는 지적이 나왔다. 이를 해결하기 위해 단순 도구 활용을 넘어 AI 관측성과 에이전틱 워크플로우 구축, 조직 체계 및 핵심성과지표(KPI)의 근본적인 체감 전환이 필요하다는 제언이다.코난테크놀로지(대표 김영섬)는 9일 서울 양재동 엘타워에서 '제4회 코난 AI 서밋'을 열었다. 키노트 연사로 나선 "
+  },
+  {
+    "id": "3356202c4b9c0bd5",
+    "title": "GPT-6 Astra, 루프형 트랜스포머와 숨겨진 추론",
+    "link": "https://news.hada.io/topic?id=33449",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-09T18:40:17.000Z",
+    "snippet": "글쓰기·수학·코딩 전반에서 GPT-5.6보다 개선된 GPT-6 Astra는 특히 3D 렌더링·애니메이션과 컴퓨터 사용에서 큰 진전을 보임 루프형 트랜스포머는 같은 가중치의 블록을 여러 번 적용해 유효 깊이를 늘림 — 가중치 저장 메모리는 줄지만 반복 계..."
   },
   {
     "id": "454242c054e4f79a",
@@ -80,6 +100,16 @@
     "snippet": "구글 딥마인드가 인간 게놈에서 발생할 수 있는 90억개의 단일 염기 변이(Single Nucleotide Variant)가 생명 활동에 미치는 영향을 AI로 예측한 대규모 데이터베이스를 공개했다. 모든 가능한 DNA 한 글자 변이를 분석해 유전자 발현과 질병 등에 미칠 수 있는 영향을 한눈에 확인할 수 있도록 한 것으로, 희귀질환 원인 규명과 신약 개발 등 생명과학 연구를 가속화할 수 있을 것으로 기대된다.구글 딥마인드는 8일"
   },
   {
+    "id": "268e7278936a807e",
+    "title": "Anthropic, 활동가 감시를 위한 예측형 감시 시스템 구축 중",
+    "link": "https://news.hada.io/topic?id=33448",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-09T17:33:30.000Z",
+    "snippet": "채용 공고와 보안 책임자 인터뷰에 따르면, Anthropic은 AI의 급속한 개발에 반대하는 활동가와 임원·시설 주변 시위를 감시하며 사건 발생 전 위협을 예측하는 체계를 확대하고 있음 위험 탐지 업체 Samdesk의 시위 정보와 관심 인물 추적 절차를..."
+  },
+  {
     "id": "4cf6befded2a4377",
     "title": "미국, 딥시크·문샷 등 중국 AI 기업 6곳 비난...\"미국 기술 악의적 복제\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215064",
@@ -118,6 +148,16 @@
     "category": "AI",
     "publishedAt": "2026-09-09T17:00:00.000Z",
     "snippet": "■ 넵튠(대표 강율빈)은 'ABC마트코리아'에 기업용 채팅 솔루션 '클랫(KLAT)'을 공급했다고 밝혔다. 클랫은 고객사 내부 인트라넷에 연동해 사내 메신저처럼 사용할 수 있는 솔루션으로 소프트웨어개발키트(SDK)·API 등 서비스형 소프트웨어(SaaS)로 제공된다. 현재 150개 고객사에 도입돼 누적 사용자 5000만명을 돌파했다.■ 메가존클라우드(대표 염동훈)는 아마존웹서비스(AWS)로부터 'AWS 보안 컴피턴시'를 획득했"
+  },
+  {
+    "id": "534907e0d31e4171",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-09T17:00:00.000Z",
+    "snippet": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
   },
   {
     "id": "b7b432c04af8bb66",
@@ -180,6 +220,26 @@
     "snippet": "AI 업계의 무한 경쟁이 인류를 위협할 수 있다는 경고와 함께 앤트로픽의 핵심 연구원이 사표를 던졌다. 앤트로픽에서 사전훈련 연구를 담당해 온 연구원 제이콥 콕슨은 9일 X를 통해 통제 불가능한 AI 시스템 개발 경쟁에 대한 우려로 회사를 떠난다고 밝혔다.올해 27세인 영국 출신의 콕슨은 이전에도 오픈AI에서 근무하다 AI 안전을 최우선으로 내세운 앤트로픽으로 이직한 바 있다. 그러나 그는 정부의 강력한 규제나 업계 차원의 조"
   },
   {
+    "id": "6413aa41f54215ef",
+    "title": "YouTube Music launches Avenues 2.0 series",
+    "link": "https://blog.youtube/news-and-events/youtube-music-avenues-2-video-series/",
+    "source": "YouTube 공식 블로그",
+    "sourceId": "youtube-blog",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-09T16:00:00.000Z",
+    "snippet": "YouTube Avenues 2.0 is a new video series hosted by Wallo267 that empowers emerging artists in underrepresented communities. Watch all four episodes now to learn how to …"
+  },
+  {
+    "id": "5300a5bd992b1fc1",
+    "title": "美,\"장기국채 바이백 3배 확대\"…시장 실망에 국채수익률 오히려 상승",
+    "link": "https://www.hankyung.com/article/202609105070i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-09T15:57:39.000Z",
+    "snippet": ""
+  },
+  {
     "id": "a3e975358a776d94",
     "title": "구글 클라우드-액센츄어, 현장 파견 AI 엔지니어 전담 조직 신설",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215040",
@@ -188,6 +248,26 @@
     "category": "AI",
     "publishedAt": "2026-09-09T15:47:44.000Z",
     "snippet": "구글 클라우드와 액센츄어가 기업 고객의 AI 도입과 실제 업무 적용을 지원하기 위해 현장 파견형 AI 엔지니어(FDE) 전담 조직을 신설한다. 기업 내부에 엔지니어를 직접 배치해 업무 프로세스를 분석하고 맞춤형 AI 애플리케이션을 구축하는 방식으로, AI 모델 자체보다 실제 기업 환경에 이를 구현하는 ‘AI 도입·구축’ 시장을 겨냥한 행보다.구글 클라우드와 액센츄어는 8일(현지시간) 액센츄어 산하에 ‘액센츄어 제미나이 엔터프라"
+  },
+  {
+    "id": "aa4b520aa220dc62",
+    "title": "Desert Ant Labs, 기기에서 직접 음성·이미지·텍스트를 처리하는 빠른 로컬 AI 모델 18개 공개",
+    "link": "https://news.hada.io/topic?id=33446",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-09T15:34:11.000Z",
+    "snippet": "음성 인식, 녹음 음질 개선, 개인정보 가리기 등을 기기 안에서 처리하는 소형 특화 모델 18개를 공개함. 안정 버전 12개와 베타 6개로 구성 반복 작업마다 대형 모델 API를 호출하는 대신 작업에 맞는 작은 모델을 로컬에서 실행해, 서버 왕복과 호출당 비용 없이..."
+  },
+  {
+    "id": "dc68396d90121581",
+    "title": "美 경제학자 70% \"9월 금리 동결\"…시장 예상과 반대",
+    "link": "https://www.hankyung.com/article/202609105067i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-09T15:32:40.000Z",
+    "snippet": ""
   },
   {
     "id": "e82153d72f41f3bb",
@@ -230,6 +310,16 @@
     "snippet": "단순한 AI 기술 확보를 넘어 국내 주요 산업과의 결합을 통한 실질적 성과 창출을 강조하는 '포스트 소버린 AI' 3단계 국가전략이 제시됐다. AI 인프라 보유 자체보다 기업의 생산성 향상과 민간 AX 전환이 핵심이라는 제언이다.포티투마루(42Maru, 대표 김동환)는 9일 서울 대한상공회의소에서 열린 '2026 제3차 글로벌 디지털 포럼'에서 포스트 소버린 AI 국가전략을 발표했다.정보세계정치학회(KAWPI)와 서울대학교 미"
   },
   {
+    "id": "5012b098d83eb9a4",
+    "title": "\"트럼프, 전쟁 기간 중 에너지주식 매매로 최대 59억 벌어\"",
+    "link": "https://www.hankyung.com/article/202609095058i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-09T14:58:40.000Z",
+    "snippet": ""
+  },
+  {
     "id": "ca4aa495deb350fa",
     "title": "\"데이터센터 특구 지정·전력 인허가는\"...과기부, AIDC특별법 하위법령 논의 착수",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215050",
@@ -248,6 +338,66 @@
     "category": "AI",
     "publishedAt": "2026-09-09T14:52:56.000Z",
     "snippet": "LG CNS(대표 현신균)는 '지능형 검진센터 도입을 위한 착수보고회'를 열고, 차움 건강검진센터에 AI 에이전트를 적용한다고 9일 밝혔다.LG CNS는 검진 업무에 특화된 AI 에이전트를 개발하고, 차움이 실제 현장에 적용해 업무 효율성과 활용 가능성을 검증하는 개념검증(PoC)을 추진한다.고객의 검진 이력 분석부터 맞춤형 검사 추천, 결과 작성, 사후관리 안내까지 검진 업무 전반에 AI를 적용해 고객관계관리(CRM), 전자"
+  },
+  {
+    "id": "9090fd82a9d923d5",
+    "title": "나는 Google Ads에 ‘악성 소프트웨어’를 광고한다",
+    "link": "https://news.hada.io/topic?id=33445",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-09T14:48:37.000Z",
+    "snippet": "직접 만든 macOS 터미널 앱 RACE를 홍보하려고 Google Ads에 500달러를 쓴 개발자가 ‘악성 소프트웨어’와 ‘침해된 사이트’를 이유로 광고 계정을 정지당함 Google은 무엇이 악성이며 어디가 침해됐는지 알려주지 않은 채 새로운 증거를 요구했고, 이의신청을 반..."
+  },
+  {
+    "id": "4e30f35613b66c86",
+    "title": "Tailwind Labs, Shopify에 합류",
+    "link": "https://news.hada.io/topic?id=33444",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-09T14:45:37.000Z",
+    "snippet": "수백만 사용자가 의존하는 Tailwind CSS를 개발중인 Tailwind Labs가 장기적인 개발과 유지보수 기반을 확보하기 위해 Shopify에 합류함 Tailwind CSS와 다른 오픈소스 프로젝트는 MIT 라이선스와 기존 개발팀을 유지하며, Shopify의 지원 아래 개발을 계속함 ..."
+  },
+  {
+    "id": "c7018469ed7ae4f6",
+    "title": "베선트, 금리는 \"나에게 베팅\"…엔화 강세에 발목 잡힌 반도체 [박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202609095052i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-09T14:44:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "deceb7f527ebf9cb",
+    "title": "DeepSeek, V4 Pro보다 저렴하고 성능이 뛰어난 V4.1 Flash 출시 예정",
+    "link": "https://news.hada.io/topic?id=33443",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-09T14:42:37.000Z",
+    "snippet": "DeepSeek은 내부·외부 테스트에서 V4 Pro의 모든 주요 지표를 넘어선 V4.1 Flash를 2026년 9월 10일 전후(베이징 시간) 정식 출시할 계획임 비교 지표는 성능·비용·속도·작업 완료 시간이며, 구체적인 벤치마크 수치나 테스트 조건은 공개하지 않..."
+  },
+  {
+    "id": "0b82e4d80cec3fc1",
+    "title": "Claude, &quot;Add to Cart&quot; 버튼을 파란색으로 바꿔 줘",
+    "link": "https://news.hada.io/topic?id=33442",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-09T14:39:37.000Z",
+    "snippet": "Opusfived는 버튼 색상 하나를 바꾸는 단순한 요청과 AI의 범위 밖 변경을 소재로 한 짧은 인터랙티브 코미디임 요청은 “Add to Cart” 버튼을 파란색으로 바꾸는 것으로, 대상과 바꿀 속성이 명확함 작업에는 다른 것은 아무것도 바꾸지 않아야..."
+  },
+  {
+    "id": "ac8ebec27613776e",
+    "title": "100달러 넘어선 유가에 금리인상 우려…美증시 하락",
+    "link": "https://www.hankyung.com/article/202609095050i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-09T14:31:49.000Z",
+    "snippet": ""
   },
   {
     "id": "6dcfed4a4ea184b2",
@@ -3060,6 +3210,16 @@
     "snippet": ""
   },
   {
+    "id": "d3c567746427b8bf",
+    "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-08T21:00:00.000Z",
+    "snippet": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드"
+  },
+  {
     "id": "e4d1f763cf17bc8b",
     "title": "LG TV, 오프라인·대기 모드에서도 감시한 사실 드러나",
     "link": "https://news.hada.io/topic?id=33372",
@@ -4838,165 +4998,5 @@
     "category": "경제",
     "publishedAt": "2026-09-08T05:53:48.000Z",
     "snippet": ""
-  },
-  {
-    "id": "75fa949a1e2b3a1c",
-    "title": "한화에어로스페이스, 용인에 첫 'GPU 팜'…국방AI 개발 속도",
-    "link": "https://www.hankyung.com/article/202609079068i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T05:52:11.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "17e1c307b29bd31f",
-    "title": "[단독] 현대차그룹, 휘발유·HEV용 자율주행차 개발",
-    "link": "https://www.hankyung.com/article/202609081368i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T05:44:48.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "7e42ec9de3ea33e8",
-    "title": "\"내년엔 하루 27척만 지나갈 수도\"…전 세계 물류업계 '초비상'",
-    "link": "https://www.hankyung.com/article/202609081364i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T05:40:45.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "b12acfb2b7e186b5",
-    "title": "토론토에 또 비바람...9일 강풍 예보 - 캐나다 한국일보",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnWjlRZElSd1NUVVNlVHgtc0duX1RldVFWeFlmdVMtSTB1U3FPNGJLb0d6S2hqR2xTUGVxOW1WUld0Vk1KVWZuNEV5S0hjSVgzYnMxMlM3MkJPOHZUVHZ5Mi1jaGlOUQ?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-08T05:37:00.000Z",
-    "snippet": "토론토에 또 비바람...9일 강풍 예보 캐나다 한국일보"
-  },
-  {
-    "id": "f0299c0f19f3e901",
-    "title": "군산시 보건소, ‘한방 난임부부 지원사업’ 추가 모집 - nspna.com",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13SmUyZEs4Rk1HQmxSQm1Zb3VkeVpsd2xpcWpaLWM4Sm5ERDg0S0tCbHlVWEo0eF9KYUJQTURfdG1NSk9NZGw4ckFJdmtEa0ZQNGpzTVMyal8yRV9JenExOA?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-08T05:27:41.000Z",
-    "snippet": "군산시 보건소, ‘한방 난임부부 지원사업’ 추가 모집 nspna.com"
-  },
-  {
-    "id": "6095dc8cbd92b063",
-    "title": "“엄살이 아니고, 손님 늘어도 남는게 없어요”…매출보다 비용 더 뛴 골목상권",
-    "link": "https://www.mk.co.kr/news/economy/12147021",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T05:20:19.000Z",
-    "snippet": "소상공인 이익률 2분기째 하락 대출 연체액 15.2조...4.3% 증가소상공인의 매출이 1년 전보다 늘었지만 지출이 더 빠르게 증가하면서 이익률은 2분기 연속 전년 동기보다 하락한.."
-  },
-  {
-    "id": "9ebd5a39a4816196",
-    "title": "차 살 때 대출·할부 어디가 유리할까…카카오뱅크, 비교 서비스 출시",
-    "link": "https://www.mk.co.kr/news/economy/12147020",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T05:20:08.000Z",
-    "snippet": "카카오뱅크는 8일 신차와 중고차 구매에 필요한 대출·할부 조건과 카드 캐시백 등을 비교할 수 있는 자동차 금융 서비스를 선보인다고 밝혔다. 중고차를 살 때는 카카오뱅크의 중고차 구.."
-  },
-  {
-    "id": "07d927c91ad90b07",
-    "title": "개발만 하던 AI칩, 대량생산으로…세미파이브 삼성 4나노 첫 양산",
-    "link": "https://www.hankyung.com/article/202609081297i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T05:17:54.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "35e84a393024fc08",
-    "title": "\"감기약만 팔아선 안 된다\"…K의약품에 '특명' 떨어진 까닭",
-    "link": "https://www.hankyung.com/article/202609081256i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T05:10:46.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "9a21c1c49538590c",
-    "title": "경기TP K-Food 비관세장벽 해소지원 참여기업 모집 - 안산뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sN3ZWb3hhU01UZTFRek05R0kwRXdtSFZESG1MdzF2eVRJanhpRkYxVmtLeEhwUzFfYkRUZjd5bFZXYUttaVJ2cWVLQ3NkUVJRU3NFdjdiajhLbG1fMWZ4RmJYbVJKcksxamVVOA?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-08T05:04:19.000Z",
-    "snippet": "경기TP K-Food 비관세장벽 해소지원 참여기업 모집 안산뉴스"
-  },
-  {
-    "id": "4ac2482beb353cd2",
-    "title": "경기도시장상권진흥원, 1인 소상공인 고용보험료 지원사업 2차 신청자 모집 - 웹이코노미",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51QXZBR1VmZ1JrUXNKVFlvMlB6QzdtMmF4NHlBWUxxVW5TQ1NRSWkwOGpneW1TZDdjSmxtdnp5aUJETE9zTXcyV1NUWDNIcVFkd3NqT3MzYlRvZUIwMlVHa0lwcU9GQ0E4bWh3UnlsM3pkdw?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-08T04:58:42.000Z",
-    "snippet": "경기도시장상권진흥원, 1인 소상공인 고용보험료 지원사업 2차 신청자 모집 웹이코노미"
-  },
-  {
-    "id": "468bd17542a5440a",
-    "title": "\"이게 삼다수 맞아요?\"…편의점서 생수 사려다 '당혹' [권용훈의 트렌드워치]",
-    "link": "https://www.hankyung.com/article/202609081222i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T04:58:35.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "42c3b8b8ff97ac7d",
-    "title": "[속보] 내년 건강보험료 안 오른다…보험료율 7.19% 동결",
-    "link": "https://www.hankyung.com/article/2026090811817",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T04:41:30.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "fad07a5eaef5d584",
-    "title": "국민참여성장펀드 2차 이달 30일 출시…서민 물량 50%",
-    "link": "https://www.hankyung.com/article/2026090807336",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T04:41:22.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "aa70f585ce9039b3",
-    "title": "퇴직연금 디폴트옵션 첫 순유출…2분기 1.4조 감소",
-    "link": "https://www.hankyung.com/article/202609081009i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-08T04:40:01.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "776b013ea6603db1",
-    "title": "부산교육청, 2027 학부모 동아리·학교참여 사업 모집 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wbjhYSVVjUXp0SVBDS3BEZHIyeWp2VzktdjQ5aE1KV19OQmNTdzhLbXN0bnJ3V0ZSS2tuX3p3c2tSQ2R5UlE4UFRMYjVaMFJrcHV0MkJSbEJQOFRTdjFROG9QTVNuNmVxcndsbk9B?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-08T04:27:05.000Z",
-    "snippet": "부산교육청, 2027 학부모 동아리·학교참여 사업 모집 gukjenews.com"
   }
 ]

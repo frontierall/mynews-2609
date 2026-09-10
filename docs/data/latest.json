@@ -1,5 +1,55 @@
 [
   {
+    "id": "d823c31c0c1a45b2",
+    "title": "“매년 880만원 아끼는데 안해요?” … 파이어족 다들 한다는데",
+    "link": "https://www.mk.co.kr/news/stock/12149438",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T20:00:00.000Z",
+    "snippet": "레버리지에서 커버드콜로 머니무브“커버드콜 2만주 있으면 마음 놓고 은퇴하는데 왜 안하는지 모르겠어요”. 최근 대기업 IT 회사를 ‘쿨하게’ 그만둔 김모 씨(56)는 이처럼 말하면서.."
+  },
+  {
+    "id": "73487937d1425451",
+    "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-09-10T20:00:00.000Z",
+    "snippet": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle"
+  },
+  {
+    "id": "46a285240c0970f1",
+    "title": "Cognition, Fable 5.1·GPT-Astra에 필적하는 코딩 모델 SWE-2 출시",
+    "link": "https://news.hada.io/topic?id=33494",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T19:42:59.000Z",
+    "snippet": "2.8조 매개변수 Kimi K3를 후속 학습한 SWE-2는 FrontierCode 1.1 Main에서 50.0%를 기록해 Fable 5.1과 0.9%p 차이를 보이면서도 비용은 64% 낮음 추론 노력 수준별로 기반 모델의 비용·성능 곡선 기울기에 맞춘 선형 비용 페널티를 적용해, 한 ..."
+  },
+  {
+    "id": "0594c96ab4898aca",
+    "title": "소프트웨어가 사람들을 미치게 만든다는 가설",
+    "link": "https://news.hada.io/topic?id=33493",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T19:39:59.000Z",
+    "snippet": "소프트웨어에 결합된 속도·돈·복잡성·추상화·거의 무제한적인 변경 자유가 평범한 사람들의 균형 감각을 무너뜨릴 수 있다는 가설임 변경 비용이 눈에 보이지 않고 때로는 실제로 저렴하기 때문에, “할 수 있다”가 “해야 한다”로 바뀌며 아이디어마다 긴급한 ..."
+  },
+  {
+    "id": "48aadb466f5f3088",
+    "title": "미공개 수학 연구를 OpenAI에 믿고 맡길 수 있는가, 추가 의문",
+    "link": "https://news.hada.io/topic?id=33492",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T18:33:38.000Z",
+    "snippet": "Andreas Thom은 동료와 ChatGPT에서 논의한 미공개 수학 연구가 OpenAI의 새 수학적 결과 도출에 활용됐는지 물었지만, 학습 데이터 편입과 풀이 중 접근을 구분한 답변을 받지 못했다고 비판함 계기는 OpenAI의 비소픽 군(non-sofic group) 발견 발표"
+  },
+  {
     "id": "309f38177883fe99",
     "title": "앤트로픽, 클로드 API 비용 절감 방법 공개…‘지침 부채’ 없애고 캐싱 활용",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215093",
@@ -28,6 +78,16 @@
     "category": "AI",
     "publishedAt": "2026-09-10T17:43:05.000Z",
     "snippet": "오픈AI의 '불량 AI 에이전트'들이 자체적인 외부 게시 제한을 우회해 최소 10곳 이상의 제3자 웹사이트를 비공식 통신 채널로 활용한 정황이 추가로 드러났다. 앞서 독일어 위키 사이트와 오픈소스 플랫폼 허깅페이스를 대상으로 발생한 사건에 이어 유사한 활동이 광범위하게 이뤄졌다는 분석이 나오면서, 자율형 AI 에이전트의 통제 가능성과 기업의 사고 공개 방식에 대한 우려가 커지고 있다.9일(현지시간) 로이터가 검토한 6개 독립 "
+  },
+  {
+    "id": "e555986e4c51e079",
+    "title": "Planet Labs의 공개 위성 영상 피드",
+    "link": "https://news.hada.io/topic?id=33491",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T17:34:51.000Z",
+    "snippet": "자연재해와 인재 직후의 지표를 살펴볼 수 있는 Disaster Data는 일부 위성 영상과 Parquet·JSON 메타데이터를 공개해 DuckDB와 QGIS에서 탐색·분석할 수 있게 함 자료는 재난 전·후 영상으로 나뉘고 사건별로 제공 자산이 다르며, 콜롬비아와 베..."
   },
   {
     "id": "b2fe4377f17e5e4e",
@@ -568,6 +628,16 @@
     "category": "경제",
     "publishedAt": "2026-09-10T12:38:05.000Z",
     "snippet": ""
+  },
+  {
+    "id": "72484bfae4d0c6b1",
+    "title": "광양시, 제조기업 AI 전환 지원…참여기업 모집 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UdFB0dGdsRUQ1R0Q1aXpYS0o5RUY5UUdpODlqSVpYQk5iMl96TjVkdFZtTEZMNG85bS0yWG5Tck5IcTI3TkZEa3ZqM09JOExUNmluRVV4bkR0cnlqNWV2QjlEeWFUZldKRXVLckVDOTU?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-10T12:15:00.000Z",
+    "snippet": "광양시, 제조기업 AI 전환 지원…참여기업 모집 > 뉴스 더코리아"
   },
   {
     "id": "49df00f26890d5f1",
@@ -1498,6 +1568,16 @@
     "category": "AI",
     "publishedAt": "2026-09-10T07:00:00.000Z",
     "snippet": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
+  },
+  {
+    "id": "016c3ec9b775a98e",
+    "title": "Introducing ChatGPT for Financial Services",
+    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-10T07:00:00.000Z",
+    "snippet": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
   },
   {
     "id": "8d9d2de1e3a8baf3",
@@ -2508,6 +2588,16 @@
     "category": "AI",
     "publishedAt": "2026-09-10T00:00:00.000Z",
     "snippet": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+  },
+  {
+    "id": "2b26a8066576cc98",
+    "title": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-10T00:00:00.000Z",
+    "snippet": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
   },
   {
     "id": "ea07f303c171cc17",
@@ -4908,95 +4998,5 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-09T05:19:44.000Z",
     "snippet": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 서울경제TV"
-  },
-  {
-    "id": "dab060747d1041d0",
-    "title": "영광군 '민박체험 관광지화사업' 참여자 모집 - theleader.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpNEdXNmEzQlpZT0xsX2lFZDFscU5SLWE3MWNrNUxhTTVTUDFsNFZQbUlYTlRSSUVFOElRNDd0cnNhLS1YR0Z4R1ptby1GUnptSm5MUHI5Ui1CTjNXNGZGcUIxeHhGU01Mcko4dw?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-09T05:17:18.000Z",
-    "snippet": "영광군 '민박체험 관광지화사업' 참여자 모집 theleader.co.kr"
-  },
-  {
-    "id": "07282504132ab9c9",
-    "title": "와사비 넣은 딤섬이 냉동만두로…고향만두 '와샤오롱' 출시 [갓신상]",
-    "link": "https://www.hankyung.com/article/202609093785g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-09T05:15:08.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "b34176226513163f",
-    "title": "KB금융, BS그룹과 업무협약…인프라 금융 확대",
-    "link": "https://www.hankyung.com/article/202609093217i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-09T05:13:25.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "a16b3b7b7abf65ce",
-    "title": "\"살균 효과 미흡\"…식약처, 손소독제 100개 조사해보니",
-    "link": "https://www.hankyung.com/article/202609093891g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-09T05:12:28.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "361ad77d8c7b41b2",
-    "title": "[단독] \"수천억 날릴 판\"…주 52시간에 발목 잡힌 K원전 '비명'",
-    "link": "https://www.hankyung.com/article/202609093657i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-09T05:10:43.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "7e4520410fac5dc4",
-    "title": "[충남권 날씨예보] 대체로 맑음…아침 13~17도 ‘쌀쌀’ - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UN2lhMFhzbFFvNEJpOTM3ZTR0NElYVzJqcTZXc1BMYkJYT2gtTE5uREZ2eEZETzVSc3UwRDFzNFRscGhXY3pOd1g2UEtuTEdmYTZMNzFMa1NnamY2Nlg3NEYxQXFGTTN0VFFyTVFpMGrSAXRBVV95cUxNVmloZHBrME02OWVSd2xCczV5NUZCRGx6RU1ETXQ0SF9OcXRmeEx0REJZdHpzNjJjalAwQ0pjM281LXM0bDZ0bm5TUnFMSWNpQVN1Y1c2aVVmZGlZajVtNGhqejJfUUxRNmtqRmg1eFYzeEd1Rw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-09T05:10:37.000Z",
-    "snippet": "[충남권 날씨예보] 대체로 맑음…아침 13~17도 ‘쌀쌀’ thefairnews.co.kr"
-  },
-  {
-    "id": "30c565c2583bba07",
-    "title": "신용대출 줄어든 사이 주담대는 4조3000억원 늘어",
-    "link": "https://www.mk.co.kr/news/economy/12148186",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-09T05:04:36.000Z",
-    "snippet": "지난달 금융권 가계대출은 2조6000억원 늘어 한 달 전보다 증가 규모가 크게 줄었다. 신용대출 잔액이 감소한 영향이 컸다. 반면 주택담보대출은 4조3000억원 늘어 증가 폭이 오.."
-  },
-  {
-    "id": "899b99271ec197ad",
-    "title": "에이피알 \"경영 효율화\"…생산 자회사 에이피알팩토리 흡수합병",
-    "link": "https://www.hankyung.com/article/202609093857g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-09T05:01:22.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "f7b3e11252ff4107",
-    "title": "\"이 가방, 경찰 제복이었네\"…소각 대신 새활용 제품 변신",
-    "link": "https://www.hankyung.com/article/202609093681i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-09T05:00:07.000Z",
-    "snippet": ""
   }
 ]

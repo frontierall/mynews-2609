@@ -1,5 +1,235 @@
 [
   {
+    "id": "607b2270aca03dd4",
+    "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215118",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-11T07:43:08.000Z",
+    "snippet": "오픈AI가 'GPT-6 아스트라'에 대한 폭발적인 수요로 인해 서버 과부하가 발생하자 최상위 유료 요금제 신규 가입을 전격 중단했다.티보 소티오 오픈AI 제품 담당 책임자는 10일(현지시간) X를 통해 \"기존 사용자들이 최상의 경험을 누리고 아스트라 서비스를 계속 안정적으로 이용할 수 있도록 프로 플랜 구독을 일시 중단한다\"고 밝혔다.이에 따라 월 200달러(국내가 15만9000원)의 최상위 요금제인 '챗GPT 프로' 플랜에 "
+  },
+  {
+    "id": "9665119e45010d48",
+    "title": "[9월10일] 애플 새 CEO 첫 무대…“AI 시대에도 결국 아이폰이 개인 AI 허브”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215083",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-11T07:00:00.000Z",
+    "snippet": "존 터너스 애플 신임 CEO가 취임 후 처음 대중 앞에 섰습니다. 9일(현지시간) 애플파크에서 열린 약 90분의 신제품 행사에서 터너스가 직접 무대에 오른 시간은 약 16분으로, 오프닝과 AI 비전, 첫 폴더블 아이폰 ‘아이폰 듀오’ 공개, 클로징을 직접 맡았습니다.그가 가장 강조한 것은 의외로 새로운 AI 기기나 기능이 아니었습니다. 최근 오픈AI와 메타 등이 AI 전용 안경을 비롯한 새로운 AI 디바이스를 내놓으며 ‘스마트"
+  },
+  {
+    "id": "f115400bec2089d8",
+    "title": "Siri Recaps로 일상 대화를 상시 청취하는 Apple Watch",
+    "link": "https://news.hada.io/topic?id=33503",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T23:33:15.000Z",
+    "snippet": "Siri Recaps는 Apple Watch 센서로 대화를 포함한 하루의 활동을 요약하는 Audio Intelligence 기능으로, 회의 기록의 편의성과 주변인의 프라이버시 우려가 맞물림 Apple에 따르면 원본 오디오는 녹음·저장하지 않고 Siri가 실시간으로 처리해 실행에 옮길 수 있는..."
+  },
+  {
+    "id": "fcd2aa132e792273",
+    "title": "이번 주말 날씨, 나들이 괜찮을까…기상청 예보 봤더니 - wikitree.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYZWpOajZyVGZ3RHVXczBJWEcyYXBrNEdFQjh3T0FOZ3BUMnlXdUZ2S2dBcjFJVmdWRWFjdUFDVXlfRFU1UkloMEVSdS16NTN6RS16dWln?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T23:07:00.000Z",
+    "snippet": "이번 주말 날씨, 나들이 괜찮을까…기상청 예보 봤더니 wikitree.co.kr"
+  },
+  {
+    "id": "f3ea8fe2d91ff84c",
+    "title": "오늘(9월 11일) 날씨 예보: 베트남 중부 지역에 폭우가 예상되니 주의하세요. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNG1qTkxmdzQ1QTVGQ096Q3ZVWG5vSFdDbHhBM0NtQWRHZ1lLemNyWDZvWFVwRmg5czA2X01oakUxOVhzbHg2NUVwX1UzRkotZHN0Y1lPYmcySVNsRElMQ0hWUHFraUp1ZXFFOHI3bDMxZVZNbVFQazhYNkxISk0?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T23:02:44.000Z",
+    "snippet": "오늘(9월 11일) 날씨 예보: 베트남 중부 지역에 폭우가 예상되니 주의하세요. Vietnam.vn"
+  },
+  {
+    "id": "e4c6fc97dd9f42b8",
+    "title": "나는 인터넷이 싫은 것 같다",
+    "link": "https://news.hada.io/topic?id=33502",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T22:40:32.000Z",
+    "snippet": "Meta 서비스 탈퇴 경험과 Sarah Wynn-Williams의 『Careless People』을 읽은 충격이, 사람을 연결한다던 인터넷이 삶에 지나치게 깊숙이 들어왔다는 개인적 반감으로 이어짐 Facebook·Instagram·WhatsApp을 떠난 뒤에도 서비스가 그립지 않으며, 가치 낮은 콘텐츠 소비"
+  },
+  {
+    "id": "9e4808854bbb98de",
+    "title": "Neki — PlanetScale의 샤딩 기반 Postgres 서비스",
+    "link": "https://news.hada.io/topic?id=33501",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T22:37:32.000Z",
+    "snippet": "단일 머신의 한계에 도달한 Postgres를 여러 머신으로 확장하는 Neki가 플랫폼 프리뷰로 공개됨. 각 샤드에서 실제 Postgres를 실행하는 PlanetScale의 서비스임 애플리케이션은 표준 Postgres 와이어 프로토콜로 라우터에 연결하며, 기존 드라이버·ORM·연결 문자열..."
+  },
+  {
+    "id": "071989a301a5884a",
+    "title": "Burger King wants to promote its “Whopper Guarantee,” so it enlisted Rhett and Link as taste testers (Exclusive)",
+    "link": "https://www.tubefilter.com/2026/09/10/burger-king-rhett-and-link-good-mythical-morning-whopper-guarantee/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-10T22:27:31.000Z",
+    "snippet": "Rhett and Link have had a lot of airtime to fill over the 14-year run of their show Good Mythical Morning, and the humble taste test has emerged as one of the duo’s most reliable segments. On YouTube, viewers can watch dozens of “food feuds"
+  },
+  {
+    "id": "5004dc21473266d3",
+    "title": "[공항날씨] 제주공항 오늘·내일 강풍…최대순간풍속 25노트 예보 - 공감신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OTk12VnlLOGhnUFc3VzdSNGM5VTg1SnNpYkpQMEhpVnlTMENGR29JOVRyTGZGQkNBS0gyN2s4TDJIbEhoNmtyZkpqWEFSc3RkakpzNTFDVnp4eDF5S29LNnRvcmNPajNS?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T22:17:55.000Z",
+    "snippet": "[공항날씨] 제주공항 오늘·내일 강풍…최대순간풍속 25노트 예보 공감신문"
+  },
+  {
+    "id": "5722ecbd637ad9dd",
+    "title": "ChatGPT Pro 구독 일시중단",
+    "link": "https://news.hada.io/topic?id=33500",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T22:06:06.000Z",
+    "snippet": "Tibo 예고대로 200달러 플랜의 일시중단 100달러 플랜과 기존 구독자는 아무런 영향이 없음 ..."
+  },
+  {
+    "id": "0505f77d66c66463",
+    "title": "고작 0.5%p 격차…삼성, 파운드리 2위 자리도 '흔들'",
+    "link": "https://www.hankyung.com/article/202609107434i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T22:00:10.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "825d9f23094917cd",
+    "title": "\"삼성·SK 가자\" 대학생들 난리…떴다 하면 순식간에 '완판'",
+    "link": "https://www.hankyung.com/article/2026091073231",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T22:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d2af4f3a8f2222af",
+    "title": "도산공원 옆 들어선 거대한 텐트…내부엔 '웨어러블 기어' 천국",
+    "link": "https://www.hankyung.com/article/202609107693i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T22:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5eb5e5def256008f",
+    "title": "IMDb’s “digital creator” label lets artists “represent the full scope of their work in one place”",
+    "link": "https://www.tubefilter.com/2026/09/10/imdb-internet-movie-database-digital-creator-label/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-10T21:54:48.000Z",
+    "snippet": "The Internet Movie Database is as old as the World Wide Web itself, and as it enters its 36th year of activity, it is getting an important update. For the first time, the website known as IMDb is adding labels that identify various types of"
+  },
+  {
+    "id": "c89c2edb5602d05f",
+    "title": "김정관, 美 도착…\"대미 투자 협상 마무리하기 위해 왔다\"",
+    "link": "https://www.hankyung.com/article/2026091177877",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T21:50:27.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c90e8ef4e8f51590",
+    "title": "록 밴드 Muse, Meta의 새 AI 도구에 소셜 미디어 계정명 빼앗겨",
+    "link": "https://news.hada.io/topic?id=33499",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T21:49:13.000Z",
+    "snippet": "기술 지배의 미래를 경고해 온 록 밴드 Muse가 X와 Instagram의 계정명을 이번 주 출시된 Meta의 동명 개인용 AI 도구에 넘긴 것으로 보여 팬들이 반발함 밴드의 계정명은 X에서 @Musetheband, Instagram에서 @museband로 바뀌었..."
+  },
+  {
+    "id": "9025bcc003f65e72",
+    "title": "누구도 당신의 커다란 케이블 상자를 가져가지 못하게 하라",
+    "link": "https://news.hada.io/topic?id=33498",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T21:46:04.000Z",
+    "snippet": "10년 넘게 보관한 케이블 두 개를 마침내 썼다는 Tyler Gaw의 게시물에 공감한 Jim Nielsen이, 케이블을 보관하는 이유를 기억하려고 그 게시물을 자신의 상자 앞면에 붙임 Gaw는 상자 바닥에서 필요한 케이블을 찾아내며, “이걸 대체 언제 쓸 건데?”라는 질문에 “바로 오..."
+  },
+  {
+    "id": "bf101575b69d7a4e",
+    "title": "Lotus Notes와 모든 것을 처음부터 만드는 것의 위험",
+    "link": "https://news.hada.io/topic?id=33497",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T21:43:04.000Z",
+    "snippet": "1989년 출시된 Lotus Notes는 암호화, 첨부파일, 알림과 메시지 동기화를 갖춰 오늘날의 Slack과 이메일, 사내 앱 개발 도구를 합친 듯한 협업 환경을 제공함 이메일 전용 프로그램이 아니라 공유 데이터베이스 위에 일정, 토론, 주소록과 업무용 앱을 만드는 플랫폼"
+  },
+  {
+    "id": "ecbad64c1c522977",
+    "title": "화성을 위한 NASA의 색상 보정 기법, 이제 지구의 암벽화를 드러내다",
+    "link": "https://news.hada.io/topic?id=33496",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T21:40:03.000Z",
+    "snippet": "NASA가 원격탐사·위성 영상 해석을 위해 개발한 비상관 스트레칭(decorrelation stretch) 이 고대 암벽화에서 보이지 않던 형상과 세부 묘사를 찾아내는 데 쓰이고 있음 단순히 대비를 높이는 대신 원래 색상을 더 넓은 색상 범위로 변환하며, 신호 정보를 적은 수..."
+  },
+  {
+    "id": "4db19fce9e0f9548",
+    "title": "\"이러다 제주 경제 폭망한다\"…'범죄의 섬' 낙인에 '초비상' [불신 청구서]",
+    "link": "https://www.hankyung.com/article/202609107125H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T21:30:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e0e024361ef65421",
+    "title": "According to YouTube, the mainstream isn’t dead. It just looks different than it used to.",
+    "link": "https://www.tubefilter.com/2026/09/10/youtube-culture-and-trends-report-mainstream-not-dead/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-10T20:49:38.000Z",
+    "snippet": "In an era defined by siloed feeds and hyperspecific recommendations, numerous commentators have argued that the mainstream is a thing of the past. Cultural touchstones like the song of the summer are stuck in the previous decade, and the mo"
+  },
+  {
+    "id": "2fe4ee735dd66ce5",
+    "title": "유가·국채금리 급등에 무너진 투심…美 3대증시 하락 [월가월부]",
+    "link": "https://www.mk.co.kr/news/economy/12150011",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T20:35:14.000Z",
+    "snippet": "호르무즈·홍해 봉쇄 우려에 브렌트유·WTI 100달러 돌파이란전쟁이 확전과 장기전 양상으로 흘러가면서 국제유가가 또다시 100달러를 돌파하며 인플레이션 우려가 확산되는 가운데 미.."
+  },
+  {
+    "id": "a2d27ae9d6f61f73",
+    "title": "'광양 제조 산업 AI융합 실증 지원 사업’ 참여기업 모집 - gmitoday.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hb1VQYXFienNLQTg2RkY0azlpamJiLVBDczh5clROcnI0ZzdWQTZSMEpDT1BtRWdkVmZuT0N6LUE2OUtvR2lQZ0NRM3daLWpwNUlEV0pxc2tJTERGYi1zcmRuYnpqN0NXY2c?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-10T20:30:23.000Z",
+    "snippet": "'광양 제조 산업 AI융합 실증 지원 사업’ 참여기업 모집 gmitoday.com"
+  },
+  {
     "id": "d823c31c0c1a45b2",
     "title": "“매년 880만원 아끼는데 안해요?” … 파이어족 다들 한다는데",
     "link": "https://www.mk.co.kr/news/stock/12149438",
@@ -20,6 +250,26 @@
     "snippet": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle"
   },
   {
+    "id": "392622344d958761",
+    "title": "​[기상속보]오늘날씨 아침 최저 10도 일교차 주의 서울 낮 28도 해안가 풍랑·너울 유의...주말예보 - 퍼블릭타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IN3ZJMkkyOXh6UzJLNHpyaWZ3a3FmZmoyM05WaXN3ZGNkWjdESDZ2TGhvaDNOcHAzWmxMNUxaNmhYRUpnU1Z6OWNxVG5ublRicjk5d3pFNXlvb3BWN2I5VFI1RDZSQ0paWlHSAW5BVV95cUxNVVJwTmd5R3lWUEZUdGFZdFhUTkxORnJXeXZ1a1ZVU283c25ZdDQzcEo3RktsQ2txZGlrZWs1MjFqckpSUUllaXE4aTZEY25PUmlySWFaUFEtdk56eFY0N3BlcGNOa29NNzdOcERBZw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T20:00:00.000Z",
+    "snippet": "​[기상속보]오늘날씨 아침 최저 10도 일교차 주의 서울 낮 28도 해안가 풍랑·너울 유의...주말예보 퍼블릭타임스"
+  },
+  {
+    "id": "79be8a56e6c9f540",
+    "title": "5등급 노후경유차 조기폐차 지원사업 종료 예정 - 고성미래신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04OEVEa3g1UkVEcTlDV0V0RXRYelZ3aW9nd2RRN2JsSnJqdXowUE5TTzE0Q1dqWldwUWRlaTVyV2hGQmhZRmxwZkJSVUFnT25Rdzl4dE9FcHlnQmZ6ZnpTb001aUZHWEtK?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-10T19:53:44.000Z",
+    "snippet": "5등급 노후경유차 조기폐차 지원사업 종료 예정 고성미래신문"
+  },
+  {
     "id": "46a285240c0970f1",
     "title": "Cognition, Fable 5.1·GPT-Astra에 필적하는 코딩 모델 SWE-2 출시",
     "link": "https://news.hada.io/topic?id=33494",
@@ -38,6 +288,56 @@
     "category": "개발",
     "publishedAt": "2026-09-10T19:39:59.000Z",
     "snippet": "소프트웨어에 결합된 속도·돈·복잡성·추상화·거의 무제한적인 변경 자유가 평범한 사람들의 균형 감각을 무너뜨릴 수 있다는 가설임 변경 비용이 눈에 보이지 않고 때로는 실제로 저렴하기 때문에, “할 수 있다”가 “해야 한다”로 바뀌며 아이디어마다 긴급한 ..."
+  },
+  {
+    "id": "d1852d88c9455d83",
+    "title": "[강원도 날씨예보] 아침 최저 8도…일교차 최대 15도 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVLVVUOVlIRzM4V09SX21ZNTl2MlgxZFE1OXJiMVZKVEExYUVqVVMwX0x5WWlMSlBsRks1THN5bXd4bkJfUGhZUXlLUXBfX3JYVGhidFMxQ1BpTWNER2dHWUYwOHhBNV9xY0prVmpIak_SAXRBVV95cUxQeGtIYjhNMVY4ZU42X1dLNWR0UWJRRmtKVEVpeGg2UEJWcHJVU2F5XzE1MUttSGhJNW9ka0VQUUFPUkt4UUc1VWZWMjBQelExUGlpNmFlRmFQVmc4eU41N195aGFNZ0NQTzY4ZHZBU1lGc2Faaw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T19:30:00.000Z",
+    "snippet": "[강원도 날씨예보] 아침 최저 8도…일교차 최대 15도 thefairnews.co.kr"
+  },
+  {
+    "id": "5cf85b7cdaa59f47",
+    "title": "[대전·세종·충남 날시예보] 대체로 맑음 일교차 10도 안팎 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBndVdvc3gzTXdUVGJkcmV0djU1ZHpmcjgyX2dFVVZ0QkRKcWp6cDJzVmppNFNjOXFkRGtLaUJjb19DdlBia2J5bHdhWUI0TkV2LVpDNkdpYmNqZnNjTlJhc0tyQVdfSTdJckUtUjE4anrSAXRBVV95cUxOZlJlOEZ0ajBrLTJzbUROckNlU1pBemhEbllBc1J4OGU3ZldMNlpZVFFxQVFlRmR2c05rZERtX1BtQ2dESGY2RzFRdGdBUV9CcFZVT2NaX1dlWXEyeHE2Z1VjTGxjWndDTG8zTXJ2MFVGa0tPUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T19:25:00.000Z",
+    "snippet": "[대전·세종·충남 날시예보] 대체로 맑음 일교차 10도 안팎 thefairnews.co.kr"
+  },
+  {
+    "id": "7e3fe04755ed3624",
+    "title": "[광주·전남 날씨예보] 대체로 맑음…낮 최고 30도·큰 일교차 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mREdVdzZDaHNCaFBfNklRcHo2ZUpUQkk5c0pDUkkxMlpQRmZqWVl0Uk05eUliaUc5dUZ3S1pjRXliNW02TTdsTUNKZWZudFQxV3QtVWhSS0E3c3d4RUhTT2ZNejFEaHZIVWo5RTctN2nSAXRBVV95cUxPNFJIazZfekJKdFVMQ0lsaWVhUHcxMEt1T09vR1Mwc2JSWnBPakNVMWRnM0ZhM1lrekNkdm5kSE91RUVsbm9TcVJ2RVFrUUpCNXA1TFVLNVpLcENKR0lUaGl6ZVg5UjBIS29Wb2dPWl8xTjljTQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T19:20:00.000Z",
+    "snippet": "[광주·전남 날씨예보] 대체로 맑음…낮 최고 30도·큰 일교차 thefairnews.co.kr"
+  },
+  {
+    "id": "9c5ade8631bc90f3",
+    "title": "[부산·울산·경남 날씨예보] 내륙 일교차 최대 15도...남해·동해 먼바다 높은 물결 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uMnB3bS1ITVZRLUdqRTVwUFl3V3dDNHdOamlQeWcxZ1l2UEp3ZXpfdHRJdDFiN2pYWmdVeUdyVkJUNXFPU2Y3SEFqSjdPSk1QMHF0TzBXYndzaTV5UDNIcktyRTBZMTV6Wnc2ZmlNaGnSAXRBVV95cUxOamk3UldpRTFGSlpNSXoteHFpZF9uVVJ3Y0ZROUdBWFU5bVU4Rkl0bjA1ZUJUT1c2MHJlMzhWWEI4Ukx6SmFHNzVLTUJkX2VGWXZzWlZLSHg3a1NQTUt3OFRhWUdBbzZLdndITGR1WEl1anhtTQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T19:15:00.000Z",
+    "snippet": "[부산·울산·경남 날씨예보] 내륙 일교차 최대 15도...남해·동해 먼바다 높은 물결 thefairnews.co.kr"
+  },
+  {
+    "id": "c647da5c146bda31",
+    "title": "[수도권 날씨예보] 아침 11~16도 ‘쌀쌀’…일교차 최대 15도 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JNGJidUdQRnRtem1UWEpYWDlWLW1sSEV2Nl9zclYwdGI4OTI0dGRyUXpOcXVia0hIekhQWUQtZFJDSnlGdDFNcjl4bHE4SXF6bmQzRkxwdXJYdS02YkV5dXY1ZWpRNjI5MkJWREZPZnXSAXRBVV95cUxOUXhGLWx6eVhDbjFiVEk1Tl9GYjk4a0loMVBYTHU2Z1Q4TVZjNUhoYWJULW1hUUxnR1dOQ1BJVk8tSjA2Y2U5S3AwZXdqenlRZmxTSkx0cGYwOEplcmMxRGVwZGZGc2diaDlxZlE0c1l2aW52cQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T19:10:00.000Z",
+    "snippet": "[수도권 날씨예보] 아침 11~16도 ‘쌀쌀’…일교차 최대 15도 thefairnews.co.kr"
   },
   {
     "id": "48aadb466f5f3088",

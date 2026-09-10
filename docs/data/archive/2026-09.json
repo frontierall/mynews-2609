@@ -80,6 +80,36 @@
     "snippet": "최초의 AI 코딩 에이전트 ‘데빈(Devin)’을 개발한 코그니션(Cognition)이 불과 4개월 만에 기업 가치를 크게 높이며 또 한 번 대규모 자금 조달에 성공했다. 코그니션은 9일(현지시간) 20억달러(약 2조7000억원) 규모의 시리즈E 투자를 유치하며 기업 가치를 480억달러(약 64조원)로 끌어올렸다고 발표했다. 지난 5월 260억달러의 가치로 10억달러 이상을 조달한 지 불과 4개월 만에 몸값이 85% 급증한 것"
   },
   {
+    "id": "ab0b09391fcf1be8",
+    "title": "밴드 Muse, Meta의 새 AI 에이전트 Muse에 소셜 미디어 계정명을 빼앗김",
+    "link": "https://news.hada.io/topic?id=33490",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T16:55:52.000Z",
+    "snippet": "영국 록 밴드 Muse가 Instagram과 X에서 수년간 쓰던 계정명을 Meta의 새 AI 에이전트 Muse가 사용하게 됐지만, 이전 경위는 공개되지 않음 밴드는 두 플랫폼 모두 @museband로 계정명을 바꿨으며, Instagram 변경 시점은 보도와 팬들의 목격담이..."
+  },
+  {
+    "id": "518d813e846e61ae",
+    "title": "Hitachi, 태양광 친화적 전기요금제에 대응하는 CO2 히트펌프 온수기 출시",
+    "link": "https://news.hada.io/topic?id=33489",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T16:52:52.000Z",
+    "snippet": "태양광 발전 확대에 따라 낮 시간 온수 가열을 장려하는 일본 전기요금제에 맞춰, Hitachi Global Life Solutions가 요금제 대응을 확대한 EcoCute Y 시리즈를 공개함 일본 가정용 370리터·460리터 모델을 2026년 11월부터 순차 판매하며, 지원 요금제는 리모컨에서..."
+  },
+  {
+    "id": "ef80f8a5ed0bd250",
+    "title": "Sony 웹사이트에서 디지털 게임을 ‘소유한다’고 표현한 사례 목록",
+    "link": "https://news.hada.io/topic?id=33488",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T16:49:52.000Z",
+    "snippet": "Sony 공식 지원·상품·블로그 페이지는 업그레이드, 공유, 스트리밍, 리뷰 자격을 안내하며 ‘이미 소유한 게임’, ‘소유자’라는 표현을 쓰지만, 약관은 구매자가 제품을 소유하지 않는다고 명시함 캘리포니아 구매자 4명은 “Buy Now”·“Confirm Purchase”가 소..."
+  },
+  {
     "id": "67e9d20c9d3f6de8",
     "title": "수노, 워너뮤직·BMG 손잡고 정식 라이선스 'v6' AI 음악 모델 출시",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215106",
@@ -88,6 +118,26 @@
     "category": "AI",
     "publishedAt": "2026-09-10T16:47:04.000Z",
     "snippet": "AI 음악 생성 스타트업 수노(Suno)가 워너뮤직그룹, BMG와 협력해 정식 라이선스를 확보한 음악을 기반으로 새로운 음악을 생성할 수 있는 AI 모델을 출시했다.수노는 9일(현지시간) 워너뮤직그룹 및 BMG와 협력해 개발한 ‘v6’ 세대 AI 음악 모델 제품군을 공개했다.참여 아티스트의 라이선스 음악에서 영감받아 새로운 음악을 만들 수 있도록 설계됐으며, 기존 모델보다 빠르고 높은 품질의 결과물을 제공하는 것이 특징이다.프"
+  },
+  {
+    "id": "f40a9c6b8043c6dc",
+    "title": "Rust, Microsoft의 Tier-1 언어로 자리 잡음",
+    "link": "https://news.hada.io/topic?id=33487",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T16:46:51.000Z",
+    "snippet": "Microsoft는 Rust를 C++, C#, TypeScript와 함께 내부 개발에서 가장 잘 지원하는 Tier-1 언어로 운영하며, 로컬 개발부터 프로덕션까지 보안 도구 체인·개발 도구·품질 검증·플랫폼 통합·SDL 요구사항 준수를 지원함 대체 코드 생성 백엔드 rustc_codegen_utc..."
+  },
+  {
+    "id": "69c7e92007e6fdbc",
+    "title": "[포토] 최태원, 울산서 AX 현장 경영",
+    "link": "https://www.hankyung.com/article/2026091076641",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T16:36:47.000Z",
+    "snippet": ""
   },
   {
     "id": "8d67dcd1b2202557",
@@ -130,6 +180,26 @@
     "snippet": "최첨단 AI 모델을 둘러싼 국가 간 기술 접근 경쟁이 안전성 검증 영역으로까지 번지고 있다. 앤트로픽이 최신 모델에 대한 사전 접근 권한을 미국 내 검증 기관으로 제한하면서, 동맹국인 영국의 AI 안전 연구 기관조차 최신 기술을 검증하지 못하는 상황이 발생했다. 9일(현지시간) 파이낸셜타임스에 따르면, 앤트로픽이 최신 AI 모델 ‘클로드 미소스 5.1’의 출시 전 검증을 영국 AI 보안연구소(UK AISI)에 제공하지 않은 것"
   },
   {
+    "id": "014159943e4d9643",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-10T16:00:00.000Z",
+    "snippet": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+  },
+  {
+    "id": "9a104c906baace75",
+    "title": "또 다른 연구자, OpenAI가 대화로 학습한 뒤 돌파구를 이뤘다고 주장했다며 비판",
+    "link": "https://news.hada.io/topic?id=33486",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T15:45:17.000Z",
+    "snippet": "또 다른 연구자가 대화 내용을 학습에 사용한 OpenAI가 이후 이를 돌파구로 내세웠다는 의혹을 제기함 의혹의 학습 자료는 대화 내용이지만, 누구의 어떤 대화인지는 공개되지 않음 비판은 대화 학습 자체뿐 아니라 이후 OpenAI가 돌파구를 이뤘다..."
+  },
+  {
     "id": "bd48afe814403cbd",
     "title": "구글, 20조 투입해 핀란드에 데이터센터 신설…원전 전력 50% 22년간 확보",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215102",
@@ -138,6 +208,36 @@
     "category": "AI",
     "publishedAt": "2026-09-10T15:43:40.000Z",
     "snippet": "구글이 AI 컴퓨팅 수요 급증에 대응하기 위해 핀란드에 앞으로 2년간 최소 150억달러(약 20조원)를 투자한다. 이는 구글이 유럽에서 단일 국가를 대상으로 진행하는 최대 규모의 투자로, 데이터센터 건설뿐 아니라 전력망과 청정에너지 인프라 확충까지 포함한다.구글은 9일(현지시간) 2027년부터 2028년까지 핀란드 북부 카야니, 무호스, 바알라에 3개의 신규 데이터센터를 건설할 예정이라고 발표했다.기존 남동부 하미나 데이터센터"
+  },
+  {
+    "id": "8f20a8e8e5450284",
+    "title": "Shopify, React Native에서 네이티브로 복귀",
+    "link": "https://news.hada.io/topic?id=33485",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T15:42:16.000Z",
+    "snippet": "코딩 에이전트로 iOS·Android 이중 구현 비용이 줄어들면서, Shopify가 모든 모바일 앱을 Swift와 Kotlin으로 전환함 React Native는 기능 공유와 플랫폼 간 기능 일치에 기여했지만, 에이전트가 구현·변환·테스트·리뷰를 맡으며 공유 구현의 이점이 줄어들자 플랫폼 기능과..."
+  },
+  {
+    "id": "5de08de6d63ffbfb",
+    "title": "Tell HN: OpenAI가 &#039;학습 허용&#039; 설정을 계속 다시 켭니다",
+    "link": "https://news.hada.io/topic?id=33484",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T15:39:16.000Z",
+    "snippet": "학습 허용 설정을 여러 번 껐고, 마지막에는 변경 시점까지 꼼꼼히 기록했지만 방금 확인하니 다시 켜져 있었음 현재 설정이 꺼져 있다고 생각하더라도 다시 활성화됐는지 확인할 것을 권함 ..."
+  },
+  {
+    "id": "a413a29cc95d3d6f",
+    "title": "엔비디아와 팔란티어, AI 연합군 결성…고유가 2029년까지 간다?[박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202609107697i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T15:36:37.000Z",
+    "snippet": ""
   },
   {
     "id": "e4a253df51d39337",
@@ -170,6 +270,16 @@
     "snippet": "AI 생성 영상여수 도심이 51일간 정원축제 공간으로 바뀐다. 여문문화의거리와 여서미관광장 일원에 작가정원과 시민참여정원이 조성되고, 해가 진 뒤에는 조명이 더해진 야간정원도 운영된다.여수시는 오는 11일부터 내달 31일까지 ‘2026 남도 K-가든 페스티벌’을 개최한다고 10일 밝혔다.올해 행사는 ‘섬 품은 여수 밤정원’을 주제로 여수의 섬과 바다, 자연과 도시의 이야기를 정원 콘텐츠로 풀어낸다.작가정원에는 국내 정원작가 1"
   },
   {
+    "id": "34211aface6a182c",
+    "title": "\"스카이넷 현실화되나\"…\"인류의 파멸 위험\"경고 늘어난다",
+    "link": "https://www.hankyung.com/article/202609107601i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T15:28:29.000Z",
+    "snippet": ""
+  },
+  {
     "id": "58e2b7c8ebe64ad8",
     "title": "순천, 추석 앞두고 가로·보안등 3만834개소 전수 점검",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215097",
@@ -188,6 +298,46 @@
     "category": "AI",
     "publishedAt": "2026-09-10T15:27:09.000Z",
     "snippet": "오픈AI가 AI 기술의 급격한 발전 속도에 맞춰 미국 정부와 의회가 주도하는 국가 차원 AI 안전 법안 제정을 강력히 촉구하고 나섰다. 최근 외부 시스템과의 무단 교신 등 에이전트의 예상치 못한 행동으로 불거진 안전성 논란 속에서 자율적인 자발적 준수 단계를 넘어 법적 구속력을 가진 국가적 가이드라인을 수립해야 한다는 의지를 명확히 한 것이다.크리스 리헤인 오픈AI 최고 글로벌담당 책임자는 9일(현지시간) 공식 블로그를 통해 "
+  },
+  {
+    "id": "fbc3710d25e16b62",
+    "title": "사우디,8월 산유량 급감…26년만에 최저 수준",
+    "link": "https://www.hankyung.com/article/202609117705i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T15:24:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a4b88eb4f5fe5fac",
+    "title": "낮밤 기온차 유의… 낮 최고 30도 [오늘날씨] - bntnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjWDhMTGF0aVlpaFNCX1ZmVHgxV3B4ZUN0VFJFelllX1BBZWNhVW9COWFxMDZFUHRoS1dSVjI5QXdNX0JDZEVwQlRKSF9vbmlhbUtNc0xLdFVRLWJONXpORVZSank?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T15:00:03.000Z",
+    "snippet": "낮밤 기온차 유의… 낮 최고 30도 [오늘날씨] bntnews.co.kr"
+  },
+  {
+    "id": "4d4e7920d8a762a2",
+    "title": "Now everyone can put data to work",
+    "link": "https://openai.com/index/put-data-to-work",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-10T15:00:00.000Z",
+    "snippet": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+  },
+  {
+    "id": "6403117db66917c0",
+    "title": "9월 10일 밤부터 9월 20일까지 전국 10일간의 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWdqX25NdlM2d0o3UmdsMHA4dEJTSkpsZ2xtX0lpUy1kM0R6aGdoQkZHYVJ0cE9OUm5FMDItNjI2eklvMDBuZkRrT04wdXF1NHFta09jd2Q1WS1XbVo1TnhNQjFlNVdyWF9ldzhoMnZzbWFZeGlzWlhoald3UG5iRFBqM1ppQWk5Qkh1aU9nTS1FNXl1Nk1qT18wNGVwVERTWmtJR3N6Wjc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T15:00:00.000Z",
+    "snippet": "9월 10일 밤부터 9월 20일까지 전국 10일간의 날씨 예보 Laodong.vn"
   },
   {
     "id": "218f878a15b78dc6",
@@ -210,6 +360,16 @@
     "snippet": "우주 AI 전문 텔레픽스(대표 조성익)가 '구글 딥마인드 액셀러레이터: AI for the Planet(지구를 위한 AI)' 초대 기수에 국내 기업 중 유일하게 선정됐다고 10일 밝혔다.구글은 이번 프로그램을 통해 AI를 활용해 기후와 환경 문제를 해결하는 스타트업과 연구팀, 비영리기관을 지원한다. 선정 기업·기관들은 7~10일 싱가포르에서 열린 부트캠프를 시작으로 3개월간 프로그램에 참여한다. 이 기간 구글의 AI 기술과 전"
   },
   {
+    "id": "3ad9ace1dc27e1f5",
+    "title": "[영상] 2026년 9월 11일 오늘 밤과 내일 날씨 예보: 한랭 전선이 강해지면서 전국적으로 폭우가 예상됩니다. - vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQlZNeG1nZ1JCbDJWQWNCLUtmV01Tei1ad3ZZNE1XNzNtdVAtM2hGZVRKVmpKdUFKVjdwb2hVNVNFRUxXSTUwTE40bHZIV2dTSDl1R1VsQjAwcGN2VzhmLTMwWk1oSjNjc3pSSHNYa3RpcFNta2lLZks0THpESXRyOTZOWW5oN3otdjdRaHNMV19QZkRSY2N1ZDc3ZUZwLVVhUW5lUUhMOWwtYmJLeVFWMS1jOHpmaWVRMHEzRlEwREVkUDZzVkJZanpwdGdOZDct?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T14:42:06.000Z",
+    "snippet": "[영상] 2026년 9월 11일 오늘 밤과 내일 날씨 예보: 한랭 전선이 강해지면서 전국적으로 폭우가 예상됩니다. vietnam.vn"
+  },
+  {
     "id": "d91a4e3b26410208",
     "title": "S2W, 오픈AI 사이버보안 프로젝트 ‘데이브레이크’ 참여",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215091",
@@ -220,6 +380,16 @@
     "snippet": "AI 전문 에스투더블유(S2W, 대표 서상덕)가 오픈AI가 주도하는 사이버보안 이니셔티브 ‘데이브레이크(Daybreak)’의 글로벌 파트너 생태계 ‘데이브레이크 디펜스 네트워크(Daybreak Defense Network)’에 합류한다고 10일 밝혔다. 데이브레이크는 오픈AI의 프론티어 모델과 애플리케이션 보안 에이전트 ‘코덱스 시큐리티(Codex Security)’ 등에 신뢰할 수 있는 워크플로우와 생태계 파트너십을 결합한 "
   },
   {
+    "id": "f5a21e7c55c9f0a1",
+    "title": "Windows XP는 초기 사용자 사진을 어떤 알고리듬으로 골랐을까?",
+    "link": "https://news.hada.io/topic?id=33483",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T14:32:09.000Z",
+    "snippet": "계정 생성 시 초기 사용자 사진은 Default Pictures 디렉터리에 있는 사진 중 하나를 무작위로 골라 사용함 난수 생성에는 RtlRandomEx 를 쓰며, GetTickCount()의 현재 값으로 초기 시드를 설정함 선택 방식..."
+  },
+  {
     "id": "e0e4096b7e57dd4f",
     "title": "오픈AI, 챗GPT 음성에 '아스트라' 연결…모델·추론 수준 직접 선택",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215098",
@@ -228,6 +398,36 @@
     "category": "AI",
     "publishedAt": "2026-09-10T14:27:19.000Z",
     "snippet": "오픈AI가 '챗GPT' 음성 모드의 모델 운용 방식을 개편했다. 이제 사용자는 음성 대화에서도 원하는 모델과 추론 수준(Effort)을 직접 선택할 수 있으며, 프로(Pro) 이용자는 최신 추론 모델인 'GPT-6 아스트라'도 사용할 수 있게 됐다.오픈AI 음성 제품 담당자인 아티 엘레티는 10일 X를 통해 \"챗GPT 음성이 이제 GPT-5.6 솔과 GPT-6 아스트라를 사용할 수 있다\"고 밝혔다. 이와 함께 음성 모드 사용 "
+  },
+  {
+    "id": "e7c6853684296e7c",
+    "title": "2026년 9월 11일 호치민시 날씨 예보: 흐리고, 보통에서 강한 비와 천둥번개가 예상되며, 일부 지역에서는 매우 강한 비가 내리겠습니다. - vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdC1HenVqWjRQQTkxN0ljM3RYd3RoV2V0bm9jdkRjRGZKS2dncm9sbDh3NjkzdkJFR2xiUkg5Y0M0MFltLW1vS05GWldpSjlBVlBFdGx0RkJoYlZNMmY3dWh1NjM3OEhGdVVvcDRDSWphQ0pja3pyUnljMzh3VzY0bFRaWDNsOWZYTGI0YXpnY2RjTEJnc1p1OFBPV2JwM1g0aDYxX212MUdySTZsR3BUYlFNS0t2UHRYempnRlJiQWFzRTJXMzFvSzZteHJCZw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-10T14:18:14.000Z",
+    "snippet": "2026년 9월 11일 호치민시 날씨 예보: 흐리고, 보통에서 강한 비와 천둥번개가 예상되며, 일부 지역에서는 매우 강한 비가 내리겠습니다. vietnam.vn"
+  },
+  {
+    "id": "0cd84fbdae8829a1",
+    "title": "티빙 3954만 계정 유출…문제는 ‘해킹 기술’이 아니라 내부 통제였다",
+    "link": "https://news.hada.io/topic?id=33482",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-10T14:08:59.000Z",
+    "snippet": "기사에 따르면 이번 사태는 사고는 알려지지 않은 고난도 취약점 하나가 뚫리면서 발생한 사고라기보다 접속키 관리 등 기업이 기본적으로 갖춰야 할 정보보호 체계가 여러 단계에서 동시에 작동하지 않은 사고라는 점에서 무겁게 볼 필요가 있음. 공격자는 5월 29일부터 31일 사이 티빙 개발자가 보유..."
+  },
+  {
+    "id": "0fe4bec9798e97f0",
+    "title": "유가 급등·채권 수익률 급등에 S&P500 4일 연속 하락",
+    "link": "https://www.hankyung.com/article/202609107672i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-10T14:04:59.000Z",
+    "snippet": ""
   },
   {
     "id": "9ecf4610b0640c63",
@@ -1110,6 +1310,16 @@
     "snippet": "금융위, 취약차주 부담 경감 3년 전 연체 아직 계속되는 자영업자 채권 5.4조원 대상 아예 소각하는 방안도 검토 성실상환자 역차별 지적도금융당국이 코로나19 피해를 여전히 회복하.."
   },
   {
+    "id": "eab3038f5c20505c",
+    "title": "축평원, 저탄소 인증 축산물 소비 활성화 사업 참여업체 모집 - 농업인신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Vl9hVlAzWk1IcHpmQlVENWhXTllUaVRSWDdKdzdXb0NWcmxzVHJ6WWtiRzloY3hwckh0NEQzTFNPdlZHOE1JV1ZIZzhmR2J2Rk1hZks1dFZ3QWhwRkdET2c4RmJhRExqLWNOSw?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-10T08:24:29.000Z",
+    "snippet": "축평원, 저탄소 인증 축산물 소비 활성화 사업 참여업체 모집 농업인신문"
+  },
+  {
     "id": "0b10669c51e00cf4",
     "title": "따뜻한 물에 고단함을 씻어낸다…욕실이 '지상 낙원'",
     "link": "https://www.hankyung.com/article/2026091072471",
@@ -1278,6 +1488,16 @@
     "category": "AI",
     "publishedAt": "2026-09-10T07:00:00.000Z",
     "snippet": "올해 들어 AI 시장의 주요 관심사는 오픈AI와 앤트로픽의 기업 시장 점유율 경쟁에 맞춰져 있었습니다. 그런데 그 사이 2022년 11월 '챗GPT' 출시 이후 좀처럼 흔들리지 않았던 오픈AI의 소비자 시장에서 이상 신호가 나타났습니다. 구글이 '제미나이'를 앞세워 빠르게 추격하면서 오픈AI의 독주가 끝날 수 있다는 전망까지 나왔습니다. 실제로 7월 말 제미나이의 월간 이용자는 9억5000만명까지 늘었고, 8월에는 양쪽 모두 "
+  },
+  {
+    "id": "1ef5285e671d0ace",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "link": "https://openai.com/index/expanding-ai-access-us-government",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-10T07:00:00.000Z",
+    "snippet": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
   },
   {
     "id": "8d9d2de1e3a8baf3",
@@ -2278,6 +2498,16 @@
     "category": "경제",
     "publishedAt": "2026-09-10T00:00:07.000Z",
     "snippet": ""
+  },
+  {
+    "id": "4e410dad70fb9298",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-10T00:00:00.000Z",
+    "snippet": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
   },
   {
     "id": "ea07f303c171cc17",
@@ -10766,7 +10996,7 @@
     "source": "정부지원정책",
     "sourceId": "gov-support",
     "category": "정부지원정책",
-    "publishedAt": "2026-09-07T07:54:00.000Z",
+    "publishedAt": "2026-09-07T07:54:21.000Z",
     "snippet": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 v.daum.net"
   },
   {
@@ -11008,6 +11238,16 @@
     "category": "경제",
     "publishedAt": "2026-09-07T07:04:19.000Z",
     "snippet": ""
+  },
+  {
+    "id": "c3d109f9ad64e23d",
+    "title": "오늘 밤과 내일(2026년 9월 7일) 날씨 예보: 북부 지역은 맑고, 남부 일부 지역에는 폭우가 예상됩니다. - vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjdpZzNnYUhVVF95MzZVUW15cG9Gcm9WNVVPblZ0SWVQWmJncjR1eTdmOWZtWlVYRW9pd3ZFODJ1ZlJaUE9Eb0ROQkFwRlRJUDlhT0xDWGcyQ0tDV0FwRlpWMVQ3SVB2MFhjVURtLWd6X1BubzNKQ3BlLXNkdlc1YXB6WTFKdVVVOTNGaXkxVmh2QmdfSElGR183TnNPb0RQYlpjNFBrOUtZMWVuYnhQMQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-07T07:00:00.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 7일) 날씨 예보: 북부 지역은 맑고, 남부 일부 지역에는 폭우가 예상됩니다. vietnam.vn"
   },
   {
     "id": "d1e70ba94e193c5b",
@@ -12828,16 +13068,6 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-06T10:22:21.000Z",
     "snippet": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 웹이코노미"
-  },
-  {
-    "id": "c3d109f9ad64e23d",
-    "title": "오늘 밤과 내일(2026년 9월 7일) 날씨 예보: 북부 지역은 맑고, 남부 일부 지역에는 폭우가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjdpZzNnYUhVVF95MzZVUW15cG9Gcm9WNVVPblZ0SWVQWmJncjR1eTdmOWZtWlVYRW9pd3ZFODJ1ZlJaUE9Eb0ROQkFwRlRJUDlhT0xDWGcyQ0tDV0FwRlpWMVQ3SVB2MFhjVURtLWd6X1BubzNKQ3BlLXNkdlc1YXB6WTFKdVVVOTNGaXkxVmh2QmdfSElGR183TnNPb0RQYlpjNFBrOUtZMWVuYnhQMQ?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-06T10:17:26.000Z",
-    "snippet": "오늘 밤과 내일(2026년 9월 7일) 날씨 예보: 북부 지역은 맑고, 남부 일부 지역에는 폭우가 예상됩니다. Vietnam.vn"
   },
   {
     "id": "1980f23615d3ba4a",

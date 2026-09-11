@@ -1,5 +1,175 @@
 [
   {
+    "id": "26d10da0839c85cf",
+    "title": "[9월11일] 실리콘밸리에서 갑자기 ‘AI 종말론’이 다시 떠오른 이유",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215136",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-12T07:00:00.000Z",
+    "snippet": "AI가 인간을 넘어서는 순간 인류가 통제력을 잃을 수 있다는 경고는 새로운 이야기가 아닙니다. 수년 전부터 AI 석학과 연구자들이 비슷한 우려를 내놨고, AI가 인간을 속이거나 감독을 피할 수 있는지 확인하는 실험도 이어졌습니다. 하지만 대중에게는 여전히 먼 미래의 이야기, 혹은 SF에 가까운 이야기로 받아들여졌습니다.그런데 최근 들어 분위기가 달라지고 있습니다. 앤트로픽 연구원의 사퇴를 비롯해 AI 에이전트의 이상 행동과 안"
+  },
+  {
+    "id": "5f55faa731e9e389",
+    "title": "Room 641A, AT&amp;T의 NSA 통신 감청실",
+    "link": "https://news.hada.io/topic?id=33562",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T23:39:59.000Z",
+    "snippet": "AT&T가 미국 NSA를 위해 운영한 통신 감청 시설 Room 641A는 대규모 감시 프로그램의 일부로, 2003년 가동을 시작하고 2006년 기술자 Mark Klein의 공개로 목적이 알려짐 인터넷 백본 광케이블의 광분배기에서 신호를 전달받으며, Narus STA 6400"
+  },
+  {
+    "id": "5e3c44dc0387c440",
+    "title": "Show HN: 인체의 특이 현상을 모은 Bodily Oddities",
+    "link": "https://news.hada.io/topic?id=33561",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T23:36:59.000Z",
+    "snippet": "인체의 특이한 능력·감각·신체 변이 141가지를 모은 Bodily Oddities는 각 현상의 원리와 발생 빈도를 간단히 살펴볼 수 있는 사이트임 아판타시아나 엄지와 검지를 연결하는 추가 힘줄처럼 개인차가 큰 현상부터, 누구나 경험하는 잔상과 망막 내 시각 현상까지 다..."
+  },
+  {
+    "id": "5085313ed8615d98",
+    "title": "2026년 9월 12일 날씨 예보: 베트남 북부는 맑고 기온은 33도까지 오르겠으며, 중부 베트남에는 폭우가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclUteEtMN09DWWgxVXZhejRpYW1rbkpXWGt5eUk0RmNJTWlhQVlpYWZxcmoyUzJIY2dzRVd4aVFSQ05iRXJBQ203dnFNaHh3clBlY25uN3cxR3lhTUNlOERjaWtIcmY4eVlYOElqcC1xMjZSbnVhMXl0aFZSMGN5NVc2WlFYRlcwc0c3RVBIalMwc3g2bWRIT0xIekw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T23:00:34.000Z",
+    "snippet": "2026년 9월 12일 날씨 예보: 베트남 북부는 맑고 기온은 33도까지 오르겠으며, 중부 베트남에는 폭우가 내리겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "200d78b45b38b185",
+    "title": "GrapheneOS, 재작성한 Messages 앱 출시",
+    "link": "https://news.hada.io/topic?id=33560",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T22:39:08.000Z",
+    "snippet": "버전 13은 기존 인터페이스를 Jetpack Compose와 Material 3로 교체해 모든 화면을 다시 구현하고, 대화 관리·대화면 지원·메시지 처리 안정성을 개선함 대화 고정, 알림 일시 중지, 읽지 않음 표시, 여러 메시지 삭제를 추가했으며, 큰 화면에서..."
+  },
+  {
+    "id": "ca8d2bf96c05ccbc",
+    "title": "Google 앱 광고에 220달러를 썼는데 설치의 60%가 로봇이었다",
+    "link": "https://news.hada.io/topic?id=33559",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T22:36:08.000Z",
+    "snippet": "퍼즐 앱 Dayzle의 Android 설치 광고에서 2주간 과금된 설치 56건 중 33건이 봇 의심 패턴을 보였으며, 실제 이용자로 분류된 13명은 총 92게임을 완료함 설치당 목표 비용 1.50달러를 해제하자 하루 예산 CA$40의 두 배인 CA$80이 즉시 소진됐고..."
+  },
+  {
+    "id": "1e67a53ac81195f1",
+    "title": "Have you heard? Tiltify’s creator awards, a ‘Drunk History’ comeback, and a 95-year-old podcaster.",
+    "link": "https://www.tubefilter.com/2026/09/11/have-you-heard-tiltify-drunk-history-dominic-chianese-uncle-junior/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-11T22:34:52.000Z",
+    "snippet": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, generous creators are getting the recognition they deserve, a sloshed web series "
+  },
+  {
+    "id": "31f5fe80a106399e",
+    "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609119348i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T22:00:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "28548dc37b88186a",
+    "title": "“월급 쪼개 넣었더니 세금을 또?”…국민연금 실수령액 매달 깎아먹는 ‘이것’",
+    "link": "https://www.mk.co.kr/news/economy/12150966",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T21:51:03.000Z",
+    "snippet": "국민연금 과세 원칙 핵심은 ‘소득공제 여부’ 임의가입 등 국세청 확인서로 ‘이중 과세’ 방지 20~30년 받는 연금…적은 세금 차이도 눈덩이퇴직 후 통장에 들어오는 국민연금, 과연.."
+  },
+  {
+    "id": "4fa37c69080dde9c",
+    "title": "Gamers are all over the world, but they don’t all stream on the same platforms",
+    "link": "https://www.tubefilter.com/2026/09/11/gamers-are-all-over-the-world-but-they-dont-all-stream-on-the-same-platforms/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-11T21:38:32.000Z",
+    "snippet": "The global explosion of the streaming community has minted star creators in territories as far-flung as France, South Korea, and Latin America. But how much overlap is there between those regions? That's the question Streams Charts sought t"
+  },
+  {
+    "id": "8d5e5a9a1554d5fe",
+    "title": "Show HN: AI 없는 Hacker News",
+    "link": "https://news.hada.io/topic?id=33558",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T21:31:15.000Z",
+    "snippet": "Show HN: AI 없는 Hacker News"
+  },
+  {
+    "id": "0e2adfe13d8e3d88",
+    "title": "\"외동딸처럼 키웠다\"…'1개 1만9000원' 명품 복숭아 불티 [프라이스&]",
+    "link": "https://www.hankyung.com/article/202609093982i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T21:00:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9d0bd19578c849b6",
+    "title": "\"그 돈 주고 누가 신어요\"…'50만원→9만원' 나이키의 굴욕",
+    "link": "https://www.hankyung.com/article/2026091196731",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T21:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c9371d67e9907909",
+    "title": "Show HN: AI 없는 Hacker News",
+    "link": "https://news.hada.io/topic?id=33557",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T20:44:41.000Z",
+    "snippet": "unslop.news는 Hacker News 게시물에 필터를 적용한 목록을 제공하며, 제공된 화면에서는 전체 179개 중 81개가 남아 있음 각 항목에 원문 링크와 Hacker News 댓글 링크, 점수, 게시 시점을 함께 표시해 원문과 토론을 찾아갈 수 있음 ..."
+  },
+  {
+    "id": "351e4e8d8699357e",
+    "title": "Meta’s ads asked TikTok to follow its lead on safety. TikTok rejected them.",
+    "link": "https://www.tubefilter.com/2026/09/11/meta-tiktok-trust-safety-settlement-declined/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-11T20:42:08.000Z",
+    "snippet": "Last month, Meta announced a $17 billion settlement, bringing its legal battle against dozens of state attorneys general to an end. By paying up and agreeing to implement new safety features across its platforms, Meta hoped to inspire a mov"
+  },
+  {
+    "id": "7c45ab8f6323d949",
+    "title": "EPA, 데이터센터 오염 관련 주민 공개 검토 규정 폐지 추진",
+    "link": "https://news.hada.io/topic?id=33556",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T20:41:41.000Z",
+    "snippet": "미국 환경보호청 EPA가 데이터센터와 관련 발전소 등 산업시설의 대기오염 배출 허가 전에 주정부가 주민에게 알리고 의견을 받도록 하는 연방 의무를 폐지하려 함 주민 참여 여부·시점·기간을 주·지방정부 재량에 맡기는 방안으로, 지난달에는 ..."
+  },
+  {
+    "id": "bc7fdc500a76f0bc",
+    "title": "Roundtables: AI’s apocalypse crisis",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "source": "MIT Technology Review AI",
+    "sourceId": "mit-tech-review-ai",
+    "category": "AI",
+    "publishedAt": "2026-09-11T20:05:06.000Z",
+    "snippet": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a c"
+  },
+  {
     "id": "a62850b9343bb425",
     "title": "운동 강도는 심혈관·대사 건강과 연관되어 있음",
     "link": "https://news.hada.io/topic?id=33554",
@@ -60,6 +230,36 @@
     "snippet": "필즈상 수상자 25명이 공동 선언에 서명하고, 수학 문제 풀이를 벤치마크로 삼는 AI 기업의 목표가 수학 공동체의 이해와 통찰 증진이라는 목표와 심각하게 어긋난다고 경고함 수학에서 문제 해결은 수단이자 대리 지표이며, 새로운 방법을 토론하..."
   },
   {
+    "id": "bd9b48bfcb345354",
+    "title": "[제주도 날씨예보] 대체로 맑음…낮 최고 28도·산지 구름 많아 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PU1pmRUpzaGg0U1pPeWdzSV9SdzBnci1SV21qQUFVM1JFamMxN0ZPZTNDSVd3Qm05b19lc3RTOVE0NFRldm9rMWRxeG85aEhzdFlNc0RhYUtscWFrWm93Q1VMZ25lb1RIXy1FR1ZuTk7SAXRBVV95cUxQOGZ1NkdQZmduT1dXVGh3cUU5eC1oYjFndHFVZUEwdkdfM0RfWl92c3F6T0pwVDZvYktYRHgxRWI4M0dVRVhvR29nY2ROb0dFaVRoM1p3SlY5Z3VmTl8xWFN5NGtHOF85c3BQRjdzQzFublVDRg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T19:35:00.000Z",
+    "snippet": "[제주도 날씨예보] 대체로 맑음…낮 최고 28도·산지 구름 많아 thefairnews.co.kr"
+  },
+  {
+    "id": "f2b5f4d40bb664be",
+    "title": "[광주·전남 날씨예보] 낮 최고 30도…일교차 10도 안팎 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSzZOdllITXZJWlRyRWVCd3ZkdEM3R2NGUFVOVEtKSTIxSVlCaXM2VktBVl9JZ1BLWnBrMlBOX2l4NHEwOTNpeGYzVHlKNk9UbTc5b0RZZXJkMDFtRGE4ZWtFS1l5VXVscGl0VDBGUzjSAXRBVV95cUxOSDBpUmQyRzMyYmR4X2luQWtBVjhpSm5sdDZ5NkQ1clQ0aGE4NGhnYjc4YTJQdG5fRGZ6UVZXb0dyRnFNYlRYUnhzMVhLNWRXcTR2dTA3T01BYXVzV1pBUWlJcXFfck5HYkJfRzJPUlM4TWVZZw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T19:25:00.000Z",
+    "snippet": "[광주·전남 날씨예보] 낮 최고 30도…일교차 10도 안팎 thefairnews.co.kr"
+  },
+  {
+    "id": "f2ca6c7c13c5f9a3",
+    "title": "[수도권 날씨예보] 서울 아침 17도 '쌀쌀'…일교차 최대 15도 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMmpTR0V6TXJ6Ty1rYVVZdXJxdXlTeGZZTFlYM29zd3hrcEIzZXN3c2hGRHVIQ0ZSLTFrOHRFcHp4VDNSbnNwZnQwSjV6bUZpbHBLcDhxSldFZmdRSkZVblROMzYxMlJFdWpNcW53NFHSAXRBVV95cUxPelVqOWVRZ2JNZ2Z3Q1ByVENadkFFMHdUcG5aWWdFQkZyUnA1em1wMmdGSE1oY0xyYXJqMkVTVDA4aFRxYkpRdzNjQXlRSjducDVZbjJrZHhSRWp0cnlCQ2tZNWtmb1lmX1lON1Y1cjRLaWZPZQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T19:10:00.000Z",
+    "snippet": "[수도권 날씨예보] 서울 아침 17도 '쌀쌀'…일교차 최대 15도 thefairnews.co.kr"
+  },
+  {
     "id": "25218afa28556614",
     "title": "나의 HTML 보일러플레이트",
     "link": "https://news.hada.io/topic?id=33549",
@@ -68,6 +268,16 @@
     "category": "개발",
     "publishedAt": "2026-09-11T19:03:31.000Z",
     "snippet": "웹은 하위 호환성을 지키면서 새 기능을 도입해 왔으며, HTML 보일러플레이트는 최신 기능을 활성화하고 소셜 미디어 미리보기·스타일·브라우저 테마 등을 설정하는 기본 틀임 head 요소 순서는 성능에 큰 영향을 주므로, 문자 인코딩을 문서 첫 1,02..."
+  },
+  {
+    "id": "5faa89dd252ac41e",
+    "title": "Roblox says it’ll help developers release their games as standalone apps across PC, mobile, and consoles. Oh, and it’s getting into fintech, too.",
+    "link": "https://www.tubefilter.com/2026/09/11/roblox-developers-conference-2026-game-apps-creator-payouts-roblox-wallet-roblox-card/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-11T19:00:11.000Z",
+    "snippet": "Roblox is giving game developers more ways to make and distribute games–and faster access to the money they earn along the way. At the latest annual Developers Conference, Roblox said that in the past 12 months, game developers and UGC item"
   },
   {
     "id": "2c2c3ce8d399d3b3",
@@ -258,6 +468,26 @@
     "category": "AI",
     "publishedAt": "2026-09-11T16:00:00.000Z",
     "snippet": "■ 도큐먼트 AI 전문 사이냅소프트(대표 전경헌)가 10~11일 제주 썬 호텔에서 열린 ‘2026 지자체 정보화전략 IT 전시회’에 참가해 지자체 행정 업무 혁신을 위한 핵심 문서 AI 솔루션을 선보였다고 밝혔다. 현장 전시 부스에서는 지자체 공공 업무 환경에 최적화된 ▲사이냅 어시스턴트 ▲사이냅 도큐애널라이저 ▲사이냅 OCR IX ▲아이넥스 ▲AI 데이터 파운드리 등 5종의 문서 AI 솔루션을 시연했다.■ 시선AI는 과학기술"
+  },
+  {
+    "id": "e603c630945feeed",
+    "title": "[게시판] 포티투마루, AX 확산 분과로 수요·공급 기업 매칭 주도 등 단신",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215162",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-11T16:00:00.000Z",
+    "snippet": "■ 포티투마루(대표 김동환)는 서울 트레이드타워에서 열린 'AX 수요·공급기업 비즈니스 네트워킹 데이'에 K-AI 파트너십 AX 확산 분과장사로 참여했다고 밝혔다. 한국무역협회(KITA)와 한국인공지능·소프트웨어산업협회(KOSA)가 개최한 이번 행사에서는 기업의 AX 수요와 공급기업과 연결하는 매칭 프로그램을 운영했으며, 권역별 상담회와 AX 프로젝트 발굴, 성과공유회 등으로 활동을 이어갈 예정이다.■ 셀렉트스타(대표 김세엽)"
+  },
+  {
+    "id": "fe93d8c1d35546ea",
+    "title": "한전KDN, 에이치투와 에너지ICT·차세대 배터리 결합으로 차세대전력망 시장 선도",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215179",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-11T15:55:00.000Z",
+    "snippet": "에너지ICT 전문 공기업 한전KDN(사장 박상형)과 에이치투(대표 한신)는 11일 에이치투 계룡사업장에서 ‘바나듐흐름전지·에너지ICT 연계 공동 사업개발’을 위한 업무협약을 체결했다.이날 협약은 한전KDN이 30여년간 전력 계통의 정보통신기술(ICT) 운영으로 축적해 온 에너지ICT 역량과 에이치투가 보유한 바나듐흐름전지(VFB) 기반 에너지저장장치(ESS) 기술의 융합을 통해 차세대 ESS 시장을 공동으로 개척하기 위해 추진"
   },
   {
     "id": "12a2af7abf391c36",
@@ -1818,6 +2048,16 @@
     "category": "개발",
     "publishedAt": "2026-09-11T01:13:50.000Z",
     "snippet": "기업 로그인이 여러 외부 도메인을 거치고 회사 도메인 밖에서 사용자명·비밀번호·2FA를 요구하면, 정상 인증과 피싱을 구별하기 어려워짐 토큰 만료로 불쑥 나타나는 인증 창은 URL을 무시하는 습관을 들이게 하며, 공격자는 회사 로고와 비밀번호 입력창을 갖춘 ..."
+  },
+  {
+    "id": "63884b800ab608e7",
+    "title": "9월 11일 날씨 예보: 찬 공기 덩어리가 탄화에서 하띤까지 북부 베트남에 비를 가져올 것입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUUtjOUdBQUg3LWxsNVUxZVNIWGVmVVpaTE1maG5HcjlXaTNxaTZXRWZZdng0NkdlZ09jUUl3aHJBR2NtYWRRa21nOG1nMTcxSUFaT3JueC0tc3czMC1ueDhJOUVUa1hWX21BelprSjNzVDA4cjNhS0tzYUVfQnZwaGxmYjhHc1lJeTQxQUd1cVdYVDhKMnFCNXZqbmc3bTQt?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T01:12:02.000Z",
+    "snippet": "9월 11일 날씨 예보: 찬 공기 덩어리가 탄화에서 하띤까지 북부 베트남에 비를 가져올 것입니다. Vietnam.vn"
   },
   {
     "id": "d8c7d1e843f4b523",
@@ -4758,245 +4998,5 @@
     "category": "경제",
     "publishedAt": "2026-09-10T01:44:59.000Z",
     "snippet": ""
-  },
-  {
-    "id": "53a7bd2e660d9661",
-    "title": "최성욱 JT친애저축은행 대표, ‘사람 살리는 금융’ 캠페인",
-    "link": "https://www.mk.co.kr/news/economy/12149143",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:44:22.000Z",
-    "snippet": "최성욱 JT친애저축은행 대표이사(가운데)가 서민금융진흥원이 진행하는 ‘사람 살리는 금융’ 릴레이 캠페인에 동참했다. 사람 살리는 금융 캠페인은 불법사금융으로부터 어려움을 겪는 국민.."
-  },
-  {
-    "id": "248a366c74f1112d",
-    "title": "“마통 2000만원까지”…케이뱅크, 서울 사장님 보증료 절반 내준다",
-    "link": "https://www.mk.co.kr/news/economy/12149141",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:43:31.000Z",
-    "snippet": "서울 소상공인 ‘안심통장 4호’ 출시 기존 1000만원서 2000만원으로 한도 확대케이뱅크가 서울 지역 소상공인을 대상으로 최대 2000만원까지 빌릴 수 있는 마이너스통장 상품을 .."
-  },
-  {
-    "id": "2367bb47cf8e1eea",
-    "title": "곡성군, 2026 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 - 뉴스깜",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56R1l4b0VtRU1kSjJ1M1hrRXgtM2F2MzA4RUVuRHRjejBkTk1UMzB1UFBReU9sOEFNV1Fsc2VXVFFtRFVSclJuZHgxTS1LYWJpaXk0US1FOEIzUzNSWGpyQnc1ZDNJOXlLTHc?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-10T01:42:39.000Z",
-    "snippet": "곡성군, 2026 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 뉴스깜"
-  },
-  {
-    "id": "b6ec649cef798dce",
-    "title": "“주담대 안 나오니 차라도 걸었는데”...자동차담보대출 약정 급감, 이유는?",
-    "link": "https://www.mk.co.kr/news/economy/12149134",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:40:15.000Z",
-    "snippet": "‘풍선효과 방지’ 당국 조치에 6·27 대출규제 이전 수준으로금융당국의 규제 직후 자동차담보대출 약정 규모가 전월 대비 26.2% 급감한 것으로 나타났다. 10일 대출 중개 플랫폼.."
-  },
-  {
-    "id": "10a184961826f401",
-    "title": "[속보] ‘1200억대 탈세 혐의’ 이상운 효성 부회장 징역형 집유 확정",
-    "link": "https://www.mk.co.kr/news/economy/12149127",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:37:10.000Z",
-    "snippet": "1000억원대 탈세를 비롯한 효성그룹 비리에 관여한 혐의로 재판에 넘겨진 이상운 효성그룹 부회장이 징역형의 집행유예를 확정받았다. 검찰이 이 부회장을 기소한 지 12년 8개월 만이.."
-  },
-  {
-    "id": "70b462ceacc522f2",
-    "title": "자율주행차가 생명을 구한다는 증거가 늘고 있다",
-    "link": "https://news.hada.io/topic?id=33465",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-10T01:34:53.000Z",
-    "snippet": "자율주행차와 운전자 보조 기술이 사고와 부상을 줄인다는 연구 결과가 쌓이고 있으며, 논의의 초점도 기술의 가능성에서 실제 도로에서의 안전 효과로 옮겨가고 있음 미국 고속도로안전보험협회(IIHS)가 4개 도시의 주행 기록을 비교한 결과, Waymo 무인 차량은 인간 운전자보다"
-  },
-  {
-    "id": "bf6dc5fb283e8460",
-    "title": "한 달 일하고 평생 연금?…국민연금 추납 신청 2년 새 3배",
-    "link": "https://www.hankyung.com/article/202609105825H",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:32:51.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "8feae4cb3a9f4ad2",
-    "title": "인텔, PC CPU 가격 또 10% 올린다…AI 쏠림에 공급난 가중",
-    "link": "https://www.hankyung.com/article/202609105991i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:32:40.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "d089f2b7780dfe3a",
-    "title": "창업자는 월급을 얼마나 받아야 할까?",
-    "link": "https://news.hada.io/topic?id=33464",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-10T01:32:17.000Z",
-    "snippet": "창업자 급여의 기준은 남들이 받는 금액이 아니라 자신과 가족의 생활을 지키면서 회사의 장기적 성공에 집중할 수 있는 수준이어야 함 생활비를 지나치게 줄여 개인 부채와 가족 갈등을 떠안으면, 사업을 일찍 포기하거나 만족스럽지 않은 인수 제안을 받아들일 유인"
-  },
-  {
-    "id": "5ecd6b7bd8836fe9",
-    "title": "6일 만에 '몸값 1조' 불었다…상장 앞두고 기대감 '들썩'",
-    "link": "https://www.hankyung.com/article/202609106015i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:31:33.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "54c12e1e25cfe773",
-    "title": "9월 10일 날씨 예보: 찬 공기 덩어리가 유입되어 전국 곳곳에 천둥번개를 동반한 소나기가 내리고, 북부 지역은 기온이 떨어질 것으로 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUw0Zkg3R05NaGppeDNDYTg3c1BzbU04amFmOGxhRm5SWnBza2kwN2o5YUtRWjVGV3NSRVA4dmFPWDFiY3o2OWtHeXFUcUNtREFLT0hDTHVwZmNNdWwyTFNhNFFpcUxWZGlLWnRESWZHd2hqd3JnbHhhWTF4LXE1TTNkcTV6c0c2X2tIRVVxT1hRRHdEVjBIREtLek9hMWtiSlllbVppZUd5V19UdXFGQTJydlNXZEhjRGVpNWxB?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-10T01:16:50.000Z",
-    "snippet": "9월 10일 날씨 예보: 찬 공기 덩어리가 유입되어 전국 곳곳에 천둥번개를 동반한 소나기가 내리고, 북부 지역은 기온이 떨어질 것으로 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "516d2ae051b41403",
-    "title": "\"성과급 현금 50%·주식 50%\"…SK하이닉스 노사 재투표 간다",
-    "link": "https://www.hankyung.com/article/202609105897g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:14:19.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "ae735cb9cf7220fa",
-    "title": "영등포구, 청년 1인가구 급식 지원 참여자 모집…매월 5만원 상당 식생활 지원 - 데브타임즈",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LRnlndERiRmtzMEFzVkMwU09RaXJwSlA0WFE5NVd5b0RpWWpIYUhvU3QtOXVyNnltVDMwRE1yWjZxekluUzhjMzd1MTFMYlU?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-10T01:12:40.000Z",
-    "snippet": "영등포구, 청년 1인가구 급식 지원 참여자 모집…매월 5만원 상당 식생활 지원 데브타임즈"
-  },
-  {
-    "id": "66135aa52f82831b",
-    "title": "美 증시 랠리 떠받치는 실적·AI…\"금리 상승이 최대 변수\"",
-    "link": "https://www.hankyung.com/article/202609105582i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:11:12.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "953f0d492b856c51",
-    "title": "구윤철 부총리 “1인당 국민소득 4만달러 달성 가능성 확대”",
-    "link": "https://www.mk.co.kr/news/economy/12149085",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:09:18.000Z",
-    "snippet": "“한국 경제, 어느 때보다 탄탄하게 회복·성장 향해” 경제장관회의, 철강산업·지식산업센터 공실 논의최근 한국은행이 2분기 국민소득 잠정수치를 발표한 가운데, 구윤철 부총리 겸 재정.."
-  },
-  {
-    "id": "36d053eab93a9b9c",
-    "title": "삼성웰스토리, 업계 최초 유튜브 '실버버튼' 품었다",
-    "link": "https://www.hankyung.com/article/202609105551g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:01:59.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "de8fd0d97767f5b3",
-    "title": "[단독] \"이러다 원전 설 자리 잃어\"…정부, '태양광+배터리' 발전량 부풀리나",
-    "link": "https://www.hankyung.com/article/202609032826i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T01:01:34.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "6de95f52cc36aede",
-    "title": "최태원, 7조 규모 'AI 심장부' 찾는다…경영진과 울산 집결",
-    "link": "https://www.hankyung.com/article/2026091057807",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T00:56:28.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "d5ec5baf89446062",
-    "title": "보험료 한번에 내고 10년 동안 굴린다.. 삼성생명, '굴려받는연금보험' 출시",
-    "link": "https://www.hankyung.com/article/202609105681i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T00:52:34.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "35fcfe5907540dcd",
-    "title": "날씨 \"전국 강풍에 기온까지↓\" 단풍시기 빨라지나 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZZzJNYm4waGFaamo5MlVSM0t0WWgxRVR3MUhqT3dVSDNjVHJNaDcyeVdaUF93MzBIcE44ZGQ1T0R2SDJuUEFYSlpXTkZVUG5ZWGp6cHA4aFJjYWNVNUNLb3huN1N5RWJjYVFHMHhn?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-10T00:48:49.000Z",
-    "snippet": "날씨 \"전국 강풍에 기온까지↓\" 단풍시기 빨라지나 gukjenews.com"
-  },
-  {
-    "id": "474b12563142daa4",
-    "title": "AI 데이터센터 '전력 전쟁' 올라탄 미코…세계 1위 HRSG 기업 인수",
-    "link": "https://www.hankyung.com/article/202609105765i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T00:47:41.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "de68af28f4cd63c3",
-    "title": "선거 끝나자 매출 90% '뚝'…\"29년 1월 20일만 기다린다\"",
-    "link": "https://www.hankyung.com/article/202609105601i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T00:40:06.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "802a9ef99b1ac1cf",
-    "title": "하노이에 찬 공기 덩어리가 도착할 때 최저 기온 하락폭은 몇 도입니까? - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUE42amotSzBYcmYwSUtheWZsMXVoQXNXWmIySkd3RWU5UWJNUkdjdkVLdU1PWGhodDR4WXp0cDBQdW5kV3NfVjNtRlBNVThyMWJXYzBJNTBraUY2bzRBSEpFMzFoNVdEWFZTU1JveVV6UUZBQ0pwYWktNG1Nenl2UGpQSUg3WkI4QTJFSFdBNW5sMFVsa0ZTQUpLSVQ?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-10T00:35:37.000Z",
-    "snippet": "하노이에 찬 공기 덩어리가 도착할 때 최저 기온 하락폭은 몇 도입니까? Vietnam.vn"
-  },
-  {
-    "id": "fa003278541a59ba",
-    "title": "Proliferate - 여러 코딩 에이전트를 병렬로 실행하는 오픈소스 AI IDE",
-    "link": "https://news.hada.io/topic?id=33463",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-10T00:30:03.000Z",
-    "snippet": "Claude Code/Codex/OpenCode/Cursor/Grok에 서로 다른 작업을 맡기고, 진행 상황과 코드 변경을 한곳에서 확인하는 데스크톱 IDE 작업마다 별도의 Git 브랜치와 작업 디렉터리(worktree)를 만들어, 에이전트들이 서로의 파일을 덮어쓰지 않고 동시에 작업할 수 있음..."
   }
 ]

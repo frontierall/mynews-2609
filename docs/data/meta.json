@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-11T20:15:52.315Z",
+  "lastUpdated": "2026-09-11T23:43:35.486Z",
   "feeds": [
     {
       "id": "aitimes",
       "name": "AI타임스",
-      "ok": false,
-      "error": "HTTP 403"
+      "ok": true,
+      "count": 50
     },
     {
       "id": "openai",

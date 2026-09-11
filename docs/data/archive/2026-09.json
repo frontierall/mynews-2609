@@ -1,5 +1,25 @@
 [
   {
+    "id": "b3097dbe20f6bce9",
+    "title": "오픈AI, 전이중 음성 모델 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215145",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-11T16:55:00.000Z",
+    "snippet": "오픈AI가 사람처럼 말을 들으면서 동시에 대화할 수 있는 실시간 음성 AI 모델을 API로 출시했다. 개발자들은 이를 활용해 지연 시간 없이 자연스럽게 소통하는 전화 상담이나 예약용 음성 에이전트를 쉽게 개발할 수 있게 됐다.오픈AI는 10일(현지시간) 사람과 실시간으로 대화하면서 상대방의 말을 듣는 동시에 응답할 수 있는 전이중(full-duplex) 음성 모델 'GPT-라이브-1(GPT-Live-1)'을 API로 출시했다."
+  },
+  {
+    "id": "253fbe1eb08668b7",
+    "title": "MS, AI 공급난에 ‘장기전’ 선언…2032년까지 데이터센터 3배로 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215143",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-11T16:55:00.000Z",
+    "snippet": "마이크로소프트(MS)가 AI 서비스와 클라우드 수요 폭증에 대응하기 위해 애저(Azure)의 전 세계 데이터센터 용량을 오는 2032년까지 현재의 3배 이상으로 확대한다. 엔비디아 AI 칩 부족과 전력·부지 확보난으로 데이터센터 공급 부족을 겪자, 장기적인 대규모 인프라 확충으로 정면 돌파하겠다는 취지다.10일(현지시간) 블룸버그에 따르면, MS는 현재 12기가와트(GW) 규모인 애저 데이터센터 용량을 2032년까지 38GW "
+  },
+  {
     "id": "f318cf5e9b8c7d14",
     "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215156",
@@ -48,6 +68,16 @@
     "category": "AI",
     "publishedAt": "2026-09-11T16:00:47.000Z",
     "snippet": "앤트로픽이 유럽연합(EU) 사이버보안 기관에 사이버보안 모델 '미소스 5' 접근 권한을 제공했다. 이 모델은 사이버 방어 역량을 높일 수 있다는 기대와 함께 국가안보 우려도 제기돼 제한적으로 제공돼 왔다.유럽연합 집행위원회(EC)는 10일(현지시간) 앤트로픽과의 협의를 거쳐 EU 사이버보안청(ENISA)이 미소스 5에 대한 접근 권한을 부여받았다고 밝혔다. ENISA 측도 모델에 대한 접근 권한을 확보했으며, 이달부터 실제 테"
+  },
+  {
+    "id": "8efa5cfce209bcad",
+    "title": "[게시판] 사이냅소프트, ‘지자체 정보화전략 IT 전시’ 참가 등 단신",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215177",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-11T16:00:00.000Z",
+    "snippet": "■ 도큐먼트 AI 전문 사이냅소프트(대표 전경헌)가 10~11일 제주 썬 호텔에서 열린 ‘2026 지자체 정보화전략 IT 전시회’에 참가해 지자체 행정 업무 혁신을 위한 핵심 문서 AI 솔루션을 선보였다고 밝혔다. 현장 전시 부스에서는 지자체 공공 업무 환경에 최적화된 ▲사이냅 어시스턴트 ▲사이냅 도큐애널라이저 ▲사이냅 OCR IX ▲아이넥스 ▲AI 데이터 파운드리 등 5종의 문서 AI 솔루션을 시연했다.■ 시선AI는 과학기술"
   },
   {
     "id": "12a2af7abf391c36",
@@ -100,6 +130,16 @@
     "snippet": "스페이스X가 AI 데이터센터 구축에서 속도보다 안정성을 중시하는 방식으로 전략을 바꾸고 있다. 기존에는 데이터센터를 빠르게 늘리는 데 집중했다면, 최근에는 전력·냉각 백업 시스템을 사전에 갖추고 운영 전 테스트를 강화하는 방향으로 전환하고 있다.디 인포메이션은 10일(현지시간) 복수의 관계자를 인용, 스페이스X가 테네시와 미시시피 등에서 진행 중인 데이터센터 건설 방식을 재설계하고 있다고 보도했다.스페이스X는 올해 초 인수한 "
   },
   {
+    "id": "75bd7e01d96638f5",
+    "title": "\"국민연금도 AI가 굴린다\"...LG AI연구원, 국민연금공단과 특화 모델 개발 협력",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215130",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-11T15:25:00.000Z",
+    "snippet": "LG AI연구원과 국민연금공단이 연금 기금운용에 특화된 AI를 개발하기 위한 업무협약(MOU)을 체결했다고 11일 밝혔다.LG AI연구원의 금융 AI 에이전트 '엑사원 BI'와 국민연금공단이 보유한 데이터, 거시경제 지표, 뉴스 등을 결합해 연금 기금운용에 특화된 AI 예측·분석 모델을 개발한다.국민연금공단은 투자 리서치와 의사결정 과정에 AI를 도입해 투자 판단의 전문성과 효율성을 높이고, 장기 투자수익률을 끌어올린다는 방침"
+  },
+  {
     "id": "5b6d4b7848a2a790",
     "title": "앤트로픽의 2030 경제 경고 \"AI 성장의 결실, 노동 아닌 자본으로 몰릴 것\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215164",
@@ -140,6 +180,16 @@
     "snippet": "AI 생성 영상나주에서 활동 중인 국내외 예술가 6명이 작업실을 시민에게 공개한다. 완성된 작품뿐 아니라 제작 중인 작업과 스케치, 재료, 지역 조사자료 등을 직접 살펴보고 작가와 대화를 나눌 수 있다.나주문화재단은 11일 오후 2시부터 6시까지 죽림동 소통창작소에서 ‘2026 나주형 국제예술 레지던시 오픈스튜디오’를 개최한다고 밝혔다. 행사에는 제이크 솔 데이비슨, 로렌 쿨라르, 이자벨 샤퓌, 카미유 메르칸델리-박, 홍일화,"
   },
   {
+    "id": "72ba07ddf4444a09",
+    "title": "창의성이 새로운 해자다",
+    "link": "https://news.hada.io/topic?id=33534",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T13:40:45.000Z",
+    "snippet": "AI로 앱과 디자인을 쉽게 복제할 수 있게 되면서, 경쟁 우위는 참신한 결과물 하나가 아니라 독창적인 해결책을 계속 만들어내는 능력에 있음 Flash 시대의 웹은 불편하고 엉뚱했지만, 프로그래머가 아닌 사람들까지 새로운 상호작용을 실험했으며 수많은 실패작 사이에서 좋..."
+  },
+  {
     "id": "7423512edaa66759",
     "title": "오픈AI, 월가 겨냥한 '금융 특화 챗GPT' 공개...\"기업 분석부터 보고서 생성까지\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215141",
@@ -148,6 +198,16 @@
     "category": "AI",
     "publishedAt": "2026-09-11T13:40:43.000Z",
     "snippet": "오픈AI가 월스트리트 투자은행과 증권사의 신입 애널리스트나 은행원들이 담당해 온 기업 조사와 재무 분석, 투자 제안서 작성 등을 자동화하는 금융 특화 AI 서비스를 공개했다. 금융 데이터에 대한 직접적인 접근과 최신 AI 모델의 추론 능력을 결합해 금융권 기업용 시장을 본격적으로 공략한다는 전략이다.오픈AI는 10일(현지시간) 금융 서비스에 특화된 기업용 제품 '금융 서비스용 챗GPT(ChatGPT for Financial S"
+  },
+  {
+    "id": "61331afcc185c84b",
+    "title": "Claude, 더 이상 미성년자는 이용할 수 없음",
+    "link": "https://news.hada.io/topic?id=33533",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T13:37:45.000Z",
+    "snippet": "소비자용 Claude는 가입 시 18세 이상이라는 연령 조건을 충족하는지 확인해야 하며, 안전 시스템으로 미성년자 이용 가능성을 탐지함 18세 미만 이용 징후가 감지되면 계정이 비활성화되고, 계속 이용하려면 연령 인증을 거쳐야 함 외부 플랫폼 ..."
   },
   {
     "id": "3b4e100617458c24",
@@ -168,6 +228,16 @@
     "category": "AI",
     "publishedAt": "2026-09-11T12:45:24.000Z",
     "snippet": "앤트로픽은 중국 AI 기업들이 '클로드'를 무단으로 활용해 핵심 기능을 복제하는'증류(distillation)' 공격을 벌였다고 주장했다. 특히 일부 기업은 제3자 프록시 네트워크와 가짜 계정을 이용해 접근 제한을 우회했으며, 자사 AI 서비스를 이용하는 실제 고객의 요청까지 클로드로 전달해 학습 자료로 활용한 정황이 확인됐다고 밝혔다.앤트로픽은 10일(현지시간) 9월 위협 인텔리전스 보고서를 통해 지난 2월 이후 중국 본토에"
+  },
+  {
+    "id": "91d6eb07a9c43c3b",
+    "title": "OpenAI의 Navier-Stokes 발표에 포함된 Lean 4 형식 증명",
+    "link": "https://news.hada.io/topic?id=33532",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T12:33:19.000Z",
+    "snippet": "OpenAI는 유체역학의 Navier-Stokes 방정식에 관한 오랜 문제의 증명을 발표하면서, 사람이 읽는 증명과 기계로 검증할 수 있는 Lean 4 형식 증명을 함께 공개함 최근 AI로 해결된 다른 수학적 추측에도 형식 증명이 함께 제공됐으며, 특히 Lean ..."
   },
   {
     "id": "739c48fcf1e6662d",
@@ -230,6 +300,36 @@
     "snippet": "■ 문서 AI의 병목은 ‘정확도’에서 ‘변경’으로 이동하고 있습니다정부의 AI 행정혁신이 새로운 단계로 들어서고 있습니다. 한성숙 국무총리는 최근 AI 활용을 확대하는 데 그치지 않고 정부 전체의 일하는 방식까지 바꿔야 한다고 강조했습니다. 행정 현장에서도 공무원이 직접 AI 서비스를 만들고 효과를 검증한 뒤 확산하는 ‘AI 정부 실험실’과 같은 시도가 이어지고 있습니다.이러한 변화에서 중요한 것은 AI를 얼마나 많이 구축했느"
   },
   {
+    "id": "272a02b7eeb99549",
+    "title": "\"삼전닉스는 돈방석인데\"…스마트폰 바꾸려던 직장인 '비명' [테크로그]",
+    "link": "https://www.hankyung.com/article/202609107691g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T12:00:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "cb230498edd7b9ba",
+    "title": "“주담대 금리 내리겠습니다”…0.45%P 역주행 택한 NH농협은행",
+    "link": "https://www.mk.co.kr/news/economy/12150826",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T11:53:55.000Z",
+    "snippet": "시장금리 오름세 속 금리 인하 실수요자 부담 낮추기 나서NH농협은행이 주택담보대출 금리를 최대 0.45%포인트 낮춘다. 시장금리 상승으로 은행권 대출금리가 전반적으로 오르는 추세지.."
+  },
+  {
+    "id": "a523b5bfd5d99f02",
+    "title": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 - 내외일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOOVIzeFVxdF9yY3ZxcTNQX1QtLUtaVHRzVWQzWlhEbDZEVzNmSHdhMGdKVG56WmY0OWVsbkVIVVhjV3ZvcnpIcUNaWlJhbXo4TjNoOHVuaE1GdjVTMGsxR3F3dUdJWWh5S2Y3bXhVVQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-11T11:43:02.000Z",
+    "snippet": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 내외일보"
+  },
+  {
     "id": "0d4f818bf5fe1f53",
     "title": "\"차량 개조 없이 자율주행 가능\"...바이다, 스마트카 국책과제 선정",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215135",
@@ -260,6 +360,26 @@
     "snippet": "카카오가 ‘카카오툴즈(Kakao Tools)’에 새로운 파트너사 서비스를 연동하며 에이전틱 AI 생태계 확대를 이어간다.카카오(대표 정신아)는 ‘챗지피티 포 카카오(ChatGPT for Kakao)’ 내 '카카오툴즈(Kakao Tools)에 7개 파트너사의 서비스를 추가했다고 11일 밝혔다.카카오툴즈는 카카오 내외부의 다양한 서비스와 연동되는 AI 에이전트 서비스다. 카카오는 지난 3월 외부 파트너사와의 협력을 통해 일상에서 "
   },
   {
+    "id": "fbf86b0a03295188",
+    "title": "실리콘밸리는 군산복합체를 바꾸고 있는가? (2024)",
+    "link": "https://news.hada.io/topic?id=33531",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T11:33:30.000Z",
+    "snippet": "미국 군산복합체가 워싱턴 수도권에서 실리콘밸리로 빠르게 확장하며, 국방부 지출에서 대형 기술기업이 차지하는 비중이 커지고 있음 국방부 예산의 상당 부분은 여전히 전통적 무기 체계에 쓰이지만, AI 기반 시스템 도입 확대와 함께 빅테크·..."
+  },
+  {
+    "id": "dd984f91e4f918a1",
+    "title": "젊은 층 30% 이상 “아이 원치 않아”…韓·日 닮은꼴",
+    "link": "https://www.mk.co.kr/news/economy/12150816",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T11:29:54.000Z",
+    "snippet": "출생 동향 기본 조사 출산 의향 역대 최저일본 젊은 층의 30% 이상이 자녀를 원하지 않는 것으로 나타났다. 11일 일본 국립사회보장·인구문제연구소가 이날 발표한 ‘출생 동향 기본.."
+  },
+  {
     "id": "e140509fcba505fc",
     "title": "전남광주농업박물관서 12일 청년 쌀요리 경연…20팀 참가",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215126",
@@ -268,6 +388,26 @@
     "category": "AI",
     "publishedAt": "2026-09-11T11:28:47.000Z",
     "snippet": "AI 생성 영상전국 청년 20팀이 쌀을 주재료로 한 창작요리를 선보이는 경연대회가 9월12일 전남광주통합특별시 농업박물관에서 열린다.전남광주통합특별시 농업박물관은 쌀의 활용 가능성을 넓히고 청년들의 아이디어를 발굴하기 위해 ‘전국 청년 쌀요리 경연대회’를 개최한다고 11일 밝혔다.대회에는 전국에서 모인 청년들이 2인 1조로 참여하며 모두 20팀이 경쟁한다.참가자들은 쌀을 주재료로 활용해 직접 개발한 요리를 선보이고 개성과 창의"
+  },
+  {
+    "id": "d563178c455d5681",
+    "title": "Show GN: korean-llm-v4 출시",
+    "link": "https://news.hada.io/topic?id=33530",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T11:22:00.000Z",
+    "snippet": "이번에 v3보다 학습을 크게 업그레이드된 Korean-llm-v4를 공개합니다 v4를 만들면서 가장 크게 바꾼 건 모델 구조보다 학습 방식입니다. 이전에는 명령어 데이터셋을 중심으로 바로 학습해서, 대화 형식은 어느 정도 따라가더라도 기본적인 한국어 문장력이나 다양한 표현을 배우기에는 한계가 있었고"
+  },
+  {
+    "id": "8358dea0907bc27b",
+    "title": "GitByBit: VS Code에서 Git을 직접 쳐보며 배우는 익스텐션",
+    "link": "https://news.hada.io/topic?id=33529",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T11:10:16.000Z",
+    "snippet": "GitByBit은 에디터 안에서 실제 Git과 실제 터미널을 사용해 실습하며 배우는 인터랙티브 Git 코스 시뮬레이션이 아니라 내 컴퓨터에 설치된 Git을 그대로 사용하므로, 배운 명령어가 곧바로 실무 환경과 동일하게 동작함 VS Code 확장으로 제공되며 Cursor 등 다른 에디터도 지원 ..."
   },
   {
     "id": "8196b990d57343d8",
@@ -290,6 +430,356 @@
     "snippet": "기후에너지환경부가 국내 태양광 공급망 재건과 차세대 기술 상용화를 지원하기 위한 민관 협의체를 가동한다. 국내 셀·모듈·인버터 산업의 연계를 강화하고 탠덤셀 등 차세대 기술의 대규모 실증과 해외 진출 지원방안을 구체화한다는 계획이다.기후부는 10일 서울 중구 코리아나호텔에서 ‘태양광 산업경쟁력 강화 위원회’ 첫 회의를 열었다. 위원회에는 정부와 공공기관, 산업계, 학계, 연구계, 시민단체가 참여한다.위원회는 지난 5월 발표한 "
   },
   {
+    "id": "101818f51c7cf1e4",
+    "title": "은행장 출신 정통 KB맨 … 세대교체로 KB 혁신 이끈다",
+    "link": "https://www.mk.co.kr/news/economy/12150805",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T11:01:38.000Z",
+    "snippet": "인공지능(AI) 도입 등 급변하는 금융 환경 속에서 KB금융그룹이 1966년생 지주회장을 내세우며 세대교체를 선택했다. 11일 KB금융지주 회장후보추천위원회는 이재근 KB금융지주 .."
+  },
+  {
+    "id": "01b831fe2e747ded",
+    "title": "'반값에 또 반값' 실화냐…주부들 하루 몇 번씩 찾는 '득템 성지'",
+    "link": "https://www.hankyung.com/article/2026091195531",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T11:00:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a7c5854fa6fcd8b8",
+    "title": "오늘 밤과 내일(2026년 9월 12일) 날씨 예보: 베트남 북부는 구름이 적고 맑은 하늘이 예상되지만, 남부는 폭우가 내릴 것으로 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHFWNEJpdVNiZWNPd2NTU3hGbGJ3RWJtVTdrcnprTWI0Q0QzUXJYT3ZHcWZYZk1QSVRkTUR6cjNxa0MxMm5Ed01oMC1Hel9EM0JZVFBvSDVsa3pldnJSRGRHREdrRHdiX2lTZWNJSjNzZUdiYXZyN1VoVHVmR0x2bFp6TzVHbmVPZS03WGxyLWlEODBkOElja3ZhUVlPakU3WEZyRm1DZm1qMXBjVFVJN0JZUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T10:34:04.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 12일) 날씨 예보: 베트남 북부는 구름이 적고 맑은 하늘이 예상되지만, 남부는 폭우가 내릴 것으로 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "e8d8dc8d794c10e4",
+    "title": "“매년 880만원 아끼는데 안해요?”…파이어족 다들 한다는데 [이번주 찜할 ETF]",
+    "link": "https://www.mk.co.kr/news/stock/12150792",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T10:23:09.000Z",
+    "snippet": "레버리지에서 커버드콜로 머니무브“커버드콜 2만주 있으면 마음 놓고 은퇴하는데 왜 안하는지 모르겠어요”. 최근 대기업 IT 회사를 ‘쿨하게’ 그만둔 김모 씨(56)는 이처럼 말하면서.."
+  },
+  {
+    "id": "c29d6ca9581c9ab6",
+    "title": "YAML 명세의 잘못은 아니지만…",
+    "link": "https://news.hada.io/topic?id=33528",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T10:05:55.000Z",
+    "snippet": "no를 불리언으로 읽는 ‘노르웨이 문제’는 YAML이 반드시 요구하는 동작이 아니며, 초기 명세 설계자들은 스칼라를 기본적으로 문자열로 처리하기를 권장했음 YAML 1.0·1.1은 암묵적 타입 결정을 애플리케이션에 맡겼고, 1.2의 권장..."
+  },
+  {
+    "id": "65bd7e74e768c5e1",
+    "title": "\"물 들어올 때 노 젓자\"…투자금 쓸어담는 우량 스타트업",
+    "link": "https://www.hankyung.com/article/2026091196841",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:38:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e14929afab67a912",
+    "title": "삼성E&A, 사우디서 4.7조 비료 플랜트 '잭팟'",
+    "link": "https://www.hankyung.com/article/2026091196741",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:37:27.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "488dcb8421662c9b",
+    "title": "삼성, 33만t 하수처리수 반도체 공장 활용",
+    "link": "https://www.hankyung.com/article/2026091196791",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:37:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b1b9360b305adf35",
+    "title": "HD현대重 노조, 노동부 지침 어긴채 파업",
+    "link": "https://www.hankyung.com/article/2026091196751",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:36:41.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4cb7cb75b8d38516",
+    "title": "대한항공·아시아나 \"하늘서 무료 와이파이 쓰세요\"",
+    "link": "https://www.hankyung.com/article/2026091196771",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:36:32.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e61e9e3206802049",
+    "title": "[포토] 국내서 공개된 '제네시스 GV90'",
+    "link": "https://www.hankyung.com/article/2026091196781",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:36:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c297e7d3aeb0e6d7",
+    "title": "[단독] 풍산, 수입 의존하던 '소형 공격드론' 국산화길 열었다",
+    "link": "https://www.hankyung.com/article/2026091196761",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:34:59.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1c661e1d45ae3321",
+    "title": "Deathray - 링크 하나로 Mac 화면을 멈추게 하는 WebGPU 문제",
+    "link": "https://news.hada.io/topic?id=33527",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T09:33:28.000Z",
+    "snippet": "웹페이지의 WebGPU 코드가 브라우저 탭뿐 아니라 Mac의 데스크톱 화면까지 멈추게 하는 문제로, 링크를 여는 것만으로 발생하며 재시작이 필요함 macOS Tahoe를 실행하는 M 시리즈 MacBook에서 Chrome, Firefox, Safari 모두 재현됐으며, 다른 Mac의 영향 여부는 확..."
+  },
+  {
+    "id": "fac4ae8ab804eaba",
+    "title": "미래기금에 교부세 뺏긴 지자체…\"재정 어려워, 우리몫 더 달라\"",
+    "link": "https://www.hankyung.com/article/2026091196551",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:27:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3759ac41f46a5f8c",
+    "title": "재가동 심사 늦어진 '한빛 2호기' 결국 멈췄다",
+    "link": "https://www.hankyung.com/article/2026091196541",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:25:37.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "44f965dd4cde552d",
+    "title": "KB 이재근號 출범…금융 세대교체 예고",
+    "link": "https://www.hankyung.com/article/2026091196851",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:08:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "feabbabeea3848b6",
+    "title": "KB금융 회장에 이재근 내정",
+    "link": "https://www.hankyung.com/article/2026091196651",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:06:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0ccd9bf91b882fc5",
+    "title": "[포토] 수은, 아프리카와 경제협력 확대",
+    "link": "https://www.mk.co.kr/news/economy/12150728",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:00:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a9291f3f452fba86",
+    "title": "[표] 외국환율고시표",
+    "link": "https://www.mk.co.kr/news/economy/12150729",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:00:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7f1b6d66bcdc1ccd",
+    "title": "[포토] 2027년 예산안·미래기금 토론회",
+    "link": "https://www.mk.co.kr/news/economy/12150726",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:00:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "daf44bdf0d714e8e",
+    "title": "농협은행,  주담대 금리 인하 … 16일부터 최대 0.45%P 낮춰",
+    "link": "https://www.mk.co.kr/news/economy/12150723",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:00:13.000Z",
+    "snippet": "NH농협은행이 주택담보대출 금리를 최대 0.45%포인트 낮춘다. 시장금리 상승으로 은행권 대출금리가 전반적으로 오르는 추세지만 실수요자의 이자 부담을 덜기 위해 금리 인하에 나선 .."
+  },
+  {
+    "id": "d4ef9bbb264b7026",
+    "title": "한빛 2호기 가동 중단…\"계속심사 속도 내야\"",
+    "link": "https://www.mk.co.kr/news/economy/12150724",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:00:13.000Z",
+    "snippet": "전남광주 영광에 있는 한빛 2호기가 운영허가 기간 만료에 따라 11일 가동을 중단했다. 반도체 클러스터 조성 등으로 대규모 전력 수요가 예고된 상태여서 계속운전 심사를 조속히 진행.."
+  },
+  {
+    "id": "01262f476c5b94b7",
+    "title": "9월 누적 수출액 급등 … 82% 증가한 350억弗",
+    "link": "https://www.mk.co.kr/news/economy/12150722",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T09:00:12.000Z",
+    "snippet": "관세청은 이달 1~10일 수출액이 350억달러로 지난해 같은 기간보다 82.6% 증가했다고 11일 밝혔다. 이는 월별 초순 수출액 가운데 역대 가장 큰 규모다. 반도체 수출이 1.."
+  },
+  {
+    "id": "6f38e2e95e7166c9",
+    "title": "우리금융, 전북 취약층 무료 치과 진료",
+    "link": "https://www.hankyung.com/article/2026091196891",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:59:41.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0006582bbde35d97",
+    "title": "KB금융 차기회장 후보 이재근",
+    "link": "https://www.mk.co.kr/news/economy/12150718",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:59:36.000Z",
+    "snippet": "KB금융그룹 차기 회장 최종 후보에 이재근 KB금융지주 글로벌·WM·SME부문장(사진)이 선정됐다. 사상 최대 실적을 이끈 양종희 회장의 연임 가능성이 높게 점쳐졌던 만큼 예상을 .."
+  },
+  {
+    "id": "11149f690addc901",
+    "title": "MIT가 주목한 젊은 혁신가 서진영·정재원",
+    "link": "https://www.hankyung.com/article/2026091196941",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:57:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b464bd905c59f15d",
+    "title": "기업은행, 어린이 금융 직업체험관 개점",
+    "link": "https://www.hankyung.com/article/2026091196901",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:56:45.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "df3017a02e9ff44c",
+    "title": "교보생명, 양육시설 아동 514명 교육",
+    "link": "https://www.hankyung.com/article/2026091196931",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:56:19.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "72989497d6c1f0f8",
+    "title": "'41년 장학사업' 귀뚜라미, UNIST에 1억 전달",
+    "link": "https://www.hankyung.com/article/2026091196971",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:56:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "bf7e59fa2a07145c",
+    "title": "HD현대사이트솔루션, 신임 공동대표에 박찬혁 부사장 내정",
+    "link": "https://www.hankyung.com/article/202609119700i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:53:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "70791586f124fabb",
+    "title": "28일 '이스트포인트 서울'…글로벌 디지털자산 빅샷들 총출동",
+    "link": "https://www.hankyung.com/article/2026091196161",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:42:20.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ae3fd2eadaaee8fe",
+    "title": "멕시코 학생, 수초 만에 불을 끄는 음향 소화기 개발",
+    "link": "https://news.hada.io/topic?id=33525",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T08:40:10.000Z",
+    "snippet": "멕시코의 16세 학생 Ángela Karime Venegas Hernández가 물이나 입으로 부는 바람 없이 소리로 촛불을 끄는 학교 실험에서 출발해 Vortex Tech를 개발함 장치는 12볼트 배터리와 주파수 발생기, 초당 30회 펄스를 내는 스피커로 구성됨 ..."
+  },
+  {
+    "id": "6d496c3cbb79939e",
+    "title": "Astra로 코딩하기: 우리는 대체 왜 이러고 있는 걸까?",
+    "link": "https://news.hada.io/topic?id=33524",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-11T08:37:10.000Z",
+    "snippet": "GPT-6 Astra는 컴퓨터 사용과 이미지 이해에서 뛰어난 능력을 보이지만, 실제 소프트웨어 개발에서는 함께 일하기 더 어려워졌고, 높아진 비용에 걸맞은 성과도 체감하기 어려움 가상 스레드와 렉시컬 스코프를 갖춘 Python을 만들도록 맡겼으나, 35시간 동안 코드 7만 5,00..."
+  },
+  {
+    "id": "da931d93797daee6",
+    "title": "[단독] 430만 ‘나홀로’ 자영업자, 변동금리 대출이 66%…연체액 4년새 4배",
+    "link": "https://www.mk.co.kr/news/economy/12150648",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:35:05.000Z",
+    "snippet": "금리·유가 급등에 ‘비상’ 자영업자 대출 1095조원 가계대출은 연소득 3.4배금리 인상기가 본격적으로 도래하면서 자영업자의 대출 부실 위험이 커지고 있다. 영세 자영업자 비중이 .."
+  },
+  {
+    "id": "58f92d8201b5d2eb",
+    "title": "[취재수첩] '거액 과징금'이 정의롭다는 오해",
+    "link": "https://www.hankyung.com/article/2026091196091",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:33:06.000Z",
+    "snippet": ""
+  },
+  {
     "id": "d9e4de0b21013ea6",
     "title": "[속보] KB금융 차기 회장 후보에 이재근…양종희 연임 실패",
     "link": "https://www.mk.co.kr/news/economy/12150619",
@@ -297,6 +787,46 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-09-11T08:17:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "98b749277a5b2872",
+    "title": "[속보] KB금융 차기 회장 후보에 이재근…양종희 연임 실패",
+    "link": "https://www.hankyung.com/article/2026091195597",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:14:48.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8fee16d6427e3f30",
+    "title": "설화수, 日 럭셔리뷰티 공략…이세탄 신주쿠점서 첫 팝업",
+    "link": "https://www.hankyung.com/article/2026091195551",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:13:51.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a5b9eb8eb6efaf48",
+    "title": "홍천강 물로 빚는 '테라'…1분에 1000병씩 쏟아진다",
+    "link": "https://www.hankyung.com/article/2026091195541",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:13:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ffd671a6fc122075",
+    "title": "\"슈바오라고 불러주세요\"",
+    "link": "https://www.hankyung.com/article/2026091195521",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-11T08:12:38.000Z",
     "snippet": ""
   },
   {
@@ -420,6 +950,16 @@
     "snippet": ""
   },
   {
+    "id": "ff31fe00f0f3ee61",
+    "title": "광양시, ‘전남광주 청년 문화복지카드’ 3차 추가모집 - 경기인터넷신문",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16aUhQN19GY2RxdWljSHdXS1puY0JIYUEyZTRaMkk1dUpaUkFfbnM0R0VtY0tqWDBIMTd1VEZtOEJzY01oMF9B?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-11T06:21:00.000Z",
+    "snippet": "광양시, ‘전남광주 청년 문화복지카드’ 3차 추가모집 경기인터넷신문"
+  },
+  {
     "id": "37178de07bbd0f72",
     "title": "유럽은 다시 알람 끄기 버튼을 눌렀다 [이번주 WSJ]",
     "link": "https://www.hankyung.com/article/202609119198i",
@@ -458,6 +998,16 @@
     "category": "경제",
     "publishedAt": "2026-09-11T05:52:55.000Z",
     "snippet": ""
+  },
+  {
+    "id": "0ee2f152ca6f68a7",
+    "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hd2FLT0hoZzJ5SFBZY1BLN01OSTRxZTd1bXBVcGQxeC0xUG9wZGtreVhHYWxaaFc1dHVlNTVHRS13S25VUGRxM3FVUDNmQlBCN1llUEV3VTFfY1NrdkU5QmtxSTBMdV9NSTRtSE5BUzM?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-11T05:37:00.000Z",
+    "snippet": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 > 뉴스 더코리아"
   },
   {
     "id": "c7efee7f6d179fc4",
@@ -878,6 +1428,16 @@
     "category": "창업",
     "publishedAt": "2026-09-11T01:37:02.000Z",
     "snippet": "카카오가 ‘ChatGPT for Kakao’의 카카오툴즈에 파트너사 서비스 7곳을 추가로 연동했다고 9월 11일 밝혔다. 앞서 연동된 OP.GG와 직방, 하나투어를 합쳐 외부 파트너는 10곳이 됐다. 새로 들어온 곳은 다이소몰과 룩스루, 스페이스클라우드, 신세계면세점, 신한카드, LF몰, 청연이다. 분야별로 보면 게임은 OP.GG, 공간은 스페이스클라우드와 직방, 생활은 청연, 금융은 신한카드, 여행은 하나투어가 맡는다. 쇼핑"
+  },
+  {
+    "id": "6531eb0a698b23a8",
+    "title": "[영상뉴스] 9월 둘째주 울산지역 주말 날씨 예보 - 울산종합일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44Q1p4UElBTXVWNkgzeDdQZW02V0pmSEVLMkRjcXJiRWt3NEE1dlpyOHFTcFRWMWdKampKZ2N3MzVJLUtjdnlJNFF2czVSM3Y4LVA2ZEtsRnRGR2hibm5SZElCUmdfbE1TMzN5QXBB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T01:35:57.000Z",
+    "snippet": "[영상뉴스] 9월 둘째주 울산지역 주말 날씨 예보 울산종합일보"
   },
   {
     "id": "4ba71c470d4cda1e",
@@ -3678,6 +4238,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-10T03:10:38.000Z",
     "snippet": "포천시, '외국인근로자 소형건설기계 조종교육 지원사업' 신청자 모집 경기탑뉴스"
+  },
+  {
+    "id": "9975890230cea676",
+    "title": "포천시, '외국인근로자 소형건설기계 조종교육 지원사업' 신청자 모집 - ggtopnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4S1JzZWFpNXE1TjVkLU9ldjVOMGJXMlVZWVFsTl8wNzd4NnA2dVFhNkREMXNCU2NnektvNEs4bTZsSjdOaTlTd3dQc2RVWnd1djFCLUo2QXhDVm50d0FNbTQ2dw?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-10T03:10:38.000Z",
+    "snippet": "포천시, '외국인근로자 소형건설기계 조종교육 지원사업' 신청자 모집 ggtopnews.com"
   },
   {
     "id": "25602b6b661cb885",
@@ -6758,6 +7328,16 @@
     "category": "경제",
     "publishedAt": "2026-09-09T05:00:07.000Z",
     "snippet": ""
+  },
+  {
+    "id": "49e49c748fe9fd31",
+    "title": "수자원공사, 하반기 국가 K-테스트베드 지원사업 참여 기업 모집 - 데일리한국",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qOEZScmh2ak1YQWgydE5tVlBvZlVsUFJzRngyaXFpQmpSLXcxek83cU05dWluSU83cVNaVXRiLXhCRHR5MTdiS09pVklTZDltZWNSNzZiLW0zdnJzZm0xTGVacEJXdUFHVzhIbHNXa1ZrQ2PSAXNBVV95cUxNajhGUnJodmpNWEFoMnRObVZQb2ZVbFBSc0Z4MmlxaUJqUi13MXpPN3FNOXVpbklPN3FTWlV0Yi14QkR0eTE3YktPaVZJU2Q5bWVjUjc2Yi1tM3Zyc2ZtMUxlWnBCV3VBR1c4SGxzV2tWa0Nj?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-09T04:59:17.000Z",
+    "snippet": "수자원공사, 하반기 국가 K-테스트베드 지원사업 참여 기업 모집 데일리한국"
   },
   {
     "id": "f95395e682e402f1",
@@ -10808,6 +11388,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-08T00:05:00.000Z",
     "snippet": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 Nate News"
+  },
+  {
+    "id": "cb0fa976d6eaf8d9",
+    "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLRGNrWTEwcmxQNzE5aVJBSXBVaklqZHB0TnB6NjFONUN1NE9vdkpmbTVYUlEzNko1aGNQSFJhTnB1alBKS044TEFHWQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-08T00:05:00.000Z",
+    "snippet": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 v.daum.net"
   },
   {
     "id": "7632f003c6d92fcb",

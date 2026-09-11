@@ -106,7 +106,7 @@
     "source": "정부지원정책",
     "sourceId": "gov-support",
     "category": "정부지원정책",
-    "publishedAt": "2026-08-31T05:28:12.000Z",
+    "publishedAt": "2026-08-31T07:00:00.000Z",
     "snippet": "수원특례시, ‘1인가구 일상패키지 지원사업’ 대상자 모집 경인매일"
   },
   {
@@ -788,6 +788,16 @@
     "category": "날씨",
     "publishedAt": "2026-08-23T04:25:01.000Z",
     "snippet": "[내일 날씨] 전국 폭염특보 속 무더위 최고조...주간예보와 태풍 진로는? 헤드라인제주"
+  },
+  {
+    "id": "b58a9c2c6a6fe0c7",
+    "title": "날씨 예보 8월 22일 발표 - 2news.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tb084aVZESWdRejNRZTNZOGljeTBvNXd5WUoyUzlZX0FMRE9pNWN2NnZqQ2o2LXMxa2JPazhHQmpnVk8yMmhrR3pzd3VlVHJ0aHlSZkRsZmZCRUV1OFhfREg3Zl9JX3E2?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "snippet": "날씨 예보 8월 22일 발표 2news.co.kr"
   },
   {
     "id": "d4a6e7df5bc0344e",

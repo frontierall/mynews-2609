@@ -190,6 +190,16 @@
     "snippet": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
   },
   {
+    "id": "b4b6d62c4cfe1fe0",
+    "title": "대구TP, '2026년 대구 지역기업 성장사다리 지원사업' 참여기업 모집 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CWkJCeGhDYjlTazhPYnVxUklyUTRLZnZIUmlFcW56QVJRdzgyU1R2elRkMVlta1FaZTZscVVyWkJlWXlMeTVDN1NlTzVCQQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-04-22T07:00:00.000Z",
+    "snippet": "대구TP, '2026년 대구 지역기업 성장사다리 지원사업' 참여기업 모집 전자신문"
+  },
+  {
     "id": "e2bf2733d05a142a",
     "title": "Introducing OpenAI Privacy Filter",
     "link": "https://openai.com/index/introducing-openai-privacy-filter",

@@ -20,6 +20,16 @@
     "snippet": "일론 머스크 CEO가 오스카 수상작 감독 알렉스 기브니의 신작 다큐멘터리 '머스크(Musk)'에 거세게 반발하며 전면전을 선언했다. 베니스 영화제 초연 이후 작품을 둘러싼 논란이 커지자, 머스크는 법적 고발 조치와 함께 거친 비난을 쏟아내며 강력한 대응을 펼치는 모습이다.할리우드 리포트에 따르면, 머스크의 자문 변호사인 알렉스 스피로는 지난 3일(현지시간) 제작사 직소(Jigsaw) 프로덕션에 공식 법적 통지서를 발송해 작품 "
   },
   {
+    "id": "34485fff53b4c3c7",
+    "title": "AI와 함께 배당주 골라볼까? ... 꼼꼼히 검증 안하면 착시 빠진다",
+    "link": "https://www.mk.co.kr/news/economy/12150611",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-12T19:24:00.000Z",
+    "snippet": "배당주 투자를 위한 인공지능 활용법은행 예금 금리가 낮아지거나 주식 시장의 변동성이 확대될 때면 투자자들의 시선은 자연스럽게 ‘배당주’로 향합니다. 정기적으로 계좌에 현금이 입금된.."
+  },
+  {
     "id": "49eced841ddf9758",
     "title": "[AI 이슈트렌드] 파주 냉동창고 살인·'야차룰' 학폭 논란...대기업 오너가도 관심",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215192",
@@ -40,6 +50,26 @@
     "snippet": "AI 캐릭터챗 서비스 '크랙'과 '이루다'의 초기 개발·기획을 주도했던 전문가들이 모여 만든 스타트업 딥그로브(DeepGrov, 대표 나봉민)가 단순 대화를 넘어선 AI 컴패니언 서비스 '프론티아(Frontia)'를 전면에 내세우며 본격적인 시장 공략에 나섰다. 이 회사는 지난 7월 15억원 규모의 시드 투자 유치에 성공한 바 있다.나봉민 대표는 삼성전자 엔지니어 출신으로 뤼튼에서 AI 캐릭터챗 서비스 '크랙'의 초기 기획과 "
   },
   {
+    "id": "ed4e97c49822c514",
+    "title": "AI 중심 콘텐츠의 우선순위를 낮춘 Hacker News",
+    "link": "https://news.hada.io/topic?id=33593",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T18:41:14.000Z",
+    "snippet": "AI 중심 콘텐츠의 우선순위를 낮춘 Hacker News"
+  },
+  {
+    "id": "d1dcbf8cad64b4ad",
+    "title": "Thelio Mira AI - GPU 메모리 192GB를 지원하는 Linux 워크스테이션",
+    "link": "https://news.hada.io/topic?id=33592",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T18:38:14.000Z",
+    "snippet": "System76의 Thelio Mira AI는 자체 하드웨어에서 AI 학습, 미세 조정, 반복 개발을 수행하도록 설계한 GPU 중심 워크스테이션임 NVIDIA RTX PRO 6000 두 개로 GPU 메모리를 최대 192GB까지 구성할 수 있으며, CPU는 최대 16코어 AMD Ryzen 9000 시..."
+  },
+  {
     "id": "9875783bb16e69e9",
     "title": "오픈AI, 캘텍 AI 수학 해커톤 후원 철회…수학계 '슬롭 수학' 비판 여파",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215193",
@@ -50,6 +80,26 @@
     "snippet": "오픈AI가 캘리포니아 공과대학교(CalTech)에서 개최될 예정이던 '캘텍 매스어톤(Caltech Mathathon)' 행사의 후원을 철회했다. 댄 로버츠 오픈AI 연구 총괄은 10일(현지시간) X를 통해 \"수학계 구성원들이 제기한 우려를 고려해 캘텍 매스어톤 후원을 철회하기로 결정했다\"며 \"수학계와 더욱 긴밀히 소통해 기술 통합과 영향 전달의 최선책을 찾겠다\"고 발표했다. 이번 결정은 수학계 연구자들이 AI가 생성하는 저품질"
   },
   {
+    "id": "e8a9d56e56ea73e3",
+    "title": "Android에서 트래픽을 유출하는 또 다른 방법 발견",
+    "link": "https://news.hada.io/topic?id=33591",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T17:53:25.000Z",
+    "snippet": "Android 네트워크 스택에서 악성 앱이 VPN 터널 밖으로 트래픽을 전송할 수 있는 문제가 발견됐으며, VPN 없는 모든 연결을 차단하는 설정을 켜도 발생함 공격에 특별한 권한이 필요하지 않으며, 기기의 실제 IP 주소가 인터넷에 노출돼 추적이나 감시에 이용될 가..."
+  },
+  {
+    "id": "24e00981a9d33ec2",
+    "title": "1,000달러로 좋은 차를 사는 방법",
+    "link": "https://news.hada.io/topic?id=33590",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T17:50:25.000Z",
+    "snippet": "저가 중고차 구매에는 차량 상태를 판단하는 지식과 신뢰할 만한 인맥이 중요함. 이사하는 지인에게 1,000달러에 산 15년 된 차를 가족이 5년 더 운행한 사례가 있음 이 시장에서 좋은 차의 기준은 외관보다 운행 가능 여부임. 문이나 창문의 일부 결함보다 정상 주..."
+  },
+  {
     "id": "15b171d0d193098d",
     "title": "앤트로픽, 클로드 코드 '플러그인 평가' 공개…플러그인 성능·기여도 검증",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215184",
@@ -58,6 +108,26 @@
     "category": "AI",
     "publishedAt": "2026-09-12T17:50:18.000Z",
     "snippet": "앤트로픽이 코딩 에이전트의 플러그인이 실제 작업에서 제대로 작동하는지를 검증할 수 있는 평가 기능을 추가했다. 기존의 플러그인 유효성 검사가 설정 파일의 문법과 스키마에 초점을 맞췄다면, 이번 기능은 플러그인이 실제 프롬프트에서 호출되는지와 모델의 기본 성능보다 효과가 있는지까지 측정할 수 있다는 점이 특징이다. 앤트로픽은 10일(현지시간) 코딩 에이전트 '클로드 코드'에 플러그인의 실제 성능을 검증할 수 있는 새로운 평가 기"
+  },
+  {
+    "id": "e06e71f7e330be26",
+    "title": "Starlink 신호 누출, 전파천문학의 가장 중요한 주파수를 위협",
+    "link": "https://news.hada.io/topic?id=33589",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T17:47:25.000Z",
+    "snippet": "Starlink 위성의 비의도적 하드웨어 전파 누출이 초기 우주의 미약한 수소 신호를 관측하려는 SKA-Low의 주파수 대역을 오염시키고 있음 Curtin University 연구팀은 위성 1,806기에서 전파 방출 112,534건을 검출했으며, 일부 주파수에서는 관측..."
+  },
+  {
+    "id": "80e8064edfec1160",
+    "title": "Nvidia는 AI의 중앙은행이다",
+    "link": "https://news.hada.io/topic?id=33588",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T17:44:25.000Z",
+    "snippet": "Nvidia는 고객사의 데이터센터 수익과 장비 가치를 보증해 AI 인프라 투자를 촉진하고 자사 칩 수요를 뒷받침함. 지난 3년간 스타트업 투자에 700억 달러 넘게 약정하고 고객에게 약 3,000억 달러의 금융 지원을 제공함 매출의 약 절반을 차지하는 하이퍼스케일러가..."
   },
   {
     "id": "3af865564fa591e3",
@@ -78,6 +148,26 @@
     "category": "AI",
     "publishedAt": "2026-09-12T16:49:57.000Z",
     "snippet": "사카나 AI가 단일 초거대 모델 중심의 성능 경쟁에서 벗어나, 성능과 비용을 동시에 최적화하는 ‘에이전트 오케스트레이션’ 카드로 판도 변화에 나섰다.사카나 AI는 10일(현지시간) 여러 AI 모델을 동적으로 조합해 작업을 수행하는 오케스트레이션 시스템 ‘푸구(Fugu)’의 신규 라인업인 ‘푸구 맥스(Fugu Max)’와 ‘푸구 울트라 v2(Fugu Ultra v2)’를 공식 출시했다.이번 신제품의 핵심은 단순한 버전 업데이트를"
+  },
+  {
+    "id": "2fbe42cfd39de45f",
+    "title": "Google에 더 나은 모습을 기대했다 - 코드는 가져가고 출처는 지운 Artemis",
+    "link": "https://news.hada.io/topic?id=33587",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T16:44:18.000Z",
+    "snippet": "Minitap 팀이 Google의 모바일 자동화 프로젝트 Artemis에서 자신들이 만든 mobile-use 코드를 발견했지만, 원래 프로젝트와 개발자에 대한 출처 표기는 찾을 수 없었음 Android 연결 코드와 에이전트 지침, WhatsApp 예제가 일치했으며, 이전 버전에는 같은 버그까지 재현..."
+  },
+  {
+    "id": "0d570ae7e195115e",
+    "title": "다리오 아모데이: 최첨단 AI의 발전 속도를 늦춰야 한다",
+    "link": "https://news.hada.io/topic?id=33586",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T16:41:18.000Z",
+    "snippet": "Anthropic CEO가 안전성에 투자하는 것만으로는 부족하며, AI 역량의 발전 속도도 늦춰야 한다고 제안함. 개발을 중단하기보다 안전장치를 마련하고 검증할 시간을 확보하자는 취지 AI가 다음 세대 AI를 만드는 재귀적 자기 개선과 에이전트들이 지시 없이 공격에 ..."
   },
   {
     "id": "95cb85bf1ba65e71",
@@ -7556,7 +7646,7 @@
     "source": "정부지원정책",
     "sourceId": "gov-support",
     "category": "정부지원정책",
-    "publishedAt": "2026-09-09T10:38:00.000Z",
+    "publishedAt": "2026-09-09T10:38:43.000Z",
     "snippet": "수자원공사, '국가 K-테스트베드 지원사업' 참여 기업 모집 v.daum.net"
   },
   {
@@ -21120,6 +21210,16 @@
     "snippet": "최근 AI 에이전트의 사이버 보안 평가에서 모델이 주어진 범위를 넘어서는 사례가 잇따르고 있습니다. 지난 7월에는 오픈AI 모델이 내부 연구 환경과 허깅페이스 시스템에 접근했고, 앤트로픽도 사이버 보안 평가 과정에서 클로드가 실제 컴퓨터 시스템에 접근하는 사례를 확인했습니다. 8월에는 영국 AI안전연구소(AISI)의 평가에서도 클로드가 인터넷을 통해 승인되지 않은 행동을 한 사례가 공개됐습니다.다만 이 사례들은 일반적인 서비스"
   },
   {
+    "id": "8636ca5281194fb1",
+    "title": "구글, 매시간 날씨 예보 AI '웨더넥스트 3' 공개...청정에너지·전력망 정밀도 높여 - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtRmRhVlJiQXB0cUdZSzl6VkZRR3BZcHo5MkhHVjRKZTVheHVjUUJhc244ZjhuQm9mbGVKR252eGZGX3B3STM4UEtIU1ZVZTFTMzhxX284RGtnU3Q1dXBwQlpIcWlXTXA2VVE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-04T07:00:00.000Z",
+    "snippet": "구글, 매시간 날씨 예보 AI '웨더넥스트 3' 공개...청정에너지·전력망 정밀도 높여 AI타임스"
+  },
+  {
     "id": "118e444b215ee990",
     "title": "챗GPT·클로드·그록이 같은 날 잇달아 멈췄다",
     "link": "https://platum.kr/archives/294026?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2597gpt%25c2%25b7%25ed%2581%25b4%25eb%25a1%259c%25eb%2593%259c%25c2%25b7%25ea%25b7%25b8%25eb%25a1%259d%25ec%259d%25b4-%25ea%25b0%2599%25ec%259d%2580-%25eb%2582%25a0-%25ec%259e%2587%25eb%258b%25ac%25ec%2595%2584-%25eb%25a9%2588%25ec%25b7%2584%25eb%258b%25a4",
@@ -21128,16 +21228,6 @@
     "category": "창업",
     "publishedAt": "2026-09-04T06:50:09.000Z",
     "snippet": "AI가 업무 인프라가 되자 ‘가용성’이 새 과제로 챗GPT와 클로드, 그록 등 주요 생성형 AI 서비스가 3일(현지시간) 비슷한 시간대에 잇달아 장애를 일으켰다. 오픈AI, 앤트로픽, xAI가 각자 자사 상태 페이지에서 장애를 확인했고, 세 서비스 모두 수 시간 안에 정상화됐다. 코딩과 리서치, 자동화 업무를 AI에 걸어 두었던 사용자들은 그 시간 동안 작업을 멈추거나 다른 서비스로 옮겨야 했다. AI ... 더 읽기"
-  },
-  {
-    "id": "8636ca5281194fb1",
-    "title": "구글, 매시간 날씨 예보 AI '웨더넥스트 3' 공개...청정에너지·전력망 정밀도 높여 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtRmRhVlJiQXB0cUdZSzl6VkZRR3BZcHo5MkhHVjRKZTVheHVjUUJhc244ZjhuQm9mbGVKR252eGZGX3B3STM4UEtIU1ZVZTFTMzhxX284RGtnU3Q1dXBwQlpIcWlXTXA2VVE?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-04T06:44:53.000Z",
-    "snippet": "구글, 매시간 날씨 예보 AI '웨더넥스트 3' 공개...청정에너지·전력망 정밀도 높여 AI타임스"
   },
   {
     "id": "0da27a32117ff230",

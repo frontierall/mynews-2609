@@ -10,6 +10,126 @@
     "snippet": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
   },
   {
+    "id": "f98b92f61785bbb4",
+    "title": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215195",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-13T08:06:24.000Z",
+    "snippet": "다리오 아모데이 앤트로픽 CEO가 최첨단 AI 모델 개발 속도를 조절하자는 제안을 담은 서한을 공개한 가운데, 일론 머스크 CEO와 샘 알트먼 오픈AI CEO가 이에 동의 뜻을 표하며 글로벌 프론티어 AI 개발 속도 조절 논의가 급물살을 타고 있다.아모데이 CEO는 12일(현지시간) 개인 블로그를 통해 '프론티어의 속도를 조절해야 한다(We Must Pace the Frontier)'라는 제목의 에세이를 공개했다.그는 \"지난 "
+  },
+  {
+    "id": "d0dcd832b21fd205",
+    "title": "Linux용 Zoom 클라이언트, X11 클립보드에 기록되는 모든 내용을 선제적으로 읽음",
+    "link": "https://news.hada.io/topic?id=33601",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T23:35:55.000Z",
+    "snippet": "Linux용 Zoom 7.1.5에서 사용자의 붙여넣기 동작 없이 X11 클립보드 내용을 읽는 동작이 관찰됨. 이전에 사용하던 6.6에서는 나타나지 않았음 읽기 대상은 일반적으로 Ctrl+C/Ctrl+V로 사용하는 CLIPBOARD 선택 영역으로 보이며, 텍스트 선택 후 가운데 클릭으로 붙..."
+  },
+  {
+    "id": "5803fa4dd132e1df",
+    "title": "오늘(9월 13일) 날씨 예보: 해안 근처에 열대성 저기압이 위치하여 베트남 중부 지역에 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFRaTVBvdWxDVkxWNVB3TF9ydXZZYmQ1OVJqdTc4V2kyYjBCZTI1eDNHa3VXUnpWY0F2TGxBTFRKd2l6dFd2Z3ozOTRJZ2k3cWZLeWdjQ3U2dTJNZDVSdk50eTh2UHBmV1hUY2tFSVN3YVB6LXlFZThBbGZqYURhcGU0anVVTHk1bHBzanNLZTRscEdUSlV3?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T23:12:35.000Z",
+    "snippet": "오늘(9월 13일) 날씨 예보: 해안 근처에 열대성 저기압이 위치하여 베트남 중부 지역에 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "494d81b3f966ffa6",
+    "title": "AI가 스스로 더 나은 AI를 만드는 날은 얼마나 가까웠나?",
+    "link": "https://news.hada.io/topic?id=33600",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T23:11:55.000Z",
+    "snippet": "재귀적 자기개선(RSI) 은 AI가 더 나은 AI를 만들고, 그 AI가 다시 다음 개선을 이끄는 순환으로, 실험 실행뿐 아니라 연구 방향과 다음 목표까지 스스로 정해야 함 현재의 모델과 강화학습을 확대하면 인간 연구자를 넘어설 수 있다는 기대와, 주어진 목표를 잘 푸는 능력이..."
+  },
+  {
+    "id": "29e9520637e1ef70",
+    "title": "60년간 삶을 지켜본 7 Up 출연자들, 이제 작별을 고하다",
+    "link": "https://news.hada.io/topic?id=33599",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T23:08:55.000Z",
+    "snippet": "1964년 서로 다른 사회경제적 배경의 일곱 살 어린이 14명으로 시작한 7 Up이 마지막 편 70 Up으로 막을 내림 영국의 계급 체계가 어린 시절부터 삶을 어떻게 형성하는지 살피려던 단발성 다큐멘터리가, 7년마다 출연자들의 삶을 따라가는 역대 최..."
+  },
+  {
+    "id": "dd85943eae32cd20",
+    "title": "\"5kg 찌며 쓴 피자 백서\"…삼성웰스토리가 피자에 '진심'인 이유 [씬메이커]",
+    "link": "https://www.hankyung.com/article/202609119263g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-12T22:30:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6a6ccef840102b6c",
+    "title": "사고로 자식 죽으니 30년 만에 나타난 엄마…“사망보험금 달라” [어쩌다 세상이]",
+    "link": "https://www.mk.co.kr/news/economy/12151217",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-12T22:15:52.000Z",
+    "snippet": "이혼 하고 양육비·교류 없던 엄마 아들 사망하자 상속인으로 나타나 전처에 상속권 상실 청구한 아버지 법원, ‘구하라법’ 적용…상속권 박탈이혼한 부모 중 한쪽이 자녀를 키우지 않았다.."
+  },
+  {
+    "id": "6e96ec80f82acba7",
+    "title": "AI가 날씨값까지 올렸다…기상청 슈퍼컴퓨터 가격 1년 새 6배 - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFc29KRjBQa2xBQWpUekJQU1VUcVlicjlEbEhrcTBSa0k2ZkRxOVhwUFAwXzFzOWRhZlR1SHJaR3BMRTJEaFBTQ25WY0VIQ1RidElSR1ZmbXVBcFY3WDE3cGIydEt4MVlYOFJGT0Uzek9fLWvSAXdBVV95cUxPdEV6RXM2ZC1MaFo4WkEwR3Jva25EQkVWYXl5d0IzRjFfWVQwdlZ2ZzlQRU5iQy1KekMtbVZnYnVHRWN3M01sQnJac29wQjdLVjFLcy1iem14aXh4WV9aa3ZLQzJIYU1jYUJnWVVlUzdiRmZfdXFQVQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T22:03:06.000Z",
+    "snippet": "AI가 날씨값까지 올렸다…기상청 슈퍼컴퓨터 가격 1년 새 6배 핀포인트뉴스"
+  },
+  {
+    "id": "728f92315fd90315",
+    "title": "이사 보수, 절차만큼 적정성에도 주목할 때 [디엘지 기업법무 핵심노트]",
+    "link": "https://www.hankyung.com/article/202609080821i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-12T22:00:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "50b963bc00c0d593",
+    "title": "한 통에 5000원 뛰었다…'강남 분유' 압타밀 16% 인상 [프라이스&]",
+    "link": "https://www.hankyung.com/article/202609119870i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-12T22:00:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9976d55b0ef372c4",
+    "title": "\"67% 폭락에도 또?\"…'AI 천재'가 SK하이닉스 다시 찍은 이유 [김주완의 글로벌 머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609120496i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-12T22:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "70479c922ab8ba7d",
+    "title": "\"중국차도 美서 만들면 된다?\"…트럼프 발언에 車업계 '술렁'",
+    "link": "https://www.hankyung.com/article/202609120482H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-12T22:00:01.000Z",
+    "snippet": ""
+  },
+  {
     "id": "e32f3a408409ae78",
     "title": "네이쥐안",
     "link": "https://news.hada.io/topic?id=33598",
@@ -80,6 +200,36 @@
     "snippet": "일론 머스크 CEO가 오스카 수상작 감독 알렉스 기브니의 신작 다큐멘터리 '머스크(Musk)'에 거세게 반발하며 전면전을 선언했다. 베니스 영화제 초연 이후 작품을 둘러싼 논란이 커지자, 머스크는 법적 고발 조치와 함께 거친 비난을 쏟아내며 강력한 대응을 펼치는 모습이다.할리우드 리포트에 따르면, 머스크의 자문 변호사인 알렉스 스피로는 지난 3일(현지시간) 제작사 직소(Jigsaw) 프로덕션에 공식 법적 통지서를 발송해 작품 "
   },
   {
+    "id": "f6adaa7b86e3ff1e",
+    "title": "[강원도 날씨예보] 내륙·산지 일교차 10~15도…중·북부 오전 빗방울 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0bm1GN05qbFlZb2FXaG9JajNrT1FrNjRrX2t2N09CNE91dlVKcVF6ZkZxbmlLYnJHWFdSME92NFZWN0pRN1ItQl9BUU00dGU2bFpvNVhlV2E1aFEyZWhuQmY2d1NqdXZnaGdXTC1zQkfSAXRBVV95cUxNU2pBeHYtb1J4WVNENDlidkhCVmEtZmtpUHlyblFNdDE0bUtOY3NITGdPNUFEM0lLSjBBNlc0V3p6NHNRQkd5WWJmbUU2X3ZiNGkwUFlVbVIwa1ljTE1FWTBCcnpoVUltNjctSExyMXZISXNfSg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T19:35:00.000Z",
+    "snippet": "[강원도 날씨예보] 내륙·산지 일교차 10~15도…중·북부 오전 빗방울 thefairnews.co.kr"
+  },
+  {
+    "id": "3a22bb0951233f17",
+    "title": "[충남권 날씨예보] 낮 최고 28도…아침 안개·큰 일교차 주의 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZWUhKcGEyS0VDZnhkcjFzWDNnY1p1aERDTWFmcnFFNU5xWmhOcHBtbUI5QmlfR0FweVoyakpMX1pEbWNDYXJwZ0xhRHNibzdVVDF4ZkE0dkZwZGI0eTEzZDhnUmFNYlo0ZEV1NDk3ZC3SAXRBVV95cUxQVnVZd01RVk94aGd5X3JycWFiUUVENmY5R19lcVg5OWNLLWVUM08wZTAxNms3UHpRYWxkUjFrVFdDTVA1Ykl3NDlHNkt1dEIwY0hsQllBWERDRUlUR3FCaTVSM1llbTlQczMwQXU5ajBFS1k0TA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T19:30:00.000Z",
+    "snippet": "[충남권 날씨예보] 낮 최고 28도…아침 안개·큰 일교차 주의 thefairnews.co.kr"
+  },
+  {
+    "id": "6cefca37484fb0c8",
+    "title": "[광주·전남 날씨예보] 낮 최고 30도…내륙 아침 안개 주의 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HNXhiLU1RLW5zZXdiSzlQZ1VkSXZoN0F2cVB4NEJkS0NBR09XRG9RLUxLTkxuMjQ3WUlrTHBkV01GZG92eTMxcmJOTy1yd282TkxEMTdhdy1XXzVrRG8wUmt0aVlpUmlnR3Ztckt5dlbSAXRBVV95cUxOWjBTMGpJQjR3OG1fTm83Y0NJb0VrRFA3WUgwRmotNXB6ZC1FanFBMlh5MnUxdDVsdzR6Zmg5ZjU0aUtoSk5pQTRrRzA3YllLb2locDdRWi13M1poeGRFRTk3cVA5M2JsMWJ1dEZxWmQyVzdzNw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T19:25:00.000Z",
+    "snippet": "[광주·전남 날씨예보] 낮 최고 30도…내륙 아침 안개 주의 thefairnews.co.kr"
+  },
+  {
     "id": "34485fff53b4c3c7",
     "title": "AI와 함께 배당주 골라볼까? ... 꼼꼼히 검증 안하면 착시 빠진다",
     "link": "https://www.mk.co.kr/news/economy/12150611",
@@ -100,6 +250,26 @@
     "snippet": "AI타임스와 이스트에이드의 9월 둘째 주(9월4일~10일) 이슈 분석 결과, 외래진료 본인부담 확대와 함께 청주·파주에서 벌어진 살인사건 등이 상위권을 차지했다.이번 주 검색량 1위는 '외래진료 본인부담 90%(6.11%)'가 차지했다. 내년부터 외래진료가 연 300회를 초과하면 본인부담이 90%까지 오른다. 기존 연 365회 초과자를 대상으로 부과하던 본인부담 기준을 300회 초과로 강화했다. 다만 아동·임산부와 중증장애인,"
   },
   {
+    "id": "a584d7509c87d69a",
+    "title": "[부산·울산·경남 날씨예보] 낮 최고 31도…경남내륙 일교차 10~15도 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEU05qRU80ME9RZDVuM25sNm00S01ZOXM2dm03QzdZeUM0VF92QVI0Ulo5ZTRrZmd4aFJDMng3SWZ6bml6Rk1iZURoQ0VLdXFadzh3VE9xMXdfV1g3SDhRM1h2dmRPZldHaHZWWFhqR07SAXRBVV95cUxQRDQzaFlkb3cyRzR4Ulk5WlZzZnBhdXVnN2VTVEN0WUUwLXZtTWdmTTZuNlo1V0xhTExiOWpCLUM0R3pwVi1MZDZnZldha00tTmdGQV8zV0RFdlVFRUdxQ0xkenQ4eWtoR0kwM0hRelJSUlJ0UQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T19:20:00.000Z",
+    "snippet": "[부산·울산·경남 날씨예보] 낮 최고 31도…경남내륙 일교차 10~15도 thefairnews.co.kr"
+  },
+  {
+    "id": "7fb93f030158c83a",
+    "title": "[제주도 날씨예보] 오후부터 산지 5~10㎜ 비…산간도로 짙은 안개 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YSlFIcHZlS2t0eFd0OGV6MWxIZzJaa2dISzk3ZjRWbXJ3eFJBREdndGR6OEtRTzlfZzRYY1E4UVh3cHR2b2NTZzJ2bk96eHZrbjNkUU50RmhOZnFJajVlZ3prRVVLT2lIWVVCUnM4YjnSAXRBVV95cUxOTnJhTEV6N1FqcmR2aHhsNFAtTmFPTmhKaXhRSEp2SktPbHRreENoN3lPc2Q2VFBQTmhmc19FLWkzUVdDaDBNVW9JeXFnMl9PcVJOZkExbFFadHNteDg2dDhxRjdKb3dvYlZ2YXdENUxDa05uUA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T19:15:00.000Z",
+    "snippet": "[제주도 날씨예보] 오후부터 산지 5~10㎜ 비…산간도로 짙은 안개 thefairnews.co.kr"
+  },
+  {
     "id": "4227150672317403",
     "title": "“인류를 위한 AI 컴패니언”…딥그로브의 캐릭터챗이 남다른 이유",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214911",
@@ -108,6 +278,16 @@
     "category": "AI",
     "publishedAt": "2026-09-12T19:12:17.000Z",
     "snippet": "AI 캐릭터챗 서비스 '크랙'과 '이루다'의 초기 개발·기획을 주도했던 전문가들이 모여 만든 스타트업 딥그로브(DeepGrov, 대표 나봉민)가 단순 대화를 넘어선 AI 컴패니언 서비스 '프론티아(Frontia)'를 전면에 내세우며 본격적인 시장 공략에 나섰다. 이 회사는 지난 7월 15억원 규모의 시드 투자 유치에 성공한 바 있다.나봉민 대표는 삼성전자 엔지니어 출신으로 뤼튼에서 AI 캐릭터챗 서비스 '크랙'의 초기 기획과 "
+  },
+  {
+    "id": "37a50eee9e1356af",
+    "title": "[수도권 날씨예보] 대체로 흐림…서울·인천·경기북부 아침 빗방울 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yaTBVT21QXzlNMHJxZ2tsTVN5YzBpbXpaYWZvVlhyRVlHa3VwZGNJcFQ1aG44LVlYVkp1SlgyU2dsSHpjcVBGTUpEYnBUMlZoNlZVaV9qTjBRNjdBejI0VXB3am9mVjY0b2V4eWF4eE_SAXRBVV95cUxPcHVJNGw4ZnZMaF9EdERDYUdfM2JFLW5iVGhBWTNzLVh0RTJrRUtqdjNxYnJJT09TRmlNSTFoeVE3Z0ZxbnpDaUpRUjBYNEMtc0xMYmNXR25hbGNiaEZWSWVSeTlfV2tSeDh3NW9KWGtNeUU1Tg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T19:10:00.000Z",
+    "snippet": "[수도권 날씨예보] 대체로 흐림…서울·인천·경기북부 아침 빗방울 thefairnews.co.kr"
   },
   {
     "id": "ed4e97c49822c514",
@@ -738,6 +918,16 @@
     "category": "경제",
     "publishedAt": "2026-09-12T02:13:23.000Z",
     "snippet": ""
+  },
+  {
+    "id": "b8ce9bb717a009c7",
+    "title": "[전국 날씨예보] 가끔 구름…내륙 일교차 최대 15도 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQlJ6S0pnYUlIWkZRcjRkOWVZT0hIVUFpYTUxQWJQbHZDUHVqd25lY3lIRFdSMm85TTdqY3lRZGdOU21wdGpfNmlJR1hZVVNmeUF6bkkzNnlaelRYT3RoTUFtZ3pKX2JYZFAzTEJJQmLSAXRBVV95cUxQTGNBa2ZJTUs4S3l5VE4ydDQ1aW1meHFOY0wyUHNiN0lhYzk0dVFvcnZhMFR4MEtaRXJpMHpZV2gtejlfUXlUa2tkNkR3R2pnLW03Y3FTZnZkMTNBWTdoREhLR0J4OGllbVMzLU9XZ2tkdFMyUw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T01:45:13.000Z",
+    "snippet": "[전국 날씨예보] 가끔 구름…내륙 일교차 최대 15도 thefairnews.co.kr"
   },
   {
     "id": "6fa3ba25ad454406",
@@ -12983,6 +13173,16 @@
     "id": "9f005a8f784f4a9a",
     "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRd1FmZlBZa0thUmJuRlU5d0lwWnppcnR5OGdPdmJCYzJPekJoTEpDaExMMU5TRzJTTVU3anZRMExlbzZONVE?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-08T00:05:50.000Z",
+    "snippet": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 v.daum.net"
+  },
+  {
+    "id": "b15175231db07a51",
+    "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CQTdQbjRyZXhyZUtJb3NNeHFicDF6c3lBblpWTmdIcVdzbVY0UTNIWG9CaVpyNXZYOGVneGpKQjdPOTE4cXJ6aFlvQ2loMHNNY1czUQ?oc=5",
     "source": "정부지원정책",
     "sourceId": "gov-support",
     "category": "정부지원정책",

@@ -160,6 +160,16 @@
     "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “30일, 모레까지 전국 대부분 비·소나기” 한국강사신문"
   },
   {
+    "id": "6e9fbf34765b0f43",
+    "title": "날씨 예보 8월 30일 - 2news.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zaUVWRTh1elJkVi1vWVdkRlRMX3JZUE0xalcySUtyb3Y4MHQxdlVQWmRlWmFfRE9MdmlfMXdtNDI3VzIwNnJtTHhBaVJ5LVRNbkNTMG1oNzAzeXdkaG9qNEYycFQ2VlB4?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-08-29T21:09:08.000Z",
+    "snippet": "날씨 예보 8월 30일 2news.co.kr"
+  },
+  {
     "id": "36bb7d7d07cfa27c",
     "title": "[금주의 안성시] ‘2026년 15분 문화교류장 지원사업’ 참여자 모집 外 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QZVlhNGZLUHZObmYzcXFTMC1pS3Q5UHdzd0MwZmI4WXU3MzdaSGkzWDBaYkw5NlR4ZS13VDN4ZlZuUkdMeEFtV2o5NndwSU0?oc=5",
@@ -1118,6 +1128,16 @@
     "category": "날씨",
     "publishedAt": "2026-08-20T07:00:00.000Z",
     "snippet": "날씨 예보 8월 20일 2news.co.kr"
+  },
+  {
+    "id": "e1d9ac645756a378",
+    "title": "날씨 예보 8월 20일 오후 발표, 20일-22일 날씨 - 2news.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiS2wtS0NQTk81YllXbXdfNFpKOTRMdGJxUjMxWUVFZ21NYTBvSUV1MjZHeEFUckU0RWZOcE5fWHNfelIxWGlQTm9PMXdrREx5d1oyVDNodVB2UXB4ZGJvaDJUVnNxRHJI?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-08-20T07:00:00.000Z",
+    "snippet": "날씨 예보 8월 20일 오후 발표, 20일-22일 날씨 2news.co.kr"
   },
   {
     "id": "cb030de2dd9418a3",

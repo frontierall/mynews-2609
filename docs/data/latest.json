@@ -90,6 +90,26 @@
     "snippet": "세일즈포스가 기업 곳곳에 적용되는 AI 에이전트를 하나의 체계로 통합 관리하기 위한 새로운 기업용 프레임워크를 공개했다. 에이전트와 오케스트레이션 플랫폼이 부서와 업무별로 빠르게 늘어나면서 발생하는 ‘에이전트 난립(Agent Sprawl)’에 대응해, 데이터와 모델부터 에이전트의 행동, 보안, 거버넌스까지 기업이 통합적으로 통제할 수 있도록 하는 것이 핵심이다.세일즈포스는 10일(현지시간) 특정 에이전트 하나를 안정적으로 실행"
   },
   {
+    "id": "ef205e51234ce6f8",
+    "title": "CIA, 9/11을 기념해 대통령 일일 정보보고 공개",
+    "link": "https://news.hada.io/topic?id=33585",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T15:37:59.000Z",
+    "snippet": "CIA가 9/11 테러 25주년을 기념해 대통령 일일 정보보고(PDB) 자료 71건을 기밀 해제하고 공개함 이번 자료 모음은 9/11 관련 CIA PDB 기밀 해제 자료의 단일 공개로는 최대 규모이며, 테러 발생 이전 수년과 발생 다음 날의 분석을 포함함 ..."
+  },
+  {
+    "id": "b67d645ecee4aecb",
+    "title": "Matt Mullenweg, 축출 후 Automattic 직원들에게 Slack으로 경영권 복귀 알려",
+    "link": "https://news.hada.io/topic?id=33584",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T15:34:59.000Z",
+    "snippet": "Matt Mullenweg가 CEO직에서 물러나게 된 지 며칠 만에 Automattic 사내 Slack에서 이사회가 다시 합의했고 자신이 경영권을 되찾았다고 밝힘 이사회는 앞서 Mullenweg를 유급 휴직 처리하고 CFO Mark Davies를 임시 CEO로 임명했으며, 당시 회사..."
+  },
+  {
     "id": "9c5ce2e568ebc8f9",
     "title": "오픈AI의 피지 시모, IPO 앞둔 엔스케일 이사회 합류",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215189",
@@ -108,6 +128,46 @@
     "category": "AI",
     "publishedAt": "2026-09-12T15:18:27.000Z",
     "snippet": "내면지도_보물섬은 먼저 지도로 태어났다어떤 이야기는 글보다 먼저 지도로 시작됩니다.어떤 이야기는 지도에서 시작이 됩니다.로버트 루이스 스티븐슨의 『보물섬』도 그랬습니다. 그는 어느 비 오는 날, 아들과 함께 놀며 섬의 지도를 그렸다고 전해집니다. 만과 언덕, 숲과 항구, 해골섬과 망원경 언덕 같은 이름들을 붙이며, 자연스레 길을 그리고 이야기에 살을 붙이며 인물과 사건이 떠오르기 시작했습니다. 스티븐슨은 훗날 그 지도를 보며 "
+  },
+  {
+    "id": "9096f4279b5b5e50",
+    "title": "아침 저녁 ‘선선’ 낮엔 늦더위…서울·인천 등 빗방울[오늘날씨] - bntnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZQkk2T3ZfbWlEWW0zNzQySWRqMkxCZkxucm1uODZidUg0OWlQQ2dyalNTaVV1NzhkZjNNLTJ1eE02Q0xkQ09JWFF1QlJKX3JNX2JHLU9YMGptS1haajY0UW5BX2E?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T15:00:02.000Z",
+    "snippet": "아침 저녁 ‘선선’ 낮엔 늦더위…서울·인천 등 빗방울[오늘날씨] bntnews.co.kr"
+  },
+  {
+    "id": "1cd87ed74eede50f",
+    "title": "〔오늘의 북한 날씨〕북부 일부 지역 비·소나기 예보 - SPN 서울평양뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FZHd0OGlTYW13Z3dlQ19mNVlvaXNmOUxhS0VCTWtsM2UzRXY2MjdHNm1CVlVubTlfdmFFQTRHb0ZBQkhMeDNQa0pCVS11ajV5ZlJ5TVVSakYtTzRETU5zOU51VHFTSmJ1RXA4?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-12T15:00:00.000Z",
+    "snippet": "〔오늘의 북한 날씨〕북부 일부 지역 비·소나기 예보 SPN 서울평양뉴스"
+  },
+  {
+    "id": "151993db2b1a1d88",
+    "title": "Apple Neural Engine 역공학 하기: LLM의 병목은 연산보다 데이터 이동",
+    "link": "https://news.hada.io/topic?id=33583",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T14:35:47.000Z",
+    "snippet": "신경망 전용 칩인 Apple Neural Engine(ANE)이 LLM 실행에서 GPU보다 불리해지는 이유를 내부 구조와 메모리 전송 실험으로 살펴봄 M1 ANE의 연산기는 트랜스포머에 필요한 계산도 수행할 수 있지만, 주변 구조는 같은 가중치를 반복 사용하는 이미지 처리용 신경망(CNN)"
+  },
+  {
+    "id": "c950602d74bf026e",
+    "title": "젠장, 그래도 만들자",
+    "link": "https://news.hada.io/topic?id=33582",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-12T13:33:21.000Z",
+    "snippet": "프롬프트 하나로 도구와 게임을 만드는 시대가 되면서, 수년간 어렵게 배운 기술과 직접 만든 결과물이 무슨 가치가 있는지 회의가 들 수 있음 LLM이 코드를 잘 만든다는 사실과 그 도구로 프로그래밍하는 일이 즐거운지는 별개이며, 결과물이 내 것처럼 느껴지지 ..."
   },
   {
     "id": "5d3813df12815b87",
@@ -1438,6 +1498,16 @@
     "category": "크리에이터 이코노미",
     "publishedAt": "2026-09-11T14:06:04.000Z",
     "snippet": "Viral Nation is not about the vibes. In an era where seemingly every company is adding generative AI to their business models, Viral Nation says it’s doing the same thing it’s been doing for years: using machine learning to put data into pr"
+  },
+  {
+    "id": "d85b013727126508",
+    "title": "성공한 창업인을 멘토로… 소상공인 도제 지원 사업 모집 - 데일리뉴스",
+    "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOR0hfeWZEa1JwZ0xLWjhaZ1I4VG5KV3huSkNkb2NmZnEtZVpwUFltUHBFRldFczZBMnFuSHVGTkx4XzI1S2pMNmNqTk03eXpXcFk3WkpUOUhRMEhDamVvM2hOUHJ3U3lMZnJmVmRud2FDYUxhQmh3VVIyMlJQcE5nb21GWk9tdzlrcHdtekkxLXBWRHFzaVNPSmhFZVZSVHJKbTN2c3A2em94N1BEdXIzc1FmSENFb2IwMnlxekpPYTAzU0s5U3A0YmlTUGlCaWRlUU94d0JvYTZYTGJlZUFzeWd2OE1VeXlITTd6R3B6Z2dmT1lyeTc4c1VtZUVtbGdoUS1RbVBuWVRJbDdCeFY4cndlVzFLQkhHekRuSXpGWjJOczBZSzNoN3VLWFM0UTQtbnVLdWN0SDd2V2hicXNLV2NvMTF1QWsxLTJQWlZQak9oeVpCa25vUVZOcFlTWEIxWG5qVXhrclowTDh2ZWo4V08zQVFtUWVKZXNz?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-11T14:06:00.000Z",
+    "snippet": "성공한 창업인을 멘토로… 소상공인 도제 지원 사업 모집 데일리뉴스"
   },
   {
     "id": "ae8ed73db009ad13",
@@ -4928,75 +4998,5 @@
     "category": "경제",
     "publishedAt": "2026-09-10T08:29:55.000Z",
     "snippet": "LH 공공분양 19곳 중 9곳 집단대출 금융기관 미확보 왕숙 등 연말까지 납부 연기한국토지주택공사(LH)가 공급하는 3기 신도시 공공분양에서도 중도금 집단대출을 해줄 은행을 구하.."
-  },
-  {
-    "id": "1cd6ba7b3acd8fd7",
-    "title": "[단독] “집단대출 은행 못구해서”…중도금 일정미룬 3기신도시 왕숙",
-    "link": "https://www.mk.co.kr/news/realestate/12149593",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T08:29:55.000Z",
-    "snippet": "LH 공공분양 19곳 중 9곳 집단대출 금융기관 미확보 왕숙 등 연말까지 납부 연기한국토지주택공사(LH)가 공급하는 3기 신도시 공공분양에서도 중도금 집단대출을 해줄 은행을 구하.."
-  },
-  {
-    "id": "fae8581ef7638e31",
-    "title": "[단독] “빚 일찍 갚으면 바보네”…코로나 피해 소상공인 빚 1억 탕감",
-    "link": "https://www.mk.co.kr/news/economy/12149585",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T08:29:04.000Z",
-    "snippet": "금융위, 취약차주 부담 경감 3년 전 연체 아직 계속되는 자영업자 채권 5.4조원 대상 아예 소각하는 방안도 검토 성실상환자 역차별 지적도금융당국이 코로나19 피해를 여전히 회복하.."
-  },
-  {
-    "id": "eab3038f5c20505c",
-    "title": "축평원, 저탄소 인증 축산물 소비 활성화 사업 참여업체 모집 - 농업인신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Vl9hVlAzWk1IcHpmQlVENWhXTllUaVRSWDdKdzdXb0NWcmxzVHJ6WWtiRzloY3hwckh0NEQzTFNPdlZHOE1JV1ZIZzhmR2J2Rk1hZks1dFZ3QWhwRkdET2c4RmJhRExqLWNOSw?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-10T08:24:29.000Z",
-    "snippet": "축평원, 저탄소 인증 축산물 소비 활성화 사업 참여업체 모집 농업인신문"
-  },
-  {
-    "id": "0b10669c51e00cf4",
-    "title": "따뜻한 물에 고단함을 씻어낸다…욕실이 '지상 낙원'",
-    "link": "https://www.hankyung.com/article/2026091072471",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T08:23:11.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "dd64fa569239e24d",
-    "title": "요리 습관·동선 맞춰 설계…개성 뽐내는 공간 된 주방",
-    "link": "https://www.hankyung.com/article/2026091072461",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T08:22:36.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "7f5dc28378e216bf",
-    "title": "보험연구원, 글로벌 리뷰 창간…영국 인수합병으로 국내 시사점 소개",
-    "link": "https://www.mk.co.kr/news/economy/12149577",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T08:21:03.000Z",
-    "snippet": "국내보험사에 정보 제공 위해 창간 “국내 보험사 인수 역량 확보 필요”보험연구원이 최근 국내 보험사의 해외진출 시 필요한 정보를 제공하기 위해 기존의 해외보험리포트를 ‘글로벌 리뷰.."
-  },
-  {
-    "id": "6537d4c0ee6557b7",
-    "title": "최성욱 JT친애저축은행 대표, '사람 살리는 금융' 캠페인",
-    "link": "https://www.hankyung.com/article/202609107213i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-10T08:20:40.000Z",
-    "snippet": ""
   }
 ]

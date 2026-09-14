@@ -166,7 +166,7 @@
     "source": "날씨 뉴스",
     "sourceId": "weather-news",
     "category": "날씨",
-    "publishedAt": "2026-08-29T21:09:08.000Z",
+    "publishedAt": "2026-08-30T07:00:00.000Z",
     "snippet": "날씨 예보 8월 30일 2news.co.kr"
   },
   {
@@ -1160,6 +1160,16 @@
     "snippet": "날씨 예보 8월 20일 오후 발표, 20일-22일 날씨 2news.co.kr"
   },
   {
+    "id": "50e1cdfae80e811d",
+    "title": "\"라이브커머스 진출할 소상공인 모집\"…30일까지 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZUUpwMUl5LTQ4alIyZUFRSTFKVjlWSjV6WmFEZnZRbzl2aDg1OHBDTU54T25zVFM1ZHcyTzJ4LXg0VHpLYmhJNDJOd1A1MkkzX1VtSFhnaWtrNDhlb3B0ZkFkeHR1ai1HalVXTFBIOERSMlh1TWdBUtIBeEFVX3lxTE1ZUUpwMUl5LTQ4alIyZUFRSTFKVjlWSjV6WmFEZnZRbzl2aDg1OHBDTU54T25zVFM1ZHcyTzJ4LXg0VHpLYmhJNDJOd1A1MkkzX1VtSFhnaWtrNDhlb3B0ZkFkeHR1ai1HalVXTFBIOERSMlh1TWdBUg?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-08-20T07:00:00.000Z",
+    "snippet": "\"라이브커머스 진출할 소상공인 모집\"…30일까지 뉴시스"
+  },
+  {
     "id": "cb030de2dd9418a3",
     "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
     "link": "https://openai.com/index/stampli",
@@ -2088,6 +2098,26 @@
     "category": "정부지원정책",
     "publishedAt": "2026-08-02T07:00:00.000Z",
     "snippet": "안동시, 수출기업 역량강화 지원사업 참여기업 모집 데일리대구경북뉴스"
+  },
+  {
+    "id": "44e8a2b00ec3d7f4",
+    "title": "안동시, 수출기업 역량강화 지원사업 참여기업 모집 - hidomin.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wQmdfLWFUMXE2QnVHYWFBb1l4Ym5xTmhZTnRlTUxsck1CdjRaOG1IVTdDbE5MMlJtRlNNeTlaNTRhUC1rN2hfaF8xWS1nd01YZGpfV1l5ZGV5NWc4ZGhWZE1nWERDWkNjTlE?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-08-02T07:00:00.000Z",
+    "snippet": "안동시, 수출기업 역량강화 지원사업 참여기업 모집 hidomin.com"
+  },
+  {
+    "id": "fe7b7c8e6b118fb6",
+    "title": "안동시, 수출기업 역량강화 지원사업 참여기업 모집...최대 300만 원 지원 - 경북신문",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBycy13bzg4X0lCN213NE5STWNZQzgySzl4eGxfTll4a2xRNkl6TlJzdDhFX0dpaklJampJQkZXR2VROEJ0NWlHaGpOeTBuTEhlS0pTcTBfbGk?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-08-02T07:00:00.000Z",
+    "snippet": "안동시, 수출기업 역량강화 지원사업 참여기업 모집...최대 300만 원 지원 경북신문"
   },
   {
     "id": "6d58997b466ca59f",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T23:48:47.247Z",
+  "lastUpdated": "2026-09-14T02:38:27.864Z",
   "feeds": [
     {
       "id": "aitimes",
@@ -58,14 +58,14 @@
     {
       "id": "weather-news",
       "name": "날씨 뉴스",
-      "ok": true,
-      "count": 100
+      "ok": false,
+      "error": "HTTP 503"
     },
     {
       "id": "gov-support",
       "name": "정부지원정책",
-      "ok": true,
-      "count": 100
+      "ok": false,
+      "error": "HTTP 503"
     },
     {
       "id": "geeknews",

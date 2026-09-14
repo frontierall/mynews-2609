@@ -1376,7 +1376,7 @@
     "source": "정부지원정책",
     "sourceId": "gov-support",
     "category": "정부지원정책",
-    "publishedAt": "2026-08-18T01:48:00.000Z",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
     "snippet": "온라인수출 中企 물류비 70% 지원...중진공, '물류지원 사업' 모집 연장 뉴스핌"
   },
   {
@@ -1538,6 +1538,16 @@
     "category": "경제",
     "publishedAt": "2026-08-13T15:00:00.000Z",
     "snippet": "Federal Reserve Board issues enforcement action with former employee of Regions Bank"
+  },
+  {
+    "id": "296d33defd03a1b2",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "link": "https://openai.com/index/fyxer",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-08-13T12:00:00.000Z",
+    "snippet": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
   },
   {
     "id": "855fa77e93e122bb",

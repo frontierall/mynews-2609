@@ -1,5 +1,205 @@
 [
   {
+    "id": "b11f27b1ad0d49ac",
+    "title": "앤트로픽 '페이블 5.1', 370년 미해결 난제 암호 44분 만에 풀었다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215301",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T18:47:47.000Z",
+    "snippet": "370년 넘게 풀리지 않았던 17세기 역사적 암호문을 앤트로픽의 '페이블 5.1'이 44분 만에 해독했다. 미국 AI 연구기관 발스 AI(VALS AI)는 최근 페이블 5.1로 스코틀랜드 작가 토머스 어쿼트 경이 1653년 남긴 미해결 암호문 '암호 이중시(Cyphral Distich)'를 해독하는 데 성공했다고 밝혔다.암호 이중시는 어쿼트의 저서 '로고판덱테이시온(Logopandecteision)' 마지막 부분에 등장한다. "
+  },
+  {
+    "id": "5e170ecd5edb5111",
+    "title": "머스크 \"그록 4.8 사전 학습 이번 주 완료...2.5조 매개변수·C++ 적용\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215290",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T18:39:54.000Z",
+    "snippet": "스페이스XAI가 차세대 AI 모델 ‘그록 4.8’의 사전 학습을 이번 주 안에 마치고 강화학습(RL)에 돌입할 전망이다. 2조5000억개 매개변수 규모로, 스페이스XAI가 새롭게 개발한 C++ 기반 소프트웨어 스택을 적용한 것으로 알려졌다. 일론 머스크 CEO는 13일 X에 그록 4.8이 2조5000억개 매개변수를 갖춘 모델이며, 스페이스XAI의 새로운 C++ 소프트웨어 스택을 이용해 학습되고 있다고 밝혔다.이어 \"사전 학습이"
+  },
+  {
+    "id": "8ebbc01dd7f88382",
+    "title": "오픈AI, '아이폰 카메라 기술' 개발한 스타트업 인수…AI 하드웨어 박차",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215285",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T18:31:46.000Z",
+    "snippet": "오픈AI가 스마트폰 카메라의 화질을 AI으로 개선하는 기술을 개발해 온 스타트업 글래스 이미징(Glass Imaging)을 조용히 인수한 것으로 알려졌다. 14일(현지시간) 월스트리트저널(WSJ)에 따르면, 글래스 이미징의 기업 가치는 이번 인수 과정에서 3억달러(약 4000억원) 이상으로 평가됐다.지난해 투자 유치 당시 1억달러로 평가받았던 것과 비교하면 1년 만에 가치가 3배 이상 상승한 셈이다. 구글의 벤처투자 부문 GV"
+  },
+  {
+    "id": "fb7037b1f68219ee",
+    "title": "중국 연구진, '스스로 진화하는 AI' 5단계 구분법 공개...\"현재는 2단계 수준\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215284",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T18:20:18.000Z",
+    "snippet": "중국의 주요 대학과 기술 기업 연구진이 AI가 인간의 개입 없이 스스로 더 나은 버전을 만들어내는 '재귀적 자기개선(RSI)' 기술의 발전 수준을 평가하는 5단계 로드맵을 공개했다. 현재 AI가 일부 개발 작업을 자동화하고 있지만, 자기개선 시스템 자체를 지속적으로 개선하는 수준에는 아직 도달하지 못했다는 분석이다.상하이교통대, 테세우스랩, 칭화대, 바이트댄스, 상하이 AI 연구소 등 연구진은 10일(현지시간) '인간이 만든 "
+  },
+  {
+    "id": "367cff79114173e2",
+    "title": "\"뇌처럼 학습한다\"…사카나 AI, 역전파 대체 기술 'PC-ALM' 발표",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215305",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T18:07:23.000Z",
+    "snippet": "사카나 AI가 딥러닝 학습의 핵심 방식인 '역전파(Backpropagation)'를 사용하지 않고도 매우 깊은 신경망을 학습할 수 있는 새로운 레이어별 학습 기법을 공개했다.사카나 AI는 최근 기존 예측 코딩(PC·Predictive Coding)의 한계를 보완한 ‘PC-ALM(Augmented Lagrangian Predictive Coding)’을 온라인 아카이브에 공개했다.이 방식은 각 레이어가 주변 정보와 자체 상태를 "
+  },
+  {
+    "id": "d622ee396f95cbc7",
+    "title": "\"독점 정보 유출 막아라\"...엔비디아·팔란티어, 첨단 AI 모델 도입 축소",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215294",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:43:41.000Z",
+    "snippet": "AI 기업들의 데이터 수집 및 보관 정책으로 인한 데이터 및 지식재산권(IP) 유출 우려가 커지면서, 주요 기업들이 고급 AI 모델 사용을 축소하거나 새로운 보안 보장을 요구하고 나섰다. 14일(현지시간) 디 인포메이션에 따르면, 팔란티어와 엔비디아, 부즈 앨런 해밀턴 등 민감한 기업·고객 정보를 다루는 업체들은 앤트로픽과 오픈AI의 최첨단 AI 모델 사용을 제한하거나 데이터가 외부로 나가지 않는 환경을 요구하고 있는 것으로 "
+  },
+  {
+    "id": "b52941d46b824e0e",
+    "title": "알트먼 \"통제권 상실·권력 집중 경계\"...AI 속도 조절 배경 밝혔다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215265",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:34:09.000Z",
+    "snippet": "샘 알트먼 오픈AI CEO가 AI 개발 속도를 조절해야 하는 근본적인 이유로 인류의 미래에 대한 통제권 상실과 AI 권력의 극단적인 집중을 제시했다. 또 ‘속도 조절’은 AI 개발을 중단하자는 의미가 아니라, AI의 능력이 안전성과 정렬 기술을 앞서가지 않도록 개발 속도를 일부 늦추자는 의미라고 강조했다.알트먼 CEO는 14일(현지시간) X 게시물을 통해 “미국의 경쟁 압력이 아무리 크더라도 무모함을 정당화하거나 AI 능력이 "
+  },
+  {
+    "id": "6c69a35c4a6776d7",
+    "title": "애플, 시리 AI 탑재 'iOS 27' 배포 시작...차세대 아이폰 출격 채비",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215300",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:25:01.000Z",
+    "snippet": "애플이 차세대 아이폰 출시를 앞두고 AI 기능을 강화한 최신 모바일 운영체제 ‘iOS 27’을 공개했다. 이번 업데이트의 핵심은 대형언어모델(LLM)을 기반으로 전면 재설계한 ‘시리(Siri)’다. 애플은 새로운 시리를 베타 버전으로 우선 제공하며, 차세대 아이폰을 AI 중심 기기로 내세운다는 전략이다.애플은 14일(현지시간) iOS 27을 배포하고 새로운 시리 AI 기능을 베타 형태로 선보였다.새로운 시리를 사용하려면 아이폰"
+  },
+  {
+    "id": "59ac91e15bbb1e75",
+    "title": "앤트로픽, 금융 시장 본격 공략…'클로드 포 파이낸셜 어드바이저스' 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215289",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:18:48.000Z",
+    "snippet": "AI 업계의 금융권 공략이 빨라지고 있다. 오픈AI에 이어 앤트로픽도 금융 전문가를 위한 전용 AI 솔루션을 선보이며 금융 업무 자동화 시장에 본격적으로 뛰어들었다. 앤트로픽은 14일(현지시간) 금융 자문가의 업무 효율을 높이기 위한 맞춤형 AI 솔루션 ‘클로드 포 파이낸셜 어드바이저(Claude for Financial Advisors)’를 공개했다.고객 미팅 준비와 후속 문서 작성, 포트폴리오 분석, 규정 준수 점검 등 자"
+  },
+  {
+    "id": "1b6a80684c2c67d9",
+    "title": "“AI 에이전트가 상호 거래·정산까지”...카카오페이 자율결제 실증 완료",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215311",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:11:45.000Z",
+    "snippet": "카카오페이(대표 신원근)가 ‘에이전틱 결제(Agentic Payment)’와 관련해 ‘구매’와 ‘판매’ 양방향에서 기술 실증(PoC)을 완료했다고 15일 밝혔다.에이전틱 결제는 사용자가 AI 에이전트에게 구매 권한, 결제 한도 등 정책을 설정한 지갑을 부여하면 AI 에이전트가 그 범위 안에서 물품·서비스·데이터 등 필요한 리소스를 자율적으로 판단해 결제를 실행하는 것을 의미한다.카카오페이가 이번에 실증한 에이전틱 결제 기술은 "
+  },
+  {
+    "id": "c11e0c9533b3156e",
+    "title": "[게시판] 에어빌리티, 드론 R&D·생산거점 '기흥 캠퍼스'로 통합 등 단신",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215302",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:09:32.000Z",
+    "snippet": "■ 에어빌리티(대표 이진모·류태규)는 연구개발(R&D)과 생산 거점을 통합한 '기흥 캠퍼스'를 출범했다고 밝혔다. 서울 양재 기업부설연구소와 성남 공장을 경기 용인의 기흥 캠퍼스로 통합했다. 설계부터 조립, 시험 비행까지 일관된 생산체계를 갖춰 연내 넷건형 요격기 'AB-U10' 초도 물량을 생산하고, 내년 상반기까지 직격드론 'AB-U2'와 고정익 런처형 'AB-U4L'을 출시할 계획이다.■ 구글 클라우드는 SK렌터카에 구글"
+  },
+  {
+    "id": "c7d33d0070a504a0",
+    "title": "MS, '인본주의적 AI 행동 강령' 공개...\"AI는 인간에게 종속돼야\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215268",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:08:19.000Z",
+    "snippet": "AI가 인간의 통제를 벗어나지 않도록 개발 단계부터 적용할 원칙을 담은 ‘인본주의적 AI 행동 강령(Humanist AI Code of Conduct)’ 초안을 마이크로소프트(MS)가 공개했다. 최근 최첨단 AI 개발 속도를 조절해야 한다는 업계의 목소리가 커지는 가운데, MS가 AI의 안전성과 인간 통제권을 확보하기 위한 구체적인 행동 기준을 제시한 것이다.무스타파 술레이만 MS AI CEO는 13일(현지시간) “AI는 반드"
+  },
+  {
+    "id": "d58f2b95a82c4dac",
+    "title": "중국, 미국의 AI 속도 조절 요구에 반발...\"냉전 방식의 기술 억제\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215274",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:00:11.000Z",
+    "snippet": "중국이 미국 AI 업계에서 제기된 최첨단 AI 개발 속도 조절 요구에 대해 강하게 반발했다. 중국 정부와 관영 매체는 AI 안전을 명분으로 한 규제가 사실상 중국의 기술 발전을 억제하고 미국의 AI 패권을 유지하기 위한 수단이라고 주장했다. 월스트리트저널(WSJ) 등에 따르면, 중국 외교부 대변인 궈자쿤은 14일(현지시간) 정례 브리핑에서 미국 AI 업계의 개발 속도 조절 주장과 중국 AI에 대한 위협론을 겨냥해 \"위협 서사를"
+  },
+  {
+    "id": "291b0a1a82011027",
+    "title": "[게시판] 뉴로퓨전,  금융 플랫폼 '밸리 AI'에 투자 리서치 에이전트 탑재 등 단신",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215314",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:00:00.000Z",
+    "snippet": "■ 뉴로퓨전(대표 최한철)은 ‘밸리 AI’에 투자 분석 및 금융 추론 특화 AI 에이전트 기능을 탑재했다고 밝혔다. 밸리 AI는 재무제표, 시세, 밸류에이션, 공시, 경제지표 등 정제된 금융 데이터를 기반으로 투자 분석을 지원하는 플랫폼이다. 이번에 선보인 ‘투자 리서치 AI 에이전트’는 챗, 워크플로우, 리서치 데스크 3개 기능으로 구성된다. 투자자에게 데이터 탐색·취합부터 시장 모니터링, 분석 결과 관리까지 제공한다.■ 솔"
+  },
+  {
+    "id": "5ca76e353effecec",
+    "title": "젠슨 황 \"AI 파멸론, 과학적 근거 없다\"...트럼프 깜짝 통화로 \"사기\" 동조",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215276",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:54:00.000Z",
+    "snippet": "젠슨 황 엔비디아 CEO가 AI가 인류를 멸망시킬 수 있다는 'AI 파멸론'에 대해 \"과학적 근거가 없다\"며 정면으로 반박했다. 다만 AI 안전 자체는 매우 중요한 문제라며, 기술 발전과 안전 확보를 동시에 추진해야 한다고 강조했다. 특히 이날 대담 도중 도널드 트럼프 미국 대통령이 전화를 걸어 스피커폰으로 연결되면서 파멸론을 '사기'라고 규정해 그의 주장에 힘을 실었다.황 CEO는 14일(현지시간) 미국 로스앤젤레스에서 열린"
+  },
+  {
+    "id": "484597ddc7b2ae17",
+    "title": "찰스 3세, 빅테크 수장과 'AI 안전성' 비공개 회담...독일 \"개발 중단은 비현실적\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215277",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:45:08.000Z",
+    "snippet": "실리콘밸리 주요 AI 기업 수장들이 기술 위험성에 대한 경고와 함께 속도 조절론을 제기하고 나선 가운데, 영국 왕실과 유럽 연합(EU) 주요국도 국제적 거버넌스 수립을 위한 행동에 나섰다.14일(현지시간) 로이터 등에 따르면, 찰스 3세 영국 국왕이 이번 주 주요 AI 기업 수장들을 버킹엄 궁전으로 초청해 AI 안전성과 인류에 미치는 영향에 대해 비공개 회담을 연다.회담에는 젠슨 황 엔비디아 CEO, 데미스 허사비스 구글 딥마"
+  },
+  {
+    "id": "9c06851d1e84d676",
+    "title": "S2W, 창립 8주년 맞이 전면 리브랜딩…\"글로벌 데이터 인텔리전스\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215287",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:37:48.000Z",
+    "snippet": "에스투더블유(S2W, 대표 서상덕)가 창립 8주년을 맞이해 ‘글로벌 데이터 인텔리전스 기업’으로의 성장 비전을 담은 새로운 브랜드 아이덴티티(BI)를 공개했다고 15일 밝혔다.S2W의 고유한 브랜드 정체성을 분명히 하고, 고객과 시장에 존재감을 각인시켜 경쟁력을 높이기 위한 취지다.그동안 국가안보와 사이버보안 영역에서 고도화해 온 AI 및 온톨로지 기술력과 빅데이터 수집·정제·분석 노하우 등을 바탕으로 산업 특화 AX 시장에 "
+  },
+  {
+    "id": "098212c9a5e5f985",
+    "title": "베스핀글로벌, 업스테이지 '솔라' 활용해 울산 공교육 AI 서비스 구축",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215295",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:35:58.000Z",
+    "snippet": "베스핀글로벌(대표 김써니·허양호)은 업스테이지와 교육 AI 플랫폼 확대를 위한 전략적 제휴를 체결했다고 15일 밝혔다.첫 적용 대상은 울산광역시교육청의 AI 교수학습 서비스 '우리 아이(AI)'다. 서비스 검증을 거쳐 전국 시·도교육청 및 교육 관련 공공기관으로 확대 적용할 예정이다.이번 사업에는 베스핀글로벌의 '헬프나우 에이전틱 AI 플랫폼'과 업스테이지의 대형언어모델(LLM) '솔라'가 활용된다.솔라가 학생의 질문과 학습 "
+  },
+  {
+    "id": "fd55a3062c58ac33",
+    "title": "인포시즈, SKT 부사장 출신 박준 CBO 영입 \"기업 AI 전환 속도\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215298",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:35:06.000Z",
+    "snippet": "인포시즈(대표 탁정수)는 박준 전 SK텔레콤 부사장을 최고 사업책임자(CBO)로 영입했다고 15일 밝혔다.인포시즈는 엔터프라이즈 AI 솔루션 '액시엄'과 '델타플로우', '고스' 등을 제공하는 기업으로 올해 4월 130억원 규모의 투자를 유치했다.비정형 데이터를 온톨로지와 그래프 데이터베이스(DB)로 구조화해 AI가 현장 맥락을 이해하고 근거에 기반해 분석·판단까지 수행하도록 지원하는 것이 특징이다.박준 CBO는 클라우드·AI"
+  },
+  {
+    "id": "6e9ddda40d6ea7d6",
+    "title": "플레이태그, AI 행동분석으로 아이 맞춤형 교육 제공…‘스토리라인 원’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215312",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:25:00.000Z",
+    "snippet": "AI 행동분석 전문 플레이태그가 신규 서비스 ‘스토리라인 원(Storyline One)’을 공개했다고 15일 밝혔다.플레이태그는 어린이집이나 유치원 교실의 영상을 AI로 분석해 아이들의 개별 행동분석 리포트를 제공하는 ‘스토리라인’ 서비스를 제공해 왔다. 현재까지 누적 1000개 이상의 교실, 2만명 이상의 아동이 이용해 왔으며, 국내를 넘어 미국, 일본, 영국 등 글로벌로 서비스를 확장하고 있다.이번에 새롭게 출시된 스토리라"
+  },
+  {
     "id": "2f72d6f20339a6db",
     "title": "순천 남파랑길서 가을 걷기…9~11월 5차례 ‘씨워킹’",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215283",
@@ -120,6 +320,16 @@
     "snippet": "앤트로픽을 사임하며 AI가 인류의 생존을 위협한다는 경고를 던진 27세 연구원 제이콥 콕슨의 행보가 그의 커리어에 결정적인 전환점이 될 것이라는 분석이다. 빅테크와의 관계는 단절됐으나, 양심과 전문성을 결합한 개인 브랜드를 구축하며 AI 안전 생태계에서 주목받는 인재로 급부상했다는 평이다.오픈AI와 앤트로픽에서 사전 학습 연구를 담당했던 콕슨은 지난 9일(현지시간) X를 통해 양사가 \"책임감 있게 행동하지 않았고, 우리의 목숨"
   },
   {
+    "id": "cd9973f15cef1fff",
+    "title": "2026년 9월 16일 호치민시 날씨 예보: 흐리고 일부 지역에 소나기와 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUUwZXFndWthcnFWakR3MGNaSkJyZXIzY0NqZnZ3NG5qZEJ4S0I5U0I2RlB5UlZDeDh5eXUxdHNMS2JFd2Y4b3p4RGlPVmF5VUxhNzNUeHRPcnJIZ29lVzN2T0xMXzdDUGtYOWtXcmtqeWVud1ZlRFdtZlQ5Tm1SanNobng3dW10UzBob2RhTXZZZ0ZCRW9sa2FGUm5UMTloUTZoSGFtUjk?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-15T12:49:43.000Z",
+    "snippet": "2026년 9월 16일 호치민시 날씨 예보: 흐리고 일부 지역에 소나기와 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
     "id": "8654b6b8cbc612e0",
     "title": "'AI 개발 속도 조절' 발언에 글로벌 테크·반도체주 일제히 급락",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215273",
@@ -128,6 +338,16 @@
     "category": "AI",
     "publishedAt": "2026-09-15T12:43:47.000Z",
     "snippet": "AI 업계 주요 경영진이 안전을 위해 최첨단 AI 모델 개발 속도를 늦춰야 한다고 잇따라 촉구하면서 글로벌 기술주와 반도체주가 일제히 급락했다. AI 모델 개발 둔화가 고성능 반도체와 데이터센터에 대한 막대한 투자와 수요를 위축시킬 수 있다는 우려가 커지며, 그동안 AI 투자 붐의 최대 수혜주로 꼽혀온 기업들이 집중적인 매도 압력을 받았다.월스트리트저널(WSJ) 등에 따르면, 14일(현지시간) 미국 증시에서는 반도체주가 가장 "
+  },
+  {
+    "id": "ebc6e56581a611ae",
+    "title": "파괴공작 의심 사건으로 네덜란드 철도 운행에 대규모 차질",
+    "link": "https://news.hada.io/topic?id=33734",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T12:32:33.000Z",
+    "snippet": "네덜란드 여러 지역의 선로에서 장애물이 발견돼 Amsterdam을 포함한 지역의 철도 운행에 대규모 차질이 발생했으며, 철도 인프라 운영사 ProRail은 파괴공작을 의심하고 있음 현지 매체에 따르면 여러 지점의 선로에 파이프와 케이블이 놓여 있었..."
   },
   {
     "id": "059275b09ee445f9",
@@ -160,6 +380,16 @@
     "snippet": "AI 에이전트 전문 라이너(대표 김진우)는 AI 오케스트레이션 솔루션인 ‘라이너 모델 API(Liner Model API)’를 출시했다고 15일 밝혔다. 현재 AI 시스템을 구축하는 대부분 기업은 답변 품질을 위해 고가의 프론티어급 모델 하나로 모든 사용자 질문을 일괄 처리하는 방법을 채택하고 있다. 하지만 질문 난이도가 제각각임에도 모두 상위 모델로 처리하다 보니 불필요한 인프라 비용이 급증하는 구조적 한계가 존재한다.이에,"
   },
   {
+    "id": "0436e6aed6d56ab7",
+    "title": "'성과급' 파업 리스크 여기까지…노사 갈등 폭발에 '초비상'",
+    "link": "https://www.hankyung.com/article/2026091566091",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T12:00:04.000Z",
+    "snippet": ""
+  },
+  {
     "id": "e13f19d1c37cca87",
     "title": "삼성전자, 네덜란드 AI칩 스타트업 유클리드 3200억 공동 투자 나서",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215270",
@@ -178,6 +408,16 @@
     "category": "AI",
     "publishedAt": "2026-09-15T11:52:54.000Z",
     "snippet": "산업 AI 전문 뉴엔AI(대표 배성환)가 뷰티 특화 온톨로지 AI 분석 플랫폼 ‘뷰센스(VUSSENS)’의 해외 비즈니스 확대를 위해 미국 뉴저지주에 100% 자회사인 북미 법인을 설립했다고 15일 밝혔다.북미 법인이 위치한 뉴저지는 뉴욕과 인접해 산업 인프라와 뛰어난 접근성을 갖췄다. 뉴엔AI는 뉴욕대학교 스턴(Stern) 연계 네트워크와 뉴욕의 글로벌 AI 프론티어랩 등 기존에 구축해 온 현지 파트너십을 바탕으로 현지화 전"
+  },
+  {
+    "id": "7069c28421b39aab",
+    "title": "'호카 국내총판' 갈등…조이웍스 \"공정경쟁 맞나\" vs 이랜드 \"답변사안 아냐\"",
+    "link": "https://www.hankyung.com/article/202609156172g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T11:50:54.000Z",
+    "snippet": ""
   },
   {
     "id": "01aa87e1a3d1b074",
@@ -200,6 +440,76 @@
     "snippet": "중국 윈난대를 중심으로 한 연구진이 바닷속 10미터 깊이에서 페로브스카이트 태양전지를 이용해 실제 전력을 생산하는 데 성공했다. 남중국해에서 진행한 현장실험에서 대면적 모듈은 2시간 동안 324밀리와트시(mWh)의 전기에너지를 생산했다. 연구진은 수중 센서와 카메라, 통신장비 등 해양 장비의 자체 전원으로 활용할 가능성을 제시했다.국제 학술지 줄(Joule)에 지난 11일(현지시간) 게재된 연구에 따르면 윈난대학교와 서남연합대"
   },
   {
+    "id": "4f3ace93981339a3",
+    "title": "교보생명, 디지털보험 자회사 교보라이프플래닛 흡수합병",
+    "link": "https://www.hankyung.com/article/2026091567871",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T11:11:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0a4dbc21c1521b42",
+    "title": "금융지주 자회사 인사 앞두고…이찬진 \"CEO 승계절차 미흡\"",
+    "link": "https://www.hankyung.com/article/2026091567851",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T11:09:43.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5629f42d914cfb8a",
+    "title": "골드만삭스, 글로벌·아시아 사모펀드로 117억달러 조성",
+    "link": "https://www.hankyung.com/article/2026091568187",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T11:09:39.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f21806937ada7b28",
+    "title": "\"파전집, 대박날 줄 알았는데\"…비오는 날 '우르르' 몰린 곳이 [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609155706g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T11:02:45.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fad9602815c8a6ea",
+    "title": "'노벨상' 한강 작가도 떠났다…브랜드가 탐낸 '서촌의 비극'",
+    "link": "https://www.hankyung.com/article/2026091566251",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T11:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "64f5aa8fbbcec43a",
+    "title": "상속설계, 첫 상속보다 두 번째 상속이 중요하다 [가온의 패밀리오피스 리포트]",
+    "link": "https://www.hankyung.com/article/202609142132i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T11:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "bbf019050c4d7bf4",
+    "title": "\"미술관인 줄\" 놀라운 변신…故 김수미 잠든 곳 가보니 '깜짝' [현장+]",
+    "link": "https://www.hankyung.com/article/202609154871H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T10:46:01.000Z",
+    "snippet": ""
+  },
+  {
     "id": "2615d21329776837",
     "title": "미국, 인도 등 3개국 태양광에 최대 170%대 상계관세 판정",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215260",
@@ -208,6 +518,836 @@
     "category": "AI",
     "publishedAt": "2026-09-15T10:45:00.000Z",
     "snippet": "미국 정부가 인도와 인도네시아, 라오스에서 들어오는 태양광 부품에 고율의 관세를 매기기로 최종 결정했다. 다만 실제 관세 명령이 발령되려면 미국 국제무역위원회(USITC)의 산업피해 최종 판정을 거쳐야 한다.미 상무부 국제무역청(ITA)은 지난 11일(현지시간) 인도와 인도네시아, 라오스에서 수입되는 결정질 실리콘 태양광 셀과 이를 조립한 모듈에 대한 반덤핑·상계관세 조사에서 최종 긍정 판정을 내렸다고 밝혔다.인도산 제품에는 "
+  },
+  {
+    "id": "3e25694f1988e7d1",
+    "title": "파푸아뉴기니 생각을 멈출 수 없다",
+    "link": "https://news.hada.io/topic?id=33733",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T10:36:47.000Z",
+    "snippet": "1930년 금을 찾던 호주인 Mick Leahy는 외부에서 사람이 살지 않는다고 여겼던 뉴기니 고지대에서 약 100만 명이 사는 계곡들을 만났고, 이후의 탐사와 첫 접촉을 사진과 영상으로 기록함 고지대 주민들은 약 1만 년 전 농업을 독자적으로 발전시켰지만, 지형과 말..."
+  },
+  {
+    "id": "b337c2aaa0c7d411",
+    "title": "오픈AI, 스마트폰 카메라 화질 AI 스타트업 글래스 이미징 인수",
+    "link": "https://platum.kr/archives/294635?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588ai-%25ec%258a%25a4%25eb%25a7%2588%25ed%258a%25b8%25ed%258f%25b0-%25ec%25b9%25b4%25eb%25a9%2594%25eb%259d%25bc-%25ed%2599%2594%25ec%25a7%2588-ai-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ea%25b8%2580%25eb%259e%2598%25ec%258a%25a4-%25ec%259d%25b4%25eb%25af%25b8",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T10:35:43.000Z",
+    "snippet": "스마트폰 카메라의 렌즈와 센서 한계를 AI로 보정하는 스타트업 글래스 이미징(Glass Imaging)이 오픈AI에 인수됐다. 월스트리트저널은 14일 복수의 소식통을 인용해 오픈AI가 이 회사를 3억달러 이상에 인수했다고 보도했다. 오픈AI와 글래스 이미징은 거래 사실이나 활용 계획을 공식 발표하지 않았다. 글래스 이미징은 2019년 애플 출신 엔지니어 지브 아타르와 톰 비숍이 캘리포니아 로스앨토스에 세운 회사다. 두 사람은 "
+  },
+  {
+    "id": "c0237a95a95dda7a",
+    "title": "美 금리 인상시 엔화 반짝 강세 도루묵…\"달러당 157엔까지 떨어질 것\"",
+    "link": "https://www.hankyung.com/article/202609156774i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T10:31:29.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0089fc04529e2044",
+    "title": "\"몇 개 집었다간 1만원 훌쩍\"…꼬마김밥 가격 보고 '화들짝'",
+    "link": "https://www.hankyung.com/article/202609155927H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T10:25:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4b5d55cb75fc47cc",
+    "title": "실직 뒤 찾던 긱 일자리, AI 자동화에 먼저 흔들린다",
+    "link": "https://platum.kr/archives/294632?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25a4%25ec%25a7%2581-%25eb%2592%25a4-%25ec%25b0%25be%25eb%258d%2598-%25ea%25b8%25b1-%25ec%259d%25bc%25ec%259e%2590%25eb%25a6%25ac-ai-%25ec%259e%2590%25eb%258f%2599%25ed%2599%2594%25ec%2597%2590-%25eb%25a8%25bc%25ec%25a0%2580-%25ed%259d%2594%25eb%2593%25a4%25eb%25a6%25b0%25eb%258b%25a4",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T10:15:54.000Z",
+    "snippet": "AI 자동화가 정규직 일자리뿐 아니라 불황기에 소득을 보충하거나 노동시장 밖으로 밀려난 사람들이 마지막으로 들어갈 수 있었던 긱 노동까지 흔들기 시작했다. 파이낸셜타임스 칼럼니스트 사라 오코너는 15일 칼럼에서, AI와 로봇 자동화가 긱 이코노미가 해온 비공식 안전망 역할을 약화시킬 수 있다고 지적했다. 긱 노동의 문제는 안정성이 낮다는 데 있었지만, 역설적으로 그 낮은 진입장벽 때문에 경제 충격기의 안전망 역할도 ... 더 "
+  },
+  {
+    "id": "63b7155e7d668057",
+    "title": "오늘 밤과 내일(2026년 9월 16일) 날씨 예보: 북부 지역에는 폭우가 내리고, 남부 지역에는 저녁에 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHdSUk9zT3ZHaVNBVkdvbllZRFdRVjAzZ2RUZ2ZLRDFJSlJyTTBuTkpFd0wxSFR1RVlLNXVBS2NKZU81TlhRcjQ5S2lnUmI0d1k2S1pUSnFRSXJvdEZqWTQ5bW83UnlvWTZjdFVYdkRKelNiZTNpdnR2aVQ5SVdPdm1jdlVWX1VkNlFYemJrbm9rTWliVE5DMjIxOW5CZXcwb0JIU05UaDNvTzdDNWYxR1I2OA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-15T10:13:51.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 16일) 날씨 예보: 북부 지역에는 폭우가 내리고, 남부 지역에는 저녁에 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "23d9a64b7b3ca559",
+    "title": "애프터마켓 첫날 VI 1112회…거래소 \"변동성 정규장보다 낮아\"",
+    "link": "https://www.hankyung.com/article/2026091567647",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T10:06:31.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a3b5cb360241bd3c",
+    "title": "오프라인에서 잘 지내길 바랍니다",
+    "link": "https://news.hada.io/topic?id=33732",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T10:01:47.000Z",
+    "snippet": "소셜 미디어, AI 사용, 나아가 인터넷 자체를 떠나는 사람들이 있으며, 이들의 오프라인행을 응원하는 마음과 더는 소식을 듣지 못하는 아쉬움이 공존함 Salma는 성과 지표를 쫓고 매일 대중 앞에 나서야 하는 DevRel 업무를 떠나 인터넷 은퇴를 ..."
+  },
+  {
+    "id": "7151ecd2fdcc9b8c",
+    "title": "\"진짜 폰 필요하면 말하지\"…로제 사진에 삼성 '한마디' 터졌다",
+    "link": "https://www.hankyung.com/article/2026091565471",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T10:00:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c2c660edac22ad79",
+    "title": "What’s at stake in AI’s trillion-dollar gamble",
+    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "source": "MIT Technology Review AI",
+    "sourceId": "mit-tech-review-ai",
+    "category": "AI",
+    "publishedAt": "2026-09-15T10:00:00.000Z",
+    "snippet": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started"
+  },
+  {
+    "id": "90cc448dafa10b71",
+    "title": "데뷔 16개월 만 월드투어…5세대 아이돌이 바꾼 수익화 공식 [엔터X스탁]",
+    "link": "https://www.hankyung.com/article/202609156152H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:48:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "51025250436f1414",
+    "title": "속도 조절론 나온 미국 AI 업계, 중국은 브릭스에 오픈소스 협력 제안",
+    "link": "https://platum.kr/archives/294629?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2586%258d%25eb%258f%2584-%25ec%25a1%25b0%25ec%25a0%2588%25eb%25a1%25a0-%25eb%2582%2598%25ec%2598%25a8-%25eb%25af%25b8%25ea%25b5%25ad-ai-%25ec%2597%2585%25ea%25b3%2584-%25ec%25a4%2591%25ea%25b5%25ad%25ec%259d%2580-%25eb%25b8%258c%25eb%25a6%25ad%25ec%258a%25a4%25ec%2597%2590-%25ec%2598%25a4%25ed%2594%2588%25ec%2586%258c",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T09:45:58.000Z",
+    "snippet": "미국 AI 업계에서 프런티어 모델 개발 속도를 늦추자는 주장이 나온 이튿날, 중국은 브릭스 회원국과 글로벌사우스를 향해 오픈소스 AI 협력을 제안했다. 시진핑 중국 국가주석은 13일 인도 뉴델리에서 열린 제18차 브릭스(BRICS) 정상회의 둘째 날 연설에서 협력 강화를 위한 5개 이니셔티브를 제시했다. 중국 외교부가 공개한 연설문에 따르면 첫 번째는 ‘오픈소스·포용적 AI 이니셔티브’로, 중국이 브릭스 AI 오픈소스 커뮤니티"
+  },
+  {
+    "id": "259346c1a1780fe3",
+    "title": "Linux From Scratch, 소스 코드로 직접 만드는 Linux",
+    "link": "https://news.hada.io/topic?id=33731",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T09:32:09.000Z",
+    "snippet": "Linux From Scratch(LFS) 는 소스 코드만으로 자신만의 맞춤형 Linux 시스템을 구축할 수 있도록 단계별 지침을 제공하는 프로젝트임 LFS 책이 모든 하위 프로젝트의 기반이며, BLFS는 완성된 LFS 설치를 더 맞춤화되고 실용적인 시스템으로 확장..."
+  },
+  {
+    "id": "c5d6b4b97d10123f",
+    "title": "60년된 정유공장에 'AI 두뇌' 심은 SK이노",
+    "link": "https://www.hankyung.com/article/2026091566101",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:25:44.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7fab96284e084446",
+    "title": "효성重, 3800억 초고압변압기 美서 수주",
+    "link": "https://www.hankyung.com/article/2026091566151",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:24:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "2d282198da708ef5",
+    "title": "HD현대, 100MW '바다위 발전소' 개발",
+    "link": "https://www.hankyung.com/article/2026091566161",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:23:44.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0606c149b596291c",
+    "title": "기아 \"2030년까지 PBV 25만대 판매\"",
+    "link": "https://www.hankyung.com/article/2026091566171",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:23:17.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0b140148b2201a4d",
+    "title": "나주시, “청년 문화복지카드 3차 모집, 연 25만 원 지원” - 무등뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rOXdMN0V1LXVzYWVNZ19tS1JUTHg4dDZfeVJkczlnbTVqSzRCSHBjdHN3WFVlVmtjd2pKYWdBbFpRR1pZcUZFRVFiTzdLdFR2WU9QQ2FWRUtJRlZZOVV3QmZzYlI4dXc?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-15T09:19:11.000Z",
+    "snippet": "나주시, “청년 문화복지카드 3차 모집, 연 25만 원 지원” 무등뉴스"
+  },
+  {
+    "id": "c1b4ae62ac930c73",
+    "title": "내년 정부 채권 300조 쏟아진다",
+    "link": "https://www.hankyung.com/article/2026091566351",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:09:25.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "bbc2771f7770d402",
+    "title": "[단독] 10원 하락에 140억 '날벼락'…환율 역습에 발칵 뒤집힌 곳",
+    "link": "https://www.hankyung.com/article/2026091565741",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:08:40.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "677eb5d1b4979442",
+    "title": "교보생명, 라이프플래닛 흡수합병…디지털 역량 본사로 품는다",
+    "link": "https://www.mk.co.kr/news/economy/12153519",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:08:29.000Z",
+    "snippet": "교보생명이 인터넷 생명보험 자회사 교보라이프플래닛생명보험을 흡수합병한다. 별도 디지털 보험사를 운영하기보다 관련 인력과 기술을 본사에 내재화해 보험사업 전반의 디지털 전환에 활용하.."
+  },
+  {
+    "id": "bd9407ee1b5abca3",
+    "title": "수출물가 하락했지만 교역조건 최대폭 개선",
+    "link": "https://www.hankyung.com/article/2026091565731",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:07:37.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9a9937193267587f",
+    "title": "'고환율 방패' 사라진 수출中企…\"환율 10%만 하락해도 이익 반토막\"",
+    "link": "https://www.hankyung.com/article/2026091565721",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:07:23.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6992c5a0e0b2b37a",
+    "title": "막판에 바뀐 수익배분 구조…韓에 유리할까",
+    "link": "https://www.hankyung.com/article/2026091566521",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:04:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7efd878d064d65df",
+    "title": "아시아나 마일리지, 대한항공서 10년간 쓴다",
+    "link": "https://www.hankyung.com/article/2026091566301",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:02:48.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "eed1776c548b1ffa",
+    "title": "신한금융, 금융당국과 '노쇼사기' 예방",
+    "link": "https://www.hankyung.com/article/2026091565581",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:01:51.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7970a44b01f53c95",
+    "title": "롯데카드, MBK 등에 382억 배당…작년보다 62% 늘어",
+    "link": "https://www.mk.co.kr/news/economy/12153079",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:00:00.000Z",
+    "snippet": "롯데카드가 15일 임시 이사회를 열고 382억원의 현금 중간배당을 의결했다. 롯데카드가 대주주에게 중간배당을 하는 것은 이번이 처음이다. 정보유출 사고 등으로 영업정지 처분을 받는.."
+  },
+  {
+    "id": "b9b0c8bf5bb431ca",
+    "title": "롯데카드, MBK 등에 382억 … 경영 악화에도 첫 중간배당",
+    "link": "https://www.mk.co.kr/news/economy/12153472",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T09:00:00.000Z",
+    "snippet": "롯데카드가 15일 임시 이사회를 열고 382억원 규모의 현금 중간배당을 의결했다. 롯데카드가 대주주에게 중간배당을 하는 것은 이번이 처음이다. 정보 유출 사고 등으로 영업정지 처.."
+  },
+  {
+    "id": "46600b3e59ee2a0d",
+    "title": "에이스침대, 성남시에 백미 기부…28년간 추석마다 총 18만포 전달",
+    "link": "https://www.hankyung.com/article/2026091565651",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:59:39.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "34ffb431355e5d67",
+    "title": "이소영 \"근로시간 획일적 규제, 일하는 방식과 안 맞아\"",
+    "link": "https://www.hankyung.com/article/2026091565411",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:57:40.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5bf7a5685eeabe0f",
+    "title": "이형일 \"통화 긴축에 공감…경제팀, 원팀으로 이끌 것\"",
+    "link": "https://www.hankyung.com/article/2026091565401",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:57:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f737ff587429ae28",
+    "title": "전국 대체로 맑음… 제주도 구름 多·일부 雨 [내일날씨] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LWnVFalFmak9iY1E3Yi03dC0yT1FUR3Foc2xjZkV4YlMyb2tJWVZIMUNYYnk0RWNKa19rMWczcWxxcE51UVBuU1JaS1hHXzA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-15T08:55:00.000Z",
+    "snippet": "전국 대체로 맑음… 제주도 구름 多·일부 雨 [내일날씨] v.daum.net"
+  },
+  {
+    "id": "9176e1569c80f6cc",
+    "title": "[단독] 알래스카 LNG는 투자 가능성만 합의",
+    "link": "https://www.hankyung.com/article/2026091566541",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:52:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "58dbdf2bc7ad25d2",
+    "title": "이형일 \"시장경제 지키되 사회적 약자 보호\"… 이소영 \"벤처 지원해 코스닥 신뢰 회복할 것\"",
+    "link": "https://www.mk.co.kr/news/economy/12153493",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:50:18.000Z",
+    "snippet": "이형일 부총리 겸 재정경제부 장관 후보자는 \"경제팀 수장으로서 각 부처의 역량을 최대한 모아 경제팀을 원팀으로 이끌겠다\"고 15일 국회 재정경제기획위원회 인사청문회에서 밝혔다. 이.."
+  },
+  {
+    "id": "f05a38c911f2c951",
+    "title": "[단독] 韓, 웨스팅하우스 지분 15% 인수 추진",
+    "link": "https://www.hankyung.com/article/2026091566461",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:48:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e967fa4fa8559bb0",
+    "title": "[포토] 생산적 금융에 272조원 공급",
+    "link": "https://www.mk.co.kr/news/economy/12153477",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:47:36.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4fa2aeb79374cdbb",
+    "title": "[표] 외국환율고시표",
+    "link": "https://www.mk.co.kr/news/economy/12153478",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:47:36.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "15cdd85e75654fe6",
+    "title": "외면받는 은행대리업…우체국서 대출 23건뿐",
+    "link": "https://www.mk.co.kr/news/economy/12153475",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:47:35.000Z",
+    "snippet": "농어촌 지역 등 4대 은행 점포가 없는 지방 주민들의 금융 접근성 제고를 위해 금융당국이 도입한 은행대리업의 시행 초기 실적이 상당히 부진한 것으로 나타났다. 시범사업을 시행한 5.."
+  },
+  {
+    "id": "01d1013e60d8b75f",
+    "title": "사고 줄었지만 병원비 급증 … 상반기 車보험 1848억 적자",
+    "link": "https://www.mk.co.kr/news/economy/12153476",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:47:35.000Z",
+    "snippet": "올해 상반기 자동차보험 손익이 6년 만에 적자로 전환했다. 올해 자동차보험료가 오르고 사고도 줄었지만 병원 치료비와 차량 수리비 등이 더 크게 늘어난 영향이다. 15일 금융감독원이.."
+  },
+  {
+    "id": "17673d7298c27ee5",
+    "title": "은행장 줄인사 앞두고…이찬진 \"승계절차 미흡\" 경고",
+    "link": "https://www.mk.co.kr/news/economy/12153474",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:47:34.000Z",
+    "snippet": "이찬진 금융감독원장(사진)이 15일 금융지주 자회사 최고경영자(CEO) 승계 절차가 미흡하다며 공정성과 투명성을 강화할 것을 강조했다. 올해 말 5대 금융그룹에서 임기가 끝나는 계.."
+  },
+  {
+    "id": "d5ffa8291b5d515c",
+    "title": "韓·이집트 내달 정상회담 … '원유 우회로' 찾는다",
+    "link": "https://www.mk.co.kr/news/economy/12153443",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:42:23.000Z",
+    "snippet": "한국과 이집트가 다음달 정상회담 개최를 추진한다. 중동 정세 악화로 중요성이 커진 '원유 우회 수송망' 등 에너지 공급망 협력이 이번 회담의 주요 현안으로 떠오를 전망이다. 15일.."
+  },
+  {
+    "id": "789ecfb36b32733b",
+    "title": "'제로 파티 데이터' 마케팅을 아십니까",
+    "link": "https://www.hankyung.com/article/2026091565551",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:42:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "776633cc17e2cedd",
+    "title": "너도나도 해외여행 가는데…여행사 '초비상' 걸린 기막힌 이유",
+    "link": "https://www.hankyung.com/article/2026091565531",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:41:48.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f39b21e9359a84b0",
+    "title": "\"윤아·아이유가 낫죠\"…광고주들 '20년차 스타'에 꽂힌 이유",
+    "link": "https://www.hankyung.com/article/2026091565561",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:41:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "eaf2c03e71a201c7",
+    "title": "\"인구 감소지역 기차표 무료\"",
+    "link": "https://www.hankyung.com/article/2026091565501",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:39:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9320cdd56de6db70",
+    "title": "AI 속도조절론에 보안株만 웃었다",
+    "link": "https://www.hankyung.com/article/2026091565111",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:39:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "730c854aa68ddff2",
+    "title": "현대그린푸드, 카자흐에 K푸드 생산 거점 구축",
+    "link": "https://www.hankyung.com/article/2026091565541",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:37:51.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "eeef00a434f0ea56",
+    "title": "[포토] 시중은행에 추석 신권 공급",
+    "link": "https://www.mk.co.kr/news/economy/12153425",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:37:36.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4bf05dc0029a762f",
+    "title": "신규 송전철탑 40% 덜 짓고 주민 밀집지역은 지하 설치",
+    "link": "https://www.mk.co.kr/news/economy/12153426",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:37:36.000Z",
+    "snippet": "정부가 전력망 조기 구축을 위해 신설 철탑을 최소화하고 주민 밀집지역 송전선로를 지중화하기로 했다. 주민 반발을 줄이고 빠른 동의를 이끌어내기 위한 포석이다. 메가 프로젝트 달성을.."
+  },
+  {
+    "id": "7a4bd42c409188d7",
+    "title": "메가특구 '52시간 예외' 결국 사회적 대화로",
+    "link": "https://www.mk.co.kr/news/economy/12153423",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:37:35.000Z",
+    "snippet": "정부가 메가특구특별법에 담길 노동 특례를 논의하기 위해 노사정이 참여하는 '원포인트 사회적 대화'를 제안했다. 이를 놓고 경영계는 고소득 전문직을 노동시간 규제에서 제외하는 '화이.."
+  },
+  {
+    "id": "55d6f0e30d4a2148",
+    "title": "원화값 오르자 … 수입물가 3개월째 하락",
+    "link": "https://www.mk.co.kr/news/economy/12153424",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:37:35.000Z",
+    "snippet": "지난달 수입물가가 원화값 상승 영향으로 석 달 연속 하락했다. 국제유가가 15% 넘게 뛰었지만 원화 강세가 수입가격 상승 압력을 상당 부분 상쇄했다. 다만 수입물가는 1년 전과 비.."
+  },
+  {
+    "id": "5de300d4188b6d6f",
+    "title": "AI가 늘린 일자리, 10개 중 8개 수도권으로 쏠렸다",
+    "link": "https://www.mk.co.kr/news/economy/12153422",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:37:34.000Z",
+    "snippet": "인공지능(AI) 확산이 권역별 일자리와 임금 격차를 키울 수 있다는 한국은행 분석이 나왔다. 한은은 15일 발표한 'BOK 이슈노트: AI와 지역 노동시장·지역 간 격차 확대 위험.."
+  },
+  {
+    "id": "1560022751a7c361",
+    "title": "[포토] 스페인 공연장에 뜬 스킨1004",
+    "link": "https://www.hankyung.com/article/2026091565511",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:37:29.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "195fd09547159346",
+    "title": "2000조 기업대출 덩달아 커진 '부실'",
+    "link": "https://www.mk.co.kr/news/economy/12153406",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:34:57.000Z",
+    "snippet": "올해 들어 가계빚이 사상 처음 2000조원을 넘은 가운데 기업들의 은행 부채도 2000조원에 육박한 것으로 나타났다. 특히 금리 인상기에 접어든 상황에서 기업대출의 증가 속도보다 .."
+  },
+  {
+    "id": "23b683dce105c1cd",
+    "title": "구조조정 필요한 C·D등급 기업 56% 급증 … 대출 부실 '빨간불'",
+    "link": "https://www.mk.co.kr/news/economy/12153402",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:34:31.000Z",
+    "snippet": "은행권 기업대출이 2000조원에 육박한 가운데 경기 부진 장기화로 구조조정이 필요한 기업이 빠르게 늘고 있다. 은행의 기업신용위험평가 결과 낙제점을 받아 구조조정 대상에 오른 회사.."
+  },
+  {
+    "id": "d6283b9eb841b3db",
+    "title": "부실채권 15조원 …'잠재적 폭탄' 요주의여신도 16조 달해",
+    "link": "https://www.mk.co.kr/news/economy/12153401",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:34:30.000Z",
+    "snippet": "은행권 기업대출 가운데 이미 부실로 분류된 고정이하여신이 15조원을 넘어선 가운데 아직 부실로 확정되지는 않았지만 건전성이 정상보다 한 단계 낮은 '요주의여신'도 16조원대에 달하.."
+  },
+  {
+    "id": "6c8817b0a10f0dba",
+    "title": "\"그걸 왜 가입해?\" 장기 종신보험 안 팔리더니…'깜짝 결과'",
+    "link": "https://www.hankyung.com/article/2026091565291",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:34:26.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "597a7c6febbf78c3",
+    "title": "무려 1000장…읽다 지치는 증권신고서",
+    "link": "https://www.hankyung.com/article/2026091565321",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:34:19.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "82204cbb36a0aa13",
+    "title": "여전채 금리 34개월만에 최고…카드론 금리 추가 상승할 듯",
+    "link": "https://www.hankyung.com/article/2026091565271",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:33:28.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6a2fce59ae3e1476",
+    "title": "높아진 은행 문턱…P2P 신용대출 4배로 급증",
+    "link": "https://www.hankyung.com/article/2026091565261",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:32:40.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f4bafe135fd05b06",
+    "title": "\"농사 지으러 온 거 아닙니다\"…귀촌 청년 몰린 농촌의 '반전'",
+    "link": "https://www.hankyung.com/article/2026091565191",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:32:19.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1afe70016e8c39b7",
+    "title": "기업銀, 변동형 주담대 2달 여만에 접수 재개",
+    "link": "https://www.hankyung.com/article/2026091565251",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:31:30.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "25dec91d08e80247",
+    "title": "국민銀, 역대 최대 규모 유로화 채권 발행",
+    "link": "https://www.hankyung.com/article/2026091565281",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:31:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "16973b7e6c1fd5f2",
+    "title": "[포토] 부산은행, 경영위기 소상공인 금융지원",
+    "link": "https://www.hankyung.com/article/2026091565231",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:30:45.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "73aa1454c36bf295",
+    "title": "지역주민 텃세·고령화·고립…청년 로컬창업 '씁쓸한 현실'",
+    "link": "https://www.hankyung.com/article/2026091565211",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:30:24.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "505d512ed9b257c9",
+    "title": "숲 가꿔 벤처 키우고, 빈집 고쳐 호텔…日 지방소멸 탈출기",
+    "link": "https://www.hankyung.com/article/2026091565201",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:29:20.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4b6f08913c48e68b",
+    "title": "‘2026 스타트업 언론홍보·미디어 콘텐츠 확산 지원사업’ 참여기업 모집 - 산학뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04M2Nad3kwWkdRdkNaSERfZEpCSnpkS0FIal9QdkpQRjVlT1o0UDBZNjl2cDI5aEFsb0VUT3pOYWdxYldWdURLbnBMcWZsYUQ2V2x3MktDLVVHeFZlTnM1YUZqamVRVGtnSXpF?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-15T08:27:09.000Z",
+    "snippet": "‘2026 스타트업 언론홍보·미디어 콘텐츠 확산 지원사업’ 참여기업 모집 산학뉴스"
+  },
+  {
+    "id": "72627e46dfb7ccd0",
+    "title": "Show GN: JetBatang NF - JetBrains Mono Nerd Font에 RIDIBatang 한글을 합친 터미널 글꼴",
+    "link": "https://news.hada.io/topic?id=33730",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T08:25:58.000Z",
+    "snippet": "안녕하세요. Alacritty를 쓰는데 글꼴 폴백 목록이 없더라구요. family를 하나만 받고, Windows에서는 시스템이 알아서 한글 글꼴을 골라버려서 뭐가 쓰일지 지정할 수가 없었습니다. 한글만 따로 지정하는"
+  },
+  {
+    "id": "8f80765b3e7c0c5c",
+    "title": "[단독] 한·이집트 내달 정상회담… 중동 원유 ‘우회로’ 뚫는다",
+    "link": "https://www.mk.co.kr/news/economy/12153162",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:20:00.000Z",
+    "snippet": "한·이집트 작년 회담 후속 논의 320㎞ 수메드 파이프라인 적극 활용 하루 213만배럴 수송망 선제 확보 필요 아프리카 국가 처음으로 CEPA 체결 속도 수에즈 경제특구 K기업 .."
+  },
+  {
+    "id": "3392c805bb5e761d",
+    "title": "강호동 농협중앙회장 … ICAO 회장 재선출",
+    "link": "https://www.mk.co.kr/news/economy/12153344",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T08:14:13.000Z",
+    "snippet": "강호동 농협중앙회장이 14일(현지시간) 파나마 파나마시티에서 열린 국제협동조합농업기구(ICAO) 총회에서 ICAO 회장으로 재선출됐다. ICAO 회장 당선으로 강 회장은 세계 농업.."
+  },
+  {
+    "id": "52ed4ffa975922df",
+    "title": "[BLT칼럼] ‘시카’는 상표가 되고 ‘물염색’은 되지 않았다",
+    "link": "https://platum.kr/archives/294622?utm_source=rss&utm_medium=rss&utm_campaign=blt%25ec%25b9%25bc%25eb%259f%25bc-%25ec%258b%259c%25ec%25b9%25b4%25eb%258a%2594-%25ec%2583%2581%25ed%2591%259c%25ea%25b0%2580-%25eb%2590%2598%25ea%25b3%25a0-%25eb%25ac%25bc%25ec%2597%25bc%25ec%2583%2589%25ec%259d%2580-%25eb%2590%2598%25ec%25a7%2580-%25ec%2595%258a%25ec%2595%2598%25eb%258b%25a4",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T07:57:11.000Z",
+    "snippet": "– 화장품 네이밍에서 암시와 직감이 갈리는 자리 미국의 자외선차단제 브랜드 슈퍼굿(Supergoop)은 제품 이름을 한 가지 방식으로 짓는다. 앞에 단어 하나를 붙이고 뒤에 ‘SCREEN’을 붙인다. 글로우스크린, 시어스크린, 슈퍼스크린, 징크스크린, 매트스크린. 같은 회사가 같은 구조로 지은 이름인데, 미국 특허상표청에서의 결과는 갈렸다. 글로우스크린(등록 제6049570호), 시어스크린(제6365910호), 슈퍼스크린(제5"
+  },
+  {
+    "id": "38562f090efa43b9",
+    "title": "라플라스파트너스·ETRI 딥테크 투자포럼, 6개사 발표에 투자기관 16곳 참석",
+    "link": "https://platum.kr/archives/294619?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%259d%25bc%25ed%2594%258c%25eb%259d%25bc%25ec%258a%25a4%25ed%258c%258c%25ed%258a%25b8%25eb%2584%2588%25ec%258a%25a4%25c2%25b7etri-%25eb%2594%25a5%25ed%2585%258c%25ed%2581%25ac-%25ed%2588%25ac%25ec%259e%2590%25ed%258f%25ac%25eb%259f%25bc-6%25ea%25b0%259c%25ec%2582%25ac-%25eb%25b0%259c%25ed%2591%259c%25ec%2597%2590",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T07:47:54.000Z",
+    "snippet": "탄소나노튜브 소재, 매장 비전 AI, 수소 드론, 스포츠 부상 예방 AI, 초저전력 AI 반도체, AI 신약·연구개발 플랫폼까지 6개 딥테크 스타트업이 14일 서울 강남구 마루180에서 국내 투자기관 16곳 앞에서 발표했다. 벤처캐피탈 라플라스파트너스가 주최하고 한국전자통신연구원(ETRI)이 함께한 ‘2026 라플라스×ETRI 딥테크 투자포럼’으로, 지난해에 이어 두 번째다. 투자기관과 딥테크 업계 관계자 약 80명이 참석했다"
+  },
+  {
+    "id": "b6e4ceeea87bba58",
+    "title": "전 FTC 위원장 Khan, 1934년 판례 들며 “AI CEO들에게 수갑을 채워라”",
+    "link": "https://news.hada.io/topic?id=33729",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T07:33:59.000Z",
+    "snippet": "Lina Khan 전 FTC 위원장은 기존 법률만으로도 위험하거나 검증되지 않은 AI를 출시한 기업과, 일부 상황에서는 경영진에게 책임을 물을 수 있다며 새 입법을 기다릴 필요가 없다고 강조함 검증되지 않은 모델 출시와 결함 있는 에이전트에 대한 안전조치 부족은 소비자보호..."
+  },
+  {
+    "id": "0d7f29f8c6081e92",
+    "title": "대구창조경제혁신센터, 창업페스티벌 기간 초기창업기업·리더스포럼 IR 잇달아",
+    "link": "https://platum.kr/archives/294616?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258c%2580%25ea%25b5%25ac%25ec%25b0%25bd%25ec%25a1%25b0%25ea%25b2%25bd%25ec%25a0%259c%25ed%2598%2581%25ec%258b%25a0%25ec%2584%25bc%25ed%2584%25b0-%25ec%25b0%25bd%25ec%2597%2585%25ed%258e%2598%25ec%258a%25a4%25ed%258b%25b0%25eb%25b2%258c-%25ea%25b8%25b0%25ea%25b0%2584-%25ec%25b4%2588%25ea%25b8%25b0%25ec%25b0%25bd",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T07:27:04.000Z",
+    "snippet": "대구창조경제혁신센터가 ‘2026년 대구·경북 창업페스티벌’ 기간에 지역 스타트업과 투자자를 연결하는 IR 행사를 이틀 연속 연다. 15일에는 초기창업패키지 참여기업 6곳이 수도권 투자자 앞에서 피칭하는 ‘대구 스타트업 리드업 IR’을 열었고, 16일에는 제64차 대구스타트업 리더스포럼에서 8곳이 무대에 오른다. 15일 센터 1층 C-quad에서 열린 리드업 IR에는 비브시스, 에이아이지먼트, 퍼니즈, 와우디펜서, 로컬누리마켓,"
+  },
+  {
+    "id": "4b287330240f126b",
+    "title": "“직접 만든 시제품은 비용 인정 안 된다”… 모두의 창업 도전자들, 중기부 차관에 건의",
+    "link": "https://platum.kr/archives/294613?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2581%25ec%25a0%2591-%25eb%25a7%258c%25eb%2593%25a0-%25ec%258b%259c%25ec%25a0%259c%25ed%2592%2588%25ec%259d%2580-%25eb%25b9%2584%25ec%259a%25a9-%25ec%259d%25b8%25ec%25a0%2595-%25ec%2595%2588-%25eb%2590%259c%25eb%258b%25a4-%25eb%25aa%25a8%25eb%2591%2590%25ec%259d%2598-%25ec%25b0%25bd",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T07:22:26.000Z",
+    "snippet": "창업자가 시제품을 직접 만들면 제작비를 인정받지 못하고 외주업체를 거쳐야만 비용을 집행할 수 있는 현행 기준을 고쳐 달라는 건의가 ‘모두의 창업’ 충청권 진출자들에게서 나왔다. 중소벤처기업부는 15일 충청남도와 공동 개최한 ‘2026년 모두의 창업 페스티벌’ 현장(천안 유관순체육관)에서 노용석 제1차관이 1차 모두의 창업 프로젝트 2라운드 진출자들과 패널토크를 갖고 창업 과정의 애로와 정책 의견을 들었다. ‘지역 창업 생태계의"
+  },
+  {
+    "id": "cdd0ef0002e7d89d",
+    "title": "10돌 맞은 마을세무사 … 전국 누비며 무료 세무상담",
+    "link": "https://www.mk.co.kr/news/economy/12153243",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T07:14:52.000Z",
+    "snippet": "세무사회·행안부 돈암시장 현장 방문 구재이 회장 “행안부·지방정부와 협력” 시장 상인과 주민 세금 고민 현장 해결 2016년 도입 이후 지방행정 조력자 역할한국세무사회(회장 구재.."
+  },
+  {
+    "id": "bddb1960d6cea3eb",
+    "title": "남부발전, 에너지 공기업 첫 ‘기술이전 밸류-업 사업’ 착수…총사업비 7500만원 - busan.com",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16ZmVlNDRGR1pySnN4UVRvazJwZkxmOWJMSVQyWW1IUEhXNm10dmlISHRfdzgyNG9QSGZSSkdPUGh5QU1fSEFSd3ZrdkFldjk4QWJrcWMzT2YycEJ3Q19XTGlUUXhwUlJGNXdEUzBPdXFQa2RI?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-15T07:14:09.000Z",
+    "snippet": "남부발전, 에너지 공기업 첫 ‘기술이전 밸류-업 사업’ 착수…총사업비 7500만원 busan.com"
+  },
+  {
+    "id": "a318530dbf982d39",
+    "title": "AI가 일자리 늘린다고? 서울 얘기겠지…지방은 로봇에 뺏길 판입니다",
+    "link": "https://www.mk.co.kr/news/economy/12153236",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T07:12:18.000Z",
+    "snippet": "한은 이슈노트 발간 지역간 고용격차 심화될 우려인공지능(AI) 확산이 권역별 일자리와 임금 격차를 키울 수 있다는 한국은행 분석이 나왔다. 한은은 15일 발표한 ‘BOK 이슈노트:.."
+  },
+  {
+    "id": "2f6ea2193a1a4594",
+    "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - 한국글로벌뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQmM4VUVKclBOVzRUOEJIWEdJdDdfakltM0t3RUEzbC1KLWVNRmRPVTFnZ1JiUmRheWVOSmh5M0p5Uzl6Wldmak1pTS1kUE9vY1otRG1VSHZaTVhBZkk2Mw?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-15T07:10:04.000Z",
+    "snippet": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 한국글로벌뉴스"
+  },
+  {
+    "id": "a9ce66316a8148f0",
+    "title": "\"명절 과일도 이색 과일이 대세\"…스미후루, 과일세트 '반값'에",
+    "link": "https://www.hankyung.com/article/202609156258g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T07:09:40.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d30ae1ca5952325b",
+    "title": "메가특구 ‘주52시간 예외’...정부 ‘원포인트 대화’ 제안",
+    "link": "https://www.mk.co.kr/news/economy/12153224",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T07:07:11.000Z",
+    "snippet": "메가특구 노동특례 대화 제안 화이트칼라 이그젬션 등 핵심 쟁점 노동계 “주 4일제 맞불”·반도체 “환영” 민주노총, 대화 참여 유보적 태도 고수 김영훈 장관 “개인적으론 특례 부정.."
+  },
+  {
+    "id": "3d2d2899248c2f6e",
+    "title": "블루어드, '2026 대한민국 일자리 으뜸기업' 선정",
+    "link": "https://www.hankyung.com/article/202609156214i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T07:02:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e969951db02b55b3",
+    "title": "[장관 인사청문회] 이형일 “경제팀 원팀 이끌겠다”...이소영 “‘국가창업시대 열겠다’",
+    "link": "https://www.mk.co.kr/news/economy/12153212",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T07:00:53.000Z",
+    "snippet": "이형일 경제부총리 후보자 “올 3% 성장, 소득 4만달러” 자신감 우주항공 등 7대 첨단기술 기반 마련 아파트 17년 보유, 4개월 거주 지적 증인 채택 불발 청문회서 여야 신경.."
   },
   {
     "id": "2d75465b2c325e9b",
@@ -560,6 +1700,16 @@
     "snippet": ""
   },
   {
+    "id": "f8229918de5b4192",
+    "title": "제주 개인하수처리시설 수질개선 지원 참여시설 모집 - 헤드라인제주",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GZTBzdXFfMkF1RGhIR2VJbnZGUk5ib2RNWkdBcG5UcVBOV29kX1cwVF81cm43U1BCRDZVLTYwZExCd1dJT3BVQnhUWldoRFhONWtjMEh3RS1SNW9lSE5ubXZvOVpXd2trWDdacXZBWW9pQzQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-15T03:11:08.000Z",
+    "snippet": "제주 개인하수처리시설 수질개선 지원 참여시설 모집 헤드라인제주"
+  },
+  {
     "id": "b30c2a14fbe7f297",
     "title": "\"튀김 찌꺼기가 돈이네\"…정부가 1억2000만원 쏘는 '이 기술'",
     "link": "https://www.hankyung.com/article/202609155457i",
@@ -650,6 +1800,16 @@
     "snippet": "Brace yourself: YouTube and Netflix are working together. Mom and Dad have temporarily set aside their content creator custody battle to unite as founding members of Streaming Access and Choice Alliance (SACA). They’re joined by fellow stre"
   },
   {
+    "id": "fcbd2ac5a8f2054b",
+    "title": "창업자 절반이 정신건강 문제 경험, 81%는 어려움 말하지 않는다",
+    "link": "https://platum.kr/archives/294571?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590-%25ec%25a0%2588%25eb%25b0%2598%25ec%259d%25b4-%25ec%25a0%2595%25ec%258b%25a0%25ea%25b1%25b4%25ea%25b0%2595-%25eb%25ac%25b8%25ec%25a0%259c-%25ea%25b2%25bd%25ed%2597%2598-81%25eb%258a%2594-%25ec%2596%25b4%25eb%25a0%25a4%25ec%259b%2580-%25eb%25a7%2590%25ed%2595%2598%25ec%25a7%2580",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T01:44:43.000Z",
+    "snippet": "창업자 242명을 조사한 미국 연구에서 절반에 가까운 49%가 생애 한 번 이상 정신건강 문제를 경험했다고 답했다. 최근 2~3년 사이 나온 스타트업 업계 조사에서도 불안과 번아웃, 높은 스트레스를 호소하는 창업자가 적지 않다. 성공한 창업자의 이야기는 넘치지만 회사를 만들고 키우는 과정에서 창업자 개인이 치르는 정신적 비용은 오랫동안 주변부의 문제였다. 얼마나 많은가 창업자 정신건강 연구에서 자주 인용되는 연구 ... 더 읽"
+  },
+  {
     "id": "8b59ba30f2f32d9d",
     "title": "Show GN: 바다거북스프 — AI와 질문을 주고받으며 푸는 추리 게임",
     "link": "https://news.hada.io/topic?id=33721",
@@ -688,6 +1848,26 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-15T01:35:20.000Z",
     "snippet": "중기부, 공공데이터 스타트업 모집 15일 개시… 협업자금 최대 1억원·기술개발까지 연계 solnews.co.kr"
+  },
+  {
+    "id": "bd06423b52e8d8ed",
+    "title": "코로로직, 카카오벤처스·서울대기술지주 시드 투자 유치",
+    "link": "https://platum.kr/archives/294606?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25bd%2594%25eb%25a1%259c%25eb%25a1%259c%25ec%25a7%2581-%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4%25c2%25b7%25ec%2584%259c%25ec%259a%25b8%25eb%258c%2580%25ea%25b8%25b0%25ec%2588%25a0%25ec%25a7%2580%25ec%25a3%25bc-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac%25ec%259e%2590",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T01:33:19.000Z",
+    "snippet": "심혈관 영상 AI 스타트업 코로로직이 카카오벤처스와 서울대기술지주로부터 시드 투자를 유치했다고 15일 밝혔다. 투자 금액은 공개하지 않았다. 코로로직은 분당서울대병원 순환기내과 강시혁 교수팀이 지난 5월 설립한 의료 AI 기업으로, 관상동맥조영술(심장 혈관에 조영제를 넣고 X선으로 촬영하는 검사·시술) 과정에서 환자와 의료진의 방사선 노출을 줄이는 AI 솔루션 ‘앤지오필름(Angio-FILM)’을 개발하고 있다. 관상동맥조영술"
+  },
+  {
+    "id": "408b95f67a82e13a",
+    "title": "라이너, 질문 난이도에 따라 AI 모델 골라 쓰는 ‘라이너 모델 API’ 출시",
+    "link": "https://platum.kr/archives/294603?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%259d%25bc%25ec%259d%25b4%25eb%2584%2588-%25ec%25a7%2588%25eb%25ac%25b8-%25eb%2582%259c%25ec%259d%25b4%25eb%258f%2584%25ec%2597%2590-%25eb%2594%25b0%25eb%259d%25bc-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25ea%25b3%25a8%25eb%259d%25bc-%25ec%2593%25b0%25eb%258a%2594-%25eb%259d%25bc%25ec%259d%25b4%25eb%2584%2588",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-15T01:28:40.000Z",
+    "snippet": "AI 에이전트 스타트업 라이너가 들어오는 질문의 난이도에 맞춰 여러 대형언어모델(LLM) 가운데 적합한 모델을 자동으로 배정하는 기업용 서비스 ‘라이너 모델 API(Liner Model API)’를 15일 출시했다. 회사에 따르면 상위 모델 수준의 답변 품질을 유지하면서 LLM 토큰(모델이 처리하는 텍스트 단위) 비용을 50% 이상 줄이도록 설계했다. AI 서비스를 구축하는 기업 상당수는 답변 품질을 위해 고가의 최상위 모델 "
   },
   {
     "id": "24e59ac35de182c1",
@@ -2168,16 +3348,6 @@
     "category": "날씨",
     "publishedAt": "2026-09-14T09:57:22.000Z",
     "snippet": "9월 14일 날씨 예보: 전국에 천둥번개가 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "fcbd2ac5a8f2054b",
-    "title": "창업자 절반이 정신건강 문제 경험, 81%는 어려움 말하지 않는다",
-    "link": "https://platum.kr/archives/294571?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590-%25ec%25a0%2588%25eb%25b0%2598%25ec%259d%25b4-%25ec%25a0%2595%25ec%258b%25a0%25ea%25b1%25b4%25ea%25b0%2595-%25eb%25ac%25b8%25ec%25a0%259c-%25ea%25b2%25bd%25ed%2597%2598-81%25eb%258a%2594-%25ec%2596%25b4%25eb%25a0%25a4%25ec%259b%2580-%25eb%25a7%2590%25ed%2595%2598%25ec%25a7%2580",
-    "source": "플래텀",
-    "sourceId": "platum",
-    "category": "창업",
-    "publishedAt": "2026-09-14T09:44:43.000Z",
-    "snippet": "창업자 242명을 조사한 미국 연구에서 절반에 가까운 49%가 생애 한 번 이상 정신건강 문제를 경험했다고 답했다. 최근 2~3년 사이 나온 스타트업 업계 조사에서도 불안과 번아웃, 높은 스트레스를 호소하는 창업자가 적지 않다. 성공한 창업자의 이야기는 넘치지만 회사를 만들고 키우는 과정에서 창업자 개인이 치르는 정신적 비용은 오랫동안 주변부의 문제였다. 얼마나 많은가 창업자 정신건강 연구에서 자주 인용되는 연구 ... 더 읽"
   },
   {
     "id": "8c4cf1142db272e3",

@@ -70,6 +70,16 @@
     "snippet": "샘 알트먼 오픈AI CEO가 AI 개발 속도를 조절해야 하는 근본적인 이유로 인류의 미래에 대한 통제권 상실과 AI 권력의 극단적인 집중을 제시했다. 또 ‘속도 조절’은 AI 개발을 중단하자는 의미가 아니라, AI의 능력이 안전성과 정렬 기술을 앞서가지 않도록 개발 속도를 일부 늦추자는 의미라고 강조했다.알트먼 CEO는 14일(현지시간) X 게시물을 통해 “미국의 경쟁 압력이 아무리 크더라도 무모함을 정당화하거나 AI 능력이 "
   },
   {
+    "id": "82fe0ab5a9f7812e",
+    "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
+    "link": "https://news.hada.io/topic?id=33744",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T17:32:16.000Z",
+    "snippet": "Capsule은 UI, 미디어 자산, 로컬 SQLite 데이터를 하나의 .capsule 파일에 담아 문서처럼 공유하고 실행하는 앱 도구임 AI 프롬프트로 HTML UI와 스키마를 갖춘 앱을 생성하고, 프롬프트나 MCP 코딩 도구로 기능과 스키마를 수정할 수 있음"
+  },
+  {
     "id": "6c69a35c4a6776d7",
     "title": "애플, 시리 AI 탑재 'iOS 27' 배포 시작...차세대 아이폰 출격 채비",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215300",
@@ -190,6 +200,16 @@
     "snippet": "인포시즈(대표 탁정수)는 박준 전 SK텔레콤 부사장을 최고 사업책임자(CBO)로 영입했다고 15일 밝혔다.인포시즈는 엔터프라이즈 AI 솔루션 '액시엄'과 '델타플로우', '고스' 등을 제공하는 기업으로 올해 4월 130억원 규모의 투자를 유치했다.비정형 데이터를 온톨로지와 그래프 데이터베이스(DB)로 구조화해 AI가 현장 맥락을 이해하고 근거에 기반해 분석·판단까지 수행하도록 지원하는 것이 특징이다.박준 CBO는 클라우드·AI"
   },
   {
+    "id": "d0f8e47dff3d4a21",
+    "title": "Show GN: yss Embeded operating system",
+    "link": "https://news.hada.io/topic?id=33743",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T16:34:04.000Z",
+    "snippet": "ARM Cortex-M 기반에서 동작하는 운영체제이자 임베디드 개발 프레임워크입니다. 2007년부터 취미로 개발을 시작해 출퇴근 길과 주말에 조금씩 작업했습니다. 2015년부터 지금까지 근무했던 회사들의 상용 제품 개발에 적용되었고 개발이 완료되어 해당 제품은 시중에 판매되고 있습니다. 펌웨어 개발용"
+  },
+  {
     "id": "6e9ddda40d6ea7d6",
     "title": "플레이태그, AI 행동분석으로 아이 맞춤형 교육 제공…‘스토리라인 원’ 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215312",
@@ -198,6 +218,26 @@
     "category": "AI",
     "publishedAt": "2026-09-15T16:25:00.000Z",
     "snippet": "AI 행동분석 전문 플레이태그가 신규 서비스 ‘스토리라인 원(Storyline One)’을 공개했다고 15일 밝혔다.플레이태그는 어린이집이나 유치원 교실의 영상을 AI로 분석해 아이들의 개별 행동분석 리포트를 제공하는 ‘스토리라인’ 서비스를 제공해 왔다. 현재까지 누적 1000개 이상의 교실, 2만명 이상의 아동이 이용해 왔으며, 국내를 넘어 미국, 일본, 영국 등 글로벌로 서비스를 확장하고 있다.이번에 새롭게 출시된 스토리라"
+  },
+  {
+    "id": "48e66cf77585c241",
+    "title": "단일 노드 로컬 S3를 위한 MinIO 대안",
+    "link": "https://news.hada.io/topic?id=33742",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T15:45:20.000Z",
+    "snippet": "로컬 S3를 사용하는 데모와 호환성 검증 환경에서 MinIO를 최소한의 변경으로 대체할 후보들을 비교함. Docker 이미지, S3 호환성, 무료 사용을 필수 조건으로 삼았으며 프로덕션용 분산 스토리지 평가는 제외함 S3Proxy와 SeaweedFS는 설정이 간단하고 실제 DuckD..."
+  },
+  {
+    "id": "5a29ac02e8567c1a",
+    "title": "CSS-Tricks, 다시 불확실한 상태에 놓이다",
+    "link": "https://news.hada.io/topic?id=33741",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T15:42:19.000Z",
+    "snippet": "CSS-Tricks가 다시 운영 중단 상태에 놓였으며, 소유주 DigitalOcean의 소통 부재로 향후 운영 여부가 불확실함 DigitalOcean은 2023년 운영 인력을 해고한 뒤 2024년 수석 편집자 Geoff Graham을 재고용해 사이트를 재가동했지만, 다시 활동이 멈춤 Geof..."
   },
   {
     "id": "2f72d6f20339a6db",
@@ -240,6 +280,16 @@
     "snippet": "AI 생성 영상나주시에서 독립창작자와 출판사, 동네서점, 독자가 한자리에 모이는 첫 문학축제가 열린다. 1725년 나주에서 발간된 ‘구운몽’ 나주판을 조명하는 특별전시와 강연도 함께 마련된다.나주는 오는 19일부터 20일까지 이틀간 나주 동헌터 잔디광장 일원에서 ‘힙독인나주 문학 페스타’를 개최한다고 15일 밝혔다.이번 행사는 문화체육관광부와 국립한국문학관의 ‘지역문학관 활성화 및 협력지원사업’과 연계해 백호문학관과 타오르는강"
   },
   {
+    "id": "28de80c0cdc21014",
+    "title": "Java 27 출시",
+    "link": "https://news.hada.io/topic?id=33740",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T15:39:19.000Z",
+    "snippet": "Java 27의 참조 구현인 JDK 27이 정식 출시(GA) 됐으며, 빌드 35가 프로덕션용 GA 빌드로 확정됨 이번 릴리스에는 9개 JEP와 수백 건의 소규모 개선, 수천 건의 버그 수정이 포함됨 G1을 모든 환경의 기본 가비지 컬렉터로 지정하고,"
+  },
+  {
     "id": "3ecefd847978ada2",
     "title": "전남광주, 미국 미시간대서 5·18 사진전 개최",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215263",
@@ -280,6 +330,16 @@
     "snippet": "카카오가 지난해 5월부터 독립 앱 및 PC 웹서비스 형태로 선보인 AI 메이트 '카나나' 서비스를 10월15일 자로 종료한다.카카오는 15일 공지 사항을 통해 '카나나' 서비스를 오는 10월15일 종료하고 관련 사용자 데이터도 안전하게 파기할 예정이라고 밝혔다.독립 앱 형태의 AI 메이트 카나나는 지난해 5월 클로즈 베타 테스트(CBT) 형태로 서비스를 시작했다. ‘카나’와 ‘나나’라는 AI 메이트를 기반으로 이용자들에게 친근"
   },
   {
+    "id": "7f3e5ebec7166c2e",
+    "title": "UBS,\"팰런티어,소프트웨어 주식중 저평가\"…목표가↑",
+    "link": "https://www.hankyung.com/article/202609166955i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T15:16:20.000Z",
+    "snippet": ""
+  },
+  {
     "id": "a438480a0266f18e",
     "title": "알티엠, ‘제조 AI 도입점검 프로그램’ 출시…적은 데이터로 AI 적용 여부 먼저 확인",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215292",
@@ -288,6 +348,16 @@
     "category": "AI",
     "publishedAt": "2026-09-15T15:09:26.000Z",
     "snippet": "제조 AI 전문 알티엠(RTM)이 본격적인 시스템 구축에 앞서 제조 현장의 AI 적용 가능성을 데이터로 확인하는 ‘제조 AI 도입점검 프로그램’을 출시했다고 15일 밝혔다.최근 제조기업의 AI 도입 검토가 늘고 있지만, 실제 도입까지는 수개월의 사전 협의와 대규모 데이터 준비가 필요한 경우가 많다는 지적이다. 통상 수천만원에서 수억 원 규모의 구축 사업으로 시작되는 만큼, 기업 입장에서는 자사 데이터로 AI가 실제 성과를 낼 "
+  },
+  {
+    "id": "5d323ae86d0916e2",
+    "title": "9월 16일 날씨 예보: 하노이, 푸토, 흥옌 지역에 매우 심한 비가 내릴 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkZ6c3BmckxlMHhtZXpQN2JZdzlnU3lXaFpTai1ZQkZRUllJdHlYNDN1YXhTRndnZjFFS2RkVnAtVHZrYi1ZYUtSOGNNVkFCcnB3bzc4SWNaQy1lUWRETHJRaGFDVDlZTjQtZ3RJTURMZGtPY3R6ck1CemxOVmZmMHFnWV9FSjhobEFXTHZHY3MtSGlx?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-15T14:53:22.000Z",
+    "snippet": "9월 16일 날씨 예보: 하노이, 푸토, 흥옌 지역에 매우 심한 비가 내릴 예정입니다. Vietnam.vn"
   },
   {
     "id": "897718a3c2f9a84b",
@@ -300,6 +370,16 @@
     "snippet": "도널드 트럼프 미국 대통령이 공화당 중간선거 전당대회 도중 샘 알트먼 오픈AI CEO와 비공개 회담을 가졌다. 그러나 AI 산업의 미래와 규제를 둘러싼 양측의 시각차는 여전히 좁혀지지 않은 것으로 파악된다.14일(현지시간) MS 나우에 따르면, 이번 회담은 앤트로픽 전 연구원이 기술 기업들의 무책임한 개발 태도를 공개적으로 비판한 직후 알트먼 CEO의 요청으로 성사됐다. 구체적인 대화 내용은 알려지지 않았으나, AI 발전이 가"
   },
   {
+    "id": "dfdb1a0aec3297b2",
+    "title": "OpenArm - 오픈소스 7자유도 휴머노이드 로봇 팔",
+    "link": "https://news.hada.io/topic?id=33739",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T14:51:59.000Z",
+    "snippet": "OpenArm은 접촉이 많은 환경에서 피지컬 AI를 연구하고 배치하기 위한 7자유도 휴머노이드 로봇 팔임 높은 역구동성(backdrivability)과 순응성(compliance) 을 갖추고, 안전한 인간-로봇 상호작용과 실제 응용에 필요한 가반하중을 고려해 설계됨 사람 크..."
+  },
+  {
     "id": "1cf35409a52eafab",
     "title": "AI 의료 영상 전문 코로로직, 카카오벤처스·서울대기술지주서 시드 투자 유치",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215275",
@@ -310,6 +390,56 @@
     "snippet": "의료 AI 전문 코로로직(대표 황경래)은 카카오벤처스와 서울대기술지주로부터 시드 투자를 유치했다고 15일 밝혔다. 투자 금액은 비공개다.코로로직은 관상동맥조영술에서 환자와 의료진의 방사선 피폭을 줄이는 AI 솔루션 '앤지오필름'을 개발 중이며, 분당서울대병원 순환기내과 강시혁 교수팀이 지난 5월 설립했다.앤지오필름은 AI 기반 비디오 프레임 보간(VFI) 기술로 낮은 프레임의 관상동맥조영술 영상을 고프레임 영상으로 복원한다. "
   },
   {
+    "id": "69975bf431cdd7da",
+    "title": "미국, 우주 무기 배치 사실 처음으로 인정",
+    "link": "https://news.hada.io/topic?id=33738",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T14:48:59.000Z",
+    "snippet": "미국이 지구 궤도에 우주 무기를 배치했다는 사실을 처음으로 공식 인정함 Troy Meink 미 공군 장관은 적대 행위로부터 미군을 보호하기 위해 필요하다고 밝혔지만, 무기의 성능과 배치 시점은 공개하지 않음 미 우주군은 우주 통제 임무에 물리적..."
+  },
+  {
+    "id": "06734ff3ae1a7e3a",
+    "title": "Show HN: 새소리를 듣고 1800년대 삽화로 그려 보여주는 전자잉크 액자",
+    "link": "https://news.hada.io/topic?id=33737",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T14:45:59.000Z",
+    "snippet": "fugleramme는 새소리를 실시간으로 감지하고, 해당 새의 실제 1800년대 박물학 삽화를 Raspberry Pi 기반 전자잉크 액자에 보여주는 프로젝트로, AI 처리는 모두 로컬에서 실행됨 BirdNET-Go가 마이크 입력을 분류하면 API를 주기적으로 조회해 종에 맞는 삽화를 배..."
+  },
+  {
+    "id": "ff7558d6557c1bad",
+    "title": "25년간의 대규모 감시, 이제 충분하다",
+    "link": "https://news.hada.io/topic?id=33736",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T14:42:59.000Z",
+    "snippet": "9/11 이후 도입된 대규모 감시가 대테러와 국가안보를 넘어 일상적인 법 집행과 민간 보안으로 확산됐지만, 효과와 비용을 종합적으로 검증한 분석은 없음 정부는 통신사와 인터넷 기업, 데이터 중개업체 등 민간 기업의 수집 정보에 크게 의존하며, 기업의 데이터..."
+  },
+  {
+    "id": "f22464009e3b03d1",
+    "title": "제주 개인하수처리시설 수질개선 지원…참여시설 모집 - 지금제주",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WZWExdWJyMWRBYzBxM19ST3YzbUhESkFOTEJqcHNkOTN0ZDlvV1VvU3NraEpUQjVHU0RsZkxqVUpVZ1RrRkMxWUJwb3NESm44b3d6TjZ2SlVnUnotckszVEozakFibm1Mams2T2N3?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-15T14:41:41.000Z",
+    "snippet": "제주 개인하수처리시설 수질개선 지원…참여시설 모집 지금제주"
+  },
+  {
+    "id": "dd09dcbef712e8d9",
+    "title": "블버그 \"美무기소진 심각…확보가능한 정밀탄약, 동맹국 공동생산 등 필요\"",
+    "link": "https://www.hankyung.com/article/202609156934i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T14:14:14.000Z",
+    "snippet": ""
+  },
+  {
     "id": "4b1285f550019ca0",
     "title": "'AI 위협' 조회수 1.7억 폭발…앤트로픽 떠난 콕슨 '커리어 전환점'",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215282",
@@ -318,6 +448,46 @@
     "category": "AI",
     "publishedAt": "2026-09-15T14:08:46.000Z",
     "snippet": "앤트로픽을 사임하며 AI가 인류의 생존을 위협한다는 경고를 던진 27세 연구원 제이콥 콕슨의 행보가 그의 커리어에 결정적인 전환점이 될 것이라는 분석이다. 빅테크와의 관계는 단절됐으나, 양심과 전문성을 결합한 개인 브랜드를 구축하며 AI 안전 생태계에서 주목받는 인재로 급부상했다는 평이다.오픈AI와 앤트로픽에서 사전 학습 연구를 담당했던 콕슨은 지난 9일(현지시간) X를 통해 양사가 \"책임감 있게 행동하지 않았고, 우리의 목숨"
+  },
+  {
+    "id": "641784b478a533b3",
+    "title": "[특별기고] 단풍의 유혹 뒤에 숨은 날씨의 변덕, 안전을 밝히는 ‘산악날씨’ 예보 - 수원일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsbDdIVmNXUWNUTlJiNnJTUkFrdHEtSkRqbFBFMk1hZnRVQ2twaDRKd0ZhcExZM1V1Smc4TXEwZ0djWHhDVjIyZUlsNl91R1NPZ3dKTG1MNy1KVDB2cThYa0trMGJIN1Y0MTVR?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-15T13:33:00.000Z",
+    "snippet": "[특별기고] 단풍의 유혹 뒤에 숨은 날씨의 변덕, 안전을 밝히는 ‘산악날씨’ 예보 수원일보"
+  },
+  {
+    "id": "5626c8305a159c28",
+    "title": "베트남 북부와 북중부 지역의 폭우는 얼마나 오래 지속될까요? - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUtnU2h3QzFnRzVWME01VTNpNW9fb2R3ekVzZ2xGcUFMRWhKckhKMGkxZ1J5TXRuZmtzZmNKTFhjRHlPSlFhS1BQSFFQM3lZUmdOcVR6SEJINEdKdnJ0ME52UHZoOXIwTjFybXRUd3hFdWp5eFhhbEJSVkhhb2htQg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-15T13:11:04.000Z",
+    "snippet": "베트남 북부와 북중부 지역의 폭우는 얼마나 오래 지속될까요? Vietnam.vn"
+  },
+  {
+    "id": "ffefd873b340863b",
+    "title": "아직도 코드를 읽나요?",
+    "link": "https://news.hada.io/topic?id=33735",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-15T13:05:05.000Z",
+    "snippet": "AI 활용 방식은 구현 이해를 유지하는 가속형 개발자와 구현 및 수정을 위임하는 바이브코더로 나뉨. 차이는 AI가 작성한 코드의 양이 아니라 결과물을 이해하고 유지보수하는 방식에 있음 프로그래밍의 핵심 자산은 코드보다 도메인에 대한 모델과 이해..."
+  },
+  {
+    "id": "799b43c65bbb7f34",
+    "title": "美 국방부 \"이란 전쟁 비용, 6월까지 약 45조원 써\"",
+    "link": "https://www.hankyung.com/article/202609156890i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T13:00:15.000Z",
+    "snippet": ""
   },
   {
     "id": "cd9973f15cef1fff",
@@ -338,6 +508,16 @@
     "category": "AI",
     "publishedAt": "2026-09-15T12:43:47.000Z",
     "snippet": "AI 업계 주요 경영진이 안전을 위해 최첨단 AI 모델 개발 속도를 늦춰야 한다고 잇따라 촉구하면서 글로벌 기술주와 반도체주가 일제히 급락했다. AI 모델 개발 둔화가 고성능 반도체와 데이터센터에 대한 막대한 투자와 수요를 위축시킬 수 있다는 우려가 커지며, 그동안 AI 투자 붐의 최대 수혜주로 꼽혀온 기업들이 집중적인 매도 압력을 받았다.월스트리트저널(WSJ) 등에 따르면, 14일(현지시간) 미국 증시에서는 반도체주가 가장 "
+  },
+  {
+    "id": "373d5250be6217df",
+    "title": "AI 급락에 불안…월가 \"이 신호 전에는 AI주 팔지 마라\"",
+    "link": "https://www.hankyung.com/article/202609156877i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T12:41:53.000Z",
+    "snippet": ""
   },
   {
     "id": "ebc6e56581a611ae",
@@ -1458,6 +1638,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-15T06:19:02.000Z",
     "snippet": "개인하수처리시설 수질개선 지원사업 참가 모집 삼다일보"
+  },
+  {
+    "id": "743498b52759a857",
+    "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - mediatoday.asia",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50OUJxUk4zQWdFM3VRTWRqOWNMaHFEZGtYa21RZkxDYzJiNUxZdE4xQnB3RUhuOGk0ZWZqbm8zN2xzWFpjdDlBVTR3?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-15T06:18:00.000Z",
+    "snippet": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 mediatoday.asia"
   },
   {
     "id": "fb9f26c82841a8b5",

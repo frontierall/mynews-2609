@@ -10,6 +10,476 @@
     "snippet": "중국 정부가 최근 미국 AI 업계에서 불거진 ‘AI 개발 속도 조절론’에 거세게 반발하고 나섰습니다. 중국 외교부가 직접 나선 데 이어 관영매체도 다리오 아모데이 앤트로픽 CEO의 속도 조절 제안을 ‘냉전적 전략’이자 시장 독점 노림수라고 공격했습니다. 이번 반응이 눈에 띄는 것은 미국 정부가 중국에 AI 개발을 늦추라고 요구한 것이 아니기 때문입니다. 아모데이 CEO가 안전장치 확보를 위한 기술 개발 일시 정지를 주장하고 샘"
   },
   {
+    "id": "838d8956f04cafae",
+    "title": "한 달 만에 M4 Mac Mini용 Linux GPU 드라이버 만들기",
+    "link": "https://news.hada.io/topic?id=33764",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-16T02:36:06.000Z",
+    "snippet": "Cody Ho와 Niklas가 약 한 달 만에 M4 Mac Mini와 MacBook Neo용 OpenGL ES 3.0 완전 준수 GPU 드라이버를 개발함 기존 하이퍼바이저로 macOS의 GPU 동작을 관찰하고 재생하면서 AGX 펌웨어 ABI를 역공학했으며, Apple 바이너리를 보지 않는 클린룸 방식으로 실험을..."
+  },
+  {
+    "id": "593396c57a91a1e9",
+    "title": "보이스피싱 잡았더니 은행서 100만원 주네",
+    "link": "https://www.mk.co.kr/news/economy/12154092",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T02:22:14.000Z",
+    "snippet": "국민은행 경찰청과 시상식 일터와 현장에서 기지 발휘지난 15일 KB국민은행이 경찰청과 제4회 ‘KB국민 지키미상’ 시상식을 개최했다. 이날 간호사, 통신사 대리점장 등 일상 속 기.."
+  },
+  {
+    "id": "23e9e8a00159231e",
+    "title": "2026년 9월 17일 안장성 날씨 예보 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBudWVJQmpLaEV3Uk9PejRZQ0NKZFRfZlZ1UE9LR1E4MHJiM3YyLUVUbFZrLTYtbDZ1VDZiSGpza09YaWMwaEVlOUswd0RVZkZTT2pLQWVacGtLcU5UN3hBVTRBREhSdzNUMVo4RmtNQndiemt0a2toQjNUcw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T02:07:12.000Z",
+    "snippet": "2026년 9월 17일 안장성 날씨 예보 Vietnam.vn"
+  },
+  {
+    "id": "519c0a17923d2c59",
+    "title": "KERI, 창원테크비즈센터 입주기업 대상 ‘KERI-STARS(VALUE-UP)’ 지원사업 추진 - 기계신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yNTV1dDZFSGx5MnlFd1lBOWNqRlUtRTJpSC16RjIxYTB3OXlyWF9OTl9ocEdJbVVnQVVzbHpXWFM4eERuU0hpbnZwM0Zxbk40ZThocVc3RU1LemZfZ3RWM2ZyOG1ZWU0?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-16T01:51:27.000Z",
+    "snippet": "KERI, 창원테크비즈센터 입주기업 대상 ‘KERI-STARS(VALUE-UP)’ 지원사업 추진 기계신문"
+  },
+  {
+    "id": "4433fc09786e8a7f",
+    "title": "인뱅 최초 잔금대출 출시한 카카오뱅크…시장 메기 될까",
+    "link": "https://www.mk.co.kr/news/economy/12154045",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T01:49:48.000Z",
+    "snippet": "대출 실행과정 전면 비대면 내세워 ‘디에이치방배’도 취급 단지 포함카카오뱅크가 인터넷전문은행(인뱅) 최초로 잔금대출을 출시했다. 최근 금융당국이 총량규제 조치를 완화한 상황에서 잔.."
+  },
+  {
+    "id": "573e0486fc61f003",
+    "title": "햄버거뿐 아니라 파이까지…'트러플 대전' 벌이는 버거킹",
+    "link": "https://www.hankyung.com/article/202609167955g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T01:47:18.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1e3a66736362d500",
+    "title": "\"성시경이 만들었대\"…4000원대 비빔밥 나오자 2030 몰렸다 [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609167289g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T01:46:31.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fb6298be24fa922d",
+    "title": "[날씨] 호치민시 내일부터 250mm 이상 강우 예보 - 굿모닝베트남미디어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MSkt0QUZTZGwwY3FmQzRtbm44NGd6Wl9KYnIzYnJlTDN3dXg1MUhITmFsU2xaZWQ0V3VjSW8wQ3lLbjZSRVFDR0RXVWpSdGJsaUFWamtOSUs2bGllTW9QRDNnN3Vua1pDeDc5eElRVkU?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T01:39:53.000Z",
+    "snippet": "[날씨] 호치민시 내일부터 250mm 이상 강우 예보 굿모닝베트남미디어"
+  },
+  {
+    "id": "3f0fb89f9313260e",
+    "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QOVcyTHdOT0FNTjNKQU45RVVxMVpxMGYtREg4dzhvU3V5NjBpVXM3NFB1QjVBcXZJcG5jRzM1bjlIMkRUMVNjT3drcHlTR1RVT2RLX0NKZmdxdlI3czB1MWVVUUdRVlBwTXZzeVpB?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-16T01:38:53.000Z",
+    "snippet": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4"
+  },
+  {
+    "id": "dbadd0c4d16f08b8",
+    "title": "갤S22 성능 저하 소송 모두 종결…삼성전자 손배 책임 판결 '전무'",
+    "link": "https://www.hankyung.com/article/202609167458g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T01:34:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0d72bbb3c162a341",
+    "title": "시드니·멜번에 때아닌 겨울 날씨…비·우박·산간 지역 눈 예보 - SBS",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0VqanRmQVlXUV9ycmJaTXN6SGl1WVJYaDRUVkVBYmt4b0NTNFlTZHFrdFRCNDRpTXNrTWR2d1pacFB4SDd1QktCa2FraTJKT2NYZVlGaEszM0FIc3NrRzVBM3hBQWlMaktkMHRkYkNMVWxYRnVHeDFTMDlneGxVYjVKdjlDNFFyQWsw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T01:31:36.000Z",
+    "snippet": "시드니·멜번에 때아닌 겨울 날씨…비·우박·산간 지역 눈 예보 SBS"
+  },
+  {
+    "id": "7b7f2a7157182190",
+    "title": "9월 16일 일기예보: 북부 지역에는 폭우, 남부 지역에는 광범위한 뇌우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTJiQVR6N3ViSG5IWEl5d1JtVUZiN3RZVXJpYWF1X3JoTWdpeURvSVQ5ckVIeVFnWW50VWhRWUN0b0dMeE9KSHhlUEUtRnBMaWZ3T0FkUHBMU2EzZVdqNDZTMkRxUWlidFJpZVJpTmtYYXF6N3MwRWZNVFdCTlpUV19lOFN4elVMUFhucVlWUl8zY1ZuV2Fn?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T01:30:10.000Z",
+    "snippet": "9월 16일 일기예보: 북부 지역에는 폭우, 남부 지역에는 광범위한 뇌우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "6af0a5ba9ac8f454",
+    "title": "\"다이소에 없는 게 있다\" 우르르…사흘 만에 2.5억 팔아치운 곳",
+    "link": "https://www.hankyung.com/article/202609167182g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T01:29:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "98195d33de9418b2",
+    "title": "\"내 직업, 사라질 수도\"…딥시크 핵심 개발자의 '충격' 고백 [차이나 워치]",
+    "link": "https://www.hankyung.com/article/202609167218i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T01:26:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "61a3fbf662a997ef",
+    "title": "인천시 신중년 지원사업, 국비지원 연장돼 ‘활로’ 찾아··· 지속가능성은 과제 - 인천투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uUnpFbEVLRUhCVjFOaHN0X19QN2x0VVQyVGx1bUZFZWJGN2MtZjRja3pzeTRyMjh0UkVHTEZqNDAteU5PSWowODEyNHVBNTRjMFNubDdnVEN2eVBBRTZiWHJEeVhja0dmR0d2R3dfa08?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-16T01:22:06.000Z",
+    "snippet": "인천시 신중년 지원사업, 국비지원 연장돼 ‘활로’ 찾아··· 지속가능성은 과제 인천투데이"
+  },
+  {
+    "id": "8377ad46efbc8640",
+    "title": "래블업(lablup) 개발자 컨퍼런스 2026",
+    "link": "https://news.hada.io/topic?id=33763",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-16T01:17:58.000Z",
+    "snippet": "래블업의 기술을 바탕으로 AI를 만들어가는 사람들과 함께하는 개발자 컨퍼런스에 여러분을 초대합니다. 2021년 온라인으로 첫 발을 내딛은 lab | up >/conf는, 래블업이 만들어 온 Backend.AI와 AI 기술을 바탕으로 시작된 정기 컨퍼런스입니다. 해마다 A를 만들어가는 많은 분들이 함께해 주시면서 이제는 수백 ..."
+  },
+  {
+    "id": "be7f5730e383e249",
+    "title": "SK하이닉스 임단협 '극적 타결'…성과급 현금 비중 50%로 상향",
+    "link": "https://www.hankyung.com/article/202609167700g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T01:17:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c8af38c58e3c2e31",
+    "title": "\"럭셔리 SUV와 큰 차이 없다\"…현대차그룹 상품성에 美 매체 호평",
+    "link": "https://www.hankyung.com/article/202609167622g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T01:12:55.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "042c661dfd47750a",
+    "title": "9월 16일 일기예보: 베트남 북부 지역에 보통에서 많은 양의 비가 계속 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmliMEFaU2JzZ1BNODBjUmplbkpIbkFEUEg1N0NzbWtqY2lwa0NZdm9zRHhQTlFmMk9aejhoMW5vR1d6M3ZnM1ZCd3JGeHZ2UGs0UWRyOWdkaUprZ1UySGRqaXFjal9uZ1NsS0gtVURFeTg2R1ZSZERCT0JkNU5qNGJrekhZdw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T01:12:31.000Z",
+    "snippet": "9월 16일 일기예보: 베트남 북부 지역에 보통에서 많은 양의 비가 계속 내리겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "58b7d6a9f88c17d6",
+    "title": "현대차그룹, 제주서 수소 모빌리티 역할 공유…\"청정에너지 협력\"",
+    "link": "https://www.hankyung.com/article/202609167671g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:58:29.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "80c7bdcc4604360e",
+    "title": "\"공짜돈 안 타면 바보\"…20대 직장인들 줄줄이 짐 싸는 이유가",
+    "link": "https://www.hankyung.com/article/2026091675727",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:56:20.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ac443e9381a8859e",
+    "title": "보석상·배심원 사칭하는 수감자들…美서 사기 피해 확산",
+    "link": "https://www.hankyung.com/article/202609167652i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:52:55.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1cecb8b793dd880e",
+    "title": "\"해외 골프장에 손님 다 뺏겼는데\"…지방 골프장의 놀라운 반전",
+    "link": "https://www.hankyung.com/article/202609156318i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:52:37.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "669d245c11603d2b",
+    "title": "스페이스X 후광 효과에…우주 스타트업 투자 급증",
+    "link": "https://www.hankyung.com/article/202609167336i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:46:35.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b0d556c296f75173",
+    "title": "[단독] 이재용, 日 참의원 대표단과 깜짝 회동…반도체 협력 논의",
+    "link": "https://www.hankyung.com/article/2026091673916",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:45:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "67a0e607c8d3db9a",
+    "title": "9월 16일 날씨 예보: 전국에 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTc3NVV4UXFBS0Ntejh0UjVXeThyb0RwV2o3cm5qcEFtM2VMQnNkeU5jblFzQjhnSWdqbFJhcGZaUFB4UVN2NFNIYWdaU2RQRE9tdUtQVXZzOHAzLWZtdkYxaG04WDgzb3E3VXBFQXRYV2psQlY0M1hCRnI3THpoWXF4aTY?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T00:35:03.000Z",
+    "snippet": "9월 16일 날씨 예보: 전국에 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "a0f55d101b7f109e",
+    "title": "신산업·DX 전환 기업 지원...서울테크노파크, 사업재편 기업 모집 - 한경매거진&북",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GLTZpN3JxNS16WWdPRFhNSXdsVTRxX0hJTF8wLTRFNktnZlphVXVoZFNhNUQ0ZHc5eDFQTm9uUDR5dlJURnRLRFJFZm5Od0pYa0o3aTBQTTJjaDF3bjJXbGxMdmFCQk01OHlN?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-16T00:35:00.000Z",
+    "snippet": "신산업·DX 전환 기업 지원...서울테크노파크, 사업재편 기업 모집 한경매거진&북"
+  },
+  {
+    "id": "a19a3e8534cadf8a",
+    "title": "오늘(9월 16일) 날씨 예보: 베트남 북부에는 폭우가 계속될 예정이며, 베트남 남부에는 광범위한 강우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnAyd1U5SHBOUm9rUGZQTmtrdmplYm5UWmtNLWlxbklSLTY4Z1RHTGw4aGwwQmN2a0FPVjRmbDZYRHFqY3F3cmtrS2xpNDJPX2tsT0NlV2hPVF9JTUY5TWh0S0dEamNraFZIYUZaZV9nUndDS2hDUkNqWU1jM0R1S25lWnN4RExqbURSbzIyem8zZE1BREJrZkw2bFVsdWdRUGc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T00:33:03.000Z",
+    "snippet": "오늘(9월 16일) 날씨 예보: 베트남 북부에는 폭우가 계속될 예정이며, 베트남 남부에는 광범위한 강우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "b1045b54970021af",
+    "title": "美 경제계 '막후 실세'도 담았다…AI가 되살린 시게이트 [핫픽!미국주식]",
+    "link": "https://www.hankyung.com/article/202609167204i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:30:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "32a635c4936b06c3",
+    "title": "TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기",
+    "link": "https://news.hada.io/topic?id=33760",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-16T00:30:02.000Z",
+    "snippet": "웹 개발에 익숙한 HTML, CSS와 DOM API로 터미널 UI와 대화형 CLI를 만드는 JavaScript/TypeScript 라이브러리 별도의 터미널 위젯 API를 배우는 대신, HTML 요소를 만들고 DOM을 수정하는 방식으로 화면을 구성 노드가 바뀌면 스타일과 배치를 다시 계산하고, 이전..."
+  },
+  {
+    "id": "1747fdf7fddc5f49",
+    "title": "9월 16일 낮과 밤의 날씨 예보: 북부 지역에 광범위하게 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVHgwVGwwS3k2eV92Y3VNelh6clVoZlNDOUVqZjhUQnQxV200YUlOZ2g4Tl9DbzhKbk9INnNIc2NfeU5Kc2xPUF94VHJTWVFlSllzOFBtS1NxQ0U3LUJCT3g1cVhoZ3ZQUDExUGZuY1pKdnpmSE1IUVNJVXNJdm93S3lSX3g5dw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T00:25:29.000Z",
+    "snippet": "9월 16일 낮과 밤의 날씨 예보: 북부 지역에 광범위하게 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "e9e30488fb1a8560",
+    "title": "美 국채 5% 시대 열렸다.. 물가 발작에 전 세계 비상",
+    "link": "https://www.mk.co.kr/news/stock/12153917",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:24:24.000Z",
+    "snippet": "오늘 글로벌 자본 시장을 강타한 가장 무서운 숫자는 바로 ‘5%’입니다. 전 세계 모든 대출과 투자의 기준점이 되는 미국 10년물 국채 금리가 5%를 돌파했습니다. 가장 안전해야 .."
+  },
+  {
+    "id": "5ca1bafc8fbb1ab4",
+    "title": "SK하이닉스 임단협 3주 만에 수정안 가결…성과급 현금 50%",
+    "link": "https://www.hankyung.com/article/2026091674977",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:22:25.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e4d6da29427fc57a",
+    "title": "정부 \"코인 과세 충격 크지 않아\"…한동훈 \"이번에도 막겠다\"",
+    "link": "https://www.hankyung.com/article/202609167349H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:21:26.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3a1499302fa5125c",
+    "title": "죽어가던 미국 쇼핑몰의 반전…자산가치 13% 뛰었다",
+    "link": "https://www.hankyung.com/article/202609167483i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:18:39.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "07a67044ed1437c8",
+    "title": "[오늘의 날씨] 가을 날씨 완연하지만…일교차 15도 이상 '극과 극' - nbn 시사경제",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51MlZ2RzdSRTFIZUtnaUR5SWhUOUFESzhFWlVKYnUzZnExVjlLQ2hsUENsU1J5STJfZ213eFZONnQzYVhyVWdCeW1rcktOMFR4a1dXSlVmcUZtckhCSTVRT0ZFNVNIanNENmc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T00:18:04.000Z",
+    "snippet": "[오늘의 날씨] 가을 날씨 완연하지만…일교차 15도 이상 '극과 극' nbn 시사경제"
+  },
+  {
+    "id": "526d4da2a98ff607",
+    "title": "바쁜 아침 식사대용 딱…다이어터도 '죄책감 없이' 한잔 [갓신상]",
+    "link": "https://www.hankyung.com/article/202609167431g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:15:25.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3e08a0dadf0951f1",
+    "title": "9월 16일 날씨 예보: 하노이와 6개 성에서 계속해서 폭우가 내리겠으며, 일부 지역에서는 250mm가 넘는 강우량을 기록할 것으로 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR05rU0pEMHVTLWtXOEhhZHhLcTRpZXExZjhrdU9EYkY5T1ZHam4wc0hsOFZLWEpSTDUwcW0wWGtsdzh6b3cxVVBGdlktREw5MFBOWmdocExCUDVwMDlORThZX3V5QVg1MmNvSTY3UXUzMHo0Qk9ZblpBTnVWcVd5Zml4SnpBZ3pLbFhGVW8wMnR5QktrVnYzVlZjNjVoQzhB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T00:12:59.000Z",
+    "snippet": "9월 16일 날씨 예보: 하노이와 6개 성에서 계속해서 폭우가 내리겠으며, 일부 지역에서는 250mm가 넘는 강우량을 기록할 것으로 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "856f9b8d62f23240",
+    "title": "[속보] SK하이닉스 임단협 합의안 노조 재투표서 가결",
+    "link": "https://www.hankyung.com/article/2026091674557",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:04:39.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fd4d6120da13df63",
+    "title": "AI 감속 경고에 갈린 주가…칩 지고 보안·빅테크 떴다",
+    "link": "https://www.hankyung.com/article/202609167365i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T00:03:47.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f7c24bfd44a464d0",
+    "title": "공정, 혁신, 포용의 경기 - 경기도청",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-16T00:03:21.000Z",
+    "snippet": "공정, 혁신, 포용의 경기 경기도청"
+  },
+  {
+    "id": "ee00a351b92ae05d",
+    "title": "예보에 따르면 찬 공기가 베트남 북부로 유입되어 이번 겨울에 심한 추위와 서리를 유발할 것으로 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWpqU1dNMFdlbjJMcXBMYlR6VDJfalMzbWwxY3ZnWW43R2RwUDZHc1JoUl9Xd3BYTjNjTUhvUmdkUS0yX0Z2amw1ZXhqN3NuTXpzZkNwaHlINE1JS0NRRFFDUDV4Mkt6TGl1dHY2d0d1MXRSNkJ0NXF5cTZReWdlaktQLXFtYm0yaEJzcFBjenpSRVJRUldoZDE4ZHphSFJtRlpaQnctYkJqV0M5d0RLeDA1RQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T00:01:01.000Z",
+    "snippet": "예보에 따르면 찬 공기가 베트남 북부로 유입되어 이번 겨울에 심한 추위와 서리를 유발할 것으로 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "57a545187e74ddf4",
+    "title": "9월 16일 일기예보: 베트남 북부와 북중부 지역에 폭우가 계속될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFB6TDNGdGI5MDFSOTBjUFpSSEdJQW1tWEFEWHNuaDF0dGlMRGgwUXNGNmV3M3pWZUZJaFFaVXV5YXFmTVJFVjhpWUhCVFdDS2dHQ1o0cS1Ra1RvaVBLdGc5cjh3T3FUM3FEdHJiSGVETjdtSFpIbjlKV2pWSVlZZlA3d3M5T1FOTGUyWWRBY1lPeEd1?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T00:01:00.000Z",
+    "snippet": "9월 16일 일기예보: 베트남 북부와 북중부 지역에 폭우가 계속될 예정입니다. Vietnam.vn"
+  },
+  {
+    "id": "5c08b6deeb7a71a8",
+    "title": "\"스니커즈 품에 프링글스·켈로그 안겼다\"…한국마즈, 통합 운영 본격화",
+    "link": "https://www.hankyung.com/article/202609167420g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:59:33.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "89871ecafb6ab2be",
+    "title": "대한항공, 60조원 규모 대미 구매계획 최종 계약…보잉 항공기 103대 도입",
+    "link": "https://www.hankyung.com/article/202609167343g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:55:53.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "eee238d3e6ecb484",
+    "title": "EU 산업보조금 역내 집중…英·日·튀르키예 車업계 반발",
+    "link": "https://www.hankyung.com/article/202609167364i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:51:50.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f1f2813027d90d32",
+    "title": "스타벅스 10억달러 매장 개조…'머무는 카페' 되살린다",
+    "link": "https://www.hankyung.com/article/202609167381i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:51:13.000Z",
+    "snippet": ""
+  },
+  {
     "id": "254b66b5bf1ed3fe",
     "title": "“은행 대출 22% 늘 때 부실은 82% 급증”…은행권 연체 뇌관 터지나",
     "link": "https://www.mk.co.kr/news/economy/12153868",
@@ -40,6 +510,56 @@
     "snippet": "9월 16일 일기예보: 베트남 북부와 탄화성에 폭우가 예상되며, 일부 지역에서는 250mm 이상의 강우량을 기록할 것으로 예상됩니다. Vietnam.vn"
   },
   {
+    "id": "3ab45e652f0ea0b5",
+    "title": "[AI서머리] 서울테크노파크, 사업재편 지원사업 참여기업 모집‧2026 제이앤피메디 커넥트 개최 - 스타트업레시피",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zdGp5STBjd1dqNVpGWmdCTXpfU2VGTG9TQTFJMnNsOHU2NWpzdGdhc254OTJEd0Y2V1VySG9VQ2VwZnVlczIzMU9LNHZRVTh2NzNvRzNtRQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-15T23:45:23.000Z",
+    "snippet": "[AI서머리] 서울테크노파크, 사업재편 지원사업 참여기업 모집‧2026 제이앤피메디 커넥트 개최 스타트업레시피"
+  },
+  {
+    "id": "2fdc7ab4bec3ddec",
+    "title": "\"추석 앞두고 현금 바닥날라\"…백종원, 점주들에 '통큰 선물'",
+    "link": "https://www.hankyung.com/article/202609167338g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:44:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6e92476d94561bd9",
+    "title": "미 국채보다 주식 더 많이 산 외국인…'안전자산' 위상 흔들",
+    "link": "https://www.hankyung.com/article/202609167350i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:42:25.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d29f5cf100624a11",
+    "title": "\"수익 출렁이던 시대 끝\"…태양광, 15년 만에 새 판 짰다",
+    "link": "https://www.hankyung.com/article/202609156470i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:40:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "28c4d7197af5791d",
+    "title": "\"비싼 명품백 안 사요\"…립스틱 불티나게 팔리더니 '대이변'",
+    "link": "https://www.hankyung.com/article/202609167268g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:35:40.000Z",
+    "snippet": ""
+  },
+  {
     "id": "0350fb93e7e46a02",
     "title": "9월 16일 낮과 밤의 날씨 예보: 북부 지역에 광범위하게 폭우가 내리겠으며, 하노이 일부 지역에는 매우 강한 비가 예상됩니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUQxOWJKQ1BfdXdCTEFzamkyY0JBNUxDd2t2RVRfMmVVa2ZRSlJTU0NWQ1A4SkNmVHBVRE9wMk5kSnY0ZXNZMzJkU3BicDlFTVNfWXNGbEhCRVFwM2ZPaGV4eGRnenpqQ2Rlcmt6ZGFVVHJnV3lqMU9jTG5PZndoRC1qcFZ2dXlTX0p5QnhxRFpGNU9adF9qMlhralRYLUVtaEdKVS1Baw?oc=5",
@@ -58,6 +578,46 @@
     "category": "개발",
     "publishedAt": "2026-09-15T23:34:32.000Z",
     "snippet": "배송비 포함 20달러 미만의 MF800 4G 모뎀에 Linux를 설치하고, Clicks 물리 키보드와 SHARP 디스플레이를 결합해 메시지 전용 휴대 기기를 제작함 OpenStick으로 기본 Android를 Linux로 교체하고, 원래 기기의 디바이스 트리에서 디스플레이 핀과 전원 정보를 추..."
+  },
+  {
+    "id": "c53fb4b4b463b571",
+    "title": "한중 하늘길 넓어진다…LCC에 베이징·상하이 등 주요 노선 집중",
+    "link": "https://www.hankyung.com/article/202609167247g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:33:33.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "53e4317830da2221",
+    "title": "이제 몽골·하와이서도 'CU PB상품'…수출 전초기지 가동",
+    "link": "https://www.hankyung.com/article/202609167239g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:24:00.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "2939cfe3a01d6add",
+    "title": "\"세계 항공수요 절반 아태에서\"…에어버스, 20년간 1만9120대 전망",
+    "link": "https://www.hankyung.com/article/202609167150g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:06:35.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "423f99cf7b835fc4",
+    "title": "[밤 사이 해외 뉴스 영상] \"19년 만에 최악\"…미 국채 금리 5% 뚫자 '패닉'",
+    "link": "https://www.hankyung.com/article/202609167147i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-15T23:03:10.000Z",
+    "snippet": ""
   },
   {
     "id": "b87a1dc39718a6e2",
@@ -2108,6 +2668,16 @@
     "category": "경제",
     "publishedAt": "2026-09-15T05:22:09.000Z",
     "snippet": "국제협동조합(ICA) 이사에도 재선임 “지속가능한 농업·농촌의 미래 열 것”강호동 농협중앙회장이 14일(현지시간) 파나마 파나마시티에서 열린 국제협동조합농업기구(ICAO) 총회에서.."
+  },
+  {
+    "id": "fef3681f602e6aa8",
+    "title": "국산 없는데 ‘국산 우선’ 공고…베란다 태양광 사업 논란 - 에너지경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPWTFmUlVPdEk4UGZpdE9LaVB4dHBZNjVDQzE1bHdYVk9zdzhNcUJGYnp0dWhRVlI4SWpsYzVIWjE1RXR1OXFWZi1HMHRwamtKX2t2dWptbHpPNVE?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-15T05:17:54.000Z",
+    "snippet": "국산 없는데 ‘국산 우선’ 공고…베란다 태양광 사업 논란 에너지경제신문"
   },
   {
     "id": "d3f28161ac40b2f0",
@@ -10230,6 +10800,16 @@
     "snippet": "존 터너스 애플 신임 CEO가 취임 후 처음 대중 앞에 섰습니다. 9일(현지시간) 애플파크에서 열린 약 90분의 신제품 행사에서 터너스가 직접 무대에 오른 시간은 약 16분으로, 오프닝과 AI 비전, 첫 폴더블 아이폰 ‘아이폰 듀오’ 공개, 클로징을 직접 맡았습니다.그가 가장 강조한 것은 의외로 새로운 AI 기기나 기능이 아니었습니다. 최근 오픈AI와 메타 등이 AI 전용 안경을 비롯한 새로운 AI 디바이스를 내놓으며 ‘스마트"
   },
   {
+    "id": "88208a36fd1be823",
+    "title": "오늘 밤과 내일(2026년 9월 11일) 날씨 예보: 북부 지역에는 천둥번개가 예상되며, 남부 일부 지역에는 매우 강한 비가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2J1TXh6SndKalNHUGV5clZmSUVjcmVxdFBqMVkxVWdwZDVZb3pfMTJ1TXVickpiNUVjS2x1R3UxcFpPWFBOVTBUa3gzMDZkNk5CbV9hc2t6RXhuOGJMVWRpZ0JXNjMyRzJ2OHQtaDlfdEx3Y0pZVnRvNUdTOHlNZndmMzhnaWZhT25tNDBGNEtMbW9LWEwyd2p5Vks3cjduakpYSnAyNWpYd0JLYXBWTWxzVi0?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T07:00:00.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 11일) 날씨 예보: 북부 지역에는 천둥번개가 예상되며, 남부 일부 지역에는 매우 강한 비가 내리겠습니다. Vietnam.vn"
+  },
+  {
     "id": "047011211b54b7fd",
     "title": "與, “국민연금, ‘주가누르기’ 방지 위해 스튜어드십코드 이행평가 강화해야”",
     "link": "https://www.mk.co.kr/news/economy/12150500",
@@ -12448,16 +13028,6 @@
     "category": "경제",
     "publishedAt": "2026-09-10T10:25:54.000Z",
     "snippet": "지식산업센터의 공실과 미분양 사태가 좀처럼 풀리지 않자 정부가 해당 시설을 오피스텔 등 다른 용도로 전환할 수 있도록 관련 규제를 완화하기로 했다. 텅 빈 지식산업센터의 활용도를.."
-  },
-  {
-    "id": "88208a36fd1be823",
-    "title": "오늘 밤과 내일(2026년 9월 11일) 날씨 예보: 북부 지역에는 천둥번개가 예상되며, 남부 일부 지역에는 매우 강한 비가 내리겠습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2J1TXh6SndKalNHUGV5clZmSUVjcmVxdFBqMVkxVWdwZDVZb3pfMTJ1TXVickpiNUVjS2x1R3UxcFpPWFBOVTBUa3gzMDZkNk5CbV9hc2t6RXhuOGJMVWRpZ0JXNjMyRzJ2OHQtaDlfdEx3Y0pZVnRvNUdTOHlNZndmMzhnaWZhT25tNDBGNEtMbW9LWEwyd2p5Vks3cjduakpYSnAyNWpYd0JLYXBWTWxzVi0?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-10T10:15:10.000Z",
-    "snippet": "오늘 밤과 내일(2026년 9월 11일) 날씨 예보: 북부 지역에는 천둥번개가 예상되며, 남부 일부 지역에는 매우 강한 비가 내리겠습니다. Vietnam.vn"
   },
   {
     "id": "b9fc2002d27d9d9a",
@@ -31040,6 +31610,16 @@
     "snippet": "홍성군, 2026년 대체인력 근로자 인센티브 지원사업 대상자 모집 충남일보"
   },
   {
+    "id": "e1c90c96290b14a9",
+    "title": "9월 1일 오늘 날씨 예보: 저기압이 발달하여 제5호 태풍으로 발달할 가능성이 높습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnJhVHZhb1BsX0xlblQxaEZzRXRrRlIyS0tldVJyTnVqc2ZsYkJMUVB5OEhSUGg3R094aUh6aHRmR2p2X0psS3VzaFE4c05mdlIyaDg2a3B3dlFBc2J6c25EVG1jOWpCM3VRYnQ3MjE5V0NrbUg2eDRrZWtQbG1pSlNVYW92ZkVWdFZJdA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-01T07:00:00.000Z",
+    "snippet": "9월 1일 오늘 날씨 예보: 저기압이 발달하여 제5호 태풍으로 발달할 가능성이 높습니다. Vietnam.vn"
+  },
+  {
     "id": "2ae58a9909875ae5",
     "title": "화성특례시, '2026 신중년 고용지원사업' 참여기업 모집 - 경기경제신문",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CWkIweVRnb1p5ZVVyNmlPQXBxWGlSMXhPWnpwaUUyRWVmOXBLQmpBOV80MnBaUGtrT05ZN0lfbnNMel9WaEZjN0tVXzlHWExteUktajlzNFBxQlE?oc=5",
@@ -31088,15 +31668,5 @@
     "category": "AI",
     "publishedAt": "2026-09-01T01:00:00.000Z",
     "snippet": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
-  },
-  {
-    "id": "e1c90c96290b14a9",
-    "title": "9월 1일 오늘 날씨 예보: 저기압이 발달하여 제5호 태풍으로 발달할 가능성이 높습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnJhVHZhb1BsX0xlblQxaEZzRXRrRlIyS0tldVJyTnVqc2ZsYkJMUVB5OEhSUGg3R094aUh6aHRmR2p2X0psS3VzaFE4c05mdlIyaDg2a3B3dlFBc2J6c25EVG1jOWpCM3VRYnQ3MjE5V0NrbUg2eDRrZWtQbG1pSlNVYW92ZkVWdFZJdA?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-01T00:24:42.000Z",
-    "snippet": "9월 1일 오늘 날씨 예보: 저기압이 발달하여 제5호 태풍으로 발달할 가능성이 높습니다. Vietnam.vn"
   }
 ]

@@ -870,6 +870,16 @@
     "snippet": "날씨 예보 8월 23일 2news.co.kr"
   },
   {
+    "id": "5df7885efc2568b8",
+    "title": "[내일 날씨] 전국 폭염특보 속 무더위 최고조...주간예보와 태풍 진로는? - 헤드라인제주",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIY3dFYkdkTDZDUUhmX3VsMVRQcEVGQ1QwX1ZJN2dDYVZEQzBKdFB5UlE0d2FrOHBiZlVfVHJvZU9tcTlkTXFSRXFpcjlUQjRGWlNRSlZxenBrOWVqZm40c0FMRlIwN0RjbU9aUE1yTGpuOUE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-08-23T07:00:00.000Z",
+    "snippet": "[내일 날씨] 전국 폭염특보 속 무더위 최고조...주간예보와 태풍 진로는? 헤드라인제주"
+  },
+  {
     "id": "341ebc7bada00b16",
     "title": "과천, 2026년 청년 상담 지원 사업 대상자 모집 - 서울일보",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GN1dYOE4yNzgyRmpOTGNfLVRPWmUxMm4zcjlzWEpkaHRDQ3p3T3lOWEo5RjZOY09SSGpaVGpzdkh4MUtpSnB5S0wyQnpPV3FBRkMxUmh5QnlmUV9ndGZQY1VKRzFWamRDajdF0gFvQVVfeXFMTjhNUHF5My12T25kWDBRa0oxWkc1UEtvZGM4ME44UUNHSnJHOHZzZjFnTzdoZlNFT2ItYW5wNDNOSUZkMUFtSTBUbWxDQ0Y2MFRyWl82Zl9TdjRFcmZQVm0yemJNaERFMEliZkVwMHBn?oc=5",
@@ -880,16 +890,6 @@
     "snippet": "과천, 2026년 청년 상담 지원 사업 대상자 모집 서울일보"
   },
   {
-    "id": "5df7885efc2568b8",
-    "title": "[내일 날씨] 전국 폭염특보 속 무더위 최고조...주간예보와 태풍 진로는? - 헤드라인제주",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIY3dFYkdkTDZDUUhmX3VsMVRQcEVGQ1QwX1ZJN2dDYVZEQzBKdFB5UlE0d2FrOHBiZlVfVHJvZU9tcTlkTXFSRXFpcjlUQjRGWlNRSlZxenBrOWVqZm40c0FMRlIwN0RjbU9aUE1yTGpuOUE?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-08-23T04:25:01.000Z",
-    "snippet": "[내일 날씨] 전국 폭염특보 속 무더위 최고조...주간예보와 태풍 진로는? 헤드라인제주"
-  },
-  {
     "id": "b58a9c2c6a6fe0c7",
     "title": "날씨 예보 8월 22일 발표 - 2news.co.kr",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tb084aVZESWdRejNRZTNZOGljeTBvNXd5WUoyUzlZX0FMRE9pNWN2NnZqQ2o2LXMxa2JPazhHQmpnVk8yMmhrR3pzd3VlVHJ0aHlSZkRsZmZCRUV1OFhfREg3Zl9JX3E2?oc=5",
@@ -898,6 +898,16 @@
     "category": "날씨",
     "publishedAt": "2026-08-22T07:00:00.000Z",
     "snippet": "날씨 예보 8월 22일 발표 2news.co.kr"
+  },
+  {
+    "id": "7c31157a8e5449bf",
+    "title": "날씨 예보 8월 22일 오후 발표 - 2news.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqZEJ6SzBqT0VnSjRBX0xiUy14clBYWHI4NFcycEtCZ1Z5SVU5N0NScWVDWVJXLWgyR1BnOVdWNUV2c2pXamYxSG9LRDJRaWQ1cHUtV3BWZTU3eE1rWks4WjhUdElLdDRu?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "snippet": "날씨 예보 8월 22일 오후 발표 2news.co.kr"
   },
   {
     "id": "d4a6e7df5bc0344e",

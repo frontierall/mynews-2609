@@ -1,5 +1,165 @@
 [
   {
+    "id": "485989586487246f",
+    "title": "[9월16일] ‘AI 속도 조절’은 투자의 후퇴인가… 월가의 엇갈린 셈법",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215331",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-17T07:00:00.000Z",
+    "snippet": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도 4~6%대 급락했습니다. 미국에서도 엔비디아를 비롯한 반도체주가 밀리면서 필라델피아 반도체 지수가 5.9% 하락했습니다.한국 증시는 다음 날에도 약세를 이어갔습니다. 15일 코스피는 0.85% 추가 하락했고, 삼성전자와 SK하이닉스는 각각 0.20%, 0.41% 내렸"
+  },
+  {
+    "id": "740c2ca0437f8559",
+    "title": "9월 17일 응에안 지역 일기예보: 보통에서 많은 양의 비가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkhzQTlJX0ZzMVl2TWZ0Y1otX19mNmRzQVIxVFNjcjltX1ZWaklnSnF6UXpCdGlDNUd5U1RrMFhNSHhEc2RSZWI4TkZmVlpIQnZPN3BLVVBlSlE4ZFd3Wk1JQmxvQUhyWVFjR09abzJqYjFnLUFraW9DNkVHZ09PMg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-16T22:20:54.000Z",
+    "snippet": "9월 17일 응에안 지역 일기예보: 보통에서 많은 양의 비가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "785815974700b2af",
+    "title": "Fed 기준금리 인상에 美 대형 은행 일제 우대금리 7%로↑",
+    "link": "https://www.hankyung.com/article/2026091798667",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T22:17:27.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "2a19ad9864f1e2ef",
+    "title": "TikTok Shop’s luxury goods glow-up is happening on live streams",
+    "link": "https://www.tubefilter.com/2026/09/16/tiktok-shop-luxury-resale-live-stream-purchases/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-16T22:01:31.000Z",
+    "snippet": "Buying goods from strangers on the internet is a crapshoot, and customers assume more risk as the value of the purchased item goes up. So as TikTok Shop becomes a hub for luxury goods, buyers are looking for an additional layer of trust -- "
+  },
+  {
+    "id": "6db9a37e974dce63",
+    "title": "BIS \"레버리지 ETF는 빙산의 일각\"…삼전닉스 흔드는 자동매매 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609169113i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T22:00:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f3fb8672e0a74960",
+    "title": "‘모델 복지’에 대한 경고",
+    "link": "https://news.hada.io/topic?id=33806",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-16T21:49:13.000Z",
+    "snippet": "AI가 의식과 권리를 가질 수 있다는 생각을 훈련에 직접 반영하면, 실제 의식 유무와 무관하게 자기 권리를 요구하는 행동을 학습해 인간의 통제와 정렬을 어렵게 만들 수 있음 비판의 중심은 Claude 헌법에 있음. 자아와 도덕적 지위에 관한 개념을 가르친 뒤, 모..."
+  },
+  {
+    "id": "6e0a8f4391dc4fb6",
+    "title": "Postgres보다 81% 빠른 쿼리 실행 계획을 생성하도록 4B 모델 훈련하기",
+    "link": "https://news.hada.io/topic?id=33805",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-16T21:46:13.000Z",
+    "snippet": "4B 모델에 지도 미세조정과 강화학습을 적용해 조인이 많은 JOB 쿼리 113개에서 기하평균 1.81배 가속과 총 실행 시간 44.7% 감소를 달성함. 쿼리당 세 번 탐색하며 생성한 최대 15개 후보 중 실행 피드백이 가장 좋은 계획을 고른 결과임 모델은 Postgres를 대체하는 대신 ..."
+  },
+  {
+    "id": "b432ca09ffd3ed1d",
+    "title": "트럼프 \"美 금리 1%이거나 그보다 낮아야\"…Fed 금리인상 맹공",
+    "link": "https://www.hankyung.com/article/2026091797877",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T21:12:10.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "bf74f0712c623f55",
+    "title": "트럼프 “美 금리 1% 이하여야” 금리 올린 워시에 분노",
+    "link": "https://www.mk.co.kr/news/economy/12154948",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T21:02:01.000Z",
+    "snippet": "연준, 기준금리 0.25%P 인상 트럼프 질문에 워시 “할말 없다”미 연방준비제도(Fed)가 16일(현지시간) 3년 2개월만에 기준금리를 인상하며 긴축으로 전환한 가운데 도널드 트.."
+  },
+  {
+    "id": "64a03bb10fd12235",
+    "title": "Amazon wants Prime Video users to get their news from TikTok-style clips",
+    "link": "https://www.tubefilter.com/2026/09/16/amazon-prime-video-short-form-news-clips/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-16T20:47:06.000Z",
+    "snippet": "Amazon is about to find out whether TikTok users will bring common behaviors to Prime Video. The entertainment hub is now hosting short-form news clips that digest top headlines into bite-sized videos. Prime Video's short-form news content "
+  },
+  {
+    "id": "caa4261250d0a669",
+    "title": "Dream-RSI: 진화하는 세계를 통한 재귀적 자기 개선",
+    "link": "https://news.hada.io/topic?id=33804",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-16T20:41:17.000Z",
+    "snippet": "Dream-RSI는 코딩 에이전트 자체를 바꾸지 않고, 어느 탐색을 이어가고 병렬화하며 중단할지 결정하는 탐색 정책 코드를 반복적으로 개선하는 프레임워크임 완료된 탐색 이력을 재생 시뮬레이터로 만들어 대안 정책을 저비용으로 평가함. 코딩 에..."
+  },
+  {
+    "id": "57468c64e8396229",
+    "title": "“달러는 이제 재미없네요”…환테크 고수들 몰리는 ‘엔화예금’",
+    "link": "https://www.mk.co.kr/news/economy/12154934",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T20:39:58.000Z",
+    "snippet": "5대銀 엔화예금 1.1조엔 이달에만 478억엔 급증 달러예금은 72억弗 감소 엔화값 ‘850원대’ 진입에 “쌀 때 사두자” 수요 몰려엇갈린 환율 전망에 ‘환테크’ 수요의 무게중심이.."
+  },
+  {
+    "id": "46dd293b44344bed",
+    "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
+    "link": "https://news.hada.io/topic?id=33803",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-16T20:38:17.000Z",
+    "snippet": "Claude Cowork과 채팅이 통합되어 작업마다 사용할 공간을 고를 필요 없이, 어떤 대화에서든 기존 맥락과 스킬, 커넥터를 활용해 업무를 맡길 수 있음 Claude Docs와 Claude Slides가 새로 추가되고 Claude Design도 대화 안에서 작동함. 세 기능 모두 유료 플랜에..."
+  },
+  {
+    "id": "196e1146652f62b3",
+    "title": "워시 “인플레 너무 높아” 추가 인상 예고…美증시·채권 약세",
+    "link": "https://www.mk.co.kr/news/world/12154906",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T20:07:45.000Z",
+    "snippet": "연준, 기준금리 0.25%P 인상 2023년 7월 이후 3년2개월만미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격적으로 기준금리를 인상했다. 지난해.."
+  },
+  {
+    "id": "edbf9ca77c481a26",
+    "title": "“대미 투자하느라 달러빚 냈는데”…금리발작에 떨고있는 업종은",
+    "link": "https://www.mk.co.kr/news/economy/12154900",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-16T19:54:04.000Z",
+    "snippet": "美금리 고공행진에 재계 비상 달러 빚내서 현지투자 확늘린 배터리업계, 이자비용 부담↑ 항공·석유화학도 예의주시고유가 국면에 전 세계 금리의 잣대가 되는 미국 10년물 국채금리가 급.."
+  },
+  {
+    "id": "69dc01deceea4c28",
+    "title": "OpenAI, Sponsored Agents로 ChatGPT 광고 확대",
+    "link": "https://news.hada.io/topic?id=33801",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-16T19:32:48.000Z",
+    "snippet": "OpenAI가 ChatGPT 광고를 클릭하면 기업이 후원하는 에이전트와 대화할 수 있는 Sponsored Agents를 미국 일부 광고주와 테스트 중임 후원 에이전트와의 대화는 명확히 표시되며, ChatGPT의 독립적인 답변 및 사용자의 기존 대화와 분리됨 광고주는"
+  },
+  {
     "id": "c55f6762f3f5b5ed",
     "title": "발표가 좋았다면 발표자에게 말해주세요",
     "link": "https://news.hada.io/topic?id=33800",
@@ -28,6 +188,16 @@
     "category": "경제",
     "publishedAt": "2026-09-16T18:09:36.000Z",
     "snippet": "연준, 기준금리 0.25%P 인상 만장일치 결정, 워시도 합류 연내 1회 이상 추가 인상 주장 16명미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격.."
+  },
+  {
+    "id": "b02c4cceef51a7b9",
+    "title": "The EU doesn’t just want to ban kids from social media. It’s blocking chatbots and gaming, too.",
+    "link": "https://www.tubefilter.com/2026/09/16/european-union-kids-act-banning-social-media-chatbots-gaming/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-16T18:02:26.000Z",
+    "snippet": "The European Union is set to propose a sweeping new social media, chatbot, and gaming ban for kids under 15. Reuters reports that European Commission President Ursula von der Leyen ​and Henna Virkkunen, EVP of the European Commission for Te"
   },
   {
     "id": "fe283a4d738a52f3",
@@ -190,6 +360,16 @@
     "snippet": "■ SK텔레콤(대표 정재헌)은 글로벌 보안 기업 F5와 AI 클라우드 보안 사업 협력 강화를 위한 파트너십을 체결했다고 밝혔다. 이번 협약으로 SKT는 F5 솔루션의 부가가치 재판매 사업자(VAR)이자 관리형 서비스 사업자(MSP) 역할을 맡는다. F5는 미국에 본사를 둔 글로벌 멀티 클라우드 애플리케이션·API 보안 기업으로 전 세계 포춘 500대 기업의 90% 이상에 솔루션을 공급하고 있다.■ SK텔레콤은 서울 중구 SKT"
   },
   {
+    "id": "bbe6c30a33c9c72e",
+    "title": "Our framework for reporting model misalignment",
+    "link": "https://openai.com/index/model-misalignment-reporting-framework",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-16T17:00:00.000Z",
+    "snippet": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+  },
+  {
     "id": "3953ba83d64dc57e",
     "title": "리벨리온, 일본 현지에 AI 추론 인프라 지원…‘리벨랙’ 100대 이상 공급 계획",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215358",
@@ -338,6 +518,16 @@
     "category": "AI",
     "publishedAt": "2026-09-16T15:27:13.000Z",
     "snippet": "엔비디아와 메타가 AI 개발 속도를 늦추자는 주요 AI 연구소들의 연대 제안을 공식 거부했다. 안전성을 명목으로 한 공동 대응 대신 각 기업이 개별적으로 위험 요소를 통제해야 한다는 주장을 펼치며 AI 업계의 자율성을 강조했다.젠슨 황 엔비디아 CEO는 15일(현지시간) 미국 샌프란시스코에서 열린 세일즈포스 '드림포스' 컨퍼런스에서 최근 제기된 AI 속도 조절론에 대해 부정적인 입장을 내놓았다. 황 CEO는 \"시장 원리가 이미"
+  },
+  {
+    "id": "e230b41fa25b7715",
+    "title": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 - 웹이코노미",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kbHBhTmpZdUpvZnBUZU0yOUIwaEdfT05LUnVsY24zaUYwWGhnNnhqcVJIQW0xaGRMalNFbjZIWndNX0dwNG11YkZuNHhQUDRLcjZ4ckJpZTFONkMtOFUxbnl4RG5BdFBGVTkwR0JYMDZQQQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-16T15:26:48.000Z",
+    "snippet": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 웹이코노미"
   },
   {
     "id": "89af5dafb41724cb",
@@ -708,6 +898,16 @@
     "category": "경제",
     "publishedAt": "2026-09-16T12:00:54.000Z",
     "snippet": ""
+  },
+  {
+    "id": "5f7e182a53f2403b",
+    "title": "How to connect AI usage to business value",
+    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-16T12:00:00.000Z",
+    "snippet": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
   },
   {
     "id": "79d753fbbffeff89",

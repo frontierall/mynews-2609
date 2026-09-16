@@ -40,6 +40,16 @@
     "snippet": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems."
   },
   {
+    "id": "415e50dd01a95503",
+    "title": "[Y르포] 국내 유일 오존 관측 ‘포항관측소’…대구·경북 날씨 예보 ‘전초기지’ - 영남일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95ODRQbmZkOW8tZFc0N1pKUEJkVDFKWUxaWEVBMmdPbnZPNFhneGtoZ0dHM25xQU9Oc2pLcFNINmlLT2hLajlrWFAyN3QwcThIcHc1Mk9WcDJmWFFTUG5WamNTTGN1bGFZdk84?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-04-28T07:00:00.000Z",
+    "snippet": "[Y르포] 국내 유일 오존 관측 ‘포항관측소’…대구·경북 날씨 예보 ‘전초기지’ 영남일보"
+  },
+  {
     "id": "368128e6f2812923",
     "title": "OpenAI models, Codex, and Managed Agents come to AWS",
     "link": "https://openai.com/index/openai-on-aws",
@@ -348,6 +358,16 @@
     "category": "AI",
     "publishedAt": "2026-04-13T06:00:00.000Z",
     "snippet": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
+  },
+  {
+    "id": "07f35dc51c8ce7ec",
+    "title": "[주간날씨 예보]주말 오늘날씨 서울 낮 17도...12일 전남남부·제주,13일 남해안 비 등 주간예보 - 퍼블릭타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hQXRRdm1FU0JpNmdPZXlha0pyRUdhRjVzakVFdUNCVXoxRFRhMUVqd2VXVnB1Q042LUhKXzE5SHJ3TldDX1lzTDdWdWdJcGZzVDdQNlloY0VtM2lFQmxzbUVmSkNZVlV3U3fSAW5BVV95cUxPYkc0UUVpVVpNb0VHVGNhdUt1TndHZG45TXh0dGt5VXBfc2MtMERZc25iM094WE8tbGdqVlpkVG1uTDFrT05HUG5BUGxuN2FTQi10M205Z24yLXpuLUREU1BIUHVhRmwzaUVPUFZjUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-04-11T07:00:00.000Z",
+    "snippet": "[주간날씨 예보]주말 오늘날씨 서울 낮 17도...12일 전남남부·제주,13일 남해안 비 등 주간예보 퍼블릭타임스"
   },
   {
     "id": "e781bd1ce513b721",

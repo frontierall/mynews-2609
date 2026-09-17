@@ -340,6 +340,16 @@
     "snippet": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
   },
   {
+    "id": "4db18c36eb926ee7",
+    "title": "경과원 '경기도 중소기업 ESG 경영 컨설팅 지원사업' 참여 기업 모집 - newspim.com",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XUzd0eTVfeEUtVzNZLVFkVnRIWjFJSGp0eDhMbDRXbXBDdEhRN2ZSMWRyYzFwMWx4ZnIwRmtjbjgxUGx1c2pTeG52WEh0bUpTWHNtU1htZ0F6anlM?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-04-15T07:00:00.000Z",
+    "snippet": "경과원 '경기도 중소기업 ESG 경영 컨설팅 지원사업' 참여 기업 모집 newspim.com"
+  },
+  {
     "id": "88ece0f5d540703f",
     "title": "Trusted access for the next era of cyber defense",
     "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
@@ -608,6 +618,16 @@
     "category": "AI",
     "publishedAt": "2026-04-10T00:00:00.000Z",
     "snippet": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution."
+  },
+  {
+    "id": "a018ae9534a7624b",
+    "title": "Prompting fundamentals",
+    "link": "https://openai.com/academy/prompting",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-04-10T00:00:00.000Z",
+    "snippet": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT."
   },
   {
     "id": "2b751387abefd5ba",

@@ -1,5 +1,15 @@
 [
   {
+    "id": "0154184517b9994f",
+    "title": "VidCon is leaving Anaheim to become a Cannes Lions offshoot",
+    "link": "https://www.tubefilter.com/2026/09/17/vidcon-anaheim-informa-cannes-lions-event/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-17T19:18:50.000Z",
+    "snippet": "Since 2012, VidCon has been an (almost) annual summertime fixture at the Anaheim Convention Center in Orange County. But that's about to change. Informa, the owner of the eminent creator convention, is taking VidCon out of Anaheim. Going fo"
+  },
+  {
     "id": "67b02df3aaeab160",
     "title": "게임 중 '멘붕' 온 아스트라...마인크래프트서 아이템 잃고 감자만 깼다",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215401",
@@ -28,6 +38,16 @@
     "category": "AI",
     "publishedAt": "2026-09-17T18:00:00.000Z",
     "snippet": "구글이 고난도 수학 연산과 심층 추론에 특화된 차세대 모델을 개발 중인 정황이 외부 유출을 통해 확인됐다. 16일(현지시간) AI 전문 매체 테스팅카탈로그에 따르면, 구글 내부에서 테스트 중인 미공개 모델 '딥씽크 V3 마세마티카(DeepThink V3 Mathematica)'의 백엔드 정보 및 사고 과정 스크린샷이 외부로 유출됐다.이 소식은 X의 AI 전문 계정인 라이라(lyraxana)의 게시물로 처음 공개됐다. 이 계정은"
+  },
+  {
+    "id": "022441872dba73b8",
+    "title": "Creators on Capitol Hill: Launching the Senate Creators Caucus",
+    "link": "https://blog.youtube/news-and-events/launching-senate-creators-caucus/",
+    "source": "YouTube 공식 블로그",
+    "sourceId": "youtube-blog",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-17T18:00:00.000Z",
+    "snippet": "YouTube Creators join the launch of the bipartisan Senate Creators Caucus, co-chaired by Senators Cory Booker and John Kennedy."
   },
   {
     "id": "5b6be819e54a336d",
@@ -90,6 +110,16 @@
     "snippet": "기존 대형언어모델(LLM)이 자연어를 생성하는 데 초점을 맞춰 발전해온 가운데, AI가 소프트웨어의 의사결정을 직접 수행하도록 설계한 새로운 접근법이 등장했다. 특히 속도와 비용, 안정성이 중요한 자동화 분야를 겨냥해 텍스트 생성 대신 구조화된 판단 자체를 출력하는 AI 모델이 공개됐다.'챗GPT'와 인간 피드백 기반 강화학습(RLHF) 개발에 참여했던 오픈AI 출신 디오고 알메이다는 15일(현지시간) 2년간 개발한 새로운 A"
   },
   {
+    "id": "ff953db03318a356",
+    "title": "security-audit - 코딩 에이전트를 보안 감사자로 바꿔주는 스킬",
+    "link": "https://news.hada.io/topic?id=33852",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-17T17:32:14.000Z",
+    "snippet": "코딩 에이전트를 보안 감사 도구로 전환하는 스킬로, 격리된 에이전트들을 조율해 코드베이스 정찰부터 취약점 탐색, 검증, 보고서 작성까지 수행함 커버리지 장부를 기준으로 탐색 작업을 배정하고, 발견한 에이전트와 별개의 검증 에이전트가 취약점 후보를 반증..."
+  },
+  {
     "id": "0902b6ce9dea0428",
     "title": "세일즈포스, '하네스' 최적화로 브라우저 작업 성공률 93% 달성",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215411",
@@ -98,6 +128,16 @@
     "category": "AI",
     "publishedAt": "2026-09-17T17:19:54.000Z",
     "snippet": "AI 에이전트의 성능을 높이기 위해 모델 자체를 재학습하거나 가중치를 수정하는 것이 아니라, 작업 수행 방식 자체를 최적화하는 것만으로도 복잡한 브라우저 작업의 성공률을 크게 끌어올릴 수 있다는 연구 결과가 나왔다. 세일즈포스는 이를 입증하기 위한 새로운 진화형 에이전트 최적화 프레임워크를 공개했다. 세일즈포스 AI 리서치와 에이전트포스(Agentforce)는 최근 AI 모델의 가중치를 직접 수정하지 않고도 에이전트의 브라우저"
+  },
+  {
+    "id": "23ea83c4fbe8445d",
+    "title": "[날씨예보] 25호 태풍 두쥐안 일본행…제주 최대 100㎜ 비 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14M011bUd1ODV2dS1DaUZPUFZrVXZRYmVJSWVsT3B0V0oyUjJZVHZJT2RLSTB1MkZjSUthSEtEMVdxcWtaX0NfYXJpTzZUUmRMVldHem1NS2ZzMEVLTEIyUERFd2tnT1NnRUlHMTRZbjjSAXRBVV95cUxPY3d0QmJmUUE2OTRSMF9uZ1E4OTBnSG5KZ2wwemRaS2x0RWp2WnVHN3FLdHRrM0xyVkVZellMeVJMOV9vV0pzektsa0hVeFVIWnMzc2VNOWJWdWVhSXdxX1JrTmduWV9jMEVLd2Z0NmF3TGxvSA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-17T17:18:24.000Z",
+    "snippet": "[날씨예보] 25호 태풍 두쥐안 일본행…제주 최대 100㎜ 비 thefairnews.co.kr"
   },
   {
     "id": "497ae5e4126c5aa4",
@@ -150,6 +190,16 @@
     "snippet": "모티프테크놀로지스가 ‘모티프 3(Motif 3)’ 모델의 무료 API를 한시적으로 공개한다. 모티프 3는 아티피셜 애널리시스 인텔리전스 인덱스(AAII) 에서 평균 점수 47점을 기록하며 국내 AI 모델로서 최고 성능을 입증한 모델이다.임정환 모티프테크놀로지스 대표는 오는 29일까지 AI 인프라 플랫폼 ‘인프론(Infron)’을 통해 ‘모티프 3’의 API를 무료로 제공한다고 밝혔다.이번 무료 API 제공이 종료된 이후에는 과"
   },
   {
+    "id": "06ba6e9ac5e411f8",
+    "title": "Show GN: JD 기반 자기소개서 첨삭 Codex Skill",
+    "link": "https://news.hada.io/topic?id=33851",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-17T16:54:42.000Z",
+    "snippet": "자기소개서 작성과 첨삭을 돕는 Codex Skill을 만들었어요. 채용공고/JD, 자소서 문항, 글자수 제한, 초안을 입력하면 문항의 의도와 JD를 분석해 제출용 자기소개서로 다듬어줘요. 단순히 문장을 자연스럽게 만드는 것보다 원문에 있는 경험과 어필 포인트를 최대한 보존하는 데 집중했어요. 없는 경험"
+  },
+  {
     "id": "423724c1189dc78e",
     "title": "VAN, 대격변 시대 속 AI 기술주권·노동대체 논의",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215418",
@@ -158,6 +208,16 @@
     "category": "AI",
     "publishedAt": "2026-09-17T16:45:00.000Z",
     "snippet": "청년 대학생 중심의 한국 대학 학회·학술 총연합체 VAN(Veritas Academiae Nexus)이 지난 12일 숙명여자대학교 눈꽃광장홀에서 ‘대격변의 시대, 혁신을 묻다’를 주제로 컨퍼런스를 개최했다. VAN은 서울대학교·연세대학교·고려대학교 학술연합체에서 출발해 전국 주요 대학으로 범위를 확대하고 있다. 진리(Veritas)·학술(Academiae)·연대(Nexus)라는 세 가지 가치를 바탕으로, 지속 가능한 청년 지성"
+  },
+  {
+    "id": "f447799bf638cfaf",
+    "title": "AI 안전은 대부분 섹스 컬트다",
+    "link": "https://news.hada.io/topic?id=33850",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-17T16:42:14.000Z",
+    "snippet": "SE Gyges의 비판적 논평으로, AI 안전 담론의 중심에 있는 Eliezer Yudkowsky와 합리주의 공동체의 인적 관계와 종말론적 믿음이 정책에 미치는 영향을 문제 삼음 초지능 등장, 통제 상실, 인류 멸망이라는 Yudkowsky의 구도가 AI 안전과 정렬 논의를 지배하며, 효..."
   },
   {
     "id": "ebf6310c391fc7c2",
@@ -260,6 +320,56 @@
     "snippet": "미국과 중국의 안보 전문가들이 자율형 AI의 오작동이나 오판으로 인한 치명적인 군사적 충돌을 막기 위해 핵무기급 안전장치를 도입해야 한다고 제안했다.로이터는 17일(현지시간) 미국 브루킹스 연구소의 멜라니 시슨 선임 연구원과 중국 푸단대학교의 톈자오 장 부교수 등 양국 안보 전문가들이 참여한 공동 권고안을 인용해 이같이 보도했다. 이번 권고안은 2019년부터 브루킹스 연구소와 칭화대학교 국제안보전략센터가 주최해 온 '미중 AI"
   },
   {
+    "id": "7b0436eb740c6e3f",
+    "title": "오픈웨이트AI 모델 주의보…암호화폐 해킹 1년새 440%급증",
+    "link": "https://www.hankyung.com/article/202609182447i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-17T15:52:19.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4fbaacac45d1636f",
+    "title": "CCC, 모든 모범 시민을 40C3에 초대하다",
+    "link": "https://news.hada.io/topic?id=33849",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-17T15:52:16.000Z",
+    "snippet": "Chaos Computer Club이 2026년 12월 27~30일 제40회 Chaos Communication Congress인 40C3를 개최하며, 강연과 예술, 음악 등 프로그램 참여자를 모집함 행사장을 함부르크 전시장으로 옮기면서 창의적인 아이디어를 펼칠 공간이 넓어졌으며, 참가..."
+  },
+  {
+    "id": "d982d74dd5830c71",
+    "title": "Fujitsu, 일본산 차세대 CPU FUJITSU-MONAKA 출시",
+    "link": "https://news.hada.io/topic?id=33848",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-17T15:52:15.000Z",
+    "snippet": "Fujitsu가 일본에서 설계하고 개발한 FUJITSU-MONAKA CPU와 이를 탑재한 일본산 서버를 발표하고, 2026년 11월부터 판매를 시작할 예정임 2nm 코어와 5nm 캐시/I/O를 결합한 3D 적층 구조를 사용하며, 최대 동작 주파수 3.8GHz와 메모리 전송 속도 8800MT/s를 지원..."
+  },
+  {
+    "id": "a023986c93cb767d",
+    "title": "이란 학교 폭격, 미국이 참사 배후라고 믿을 근거 있다고 유엔 판단",
+    "link": "https://news.hada.io/topic?id=33847",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-17T15:52:14.000Z",
+    "snippet": "유엔 독립 진상조사단은 2월 28일 이란 학교와 체육시설 공격에 대해, 미국이 무차별 공격에 따른 전쟁범죄를 저질렀다고 믿을 합리적 근거가 있다고 판단함 Minab의 Shajareh Tayyebeh 초등학교 공격으로 어린이 120명을 포함한 민간인 156명이 숨졌으며, 조사단은..."
+  },
+  {
+    "id": "26e151b75aa301a8",
+    "title": "캐나다, EU의 ‘준회원국’ 가입 제안 환영",
+    "link": "https://news.hada.io/topic?id=33846",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-17T15:42:14.000Z",
+    "snippet": "캐나다 총리 Mark Carney가 캐나다를 EU 최초의 준회원국으로 받아들이자는 제안을 환영하며 국방, 핵심 광물, 에너지 안보 분야의 협력 확대를 촉구함 준회원국 지위는 현재 EU에 없는 제도로, 구체적 형태가 불분명하고 도입에 수년이 걸릴 수 ..."
+  },
+  {
     "id": "f5b881cbc441455e",
     "title": "인민일보 “AI 증류는 중립적 기술”…미국 도용 주장에 상응 조치 경고",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215404",
@@ -268,6 +378,46 @@
     "category": "AI",
     "publishedAt": "2026-09-17T15:33:32.000Z",
     "snippet": "미국 정부가 중국 AI 기업들의 증류(Distillation) 기법 활용을 ‘악의적인 기술 도용’으로 규정하고 제재를 시도하자, 중국 관영 매체와 정부가 “정상적인 기술 관행”이라며 맞대응 조치를 예고했다. 중국공산당 기관지 인민일보는 16일 사설을 통해 미국의 주장이 법적·사실적 근거가 전혀 없는 정치적 억압에 불과하다며, 중국 기업의 합법적 권익이 침해되면 단호한 상응 조치에 나설 것이라고 밝혔다.이번 갈등은 지난 8일 8"
+  },
+  {
+    "id": "12846df3683f05e9",
+    "title": "Unicode 18.0.0",
+    "link": "https://news.hada.io/topic?id=33845",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-17T15:12:14.000Z",
+    "snippet": "Unicode 18.0 초안은 문자 13,007개를 추가해 총 172,808개를 수록하며, Proto-Cuneiform 숫자, Jurchen, Seal 문자 체계를 새로 지원함 줄바꿈과 자소 클러스터 분할 규칙이 바뀌며, 대시/하이픈 처리와 Balinese, Zanabazar Square, Bengali 텍스트의 분할 동작을..."
+  },
+  {
+    "id": "6ca9ec89d42d83cb",
+    "title": "아마존의 AI 전력 수혜주는 어디?…나이키는 다우지수 퇴출 위험 [박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202609172432i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-17T14:47:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f10860d63d44d5eb",
+    "title": "\"금리보다 유가\"…美 증시 하루만에 급반등, 나스닥 1.6%↑",
+    "link": "https://www.hankyung.com/article/202609172437i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-17T14:45:16.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "eff0090069f14f85",
+    "title": "재귀적 자기 개선을 향하여: GLM은 어떻게 자체 추론 인프라를 구축했는가",
+    "link": "https://news.hada.io/topic?id=33843",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-17T14:42:14.000Z",
+    "snippet": "GLM-5.3 기반 에이전트가 엔지니어들과 함께 중국산 AI 가속기 10만 개 이상에서 GLM-5.3-Flash를 서비스하는 추론 인프라를 구축함 초기 모델 적응부터 실서비스 준비까지 2주 미만이 걸렸으며, 메모리 최적화와 추론 단계 분리 등을 통해 초기 기준 대비 전체 처..."
   },
   {
     "id": "a041ee72900c5743",
@@ -280,6 +430,16 @@
     "snippet": "지니젠AI(대표 최선영)가 글로벌 AI 모델 중개 플랫폼 오픈라우터의 모델 426종을 분석, 한국어 품질 평가 결과를 담은 리더보드를 허깅페이스에 공개했다고 17일 밝혔다.오픈라우터는 앤트로픽, 구글, 오픈AI, xAI, 딥시크 등 다양한 AI 모델을 단일 API로 제공하는 플랫폼이다. 2026년 8월 기준 이용자 1000만명, 일 처리량 10조 토큰을 돌파했다.지니젠AI는 이 중 330종을 대상으로 높임말 정확도, 한국 제도"
   },
   {
+    "id": "0b37816e2c613ad5",
+    "title": "베트남 북부와 중부 지역에 폭우가 내렸다는 소식과 하노이의 10일간 날씨 예보입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWk13VGlTb2hFeDNkV1NoNkp5bFd2VFY2WjdPdS1scDlMaGJOOE5OT0h1WXdWd1hYLUFUNUFkdjFuOThxckh0SWlyYk04bUNOWXdKbFpSSUtFdDZPZ05RTC0zcjl0YVltUlkxcHBGeGVJOGtFSm9OejExcFNueDVsZF9qR2hibEtLUUNPTGlwdmVLSVEy?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-17T14:31:18.000Z",
+    "snippet": "베트남 북부와 중부 지역에 폭우가 내렸다는 소식과 하노이의 10일간 날씨 예보입니다. Vietnam.vn"
+  },
+  {
     "id": "49c9845a209110c4",
     "title": "\"외부 감사에 연구실 개방하라\"…오픈AI·앤트로픽, 내부 반발로 '몸살'",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215394",
@@ -288,6 +448,26 @@
     "category": "AI",
     "publishedAt": "2026-09-17T14:18:08.000Z",
     "snippet": "오픈AI와 앤트로픽 내에서 AI 안전망 강화를 위한 조치를 둘러싸고 경영진과 내부 연구진 간 갈등이 확대되는 양상이다.17일(현지시간) 파이낸셜타임스(FT)에 따르면, 오픈AI와 앤트로픽 최고 경영진이 모델 개발 속도 조절과 외부 감시 강화를 공식적으로 선언한 가운데, 내부에서는 기술 보안 유출과 연구 차질에 대한 우려가 거세지고 있다. 갈등은 외부 평가자에게 정규직 직원 수준의 출입증과 전용 노트북, 내부 시스템 접근 권한을"
+  },
+  {
+    "id": "7d45b4a07664ced9",
+    "title": "\"日, 3조엔 대미 투자금 반도체공장 건설 협의\"",
+    "link": "https://www.hankyung.com/article/2026091724141",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-17T13:54:12.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d82575723685c02e",
+    "title": "\"美日 5500억패키지 세번째 프로젝트는 반도체 공장 건설\" [닛케이]",
+    "link": "https://www.hankyung.com/article/202609172425i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-17T13:52:51.000Z",
+    "snippet": ""
   },
   {
     "id": "10fb6bcfb218a3ee",
@@ -358,6 +538,16 @@
     "category": "경제",
     "publishedAt": "2026-09-17T13:00:01.000Z",
     "snippet": ""
+  },
+  {
+    "id": "aa0d637eb1369ab2",
+    "title": "내일 9월 18일 전국 날씨 예보 - ko.laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWZMVVRPSktVOFZMallzMEhOZ1JaLXZsbThtTE1oT09Vem5ET1d4MHBHdktJdjF1a1dHcVh1VW04bU5aWUVtd3lSbGFxMTNJQ2F2SmxHU1hBZjk1dmh6WF9faV9OcVJvTWFxaS1ETGhMaURaVjl0OHhHQkstLWoyT0w1X29tUjdiMUtES0EwZXo?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-17T13:00:00.000Z",
+    "snippet": "내일 9월 18일 전국 날씨 예보 ko.laodong.vn"
   },
   {
     "id": "6b1c2000b8e0df9d",
@@ -808,6 +998,16 @@
     "category": "경제",
     "publishedAt": "2026-09-17T09:24:05.000Z",
     "snippet": ""
+  },
+  {
+    "id": "48c4ef0774967dcc",
+    "title": "“날씨의 조기경고”⋯기온 1도 떨어질 때 심정지 1.4% 증가 - 코메디닷컴",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZTWVwellpZlZjVXlRSTZ3OGZqU0V1LUhiUzBQN2hRaWNIcnZ4M3NsSFhRSFFXbmVwWl8tdzRKa29RZw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-17T09:24:00.000Z",
+    "snippet": "“날씨의 조기경고”⋯기온 1도 떨어질 때 심정지 1.4% 증가 코메디닷컴"
   },
   {
     "id": "c44b9d4343e48279",
@@ -25600,6 +25800,26 @@
     "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “8일, 오늘~모레 동해안 중심 가끔 비” 한국강사신문"
   },
   {
+    "id": "9f005a8f784f4a9a",
+    "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRd1FmZlBZa0thUmJuRlU5d0lwWnppcnR5OGdPdmJCYzJPekJoTEpDaExMMU5TRzJTTVU3anZRMExlbzZONVE?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-08T07:00:00.000Z",
+    "snippet": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 v.daum.net"
+  },
+  {
+    "id": "bb0171c949f77b91",
+    "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbmlLN2RWdjRPaTMtR2hyRGthNUt5ZnRMVkNXbm9MTERyel9GRVZ0NnNxaGYxaVVPUy12XzRXZFFjRXRmS2ROaC1TV21OWDdyNXplcGlqRXdpTkHSAWBBVV95cUxNRlVhVlJoYTlrUFhGZG05YWFoaHJrY1ZibFBySUlnQWhkOEd5dlREam04TklJS0dkZk94eUgyLUxSQmpneHVXVlozWkhLZEVaWTBGdXh3LU94Z1FYSTAyajE?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-08T07:00:00.000Z",
+    "snippet": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 연합뉴스"
+  },
+  {
     "id": "ad96aa9b02493ffb",
     "title": "“6인치 넘어 12인치로”…삼성·ASML, 차세대 반도체 개발 ‘맞손’",
     "link": "https://www.mk.co.kr/news/economy/12147145",
@@ -26670,16 +26890,6 @@
     "snippet": ""
   },
   {
-    "id": "9f005a8f784f4a9a",
-    "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRd1FmZlBZa0thUmJuRlU5d0lwWnppcnR5OGdPdmJCYzJPekJoTEpDaExMMU5TRzJTTVU3anZRMExlbzZONVE?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-08T00:05:50.000Z",
-    "snippet": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 v.daum.net"
-  },
-  {
     "id": "b15175231db07a51",
     "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CQTdQbjRyZXhyZUtJb3NNeHFicDF6c3lBblpWTmdIcVdzbVY0UTNIWG9CaVpyNXZYOGVneGpKQjdPOTE4cXJ6aFlvQ2loMHNNY1czUQ?oc=5",
@@ -26713,16 +26923,6 @@
     "id": "7632f003c6d92fcb",
     "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - 연합뉴스",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMdIBYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMQ?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-08T00:04:23.000Z",
-    "snippet": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 연합뉴스"
-  },
-  {
-    "id": "bb0171c949f77b91",
-    "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbmlLN2RWdjRPaTMtR2hyRGthNUt5ZnRMVkNXbm9MTERyel9GRVZ0NnNxaGYxaVVPUy12XzRXZFFjRXRmS2ROaC1TV21OWDdyNXplcGlqRXdpTkHSAWBBVV95cUxNRlVhVlJoYTlrUFhGZG05YWFoaHJrY1ZibFBySUlnQWhkOEd5dlREam04TklJS0dkZk94eUgyLUxSQmpneHVXVlozWkhLZEVaWTBGdXh3LU94Z1FYSTAyajE?oc=5",
     "source": "정부지원정책",
     "sourceId": "gov-support",
     "category": "정부지원정책",

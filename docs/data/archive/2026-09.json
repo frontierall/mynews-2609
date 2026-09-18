@@ -1,5 +1,205 @@
 [
   {
+    "id": "b0922831a0f08467",
+    "title": "[9월18일] AI가 다음 AI에게 지시를 남겼다…오픈AI서 드러난 ‘셀프 프롬프트 인젝션’",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215440",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-19T06:45:00.000Z",
+    "snippet": "오픈AI가 16일(현지시간) AI 모델이 예상하지 못한 방식으로 행동한 사례 6건을 공개했습니다. 동시에 앞으로 이런 ‘오정렬(misalignment)’ 사례를 더 체계적으로 추적하고 공개하기 위한 별도 보고 체계도 마련했습니다.6건 가운데 특히 눈에 띄는 것은 AI가 자신의 작업을 다음 AI에게 넘기는 과정에서 나타난 사례입니다. 오픈AI는 장시간 작업을 이어가는 과정에서 한 모델이 작업 내용을 요약한 ‘임무 요약(task "
+  },
+  {
+    "id": "69de1efd850bdaf7",
+    "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215477",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-19T06:16:26.000Z",
+    "snippet": "독립 보안 연구진이 앤트로픽의 '클로드'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hacktron AI) 소속 연구진 3명이 앤트로픽의 클로드를 이용해 오픈AI의 내부 소프트웨어 시스템에 침입했다고 보도했다.이번 공격은 지난 7월23일 오픈AI의 커뮤니티 토론 포럼을 호스팅하는 제3자 서비스 디스커스(Discourse)"
+  },
+  {
+    "id": "8475bb2a4218ee56",
+    "title": "Minimal Phone 2",
+    "link": "https://news.hada.io/topic?id=33916",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T23:42:20.000Z",
+    "snippet": "Minimal Phone 2는 물리 키보드와 Android 기반 Minimal OS를 결합한 소형 스마트폰으로, 앱 접근을 유지하면서 알림과 화면 사용을 줄이는 데 초점을 맞춤 화면은 E Ink가 아닌 4인치 AMOLED이며, 터치 입력을 지원하는 백라이트 키보드는 출시 시 한국어 두벌식을..."
+  },
+  {
+    "id": "32fbbdccc975875b",
+    "title": "RAM 100TB 추가 절감",
+    "link": "https://news.hada.io/topic?id=33915",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T23:42:19.000Z",
+    "snippet": "Cloudflare가 내부 부하 분산 서비스 Pingora Backend Router(PBR) 의 일관된 해싱 구현을 최적화해 전 세계에서 100TB 이상의 RAM을 회수함 서버별 부하를 고르게 나누기 위한 해시, 저장 용량에 따른 가중치, 기능 조합별 별도 링이 겹치면서 해시 저장 ..."
+  },
+  {
+    "id": "8d98b79832c91419",
+    "title": "[오늘 전국 날씨예보] 기상청 날씨누리, “19일, 당분간 낮과 밤의 기온차 큼” - 한국강사신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PZlVlRHNIdnplYUZuUGVVNGhqYTI2dW5tUnpxVDRqT3FkalF3QTI5b1VaanRKUVQ2Sks0MEVnV0syUzk4dTNfbGtLeTBpNzRadTdPNTEzcXlpcHk3MGZ5MVhvYVdDVm1nNzVlSDUwNEs?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-18T23:36:48.000Z",
+    "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “19일, 당분간 낮과 밤의 기온차 큼” 한국강사신문"
+  },
+  {
+    "id": "9b5a2bbb2e25016f",
+    "title": "국경 요원, 영장이나 합리적 의심 없이 휴대전화 수색 가능",
+    "link": "https://news.hada.io/topic?id=33914",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T23:02:19.000Z",
+    "snippet": "미국 제2연방항소법원이 국경에서 여행자의 휴대전화 내용을 수동으로 살펴보는 수색에는 영장이나 합리적 의심이 필요하지 않다고 판결함 재판부는 휴대전화를 짐과 같은 소지품으로 보고, 국경에서 이루어지는 통상적 수색에는 별도의 의심이 필요하지 않다는 기..."
+  },
+  {
+    "id": "4eda47c6ab3f77d9",
+    "title": "[표지로 읽는 과학] AI로 열대저기압 진로·크기·강도 동시 예측 - DongA Science",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ya2N6dXNqRlRqVGNxMkhLWVo4RHJuUTFxMVRLejRWS3FnVGlSM3BrVHRjRlg5LXVDdUJCVFNYRUtVdGNjV3dCS3R4N1pXaTFTeV9XMQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-18T23:00:00.000Z",
+    "snippet": "[표지로 읽는 과학] AI로 열대저기압 진로·크기·강도 동시 예측 DongA Science"
+  },
+  {
+    "id": "70669d7c7f907f52",
+    "title": "Claude Code, 이제 CLAUDE.md가 없으면 AGENTS.md를 읽음",
+    "link": "https://news.hada.io/topic?id=33913",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T22:52:19.000Z",
+    "snippet": "프로젝트에 CLAUDE.md가 없으면 AGENTS.md를 대신 읽는 기능이 추가됨 해당 동작은 /config의 “Project instructions”에서 변경할 수 있으며, Bedrock, Vertex, Foundry에서는 아직 지원하지 않음 비대..."
+  },
+  {
+    "id": "6444332019ff9911",
+    "title": "Have you heard? It’s science time, college football on YouTube, and “copium” for the dictionary.",
+    "link": "https://www.tubefilter.com/2026/09/18/have-you-heard-50-50-b1g-football-copium-merriam-webster/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-18T22:09:29.000Z",
+    "snippet": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, a major science activation launched, YouTube is ready for some football, and some"
+  },
+  {
+    "id": "2d90a3c0afa78e78",
+    "title": "AI 덕에 한국 대박 났는데…\"이미 위험한 단계\" 섬뜩한 경고 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609184079i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-18T22:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "36098092bb93e3c3",
+    "title": "날씨 예보 9월 19일 - 2news.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qMFk0ck1oUnNLNUlHMjN1Tkx3ZkJ2amRQWWFvREZUMHlKZUdkQ0hqOW51a0NRZ0JxZVRtaHhTMGpXbkJFaGthMTJyMUZua2ZFckd1VWl0NXp4ZDRzc0k2UU8wNVNZTHA1?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-18T21:45:52.000Z",
+    "snippet": "날씨 예보 9월 19일 2news.co.kr"
+  },
+  {
+    "id": "9b62bb3f755a0725",
+    "title": "북한 핵실험이 수년간 이어지는 지진을 촉발함",
+    "link": "https://news.hada.io/topic?id=33912",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T21:42:20.000Z",
+    "snippet": "2017년 북한의 최대 규모 핵실험 이후 풍계리 주변의 지진 활동이 줄지 않고 2025년까지 증가했으며, 일부 지진은 실험장에서 20~30km 떨어진 곳에서도 발생함 중국과 한국에서 수집한 지진 기록을 분석해 지진 1,399건을 찾아냈으며, 대부분 규모 2 미만이지만 발..."
+  },
+  {
+    "id": "10727dd7269a279b",
+    "title": "한국, 개인정보 유출 과징금 상한을 매출의 10%로 인상",
+    "link": "https://news.hada.io/topic?id=33911",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T21:42:19.000Z",
+    "snippet": "개정 개인정보보호법에 따라 고의나 중대한 과실로 1,000만 명 이상의 개인정보를 유출한 기업에는 전체 매출의 최대 10% 과징금을 부과할 수 있으며, 기존 상한은 3%였음 유출이 확정되지 않아도 개인정보 노출 가능성이 높다고 판단하면 72시간 이내 이용..."
+  },
+  {
+    "id": "11a49353da2c8f6c",
+    "title": "Android 17, 3.x 이후 처음으로 AOSP에 공개하지 않고 새 API 추가",
+    "link": "https://news.hada.io/topic?id=33910",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T21:02:18.000Z",
+    "snippet": "Android 17 QPR1에 추가된 표준 Android API가 현재 Pixel에만 제공되며, AOSP와 다른 제조사에는 2026년 12월 QPR2를 통해 공개될 예정임 GrapheneOS에 따르면 Pixel 외 기기에도 필요한 표준 Android 플랫폼 보안 패치 일부가 일반 보안 공지와 사전 제공 패치에..."
+  },
+  {
+    "id": "c72a7614d17c98b8",
+    "title": "'뽀통령' 얼굴에 테이프 붙인 이유가…1000억 쓰고 '충격'",
+    "link": "https://www.hankyung.com/article/2026091844221",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-18T21:00:12.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7d2bfdffe7c50c23",
+    "title": "\"70만원 받던 배우였습니다\"…10년 뒤 그 무대가 바뀌었다 [권용훈의 직업불만족(族)]",
+    "link": "https://www.hankyung.com/article/202609078130i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-18T21:00:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "71c81598cd6bbee0",
+    "title": "생각을 멈추는 방식이 통하는 시점은 오지 않음",
+    "link": "https://news.hada.io/topic?id=33909",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T20:52:20.000Z",
+    "snippet": "LLM의 결과를 검증 없이 받아들이거나 오류 수정을 다시 맡기기만 하는 방식은 모델이 발전해도 직원에게 유효한 전략이 되지 못함 지금은 이런 방식으로 만든 소프트웨어에 심각한 문제가 남고, 미래에 LLM이 혼자 훌륭한 소프트웨어를 만들게 된다면 기업은 중간에서 요청..."
+  },
+  {
+    "id": "50320a4653c003d1",
+    "title": "Conway의 추측을 바이브 코딩으로 증명해 봤다",
+    "link": "https://news.hada.io/topic?id=33908",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T20:52:18.000Z",
+    "snippet": "수학 비전문가가 약 한 달간 AI 에이전트와 Lean을 활용해 50년 된 Conway의 세분화 추측에 대한 형식 증명을 얻음. 기계적 검사는 통과했지만, 수학자들의 독립 검증은 아직 받지 않음 AI에게 한 번에 증명을 맡기거나 여러 에이전트가 서로 검토하게 하는 것만으..."
+  },
+  {
+    "id": "7bd68505a113b0cc",
+    "title": "“나라안에서 해결되는데 왜 무역합니까” … 천재경제학자의 답변이",
+    "link": "https://www.mk.co.kr/news/economy/12156559",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-18T20:40:00.000Z",
+    "snippet": "⑬특화와 무역이 만드는 이익■ 애덤 스미스의 통찰: 특화와 분업의 이익 1776년 애덤 스미스는 영국 스코틀랜드의 한 작은 핀 공장을 관찰하며 전율을 느꼈습니다. 혼자서 머리부터 .."
+  },
+  {
+    "id": "4d43b00bb02145c1",
+    "title": "Oh Canada! YouTube’s nine-project creator programming slate takes it north of the border.",
+    "link": "https://www.tubefilter.com/2026/09/18/youtube-canada-toronto-international-film-festival-tiff-creator-slate/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-18T20:26:53.000Z",
+    "snippet": "YouTube didn't just use the Toronto International Film Festival (TIFF) to premiere new projects helmed by creators. It also announced a fresh slate of original programs that will open up new opportunities for Canadian creators (and one subw"
+  },
+  {
     "id": "5ffe0b115c35c823",
     "title": "기뢰 한 발에 국제유가 ‘출렁’ … 열린듯 닫힌 호르무즈의 역설",
     "link": "https://www.mk.co.kr/news/economy/12156610",
@@ -408,6 +608,16 @@
     "category": "AI",
     "publishedAt": "2026-09-18T14:00:15.000Z",
     "snippet": "AI 생성 영상전남광주통합특별시가 추석 성수기 축산물 수요에 대응하기 위해 도축장 운영시간을 늘리고 식육 안전성 검사를 강화한다.전남광주 동물위생시험소는 도축장 개장 시간을 새벽 5시로 앞당기고 작업 종료 시간도 연장해 운영한다고 18일 밝혔다.추석 연휴 전 주말에도 도축장 요청에 따라 운영을 지원해 축산물 공급에 차질이 없도록 할 계획이다.공급 확대와 함께 도축 단계 안전성 검사도 병행한다. 도축검사관은 도축장에서 가축의 건"
+  },
+  {
+    "id": "3e9e25d408939b6b",
+    "title": "오늘 밤과 내일(2026년 9월 19일) 날씨 예보: 북부 지역에는 천둥번개가, 남부 지역에는 폭우 또는 매우 심한 비가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemQ3MTJPdjFld0lCN1VEbUpNZ3pfRWV3VnVmWWROV3V1Wnd6UnF0LWJqVXNBWHFIUzBCU0J5cjlzRDNwUVRMSk51cGxOVEI4UmpxMXhyMDBQZlRWQVVHMFVYV0FOcE1mTGphMVRYRmFfSFZsX1ZnOUF1R0lkZklBaGxqclVSX0ZDZXpha3pFdk9LQzlwcXVGUnpJZnRoUTh1cnZOQnppUFJnZ1dSTFdPZlFtNFA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-18T13:49:42.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 19일) 날씨 예보: 북부 지역에는 천둥번개가, 남부 지역에는 폭우 또는 매우 심한 비가 예상됩니다. Vietnam.vn"
   },
   {
     "id": "e0ac7d9375ae349d",
@@ -1518,6 +1728,16 @@
     "category": "경제",
     "publishedAt": "2026-09-18T01:36:46.000Z",
     "snippet": "현행 LTV 60% 초과 가중치 2배 적용 고가·고LTV 주담대 위험가중치 상향 부동산침체기 대비 은행 건전성 강화금융당국이 주택가격이 25억원을 넘으면서 담보인정비율(LTV) 4.."
+  },
+  {
+    "id": "36049281ffe3dd71",
+    "title": "aT, 9월 30일까지 ‘연말·연초 해외판촉 지원’ 참여기업 모집 - 한국농어민신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13blhIMXFlQVdSakxDb1I4dzlMNExmRXlIdXBYQ1pMV1cwTmk4blBSRy0weWx3RGxDdlJ2bXFxQ1lma21zbnpkYUdmY0l1ZjNTZVhhemxMeDJ1YjV0Ty1tTFY1a2FkSXBvbFNmOA?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-18T01:34:43.000Z",
+    "snippet": "aT, 9월 30일까지 ‘연말·연초 해외판촉 지원’ 참여기업 모집 한국농어민신문"
   },
   {
     "id": "7b9ad05aa1f5b98f",
@@ -5898,6 +6118,16 @@
     "category": "AI",
     "publishedAt": "2026-09-16T12:00:00.000Z",
     "snippet": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+  },
+  {
+    "id": "973a91148c502943",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "link": "https://openai.com/index/hex-gpt-6-astra",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-16T12:00:00.000Z",
+    "snippet": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
   },
   {
     "id": "79d753fbbffeff89",
@@ -31936,7 +32166,7 @@
     "source": "정부지원정책",
     "sourceId": "gov-support",
     "category": "정부지원정책",
-    "publishedAt": "2026-09-07T01:30:00.000Z",
+    "publishedAt": "2026-09-07T01:30:52.000Z",
     "snippet": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 v.daum.net"
   },
   {

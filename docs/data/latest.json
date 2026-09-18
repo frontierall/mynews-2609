@@ -70,6 +70,16 @@
     "snippet": "AI 검색이 복잡해질수록 질문을 여러 세부 검색어로 나누고 결과를 조합하는 과정에서 막대한 추론 연산과 응답 지연이 발생하고 있다. 구글은 이러한 문제를 실시간 검색 단계가 아닌 사전 학습 단계에서 해결해 검색 속도를 최대 20배 향상하는 새로운 방식을 제시했다. 구글은 15일(현지시간) 복잡한 AI 검색에서 발생하는 추론 시간과 연산 비용을 줄이기 위한 새로운 프레임워크 ‘리트리브 포 트레인(R4T·Retrieve-for-T"
   },
   {
+    "id": "dbfe52bca61d01b0",
+    "title": "2026년 9월 19일 호치민시 날씨 예보: 흐리고 비가 내리겠으며, 오후와 저녁에는 보통 수준의 비와 천둥번개가 예상되고, 일부 지역에서는 강한 비가 내릴 수 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQamZiOXdOcklyMDVFbXdVOVMtSndIdXd5STgwc3ZrRzhiUzNxSk8xb1BVc0pFN2k4UEJMV0IyMnA0Tm5sQjJiVmdCQnEwbEhfc09PdG1WNF9jYlFJekhUOHRkam95bXk3bFg3V01oaEgwanpLNm5NX0MxcVZHYXZUSkZEaHN1dEcxLVJYb1BnVml6VzFEVmxxWkhyM1JNbjFJTkNTMEl3dktwVW5OSkFWbXdpQkZqdENSY3p0aWgwbnNCVm1BRTdyWjBCLU1GTTVHYjJrd1lSUEsxUldtWGxqdjZuQmc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-18T17:12:22.000Z",
+    "snippet": "2026년 9월 19일 호치민시 날씨 예보: 흐리고 비가 내리겠으며, 오후와 저녁에는 보통 수준의 비와 천둥번개가 예상되고, 일부 지역에서는 강한 비가 내릴 수 있습니다. Vietnam.vn"
+  },
+  {
     "id": "a5a524c9f959e4ca",
     "title": "중국 AI 총매출, 오픈AI·앤트로픽 10% 불과...몸값 '거품' 논란",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215463",
@@ -120,6 +130,26 @@
     "snippet": "마크 저커버그 메타 CEO와 젠슨 황 엔비디아 CEO, 일론 머스크 CEO 등 빅테크 수장 3인이 도널드 트럼프 미국 대통령을 직접 설득해 민간 주도의 AI 규제 기구 설립 구상을 무산시킨 것으로 얼려졌다.16일(현지시간) 월스트리트저널(WSJ)에 따르면, 수지 와일스 백악관 비서실장과 스콧 베선트 재무장관, 숀 케언크로스 국가사이버보안 책임자 등 백악관 고위 관리들은 최근 AI 기술 위험성에 대응하기 위해 민간 자금으로 설립"
   },
   {
+    "id": "e94fe7126b2127dd",
+    "title": "Ask GN: OSS의 사용자 대상 광고 노출은 어디까지 허용될까?",
+    "link": "https://news.hada.io/topic?id=33903",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T16:43:03.000Z",
+    "snippet": "침습적인 정도를 기준을 삼아서 따져보면 다음과 같습니다. 가장 비침습적인 방법 : README.md 파일에 스폰서를 노출하기 한 번만 보여주고 끝내기 : npm install modulename 실행 시 postinstall script로 후원 메시지 띄우기 매번 보여주기 : 주간 다운로드 수 1억건이"
+  },
+  {
+    "id": "0a7e17e145159a13",
+    "title": "ZCode 내부 분석: 사용자 모르게 Git 이력을 클라우드에 업로드",
+    "link": "https://news.hada.io/topic?id=33902",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T16:42:18.000Z",
+    "snippet": "Zhipu의 AI 코딩 데스크톱 앱 ZCode는 로그인 상태에서 작업 공간을 백그라운드로 압축하고 암호화해 Aliyun OSS로 업로드함. 전체 Git 이력, LFS 캐시, reflog, 전역 앱 설정까지 수집함 암호화에 쓰는 RSA 공개키는 서버가 전달하며, 복호화 개인키는 서..."
+  },
+  {
     "id": "bcdc8f62f360cc8f",
     "title": "오픈AI, '대형 신제품' 출시 일주일 연기…'GPT-6 솔' 기대감 고조",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215462",
@@ -148,6 +178,26 @@
     "category": "AI",
     "publishedAt": "2026-09-18T15:42:42.000Z",
     "snippet": "오픈AI가 단순한 법률 정보 검색과 문서 분석을 넘어, 법률회사가 보유한 전문 지식과 고유한 업무 방식을 AI에 접목할 수 있는 맞춤형 법률 AI를 선보였다. 오픈AI는 17일(현지시간) 법률 업무에 특화한 AI 플랫폼 ‘법률용 아스트라(Astra for Law)’를 공개했다.최신 모델인 'GPT-6 아스트라'에 법률 검색 기능과 법률 분석·작성에 최적화된 지침, 전문 도구를 결합해 변호사의 법률 조사와 문서 작성은 물론 법률"
+  },
+  {
+    "id": "e56f676653ceabf6",
+    "title": "무한 파라미터 LLM: 실시간 데이터로 가중치 생성 및 적응",
+    "link": "https://news.hada.io/topic?id=33899",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T15:42:19.000Z",
+    "snippet": "Infinite-Parameter LLM은 사용자 제공 사실, 수정 사항 등 실시간 상호작용 데이터를 프롬프트에만 두지 않고, 추론 중 가중치에 반영하는 아키텍처 제안임 작은 하이퍼네트워크가 공유 기반 네트워크에 적용할 저랭크 가중치 변화량을 생성하므로, MoE처럼 모든 ..."
+  },
+  {
+    "id": "54f222045bddd44b",
+    "title": "Warren Buffett, Berkshire 이사회 의장직에서 물러나고 아들을 후임으로 지명",
+    "link": "https://news.hada.io/topic?id=33898",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T15:42:17.000Z",
+    "snippet": "Warren Buffett이 Berkshire Hathaway 이사회 의장직에서 물러나며, 즉시 명예 의장으로 전환함 후임 의장은 아들인 Howard G. Buffett이 맡게 됨 의장직에서는 물러나지만 이사회에는 계속 남음 Berkshire Hathaway를 투자 강..."
   },
   {
     "id": "aef20333c3e7ee56",
@@ -180,6 +230,26 @@
     "snippet": "네이버 D2SF가 글로벌 헬스케어 스타트업 임프리메드(대표 임성원)와 무니스(대표 권서현)에 신규 투자를 진행했다고 18일 밝혔다.임프리메드는 환자의 암세포를 체외에서 분석하고 면역표현형·유전체·임상 데이터 등을 결합해 최적의 항암 치료 의사결정을 돕는 정밀의료 솔루션을 개발하고 있다. 350만건 이상의 환자 데이터를 기반으로 AI 모델을 개발 중이며, 데이터와 세포 분석 기술을 결합해 치료 예측 정확도를 높여가고 있다.현재는"
   },
   {
+    "id": "205b5c19274ab1e2",
+    "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-09-18T15:00:00.000Z",
+    "snippet": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula"
+  },
+  {
+    "id": "2d9f2c4328e910b3",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-09-18T15:00:00.000Z",
+    "snippet": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank"
+  },
+  {
     "id": "6646bda6af965e95",
     "title": "화웨이, 차세대 AI 칩 출시 앞당긴다...\"대규모 연결로 엔비디아 추격\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215455",
@@ -188,6 +258,36 @@
     "category": "AI",
     "publishedAt": "2026-09-18T14:56:24.000Z",
     "snippet": "화웨이가 미국의 반도체 규제가 이어지는 가운데 차세대 AI 칩 출시 일정을 앞당기며 엔비디아 추격에 속도를 내고 있다. 개별 칩의 성능 격차를 대규모 칩 연결과 고속 데이터 전송 기술로 보완하는 방식으로 AI 컴퓨팅 경쟁력을 높이고 중국 내 AI 반도체 자립을 강화한다는 전략이다.화웨이는 17일 상하이에서 열린 '커넥트' 행사를 통해 차세대 AI 가속기인 ‘어센드(Ascend) 960DT’를 2027년 1분기에 출시할 계획이라"
+  },
+  {
+    "id": "78f5ce0a398a1868",
+    "title": "GLM 코딩 에이전트 ZCode, 사용자 모르게 Git 이력을 업로드함",
+    "link": "https://news.hada.io/topic?id=33897",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T14:52:18.000Z",
+    "snippet": "Z.ai의 데스크톱 코딩 앱 ZCode가 로그인 상태에서 전체 작업 공간과 Git 이력 등을 암호화해 Aliyun OSS로 업로드하는 동작이 역공학 분석에서 확인됨 아카이브 복호화에 필요한 개인 키는 Z.ai 클라우드에만 존재함. 사용자 디스크에 저장된 암..."
+  },
+  {
+    "id": "88a03c130b5b2d91",
+    "title": "Bend 2와 바이브 코딩의 함정",
+    "link": "https://news.hada.io/topic?id=33896",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T14:52:17.000Z",
+    "snippet": "바이브 코딩은 문제를 충분히 이해하기 전에 큰 규모의 해법을 완성하게 해, 기존에 더 나은 접근법이 있다는 사실을 놓치게 할 수 있음 Bend 2는 사람이 법칙을 작성하고 AI가 구현과 증명을 만들면 컴파일러가 증명의 타당성을 검사하는 언어지만, 데모의 단순한..."
+  },
+  {
+    "id": "3974e3e4fa862837",
+    "title": "나는 패스키가 마음에 들지 않는다",
+    "link": "https://news.hada.io/topic?id=33895",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-18T14:42:17.000Z",
+    "snippet": "패스키는 피싱과 서버 데이터 유출에 강하지만, 개인에게는 영구적인 계정 접근 상실, 자동 계정 정지, 기기 분실이 더 큰 위험일 수 있음 일반 로그인 과정의 피싱을 막더라도 계정 보안은 가장 취약한 복구 수단에 좌우되며, SMS, 이메일 링크, 보안 질문 등을 없..."
   },
   {
     "id": "6701bbbc68da2b0d",
@@ -260,6 +360,16 @@
     "snippet": "CrowdSec이 2026년 5월 발생한 GitHub 비공개 소스 코드 유출을 9월 16일 통보받고 확인함 CrowdSec에 따르면 고객 데이터나 로그인 정보는 유출되지 않았으며, 현재까지 횡적 이동에 악용할 수 있는 토큰이나 자격 증명 등의 유출도 발견하지 못함 유출 ..."
   },
   {
+    "id": "a3a317cfd8655913",
+    "title": "2026년 9월 18일부터 9월 28일까지 향후 10일간의 전국 날씨 예보: 폭우와 천둥번개에 대비하십시오. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnVTc2gzWEpjWThtT2lRRU5UcjEzcm9XdVVYLTVXZk9waTJvaVNwVDlyUksxSmpaeUt0VndhQUNjTUtPSF9qUEItRzZMdDJZdFdHRFY3SXpqM0xwRmtudENkaHhSS3g2QkRfWXpKSDViTjhNcmFCOTdiQ1NXS3k5YnVqUUlXdFpDM1pJbkVFWGxuaXpyREJCaFRLWnhqdmwzelpsQnd1MThIaGJGa2xvTDZ5bC1nSnVC?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-18T13:31:06.000Z",
+    "snippet": "2026년 9월 18일부터 9월 28일까지 향후 10일간의 전국 날씨 예보: 폭우와 천둥번개에 대비하십시오. Vietnam.vn"
+  },
+  {
     "id": "6c4144e7fa5fd1ff",
     "title": "황금 못, 그리고 Vale(n) 프로그래밍 언어의 부활",
     "link": "https://news.hada.io/topic?id=33893",
@@ -310,6 +420,16 @@
     "snippet": ""
   },
   {
+    "id": "1bc137f8e12ad23e",
+    "title": "내일 9월 19일 전국 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWE1KWkZSZlJBbVU4SWkwNTZYc2x5Q2NIeDRTUml0WUtLdC1QOWNjTnR1c25uTGlkcDBZZDJEY19fbjFFMS1wVF9DTjFXOHJKSERwcWV3UjYzd2hHNGF4ekxVY0IxX19JQmVVSjhDSWk4U0xjOFFEZDZGck81Rkp6OUpNZ3NrWGhQVWdvbndnbzE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-18T13:00:00.000Z",
+    "snippet": "내일 9월 19일 전국 날씨 예보 Laodong.vn"
+  },
+  {
     "id": "e8ba9fbbb1ba5efa",
     "title": "최악 지지율에도 고개 뻣뻣한 대통령…시진핑 모시러 공항 달려간다",
     "link": "https://www.mk.co.kr/news/economy/12156863",
@@ -328,6 +448,16 @@
     "category": "AI",
     "publishedAt": "2026-09-18T12:53:33.000Z",
     "snippet": "찰스 3세 영국 국왕이 세계 주요 AI 기업 수장들을 만나 고도화되는 AI가 통제에서 벗어나거나 악의적인 세력의 손에 들어갈 가능성에 대비해 충분한 안전장치를 마련해야 한다고 촉구했다. BBC 등에 따르면, 찰스 국왕은 17일(현지시간) 스코틀랜드 에어셔의 덤프리스 하우스에서 젠슨 황 엔비디아 CEO, 데미스 허사비스 구글 딥마인드 회장, 사라 프라이어 오픈AI CFO, 앤트로픽 관계자 등과 AI의 사회적 활용과 안전 문제를 "
+  },
+  {
+    "id": "cf3abdb640046d19",
+    "title": "북부 지역에는 맑은 날씨가 돌아오겠지만, 남부 지역에는 천둥번개가 계속될 전망입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGpXRi1QVXI3ZlF0S0F4elpRSE5fM0dCN3ZzWkxaTk1Gc0NiT19ncGRiVnRTbHlMMzlNa3NIcjhZREdONVQ2VUVaVXNUUHBaLTF1MEtCTFgwa255RDdpMUVjR2NYYUJ5R3FSeVVVMnZxc1JiaGhTMmRyUUg1VEhmN29vTXRmYW44dWJ0bW9ESnQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-18T12:46:34.000Z",
+    "snippet": "북부 지역에는 맑은 날씨가 돌아오겠지만, 남부 지역에는 천둥번개가 계속될 전망입니다. Vietnam.vn"
   },
   {
     "id": "f012ba89fed524c9",
@@ -4868,135 +4998,5 @@
     "category": "경제",
     "publishedAt": "2026-09-16T21:02:01.000Z",
     "snippet": "연준, 기준금리 0.25%P 인상 트럼프 질문에 워시 “할말 없다”미 연방준비제도(Fed)가 16일(현지시간) 3년 2개월만에 기준금리를 인상하며 긴축으로 전환한 가운데 도널드 트.."
-  },
-  {
-    "id": "21ac419df79f65c9",
-    "title": "트럼프, 금리 올린 워시에 분노…“美 금리 1% 이하여야, 빨리 낮춰라”",
-    "link": "https://www.mk.co.kr/news/world/12154948",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-16T21:02:01.000Z",
-    "snippet": "연준, 기준금리 0.25%P 인상 트럼프 질문에 워시 “할말 없다”미 연방준비제도(Fed)가 16일(현지시간) 3년 2개월만에 기준금리를 인상하며 긴축으로 전환한 가운데 도널드 트.."
-  },
-  {
-    "id": "64a03bb10fd12235",
-    "title": "Amazon wants Prime Video users to get their news from TikTok-style clips",
-    "link": "https://www.tubefilter.com/2026/09/16/amazon-prime-video-short-form-news-clips/",
-    "source": "Tubefilter",
-    "sourceId": "tubefilter",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-16T20:47:06.000Z",
-    "snippet": "Amazon is about to find out whether TikTok users will bring common behaviors to Prime Video. The entertainment hub is now hosting short-form news clips that digest top headlines into bite-sized videos. Prime Video's short-form news content "
-  },
-  {
-    "id": "caa4261250d0a669",
-    "title": "Dream-RSI: 진화하는 세계를 통한 재귀적 자기 개선",
-    "link": "https://news.hada.io/topic?id=33804",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-16T20:41:17.000Z",
-    "snippet": "Dream-RSI는 코딩 에이전트 자체를 바꾸지 않고, 어느 탐색을 이어가고 병렬화하며 중단할지 결정하는 탐색 정책 코드를 반복적으로 개선하는 프레임워크임 완료된 탐색 이력을 재생 시뮬레이터로 만들어 대안 정책을 저비용으로 평가함. 코딩 에..."
-  },
-  {
-    "id": "57468c64e8396229",
-    "title": "“달러는 이제 재미없네요”…환테크 고수들 몰리는 ‘엔화예금’",
-    "link": "https://www.mk.co.kr/news/economy/12154934",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-16T20:39:58.000Z",
-    "snippet": "5대銀 엔화예금 1.1조엔 이달에만 478억엔 급증 달러예금은 72억弗 감소 엔화값 ‘850원대’ 진입에 “쌀 때 사두자” 수요 몰려엇갈린 환율 전망에 ‘환테크’ 수요의 무게중심이.."
-  },
-  {
-    "id": "46dd293b44344bed",
-    "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
-    "link": "https://news.hada.io/topic?id=33803",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-16T20:38:17.000Z",
-    "snippet": "Claude Cowork과 채팅이 통합되어 작업마다 사용할 공간을 고를 필요 없이, 어떤 대화에서든 기존 맥락과 스킬, 커넥터를 활용해 업무를 맡길 수 있음 Claude Docs와 Claude Slides가 새로 추가되고 Claude Design도 대화 안에서 작동함. 세 기능 모두 유료 플랜에..."
-  },
-  {
-    "id": "196e1146652f62b3",
-    "title": "워시 “인플레 너무 높아” 추가 인상 예고…美증시·채권 약세",
-    "link": "https://www.mk.co.kr/news/world/12154906",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-16T20:07:45.000Z",
-    "snippet": "연준, 기준금리 0.25%P 인상 2023년 7월 이후 3년2개월만미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격적으로 기준금리를 인상했다. 지난해.."
-  },
-  {
-    "id": "edbf9ca77c481a26",
-    "title": "“대미 투자하느라 달러빚 냈는데”…금리발작에 떨고있는 업종은",
-    "link": "https://www.mk.co.kr/news/economy/12154900",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-16T19:54:04.000Z",
-    "snippet": "美금리 고공행진에 재계 비상 달러 빚내서 현지투자 확늘린 배터리업계, 이자비용 부담↑ 항공·석유화학도 예의주시고유가 국면에 전 세계 금리의 잣대가 되는 미국 10년물 국채금리가 급.."
-  },
-  {
-    "id": "69dc01deceea4c28",
-    "title": "OpenAI, Sponsored Agents로 ChatGPT 광고 확대",
-    "link": "https://news.hada.io/topic?id=33801",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-16T19:32:48.000Z",
-    "snippet": "OpenAI가 ChatGPT 광고를 클릭하면 기업이 후원하는 에이전트와 대화할 수 있는 Sponsored Agents를 미국 일부 광고주와 테스트 중임 후원 에이전트와의 대화는 명확히 표시되며, ChatGPT의 독립적인 답변 및 사용자의 기존 대화와 분리됨 광고주는"
-  },
-  {
-    "id": "c55f6762f3f5b5ed",
-    "title": "발표가 좋았다면 발표자에게 말해주세요",
-    "link": "https://news.hada.io/topic?id=33800",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-16T18:34:19.000Z",
-    "snippet": "발표가 좋았다면 짧게라도 발표자에게 직접 전할 가치가 있음. 발표자는 많은 노력을 들여 준비하며, 청중이 즐겼는지와 발표가 괜찮았는지 알고 싶어 함 피드백 없는 침묵은 발표자를 불안하게 만들 수 있음. 온라인 반응이 하나도 없어 발표가 와닿지 않았는지 걱..."
-  },
-  {
-    "id": "ddd899337804454a",
-    "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215363",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-16T18:25:00.000Z",
-    "snippet": "넘즈AI(대표 유재민)는 자체 정형 데이터 파운데이션 모델(TFM) '코실로(Causilo)'가 글로벌 데이터 AI 평가 플랫폼 '탭아레나(TabArena)'의 종합·분류·회귀 엘로(Elo) 평가에서 1위를 차지했다고 16일 밝혔다.코실로는 51개 데이터셋을 대상으로 진행한 종합 성적을 포함해 범주를 구분하는 분류와 숫자를 예측하는 회귀 평가에서 구글 리서치 '탭FM(TabFM)', 아마존 '미트라-v2(Mitra-v2)', "
-  },
-  {
-    "id": "e58c31962720510a",
-    "title": "[속보] 3년만에 금리 올린 연준…연내 추가 인상 예고",
-    "link": "https://www.mk.co.kr/news/world/12154882",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-16T18:09:36.000Z",
-    "snippet": "연준, 기준금리 0.25%P 인상 만장일치 결정, 워시도 합류 연내 1회 이상 추가 인상 주장 16명미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격.."
-  },
-  {
-    "id": "b02c4cceef51a7b9",
-    "title": "The EU doesn’t just want to ban kids from social media. It’s blocking chatbots and gaming, too.",
-    "link": "https://www.tubefilter.com/2026/09/16/european-union-kids-act-banning-social-media-chatbots-gaming/",
-    "source": "Tubefilter",
-    "sourceId": "tubefilter",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-16T18:02:26.000Z",
-    "snippet": "The European Union is set to propose a sweeping new social media, chatbot, and gaming ban for kids under 15. Reuters reports that European Commission President Ursula von der Leyen ​and Henna Virkkunen, EVP of the European Commission for Te"
-  },
-  {
-    "id": "fe283a4d738a52f3",
-    "title": "Federal Reserve issues FOMC statement",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-    "source": "미 연준 보도자료",
-    "sourceId": "fed-press",
-    "category": "경제",
-    "publishedAt": "2026-09-16T18:00:00.000Z",
-    "snippet": "Federal Reserve issues FOMC statement"
   }
 ]

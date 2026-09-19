@@ -1,5 +1,135 @@
 [
   {
+    "id": "1fcb10c423921574",
+    "title": "ZX Spectrum용 그래픽 데스크톱",
+    "link": "https://news.hada.io/topic?id=33961",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T23:52:24.000Z",
+    "snippet": "ZX Desk는 Z80 어셈블리로 작성한 ZX Spectrum 48K용 데스크톱으로, 겹치는 창과 메뉴, 메모장, 시계, 달력, 파일 관리자를 48K 안에 구현하고 실제 하드웨어에서 실행함 실측 기반 최적화로 창 드래그 처리 시간을 프레임당 69,888 T 상태 이내인 59,858 T로 줄여..."
+  },
+  {
+    "id": "0b7544aea710ad93",
+    "title": "두 신경외배엽 전구세포 계통이 병렬적으로 뇌 발달에 기여함",
+    "link": "https://news.hada.io/topic?id=33960",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T23:52:23.000Z",
+    "snippet": "사람과 여러 동물의 뇌 앞부분과 뒷부분은 기존에 생각했던 공통 기원이 아니라 서로 다른 전구세포에서 발달함 생쥐 배아에서 OTX2를 발현하는 전구세포는 전뇌와 중뇌 뉴런으로, GBX2를 발현하는 전구세포는 후뇌 뉴런으로 분화하며, 인간 세포..."
+  },
+  {
+    "id": "9b08a8d70b43a340",
+    "title": "“집도 있고 소득도 괜찮은데 거지라고?”…4명 중 3명 노후 비상, 왜?",
+    "link": "https://www.mk.co.kr/news/economy/12157269",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T23:23:14.000Z",
+    "snippet": "“당신은 중산층입니까?” 이 질문에 선뜻 “그렇다”고 답하는 사람은 많지 않다. 소득이 평균보다 높더라도 주택대출과 자녀 교육비 부담이 크면 생활에 여유가 없다고 느낀다. 수억원의.."
+  },
+  {
+    "id": "fd7482649f626ffb",
+    "title": "'창사 첫 파업' 사측과 골프?…삼성·포스코 노조 '위원장 리스크'",
+    "link": "https://www.hankyung.com/article/2026092056167",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T23:20:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7e3210551654bdca",
+    "title": "Playwright를 2배 빠르게, 토큰 효율을 80% 높게 만들었습니다",
+    "link": "https://news.hada.io/topic?id=33959",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T22:52:25.000Z",
+    "snippet": "Stagehand는 웹사이트 조작과 구조화된 데이터 추출을 위한 에이전트용 SDK로, TypeScript, Python, Go에서 Playwright 스타일 API와 자연어 명령을 함께 제공함 접근성 트리의 하이브리드 가지치기로 에이전트에 필요한 페이지 문맥만 전달하며, 브라우저 옆에서 ..."
+  },
+  {
+    "id": "36ce8b86393c3aac",
+    "title": "미 제2연방항소법원, 정부의 국경 전자기기 수색 허용",
+    "link": "https://news.hada.io/topic?id=33958",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T22:52:24.000Z",
+    "snippet": "미 제2연방항소법원이 국경 요원의 여행자 전자기기 수색에 아무런 혐의나 의심이 없어도 된다고 판결함 사건은 United States v. Alisigwe로, 정부가 국경에서 피고인의 휴대전화를 영장 없이 두 차례 수색해 확보한 증거를 형사재판에 사용함 K..."
+  },
+  {
+    "id": "670a895adfae1d77",
+    "title": "Alibaba, 암을 포함한 약 150개 질환을 탐지하는 AI 모델 오픈소스로 공개",
+    "link": "https://news.hada.io/topic?id=33957",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T22:52:23.000Z",
+    "snippet": "Alibaba 산하 연구기관 Damo Academy가 CT 영상에서 암을 포함한 약 150개 복부 질환을 식별하는 Damo Radar를 오픈소스로 공개함 비전 언어 모델로, 18개 복부 장기를 포함하는 조영증강 CT를 분석해 악성 종양 등 질환과 이상 소견을 찾아냄 CT 영상과 ..."
+  },
+  {
+    "id": "dc4eb0409f5885f4",
+    "title": "글쓰기를 AI에 거의 맡기지 말아야 하는 이유",
+    "link": "https://news.hada.io/topic?id=33956",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T22:52:22.000Z",
+    "snippet": "아이디어, 논증, 분석을 전달하는 글에서는 글쓰기 자체가 사고 과정이므로, 상세한 메모를 주거나 결과물을 편집하더라도 AI에 집필을 맡기는 것은 거의 바람직하지 않음 AI가 쓴 문장을 읽고 동의하는 것과 직접 단어를 고르며 쓰는 것은 다름. 그럴듯한 문장을 ..."
+  },
+  {
+    "id": "044bb564d08a1796",
+    "title": "\"김밥 한 줄 먹으려 40분 대기\"…백화점이 '로컬 브랜드' 모시는 이유 [박수림의 요즘 여기]",
+    "link": "https://www.hankyung.com/article/202609183306g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T22:30:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e785b24986d0760b",
+    "title": "휴게소 돈가스 가격 30% 뛰었다…호두과자·커피도 '깜짝'",
+    "link": "https://www.hankyung.com/article/2026092055857",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T22:23:43.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "adbf2076a128ef09",
+    "title": "9월 20일 응에안 지역 날씨 예보: 일부 지역에 소나기와 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWG1mclRfSFUtekx5RHB4bjhUV3R6aVg2RFN6eENTMUtuRi1WbXktckVoY3VZOFpBN2JIMl94Wi1PbWpMSTNRODBWUUFxTUxFTnNFZ1dKdUtSY1Z6SGRSZWtZd0JkSVRwbGxwcE02aTdIWnRuOUxpRTUtcVVZeVJUaUJuM2J2UlU?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-19T22:09:35.000Z",
+    "snippet": "9월 20일 응에안 지역 날씨 예보: 일부 지역에 소나기와 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "d85858ddbd00f6c4",
+    "title": "외국인 실업급여 '역대 최대'…수급자 열명 중 여덟 중국계 [곽용희의 일자리노트]",
+    "link": "https://www.hankyung.com/article/202609195257i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T22:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6ed117d9af0986a4",
+    "title": "애플도 이제 코인처럼?…290조 몰린 서학개미들 '술렁' [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609195213i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T22:00:04.000Z",
+    "snippet": ""
+  },
+  {
     "id": "72081c5d1120c965",
     "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",

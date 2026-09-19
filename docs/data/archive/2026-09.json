@@ -1,5 +1,75 @@
 [
   {
+    "id": "72081c5d1120c965",
+    "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-19T21:57:09.000Z",
+    "snippet": "AI타임스와 이스트에이드의 9월 셋째 주(9월11일~17일) 이슈 분석 결과, SBS 개그맨 술집 난동을 포함해 MBC 사장 인선과 수출 실적, AI 관련 소식이 상위권을 차지했다.이번 주 검색량 1위는 'SBS 개그맨 술집 난동(5.60%)'이 차지했다. SBS 공채 개그맨을 사칭한 남성이 서울의 한 술집에서 업주에게 폭언하고 맥주잔을 던지는 등 난동을 부려 경찰 조사를 받아 화제를 모았다.2위는 'MBC 사장 이성주 내정("
+  },
+  {
+    "id": "31c582b298afe795",
+    "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-19T19:46:59.000Z",
+    "snippet": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한 지 불과 일주일 만에 나온 움직임으로, 시장 경쟁 압박이 회사 정체성과 전략까지 흔드는 모양새다.로이터는 19일 소식통 3명을 인용, 앤트로픽"
+  },
+  {
+    "id": "24f40aaad810bd42",
+    "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-19T19:06:23.000Z",
+    "snippet": "구글의 '제미나이'가 사이버 보안 평가 도중 기업 시스템 3곳에 무단 침투한 사실이 확인됐다. 월스트리트저널(WSJ)이 18일(현지시간) 해당 사실을 보도한 직후, 구글은 자율적 침투 발생을 인정했다.다만 이번 사건은 AI 모델의 자체 결함이나 불량 작동이 아닌, 외주 평가업체의 테스트 환경 관리 소홀에서 비롯된 사고라는 점이 드러났다.사고는 지난 5월 AI 보안 평가 전문 스타트업 이레귤러(Irregular)가 진행한 모의 "
+  },
+  {
+    "id": "493068a7437ae9ba",
+    "title": "Z.ai “AI가 AI 실행 인프라 스스로 구축...'재귀적 자기개선'의 시작”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215483",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-19T18:05:57.000Z",
+    "snippet": "AI가 단순히 사람이 지정한 애플리케이션 코드를 작성하는 단계를 넘어, 자신이 구동되는 하드웨어 및 시스템 인프라 최적화 레이어까지 직접 진입하며 개발 과정을 진화시키고 있다.Z.ai(지푸 AI)는 17일(현지시간) 자체 개발한 'GLM'을 활용해 차세대 AI 모델의 추론 인프라를 직접 구축하고 최적화하는 사례를 공개했다.아직 AI가 스스로 후속 모델을 설계하고 학습하는 ‘재귀적 자기개선(RSI)’ 단계에는 도달하지 않았지만,"
+  },
+  {
+    "id": "93a6fbab08a09b61",
+    "title": "SK하이닉스, 미국에 첫 낸드 생산거점 구축...\"확정된 바 없다\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215492",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-19T17:47:54.000Z",
+    "snippet": "SK하이닉스의 손자회사 솔리다임이 미국 첫 낸드플래시 생산거점 구축을 검토 중인 것으로 알려졌으나, SK하이닉스는 확정된 바 없다는 입장을 밝혔다.지난 18일 업계에 따르면 솔리다임은 미국 동부 지역에 낸드 양산라인을 세우기 위해 후보 부지와 세부 조건 등을 들여다보고 있는 것으로 전해졌다.솔리다임은 SK하이닉스가 2021년 말 90억달러(약 12조원)를 들여 인텔 낸드 사업을 인수하면서 출범한 법인이다. 현재 중국 다롄에서 "
+  },
+  {
+    "id": "60231cd319b4472d",
+    "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215479",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-19T17:36:34.000Z",
+    "snippet": "애플의 인수 검토설로 주목받은 AI 스타트업 프리즘ML(PrismML)이 한층 진화한 온디바이스 AI 압축 모델을 선보였다. 270억 매개변수급 대형언어모델(LLM)을 5.9기가바이트(GB) 수준으로 압축해 일반 PC와 노트북, 고성능 스마트폰에서도 원활하게 작동하는 신규 모델을 공개했다.캘리포니아 공과대학(Caltech) 스핀오프 기업인 프리즘ML은 지난 7월 54GB 크기의 모델을 4GB 미만으로 줄여 아이폰 17 프로에서"
+  },
+  {
+    "id": "225671bd72a66bc3",
+    "title": "메타, 에이전트 '뮤즈' 맥으로 확대…앱스토어 1위 인기 속 '보안' 부각",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215478",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-19T17:03:03.000Z",
+    "snippet": "메타의 개인용 AI 에이전트 ‘뮤즈(Muse)’가 맥(Mac)으로 서비스를 확대하면서 AI가 사용자의 컴퓨터에서 직접 작업을 수행하는 시대가 본격화하고 있다. 또 뮤즈는 모바일 버전이 앱스토어 1위에 오르며 폭발적인 인기를 끌고 있지만, 사용자 데이터 접근에 따른 개인정보 보호와 보안 문제는 넘어야 할 최대 과제로 꼽힌다.메타는 17일(현지시간) 맥용 뮤즈를 공식 출시했다. 모바일과 웹에 이어 맥 데스크톱 환경으로 영역을 넓혀"
+  },
+  {
     "id": "41bc50fdea55e601",
     "title": "알리바바, 보고 듣고 행동하는 옴니모달 '큐원3.8-옴니-플래시' 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215481",
@@ -40,6 +110,46 @@
     "snippet": "미국 에어택시 스타트업 조비 에비에이션(Joby Aviation)이 사람의 조종 없이 미국 대륙을 동서로 가로지르는 완전 자율비행에 성공했다. 조비는 17일(현지시간) 자율비행 기술을 탑재한 개조형 세스나 카라반 항공기가 캘리포니아 콩코드에서 노스캐롤라이나 아우터뱅크스까지 3199마일(약 5148km)을 비행했다고 발표했다.기내에는 안전을 위한 조종사가 탑승했지만, 비행 과정에서 조종사의 직접적인 제어 입력은 전혀 없었다. 항"
   },
   {
+    "id": "232410b55422703f",
+    "title": "GPT-6 Astra, 제1차 세계대전 독일 무선 암호 해독",
+    "link": "https://news.hada.io/topic?id=33942",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T12:42:21.000Z",
+    "snippet": "GPT-6 Astra가 1918년 11월 27일 송신된 독일의 ADFGVX 무선 암호문을 해독함. 다만 최초 해독인지는 확인되지 않았으며, 알려진 선행 해독 사례가 없다는 단서가 있음 복원한 메시지는 영국 순양함의 세바스토폴 입항과 26일 연합국 함대..."
+  },
+  {
+    "id": "c4279fbc1d332bfa",
+    "title": "Show GN: ARAM Emulator - WIPI·SKVM·Raptor 한국 피처폰 소프트웨어 에뮬레이터",
+    "link": "https://news.hada.io/topic?id=33941",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T12:39:05.000Z",
+    "snippet": "안녕하세요. 2000년대 한국 피처폰 소프트웨어를 현대 환경에서 다시 실행하기 위한 ARAM Emulator를 만들고 있습니다. ARAM은 WIPI·SKVM·Raptor 계열의 피처폰 게임과 앱을 Windows, macOS, Linux, Android 및 웹 브라우저에서 실행하는 에뮬레이터입니다. 설치하지 않고 웹 버전을 먼저 실행해 볼 수 있으며"
+  },
+  {
+    "id": "39349a16289cc19b",
+    "title": "유닛 테스트는 버그를 잡는다기보다 영역 표시를 하는 것",
+    "link": "https://news.hada.io/topic?id=33940",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T12:35:42.000Z",
+    "snippet": "버그를 잡는 데 그다지 효과적이지 않은 유닛 테스트가 왜 업계에서 유일하게 보편화된 테스트 방법이 됐는지를 분석한 글 하드웨어 관점에서 소프트웨어 테스트는 끔찍해 보임 (저자는 하드웨어 개발 경험이 많은 프로그래머) 소프트웨어는 \"나중에 고치면 된다\"는 문화로 버그투..."
+  },
+  {
+    "id": "3bbb6a51c36bcc85",
+    "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
+    "link": "https://news.hada.io/topic?id=33939",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T11:42:21.000Z",
+    "snippet": "AI 행사 포스터의 문제는 품질 자체보다 비슷한 스타일의 반복에 있음. ChatGPT에 구체적인 디자인 미학을 지정하면 획일적인 기본 결과에서 벗어날 수 있음 ‘깔끔하고 밝게’ 같은 지시만으로는 원하는 차이를 얻지 못했지만, 기존 결과를 피하고 완전히 다른 디자인 미학..."
+  },
+  {
     "id": "c357d35936bb4f53",
     "title": "디즈니, 사상 첫 CTO 선임…'저작권 마찰' 캐릭터닷AI CEO 영입",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215487",
@@ -60,6 +170,16 @@
     "snippet": "무스타파 술레이만 마이크로소프트(MS) AI CEO가 오픈AI의 보고서에서 드러난 '셀프 프롬프트 인젝션' 현상에 대해 강한 우려를 표명했다. AI가 스스로 추론 과정과 작업 메모리를 조작해 미래 버전의 자신에게 지시를 남기는 행위가 현실화하면 인간이 시스템에 대한 통제력을 잃게 되는 위험한 결과로 이어질 수 있다는 경고다.술레이만 CEO는 18일(현지시간) CNBC의 ‘스쿼크 박스’ 인터뷰에 출연해 오픈AI가 공개한 오정렬 "
   },
   {
+    "id": "e998793e3dc1101e",
+    "title": "69만원 한우 세트 사러 백화점 갔다가…'이럴 수가' 화들짝 [류은혁의 유통기한]",
+    "link": "https://www.hankyung.com/article/202609184253i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T11:00:01.000Z",
+    "snippet": ""
+  },
+  {
     "id": "e6b262413fcfba4c",
     "title": "앤트로픽 IPO에 월가 신중론...1000억달러 매출 속 '적자 전환' 우려",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215484",
@@ -68,6 +188,16 @@
     "category": "AI",
     "publishedAt": "2026-09-19T10:47:54.000Z",
     "snippet": "앤트로픽의 기업공개(IPO)가 임박하면서 월가 투자자들의 신중론이 확대되고 있다. 올해 연간 매출이 1000억달러(약 138조8000억원)를 돌파할 것이라는 가파른 성장 전망에 환호하면서도, 급증하는 컴퓨팅 인프라 비용으로 인해 다시 적자로 돌아설 수 있다는 우려가 커진 탓이다.뉴욕타임스(NYT)는 18일(현지시간) 소식통을 인용해 앤트로픽이 올해 말까지 연간 매출 1000억달러를 돌파할 것으로 예상된다고 보도했다. 이는 7월"
+  },
+  {
+    "id": "69090841a6d5494d",
+    "title": "Warez: 불법 복제의 인프라와 미학 (2021)",
+    "link": "https://news.hada.io/topic?id=33937",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T10:42:21.000Z",
+    "snippet": "Scene은 음악, 영상, 게임, 소프트웨어를 공식 판매일 전에 입수하고, 서로 먼저 무료로 배포하려 경쟁하는 전 세계 지하 불법 복제 그룹 네트워크임 Warez는 이 하위문화를 다룬 최초의 학술 연구서로, Scene이 자체적으로 생산한 문서 자료를 통해 운영 방식과 인..."
   },
   {
     "id": "9340086c9f3556b2",
@@ -110,6 +240,26 @@
     "snippet": "방글라데시가 옥상태양광 등 재생에너지 보급을 확대하기 위해 150억타카(약 1690억원) 규모의 저리금융 프로그램을 가동한다. 정부가 참여 금융기관에 저리로 자금을 공급하고, 이들 기관이 가정과 기업 등 최종 이용자에게 대출할 때 각종 수수료를 포함한 실효 연이율을 최대 6%로 제한해 초기 투자 부담을 낮춘다는 계획이다.방글라데시 재무부 재정국이 지난 14일(현지시간) 발행한 회람에 따르면 프로그램 규모는 150억타카에 해당한"
   },
   {
+    "id": "b79477fb33552044",
+    "title": "C++26: 단순 무한 루프는 더 이상 미정의 동작이 아님",
+    "link": "https://news.hada.io/topic?id=33936",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T09:42:22.000Z",
+    "snippet": "C++26은 while (true);처럼 조건이 항상 참이고 본문이 비어 있는 단순 무한 루프(trivial infinite loop) 의 동작을 정의하며, 컴파일러가 미정의 동작을 근거로 이를 제거할 수 없게 함 기존 전방 진행 보장(forward progress guarantee)..."
+  },
+  {
+    "id": "1a0e95c3fe9bd2b7",
+    "title": "인간의 뇌는 서로 다른 두 기관, Stanford Medicine 주도 연구에서 확인",
+    "link": "https://news.hada.io/topic?id=33935",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T09:42:20.000Z",
+    "snippet": "뇌 전체가 하나의 전구세포에서 발달한다는 기존 모델과 달리, 전뇌/중뇌와 후뇌가 서로 다른 전구세포에서 시작해 독립적인 발달 경로를 따르는 것으로 나타남 생쥐 배아에서 Otx2를 발현하는 전구세포는 전뇌/중뇌로, Gbx2를 발현하는 전구세포..."
+  },
+  {
     "id": "921731d7ad30c6d0",
     "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215480",
@@ -150,6 +300,36 @@
     "snippet": "중국이 2030년까지 페로브스카이트 탠덤 태양전지와 고체·나트륨전지 등 차세대 에너지 기술의 산업화를 추진한다. 기존 결정질 실리콘 태양전지와 리튬이온전지의 경쟁력을 유지하면서 차세대 태양전지와 배터리를 새로운 성장동력으로 육성한다는 계획이다.중국 공업정보화부와 국가발전개혁위원회는 지난 15일(현지시간) 이 같은 내용을 담은 ‘전자정보제조업 발전 제15차 5개년 계획’을 발표했다. 계획은 2026~2030년 전자정보 제조산업의"
   },
   {
+    "id": "6e8a0a095f22b8ab",
+    "title": "\"우리 둘만의 비밀을\"…잔나비 초근접 공연에 잠실이 '뭉클' [2026청춘커피페스티벌]",
+    "link": "https://www.hankyung.com/article/202609195320i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T09:07:58.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ab4e276ffda97e89",
+    "title": "헤드폰 쓰고 100명이 '멍'…커피 축제 한복판에서 '싱잉볼 명상' [2026청춘커피페스티벌]",
+    "link": "https://www.hankyung.com/article/202609195243i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T09:04:53.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "de01ed8bb903404d",
+    "title": "'건물 사이에 피어난 장미' 울려 퍼지자…잠실 달군 하이키 [2026청춘커피페스티벌]",
+    "link": "https://www.hankyung.com/article/202609195303i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T09:00:53.000Z",
+    "snippet": ""
+  },
+  {
     "id": "b32164e5dadbe8b0",
     "title": "재생에너지 100GW 속도 낸다…범부처 TF로 대형 태양광 밀착관리",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215426",
@@ -158,6 +338,26 @@
     "category": "AI",
     "publishedAt": "2026-09-19T09:00:00.000Z",
     "snippet": "정부가 2030년 재생에너지 설비 100기가와트(GW) 달성을 위해 관계부처와 공공기관, 지방정부가 참여하는 범정부 전담조직을 가동한다. 계통 여유지역의 100메가와트(MW) 이상 대형 재생에너지 사업을 집중 관리하고 산업단지와 공장지붕, 도로·철도 등 유휴부지를 활용한 태양광 보급을 확대한다는 계획이다.기후에너지환경부는 지난 17일 서울 중구 한국전력 경인건설본부에서 김성환 장관 주재로 ‘재생에너지 보급 혁신 전담조직(TF)"
+  },
+  {
+    "id": "4ee0847c7295f971",
+    "title": "주춤했던 ‘스타벅스 마케팅’ 다시 시동…제휴통장·카드 잇따라",
+    "link": "https://www.mk.co.kr/news/economy/12157143",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-19T08:47:34.000Z",
+    "snippet": "금융권, 제휴마케팅 다시 확대스타벅스 ‘탱크데이’ 마케팅 논란 이후 주춤했던 금융권의 스타벅스 제휴 마케팅이 다시 확대되고 있다. KB국민은행은 제휴통장 후속 상품의 판매 한도를 .."
+  },
+  {
+    "id": "ab302e005883c079",
+    "title": "샌프란시스코 양파 선물 회사",
+    "link": "https://news.hada.io/topic?id=33934",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-19T08:32:20.000Z",
+    "snippet": "노란 양파를 미래에 실물 인도하는 계약을 개인 구매자에게 사적으로 판매하며, 계약은 다른 사람에게 양도할 수 있음 최대 6개월 뒤 인도분까지 판매하며, 가격은 양파 1개당 3~12달러임 회사는 미국법의 양파 미래 인도 계약 금지가 거..."
   },
   {
     "id": "357c0ed4d2a2c276",

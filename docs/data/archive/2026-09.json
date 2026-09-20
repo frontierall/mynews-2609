@@ -1,5 +1,55 @@
 [
   {
+    "id": "7613e26adcd8697b",
+    "title": "“문장 생성 버렸다”…판단 전용 AI ‘제브’에 개발자 반응 폭발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215506",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-20T17:40:45.000Z",
+    "snippet": "'챗GPT' 개발의 핵심 역할을 맡았던 연구원이 공개한 ‘글 못 쓰는 AI’가 전 세계 엔지니어들을 열광시키고 있다. 텍스트 생성이라는 생성 AI의 기본 기능을 과감히 버리고, 소프트웨어 백엔드에 직접 이식 가능한 구조화된 판단(Typed Decisions)만 내리는 새로운 AI 모델에 개발자들의 관심이 쏟아지는 모습이다.타입세이프 AI(TypeSafe AI)가 지난 15일(현지시간) 선보인 첫 번째 AI 모델 ‘제브(Jev)"
+  },
+  {
+    "id": "f6035e4c1efd8b8c",
+    "title": "과기부, 연구자가 지켜야 할 ‘AI 활용’ 7대 권고사항 제시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215505",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-20T17:25:00.000Z",
+    "snippet": "과학기술정보통신부(장관 배경훈)는 국가과학기술자문회의 운영위원회 심의·의결을 거쳐 ‘국가연구개발 AI 연구윤리 가이드’가 확정됐다고 20일 밝혔다.이번 가이드는 국가연구개발 수행의 모든 단계에서 AI를 책임감 있고 윤리적으로 활용할 수 있도록 지원하는 것을 목표로 한다. \"국가연구개발에서 AI의 역할은 도구로 제한되며, 최종 결과물에 대한 책임과 권리는 AI를 활용한 연구자에게 귀속된다\"라는 기본원칙 아래, 연구자가 지켜야 할"
+  },
+  {
+    "id": "3a4232308c8e43f9",
+    "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215504",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-20T16:58:04.000Z",
+    "snippet": "앤트로픽이 가상 시뮬레이션을 넘어 물리적 생물학 연구를 직접 수행하기 위해 샌프란시스코 베이 지역에 자체 연구소를 조용히 설립했다. 앤트로픽은 18일(현지시간) 로이터를 통해 희귀 질환 치료제 개발과 생명과학 분야 AI 기술 적용을 가속하기 위해 실제 습식 연구소(Wet Lab)를 운영 중이라고 확인했다.이는 기존 건식 연구소(Dry Lab) 기반의 데이터 분석을 넘어 클로드가 최소한의 인간 개입으로 실험실 내 로봇 장비를 직"
+  },
+  {
+    "id": "fbfe57ad607d2ba3",
+    "title": "중국, 앤트로픽 겨냥 “미 정보기관에 사용자 데이터 넘길 수도”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215495",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-20T16:00:24.000Z",
+    "snippet": "앤트로픽의 개인정보 보호정책 개정으로 사용자 데이터가 미국 정보기관에 공유될 위험이 커졌다는 중국 측 주장이 나왔다.블룸버그에 따르면, 관영매체인 중국중앙TV(CCTV) 계열 소셜미디어 계정 위위안탄톈은 19일(현지시간) 게시물을 통해 앤트로픽이 필요하다고 판단할 경우 법적 절차 없이 사용자 정보를 미국 정보기관과 공유할 수 있도록 개인정보 정책을 변경했다고 주장했다.위위안탄톈에 따르면 앤트로픽은 2023년 이후 개인정보 보호"
+  },
+  {
+    "id": "e537e57033999108",
+    "title": "젠슨 황, AI 종말론 또 일축... \"2030년 세계 끝날 확률 0%\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215496",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-20T15:31:42.000Z",
+    "snippet": "젠슨 황 엔비디아 CEO가 AI로 인해 인류가 멸종하거나 2030년 세계가 끝날 가능성은 없다고 다시 한번 강조했다. 최근 AI 업계 일각에서 제기된 종말론적 우려에 대해 거듭 강하게 반박한 것이다.황 CEO는 18일(현지시간) CBS 뉴스의 '선데이 모닝' 인터뷰에서 AI가 초래할 수 있는 종말론적 시나리오와 관련해 “어떻게 표현하든 2030년이 세계의 종말이 되는 일은 없을 것”이라며 “세계가 끝날 가능성은 0%”라고 말했"
+  },
+  {
     "id": "5a182211cda785d0",
     "title": "프랑스 검찰, 스마트 안경 이용한 '성희롱·불법 촬영' 수사 착수",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215497",
@@ -118,6 +168,666 @@
     "category": "AI",
     "publishedAt": "2026-09-20T09:00:00.000Z",
     "snippet": "SK텔레콤(대표 정재헌)은 21~22일 서울 코엑스에서 열리는 ‘제3회 대한민국 사회적가치 페스타’에 참가해 지속가능경영 비전 ‘두 더 굿 AI(DO THE GOOD AI)’를 실천하는 다양한 사례를 선보인다고 밝혔다.두 더 굿 AI는 AI를 통해 기술 경쟁력을 높이고, AI의 신뢰성과 안전성을 확보하며, 세상에 긍정적으로 기여하는 지속가능경영을 추진한다는 의미를 담고 있다.SKT는 72㎡ 규모의 전시 공간을 마련해 ‘더 나은"
+  },
+  {
+    "id": "5e8cf81cf74810a6",
+    "title": "전력망 찜해놓고 방치 … 유령사업자 80% 퇴출",
+    "link": "https://www.mk.co.kr/news/economy/12157614",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:49:54.000Z",
+    "snippet": "정부가 장기간 전력망을 선점해놓고 실제로 발전은 하지 않는 허수 사업자에 대한 관리 기준을 강화하자 점검 대상 사업 가운데 80%가 전력망 이용을 스스로 포기한 것으로 집계됐다. .."
+  },
+  {
+    "id": "769de5177873d7ce",
+    "title": "금리에 민감해진 소비자들 … 사흘만에 정기예금 7조 '쑥'",
+    "link": "https://www.mk.co.kr/news/economy/12157609",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:45:58.000Z",
+    "snippet": "금리 인상기에 본격 접어들면서 금리 민감도도 커지고 있다. 5대 시중은행 기준 수신금리를 올리기 전 전월 말 대비 2조원 가까이 줄었던 정기예금 잔액이 수신금리 인상과 미국 연방공.."
+  },
+  {
+    "id": "f42e6bb7ee35cb7e",
+    "title": "[표] 외국환율고시표",
+    "link": "https://www.mk.co.kr/news/economy/12157608",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:45:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8cbfa8a032e31208",
+    "title": "[포토] 농협생명, 추석 맞이 송편 나눔",
+    "link": "https://www.mk.co.kr/news/economy/12157607",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:45:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ade391ccada8cc8d",
+    "title": "\"포인트 쓰기 쉽네\"… 20대가 호응한 신한카드",
+    "link": "https://www.mk.co.kr/news/economy/12157605",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:45:56.000Z",
+    "snippet": "신한카드가 온라인에서 포인트 사용처를 넓히고 결제 절차를 바꾼 뒤 고객의 포인트 사용액이 1년 새 50% 넘게 늘었다. 신한카드와 제휴하지 않은 온라인 쇼핑몰에서도 결제창에 뜨는 .."
+  },
+  {
+    "id": "13f54a342653e041",
+    "title": "명절 틈탄 보이스피싱 기승 … 외화 거래는 금융사에서만",
+    "link": "https://www.mk.co.kr/news/economy/12157606",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:45:56.000Z",
+    "snippet": "금융당국이 추석 연휴 택배 배송과 해외여행객 증가 등을 틈탄 보이스피싱·스미싱이 기승을 부릴 수 있다며 각별한 주의를 당부했다. 20일 금융당국은 해외여행 후 남은 외화는 금융회사.."
+  },
+  {
+    "id": "acaad25acda4e1c2",
+    "title": "취약차주 빚조정 인색…대부업 퇴짜율 16%",
+    "link": "https://www.mk.co.kr/news/economy/12157604",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:45:55.000Z",
+    "snippet": "정부가 취약차주의 채무조정을 확대하는 가운데, 개인채무조정에서 채권자 동의를 얻지 못해 부동의 처리되는 채무자 비율이 높아지고 있다. 채무조정이 성립하려면 채권금융회사의 동의가 필.."
+  },
+  {
+    "id": "6293ab54764aa97f",
+    "title": "[단독] 발전사업 관리강화 한달만에…‘알박기 점검 대상’ 80% 사업포기",
+    "link": "https://www.mk.co.kr/news/economy/12157424",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:45:00.000Z",
+    "snippet": "사전허가 1년경과 잇단 선점권 상실 허수사업자 회수물량 계속 늘어날듯 美는 선착순 아닌 사업완성도 따져정부가 관리 기준을 강화한 지 한 달 만에 점검 대상 사업의 80%가 전력망 .."
+  },
+  {
+    "id": "6c60e0e8772ee676",
+    "title": "\"연휴기간 고속도로 통행료 면제돼요\"",
+    "link": "https://www.mk.co.kr/news/economy/12157593",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:45:00.000Z",
+    "snippet": "정부가 추석 연휴 고속도로 통행료를 면제하는 등 특별교통대책을 시행한다. 공항 혼잡도 완화를 위해 인천국제공항 출국장도 최대 30분 앞당겨 연다. 20일 국토교통부는 추석 명절을 .."
+  },
+  {
+    "id": "929e6d37a09c58d9",
+    "title": "재정지원 효과…추석 물가 9년만에 하락",
+    "link": "https://www.mk.co.kr/news/economy/12157594",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:45:00.000Z",
+    "snippet": "정부가 역대 최대 규모의 할인 지원에 나서면서 올해 추석 차례상 비용이 9년 만에 하락한 것으로 나타났다. 다만 쇠고기와 달걀 등 일부 주요 성수품 가격은 여전히 높은 수준이다. .."
+  },
+  {
+    "id": "3e5b3732621b3a4c",
+    "title": "삼전닉스 실적에 국세수입 '널뛰기'…내년 법인세 비중 37%",
+    "link": "https://www.mk.co.kr/news/economy/12157526",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:17:41.000Z",
+    "snippet": "반도체 호황에 힘입어 법인세수가 급증하면서 전체 국세수입에서 법인세가 차지하는 비중이 내년 37%까지 높아질 전망이다. 반도체 경기에 따라 나라 살림이 크게 출렁일 수 있는 만큼.."
+  },
+  {
+    "id": "440d518a299ab32c",
+    "title": "근로감독관 1명이 중대재해사건 4건 떠맡아",
+    "link": "https://www.mk.co.kr/news/economy/12157527",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:17:41.000Z",
+    "snippet": "중대산업재해 수사를 담당하는 근로감독관 1명이 평균 4건의 중대재해처벌법 사건을 떠안고 있는 것으로 나타났다. 입법 과정에서 책임 범위와 수사 체계에 대한 조율이 충분히 이뤄지지 .."
+  },
+  {
+    "id": "d3722c2436c237f9",
+    "title": "발전사업 감독강화에…알박기 사업자 '백기'",
+    "link": "https://www.mk.co.kr/news/economy/12157524",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:17:40.000Z",
+    "snippet": "정부가 관리 기준을 강화한 지 한 달 만에 점검 대상 사업의 80%가 전력망 이용을 포기했다. 앞으로도 전력망 '알박기' 회수 물량이 꾸준히 늘어날 것으로 보인다. 기후에너지환경부.."
+  },
+  {
+    "id": "a817d08bae454aad",
+    "title": "SK하이닉스 산업안전 위반 1위 … 이천캠 도급승인 취소처분 받아",
+    "link": "https://www.mk.co.kr/news/economy/12157525",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:17:40.000Z",
+    "snippet": "화재·폭발·누출 등 대규모 피해가 발생할 수 있는 반도체 제조업에서 338건의 산업안전보건법 위반사항이 적발됐다. 이 가운데 절반가량이 SK하이닉스 청주캠퍼스와 이천캠퍼스에서 확인.."
+  },
+  {
+    "id": "0d4b7c5e7e9fd57a",
+    "title": "“삼전닉스가 나라살림 결정, 이게 맞나”…법인세만 216조 걷힌다",
+    "link": "https://www.mk.co.kr/news/economy/12157421",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T08:10:00.000Z",
+    "snippet": "2027년 법인세 216.7조 예상 2017년보다 3.7배 늘어날듯 법인세 변동성은 총국세 2배 부가세 등 안정적 세원 넓혀야반도체 호황에 힘입어 법인세수가 급증하면서 전체 국세수.."
+  },
+  {
+    "id": "638f81d37010035c",
+    "title": "[2026 청춘 커피 페스티벌 포토] 커피향 속 아르테미스의 뜨거운 무대",
+    "link": "https://www.hankyung.com/article/202609206217i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:59:17.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c175b1bdcbf98ddc",
+    "title": "Show GN: 이번 주말 - 온톨로지 기반 이벤트 지도",
+    "link": "https://news.hada.io/topic?id=33989",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T07:58:55.000Z",
+    "snippet": "말은 온톨로지라고 거창하게 썼지만, 사실은 그냥 neo4j 활용한게 다인 행사 지도입니다. 주말마다 와이프랑 어디 가야할지 고민하는게 슬슬 힘들어져서 만들고 있어요. 기능으로는 아래와 같습니다. 아무 노드 클릭 시 연결된 장소, 지역, 행사 종류 노드를 엣지로 연결 지역 노"
+  },
+  {
+    "id": "c54546815f8df675",
+    "title": "[2026 청춘 커피 페스티벌 포토] 뜨거워진 가을… 축제 달군 코지캣 목소리",
+    "link": "https://www.hankyung.com/article/202609206209i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:52:21.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "42141072616feec9",
+    "title": "[2026 청춘 커피 페스티벌 포토] 비전이즈엑스가 깨운 가을 오후…잠실 달군 K팝 무대",
+    "link": "https://www.hankyung.com/article/202609206195i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:43:39.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9edf9288337e5ddd",
+    "title": "Chrono Trigger의 Dream Devourer는 정수 오버플로로 쓰러뜨릴 수 있음",
+    "link": "https://news.hada.io/topic?id=33988",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T07:42:25.000Z",
+    "snippet": "Dream Devourer는 HP가 32,000으로, 피해를 주는 대신 회복시켜 정수 오버플로를 일으키는 방식으로도 쓰러뜨릴 수 있음 두 번째 전투 단계에서 보스가 흡수하는 강력한 마법을 사용해 HP를 일시적으로 32,767 초과로 올리면, 부호 있는 16비트 정..."
+  },
+  {
+    "id": "c27ddadd5807ddfb",
+    "title": "RSA-896",
+    "link": "https://news.hada.io/topic?id=33987",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T07:42:24.000Z",
+    "snippet": "RSA-896을 소인수분해했다는 결과가 공개됨 대상은 RSA 챌린지 수인 RSA-896임 소인수분해에는 Claude를 사용했다고 함 작업 날짜는 2026년 9월 19일임 RSA-896의 전체 값과 두 인수 p, q..."
+  },
+  {
+    "id": "3442aecb5ba71548",
+    "title": "[2026 청춘 커피 페스티벌 포토] 커피향 가득한 잠실… 디폴트 무대에 함성",
+    "link": "https://www.hankyung.com/article/202609206179i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:29:49.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4dcd44199ec69a81",
+    "title": "아르테미스가 끌어올린 축제 열기…가을 잠실 '후끈' [2026청춘커피페스티벌]",
+    "link": "https://www.hankyung.com/article/202609206162i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:19:52.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "111c75a6c57d7d5b",
+    "title": "포스코, '신소재 철갑' 두르는 군함…포화 쏟아져도 바닷길 뚫는다",
+    "link": "https://www.hankyung.com/article/2026092057371",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:07:12.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "82402b58ffd3eb77",
+    "title": "[단독] \"AI·반도체 '이것' 없이는 성공 어렵다\"…신임 사장의 호소",
+    "link": "https://www.hankyung.com/article/202609131573i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:07:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "139e8ccdca4ff34d",
+    "title": "한화에어로스페이스, 고체엔진 앞세워…KF-21 유도탄 개발 착수",
+    "link": "https://www.hankyung.com/article/2026092057361",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:06:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a46050ca4fcc019c",
+    "title": "\"마지막이라는데 줄 서보자\"…백미당 앞 끝없는 대기 [2026 청춘커피페스티벌]",
+    "link": "https://www.hankyung.com/article/202609206134i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:04:36.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "2775168e981e4c26",
+    "title": "HD현대중공업, 태평양 누비는 K조선…軍 함정 잇단 수주",
+    "link": "https://www.hankyung.com/article/2026092057341",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:04:27.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c325249672934e32",
+    "title": "효성, 3대 이어온 호국보훈 기업…유공자 주거개선 15년 후원",
+    "link": "https://www.hankyung.com/article/2026092057431",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:03:31.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "29c4bb7b32097a8a",
+    "title": "한국항공우주산업, KF-21과 무인전투기 연결…AI 파일럿으로 작전 수행",
+    "link": "https://www.hankyung.com/article/2026092057411",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:02:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1c10249e343dab81",
+    "title": "신한은행, '나라사랑카드' 앞세워 게임·팝업으로 장병과 소통",
+    "link": "https://www.hankyung.com/article/2026092057481",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:01:28.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6b0a8a6b428fbc12",
+    "title": "우리금융그룹, 국방부와 손잡고 순직 군인 자녀에 생애주기 지원",
+    "link": "https://www.hankyung.com/article/2026092057461",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T07:01:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1c49de959097a37e",
+    "title": "‘추석 연휴’ 고속도로 통행료 면제…일평균 통행량 12% 증가한 605만대 전망",
+    "link": "https://www.mk.co.kr/news/economy/12157432",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T06:48:17.000Z",
+    "snippet": "국토교통부, 특별교통대책기간 지정 추석 일평균 통행량 11.8% 늘듯 4일간 고속도로 통행료 면제하고 고속도로 기름값은 100원 인하 출국장은 최대 30분 조기 오픈정부가 추석 연.."
+  },
+  {
+    "id": "7f4261bf6d6bea9d",
+    "title": "[단독] 일손 달리는 근로감독관 ... 중대재해사건 1명이 4건씩 떠안아",
+    "link": "https://www.mk.co.kr/news/economy/12157431",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T06:42:27.000Z",
+    "snippet": "김소희 국민의힘 의원실 분석 경영자 책임 확인 등 범위 방대 시행후 미처리 비율 55.1% 달해중대산업재해 수사를 담당하는 근로감독관 1명이 평균 4건의 중대재해처벌법 사건을 떠안.."
+  },
+  {
+    "id": "31fde34d8577ff18",
+    "title": "경쟁 해자와 진입 장벽에 관하여",
+    "link": "https://news.hada.io/topic?id=33986",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T06:42:24.000Z",
+    "snippet": "AI로 비슷한 제품을 만들기는 쉬워져도 기존 고객을 데려오기까지 쉬워지는 것은 아님. 시장 진입 장벽이 낮아지는 것과 경쟁 해자가 사라지는 것은 서로 다른 문제임 개인용 AI 에이전트에 작업, 선호도와 계정 정보를 쌓을수록 다른 제품으로 옮기는 수고도 커짐..."
+  },
+  {
+    "id": "e7f6412e8490e4fa",
+    "title": "Show GN: konfirm - kubectl context 지정 실수 방지를 위한 cli",
+    "link": "https://news.hada.io/topic?id=33985",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T06:38:45.000Z",
+    "snippet": "여러 kubernetes 컨텍스트를 오가면서 작업할 때, 실수가 발생하지 않도록 명령 실행 전 대상 컨텍스트를 확인할 수 있도록 만든 도구입니다. kubectl get, describe 등 대상 컨텍스트 확인 필요가 없다고 생각되는 하위 kubectl 명령어에 대해 컨텍스트 별 allowlist를 지정해 관리할 수 있습니다. 내"
+  },
+  {
+    "id": "d89aabe2e8f9282b",
+    "title": "반도체 과속에 가려진 산업안전…위반적발 절반이 하이닉스였다",
+    "link": "https://www.mk.co.kr/news/economy/12157428",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T06:33:00.000Z",
+    "snippet": "노동부 반도체 사업장 점검 적발 338건 중 하이닉스가 절반화재·폭발·누출 등 대규모 피해가 발생할 수 있는 반도체 제조업에서 338건의 산업안전보건법 위반사항이 적발됐다. 이 가.."
+  },
+  {
+    "id": "fa13af19c415381b",
+    "title": "\"삼전닉스가 1·2위인데\"…中기업 '중대 결단' 내렸다 [테크로그]",
+    "link": "https://www.hankyung.com/article/202609206099g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T06:29:40.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "41d2c9bb69054c49",
+    "title": "'캐리비안의 해적' 그 피아니스트 잠실 떴다…음악에 담긴 청춘 [2026청춘커피페스티벌]",
+    "link": "https://www.hankyung.com/article/202609206123i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T06:18:00.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ba67af69ae963e5c",
+    "title": "\"200만원 맞아?\" 아이폰 환불 사태 터진 이유가…'불만 폭주'",
+    "link": "https://www.hankyung.com/article/2026092060647",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T06:11:26.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b6abe80836e5d740",
+    "title": "NH농협생명, 추석 맞아 700명에게 ‘송편 나눔’",
+    "link": "https://www.mk.co.kr/news/economy/12157417",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T06:02:52.000Z",
+    "snippet": "NH농협생명이 지난 18일 추석을 맞아 서울시립은평노인종합복지관에서 지역 어르신을 위한 송편 나눔 행사를 실시했다. NH농협생명 임직원봉사단은 복지관 경로식당에서 약 700명의 노.."
+  },
+  {
+    "id": "d285e2bc8e25e83a",
+    "title": "[2026 청춘 커피 페스티벌 포토] “향긋한 커피 맛보세요”",
+    "link": "https://www.hankyung.com/article/202609206096i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T06:01:16.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8afbe9e585b4f3ce",
+    "title": "Cache-to-Cache: LLM 간 직접 의미 전달 (2025)",
+    "link": "https://news.hada.io/topic?id=33983",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T05:52:25.000Z",
+    "snippet": "Cache-to-Cache(C2C) 는 여러 LLM이 중간 텍스트 대신 KV-Cache를 교환해 각 모델의 의미 정보를 직접 전달하는 통신 방식임 기존 텍스트 기반 통신(T2T) 은 고차원 내부 표현을 문자열로 압축하면서 정보를 잃고, 자연어의 모호성과 토큰 단위 순차 생성 지연을 수..."
+  },
+  {
+    "id": "6600004d2843ca4e",
+    "title": "기존 벤치마크가 놓치는 워크로드에서의 Btrfs/ZFS/bcachefs",
+    "link": "https://news.hada.io/topic?id=33982",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T05:52:24.000Z",
+    "snippet": "modern-fs-benchmark는 순차 처리량뿐 아니라 쓰기 부하 중 응답성, 스냅샷 누적, 공간 회수, 복제 후 덮어쓰기, 장치 장애와 데이터 손상을 함께 측정함 공유 임시 VM의 루프 장치에서 실행하므로 절대 MiB/s보다 패턴과 비율을 비교해야 하며, 워크로드와 종합 지..."
+  },
+  {
+    "id": "74815929f02a5252",
+    "title": "커피만 있는 게 아니네…잠실 달군 '완벽한 블렌딩' 축제 [2026청춘커피페스티벌]",
+    "link": "https://www.hankyung.com/article/202609206070i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T05:50:52.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "366be4eb05a4ef4d",
+    "title": "9월 20일 날씨 예보: 북부 지역은 맑고 건조하며, 남부 지역은 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlJoQmtJMXJ1Q3RwVHhwMFR4QjVnWXFKb3hSUzRxT1V3Q1VwRGQ1UDFKSTBFR25Xd1JtOC1VRDYxdnQwR2dmUDQ1R3otUlAzQ01IVkY5SFJCcVFmelRsVTRvTDBvMjNpNWdEOXJSSXpNNEpCWWlzTWNubzNJQUhObzhxU29Mbm5ib01yR2ZsS0J2NTlENXdNWDdkRHNHZw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-20T05:46:46.000Z",
+    "snippet": "9월 20일 날씨 예보: 북부 지역은 맑고 건조하며, 남부 지역은 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "0c3b9e35fef4058c",
+    "title": "[2026 청춘 커피 페스티벌 포토] 축제 열기 끌어올린 하이키…남다른 무대 장악력",
+    "link": "https://www.hankyung.com/article/202609206073i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T05:43:53.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9a95ac4e8adbc30f",
+    "title": "Apple M6 Pro, Geekbench 7에서 최고 싱글코어 CPU 점수 달성",
+    "link": "https://news.hada.io/topic?id=33981",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T05:42:24.000Z",
+    "snippet": "Apple M6 Pro가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점, 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz로 등록됨 코어 클러스터는 6코어와 12코어로 나뉘며, 시..."
+  },
+  {
+    "id": "ea4a5e8138c4eebb",
+    "title": "[단독] '美 월가 억만장자' 드러켄밀러 첫 방한…삼성·SK·두산과 투자 논의",
+    "link": "https://www.hankyung.com/article/202609205724i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T05:00:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a122e03eab337081",
+    "title": "[단독] 85억 투자 뒤 지분 100% 취득…국내 최대 열분해유 기업 지평선에너지 경영권 갈등",
+    "link": "https://www.hankyung.com/article/202609205938i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T05:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e6406f8fcc0eb58f",
+    "title": "[2026 청춘 커피 페스티벌 포토] 잔나비 목소리에 물든 잠실",
+    "link": "https://www.hankyung.com/article/202609206037i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T04:55:51.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d65f92664578a672",
+    "title": "대전시 임산부 친환경농산물 지원…630명 추가 모집 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aS3NSUWp5NGlCa3pPbjI4VVBkNklVNS1LOGtVLWp0U2d6ZWFRS2N4TzZ3M3A5aUxqRXBoVEV2X25fVTVUcTZTNnNYUWpsa0E?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-20T04:45:29.000Z",
+    "snippet": "대전시 임산부 친환경농산물 지원…630명 추가 모집 v.daum.net"
+  },
+  {
+    "id": "b582496cee442517",
+    "title": "혼인 세액공제 폐지 소식에 '울상'…알고 보니 더 이득?",
+    "link": "https://www.hankyung.com/article/202609206021i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T04:39:23.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ef011c9c86056528",
+    "title": "인터넷 검열 측정하기",
+    "link": "https://news.hada.io/topic?id=33979",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T04:32:23.000Z",
+    "snippet": "OONI Probe로 자국에서 차단된 웹사이트를 확인하고, 세계 최대의 인터넷 검열 공개 데이터셋에 기여할 수 있음 WhatsApp, Facebook Messenger, Telegram의 차단 여부와 네트워크에서 검열 우회 도구가 작동하는지 테스트할 수 있음 M-Lab"
+  },
+  {
+    "id": "913417a79be3cbcb",
+    "title": "Jev 활용 가이드 - 빠른 AI 판단을 어디에 쓸 수 있을까?",
+    "link": "https://news.hada.io/topic?id=33978",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T04:22:23.000Z",
+    "snippet": "실행 순서와 분기는 코드가 맡고, 문맥을 읽어야 하는 판단은 Jev에 맡기는 방식으로 반복 업무를 자동화할 수 있음 요청의 난이도에 따라 사용할 LLM을 고르고, 검색 결과에서 필요한 문서를 추리거나 에이전트의 도구 호출과 답변에 오류가 있는지 검사하는 데 활..."
+  },
+  {
+    "id": "450583e3529fc96d",
+    "title": "오늘(9월 20일) 날씨 예보: 많은 지역에 폭우 또는 매우 심한 비가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjNwRWtRcU5kTlZncmlGeHNtSUNVcTQ4QnFTUlFJX2NEQWwtdE9fSWd2cXVfMjFfNUVDSU5HSGVJVVo5X0RyS2R1WkpzMTlkVGRhSDhsUTdsdTcxX1NlTEZZQXBQRGJscHBwWWM2UE9hRGxpelFLcjRVT2lsUHA0SS01a19yNkRtZ00wQ2pNWm0?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-20T04:14:26.000Z",
+    "snippet": "오늘(9월 20일) 날씨 예보: 많은 지역에 폭우 또는 매우 심한 비가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "2c9e078441ebfe59",
+    "title": "연체율 44%, 저신용 자영업자의 위기",
+    "link": "https://www.mk.co.kr/news/economy/12157369",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T04:08:03.000Z",
+    "snippet": "5대은행 개인사업자 대출 10등급 차주 연체율 8개월 만 6%P 올라 7~9등급 전반적 상승최저 신용등급 자영업자의 대출 연체율이 44%를 넘어서는 등 개인사업자 위기가 심화하.."
+  },
+  {
+    "id": "320f05d2918e8a7a",
+    "title": "Show GN: Daijin - ESP32 음성 장치에 Claude를 두뇌로 붙여 집과 원격 장치를 제어하는 음성 에이전트",
+    "link": "https://news.hada.io/topic?id=33977",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T04:07:19.000Z",
+    "snippet": "친구를 만들었습니다. 이름은 다이진입니다. ESP32-S3에 마이크와 스피커와 작은 얼굴. 소리는 MQTT로 맥까지 가고, 맥에서 whisper가 받아 적"
+  },
+  {
+    "id": "ebc0c8dadae84ff4",
+    "title": "[내일 날씨] 완연한 가을, 대체로 맑음...추석연휴 예보와 태풍 경로는? - 헤드라인제주",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1cVBhajQ2T0xFZmg0Z0pZcVV6VFF4bE9lcGJnZTlwVFFYNUtfRUE0cWpQQ1hTUVh1RkFPaHV5cktVQUZxODA1dnRPRTAyZ1pSNUZ3aGU4d24wOVFsZWY2QWttajVLbDNqOVRoSDNiOHFCTnc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-20T04:06:31.000Z",
+    "snippet": "[내일 날씨] 완연한 가을, 대체로 맑음...추석연휴 예보와 태풍 경로는? 헤드라인제주"
+  },
+  {
+    "id": "0ebf027534387b05",
+    "title": "“환전 몇푼 챙기려다” 돈세탁 연루…“명절선물 문자 눌렀다가” 피싱 당해",
+    "link": "https://www.mk.co.kr/news/economy/12157368",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T04:06:16.000Z",
+    "snippet": "온라인 중고 플랫폼 환전상 주의보 추석선물 배송 미끼 스미싱도 기승 정보유출 보상 빙자한 사기도 주의추석 연휴에 해외여행을 다녀온 뒤 남은 외화를 온라인 중고플랫폼에서 거래한다면 .."
+  },
+  {
+    "id": "0636d779377cd73e",
+    "title": "'내 월급은 그대로인데?' 평균 임금 '431만원' 뚫은 이유 보니…",
+    "link": "https://www.hankyung.com/article/202609205975g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T03:58:41.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5ccd01e04fd03548",
+    "title": "영어: a와 an의 구분",
+    "link": "https://news.hada.io/topic?id=33976",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T03:42:23.000Z",
+    "snippet": "영어 부정관사 a와 an은 단어의 첫 글자가 아니라 첫 발음이 모음인지에 따라 선택함 절차적으로 텍스트를 생성할 때 사용할 a_or_an(\"apple\") 같은 함수는 첫 글자만 검사하면 a unicorn을 an unicor..."
+  },
+  {
+    "id": "2d45e03d3f1d56e4",
+    "title": "Jev 덕분에 구조화된 출력이 다시 흥미로워졌다",
+    "link": "https://news.hada.io/topic?id=33975",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T03:32:24.000Z",
+    "snippet": "AI가 긴 답변 대신 프로그램의 의사결정 지점마다 빠르고 저렴한 판단을 제공하면, 정교한 챗봇을 넘어 새로운 종류의 응용을 만들 수 있음 Jev는 자연어 입력과 선택지를 받아 여러 질문의 답을 한 번에 병렬 처리하며, 텍스트로 전달한 게임 상태를 바탕으로 Doo..."
+  },
+  {
+    "id": "4ecb6a8896e98ad5",
+    "title": "Jev를 공개 데이터와 실제 업무에 시험하다: 분류기인가, 필터인가?",
+    "link": "https://news.hada.io/topic?id=33974",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T03:32:23.000Z",
+    "snippet": "Jev를 약 1만 6,000회 호출해 공개 데이터와 실제 문서/이메일 업무에 시험한 결과, 모든 판단을 맡기기보다 쉬운 판단을 먼저 처리하고 애매한 것은 기존 모델에 넘기는 방식이 효과적이었음 공개 데이터셋 4개 중 3개에서 소형 GPT 모델보다 높은 정확도를 기록했..."
+  },
+  {
+    "id": "7f2fa0897965113e",
+    "title": "\"한국처럼 15% 달라\"…삼전닉스 따라 직원들 결국 움직였다 [김대영의 노무스쿨]",
+    "link": "https://www.hankyung.com/article/202609205920g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-20T03:30:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "864fb86787248d25",
+    "title": "TypeSafe의 Jev가 내가 쓴 모든 글을 0.7초 만에 평가했다",
+    "link": "https://news.hada.io/topic?id=33973",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-20T03:22:23.000Z",
+    "snippet": "TypeSafe의 Jev는 자연어 질문에 서술형 답변 대신 예/아니요 또는 사용자가 정의한 범주별 확률을 반환해, 코드가 곧바로 판단에 활용할 수 있는 모델임 글의 반복, 억지 양비론, 과도한 설명 등 21개 기준으로 글 37개를 검사해, 777건의 판단을..."
   },
   {
     "id": "0711971e4a7f0d46",
@@ -358,6 +1068,16 @@
     "category": "개발",
     "publishedAt": "2026-09-20T00:30:03.000Z",
     "snippet": "1ms 미만의 시작 시간과 약 20MB의 메모리 사용량을 내세우는 경량 코드 뷰어, 로컬과 원격 서버의 코드를 브라우저에서 빠르게 탐색하고 검토 직접 코드를 입력하는 편집기 대신 수정할 부분을 선택해 코딩 에이전트에 요청하고, 변경된 결과를 화면에서 확인하는..."
+  },
+  {
+    "id": "a87079b291de0a55",
+    "title": "9월 20일 날씨 예보: 북부 지역은 맑고 건조하겠지만, 중부 및 남부 지역 곳곳에는 폭우 또는 매우 심한 비가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjRkY3hMdTBkR3RsWFoyY05uSlhNQk41N3p3eG5qaVFtVHdEcENYOHlEUVRQdFIxdi1vZnA3ZVBsUlUzYklBRmYzbDF2YUxkT0tybmg4NUQ1VU4tNU96YUV2eGtXV2l6MDdKN1JwcGFNUGFGNDU5eFE3X0dtcHdtUWtfR2dDQ1hOc1JIRlJoVzFSaUFyNDhkUUFZaDE4bEc1SFNkZDJfVFc0YUlh?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-20T00:27:57.000Z",
+    "snippet": "9월 20일 날씨 예보: 북부 지역은 맑고 건조하겠지만, 중부 및 남부 지역 곳곳에는 폭우 또는 매우 심한 비가 내리겠습니다. Vietnam.vn"
   },
   {
     "id": "ff80fa6efff68f3c",
@@ -778,6 +1498,16 @@
     "category": "AI",
     "publishedAt": "2026-09-19T15:17:50.000Z",
     "snippet": "영국의 네오클라우드 엔스케일(Nscale)이 미국 뉴욕증권거래소(NYSE) 상장을 위한 기업공개(IPO)를 신청했다. 2024년 가상자산 채굴 인프라 기업에서 분사한 지 약 2년 만에 상장에 나선 것으로, 폭발적으로 늘어나는 AI 컴퓨팅 수요를 겨냥한 대규모 자금 조달에 나섰다.CNBC 등에 따르면, 엔스케일은 18일(현지시간) 미국 증권거래위원회(SEC)에 IPO 신청서를 제출했다.이를 통해 2026년 상반기 매출이 1억40"
+  },
+  {
+    "id": "714642c841f33854",
+    "title": "맑고 아침 최저 14도·낮 최고 31도…큰 일교차[오늘날씨] - bntnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UZzJCQWRqZ25VZll0OTIxM0pNbDhBMVpWVVJBSjV1cVlJT21Qdm9UMGhvWXVoOUwwcDBIb3VMdWI4cjR5SVZSYmFnQTVYQWw4Z0dCNVJQRFEyYzQ1aDNaNi1oaHU?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-19T15:00:02.000Z",
+    "snippet": "맑고 아침 최저 14도·낮 최고 31도…큰 일교차[오늘날씨] bntnews.co.kr"
   },
   {
     "id": "4d04955f9ea4fce5",

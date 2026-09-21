@@ -160,6 +160,16 @@
     "snippet": "무스타파 술레이먼 마이크로소프트(MS) AI CEO가 AI 기술 발전 과정에서 중국과의 경쟁을 핑계로 안전장치 마련을 미뤄서는 안 된다고 강조했다.술레이먼 CEO는 20일(현지시간) CNN의 ‘페리드 자카리아 GPS’에 출연해 AI 개발 시 명확한 안전 기준과 규범을 마련해야 한다고 주장했다.그는 AI 개발자들이 모델에 부여하는 목표가 “산업 차원에서 설정해야 할 인본주의적 원칙에 의해 제한돼야 하며, 명확한 안전장치를 갖춰야"
   },
   {
+    "id": "68def97e1a3f6ede",
+    "title": "Heretic, 언어 모델의 제한을 제거하는 도구",
+    "link": "https://news.hada.io/topic?id=34073",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T15:37:35.000Z",
+    "snippet": "Heretic은 언어 모델의 제한을 제거하는 도구임 제거 대상은 언어 모델에 적용된 검열임 검열 제거는 완전 자동 방식으로 수행함 제한을 제거해 모델이 사용자의 지시를 항상 따르도록 하는 것을 목표로 함..."
+  },
+  {
     "id": "69cb9d750bdec6b1",
     "title": "‘암호 해독·마인크래프트’ 성과 낸 발스, AI 벤치마크 강자로 부상",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215535",
@@ -168,6 +178,36 @@
     "category": "AI",
     "publishedAt": "2026-09-21T15:36:43.000Z",
     "snippet": "실질적인 산업 적용 능력을 측정하는 벤치마크 기술로 AI 업계의 눈길을 사로잡은 스타트업 발스 AI(Vals AI)가 4000만달러(약 553억원) 규모의 시리즈 A 투자를 유치하며 빠른 성장세를 입증했다. 이 회사는 최근 앤트로픽과 오픈AI의 최신 모델로 고난도 테스트를 실시하며 글로벌 업계에서 폭발적인 반응을 얻고 있다.테크크런치 등에 따르면, 발스는 지난달 앤드리슨 호로위츠(a16z)가 주도한 투자 라운드에서 4억달러의 "
+  },
+  {
+    "id": "2e807bf058afd4cb",
+    "title": "Sun이 잘못한 것",
+    "link": "https://news.hada.io/topic?id=34072",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T15:34:35.000Z",
+    "snippet": "Sun의 핵심 실패는 사업 운영의 기본 실무에 흥미를 잃은 것이었으며, 전략이 성공하더라도 운영 실패를 극복하지 못하면 기업은 성공할 수 없음 2005년 OpenSolaris로 인프라를 운영하던 급성장 스타트업이 Sun 하드웨어를 대량 구매하려 했지만, Sun은 연락에 응..."
+  },
+  {
+    "id": "48c5b4e5cb7936c9",
+    "title": "Show GN: 알람케이 - iOS 26 AlarmKit으로 만든, 미션을 끝내야 꺼지는 알람",
+    "link": "https://news.hada.io/topic?id=34071",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T15:22:35.000Z",
+    "snippet": "미션을 끝내야 꺼지는 iPhone 알람 앱입니다. QR·바코드 스캔, 수학 문제, 기억력, 타이핑, 흔들기, 스쿼트, 걷기, 사진 인증 등 8가지 미션을 지원하고, 하나의 알람에 최대 5개의 미션을 연속으로 설정할 수 있습니다. iOS 26에서 Apple이 공개한 시스템 알람 API인 AlarmKit을 기반으로 만들었습니다"
+  },
+  {
+    "id": "2cafc815409daa6e",
+    "title": "브렌트유 100달러 아래로…美채권과 주식 일제 상승",
+    "link": "https://www.hankyung.com/article/202609229353i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T15:12:51.000Z",
+    "snippet": ""
   },
   {
     "id": "aca9d13d45f3dbc4",
@@ -180,6 +220,16 @@
     "snippet": "샤오미가 차세대 플래그십 모델 '미모(MiMo)-V2.6'의 강화학습(RL) 사후훈련 과정을 실시간으로 생중계하는 파격적인 행보로 관심을 끌고 있다. 기술설명서 발표나 모델 재현을 넘어, 수백만달러가 투입되는 모델 훈련 과정을 대시보드 형태로 대중에 노출한 것은 주요 AI 기업 중 최초다.샤오미 AI 대형모델팀은 지난 15일부터 실시간 훈련 상태를 추적할 수 있는 대시보드 페이지를 오픈했다. 여기에는 '미모-V2.6 프로'와 "
   },
   {
+    "id": "bec15c219aa0d449",
+    "title": "[영상] 2026년 9월 22일 오늘 밤과 내일 날씨 예보: 베트남 중부 및 남부 지역에 광범위한 폭우가 예상되며, 일부 지역에서는 300mm 이상의 강우량을 기록할 것으로 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2RoRmNjWVRTTXFIcXhwdDNiQ3psQy1rcHFxSk5scldUWWNZMmVsZWI1MmRwSmdWTU54Zk5SX20tWEFpS2J4Z3ZwQ0ZRbzViRHJqTllDSS04dC14ZVZHT0luUk9ROGcxcWd2bklpQTZSaXUyTWdyMjJBMTViMWNvUkd6T0tvc2NwQzR1anVyOG13Z2wwdnJaLXhFbDE3SG9McjVyUExaTGpyWEhaemtzbG9qLV9ZRlVYVmtLQWhRelBaTGZJX09xWTdhSkd3eUxNWXZN?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T14:46:37.000Z",
+    "snippet": "[영상] 2026년 9월 22일 오늘 밤과 내일 날씨 예보: 베트남 중부 및 남부 지역에 광범위한 폭우가 예상되며, 일부 지역에서는 300mm 이상의 강우량을 기록할 것으로 예상됩니다. Vietnam.vn"
+  },
+  {
     "id": "e37cb5e10f5a8384",
     "title": "LG, ‘AI 미래세대’ 양성 위한 에이머스 해커톤·청소년 캠프 진행",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215526",
@@ -188,6 +238,46 @@
     "category": "AI",
     "publishedAt": "2026-09-21T14:45:00.000Z",
     "snippet": "LG가 국내 AI 인재 양성에 집중하기 위해 해커톤, 채용 박람회, 청소년 캠프 등 교육 프로그램을 연이어 진행했다고 21일 밝혔다.먼저, LG는 19일부터 1박 2일 일정으로 경기도 이천 LG인화원에서 AI 기술로 산업 난제를 해결하는 실전형 프로그램 ‘LG 에이머스(Aimers) 해커톤’을 열었다.이번 LG 에이머스 9기에는 역대 최다인 3393명의 청년이 참가하며 높은 관심을 입증했다. 이중 온라인 교육부터 해커톤 온라인"
+  },
+  {
+    "id": "285f490312b9dabb",
+    "title": "AI주 올라도 지금 맞서면 안되는 3가지 [박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202609219323i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T14:41:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "62766035f4ae20b0",
+    "title": "AI 챗봇, 금융 질문에 ‘대부분’ 잘못된 답변",
+    "link": "https://news.hada.io/topic?id=34070",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T14:31:22.000Z",
+    "snippet": "ChatGPT, Claude, Grok, Gemini 등 18개 AI 모델에 금융 관련 질문을 테스트한 결과, 평균 57% 에서 잘못된 답변을 내놓았으며 복잡한 질문에서는 오류율이 평균 88%까지 올라감 100개 이상의 금융 질문을 최대 5회씩 반복해 *총 1만 건 이상- 질의했으며..."
+  },
+  {
+    "id": "90ea02fb7e8831a8",
+    "title": "베선트 \"AI 모델이 해킹 사고 내면 해당 AI 회사 경영진 책임\"",
+    "link": "https://www.hankyung.com/article/202609219335i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T14:26:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "be9ec351c2508664",
+    "title": "굴스비 \"AI 투자가 총생산 증가 시킬 경우 금리 인상 필요\"",
+    "link": "https://www.hankyung.com/article/202609219320i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T14:14:59.000Z",
+    "snippet": ""
   },
   {
     "id": "e588dc12d92e720d",
@@ -200,6 +290,46 @@
     "snippet": "AI 기반 코드 생성 도구의 등장으로 누구나 앱을 개발할 수 있는 ‘바이브 코딩’ 환경이 열렸지만, 정작 시장에서 선택받는 앱은 드문 것으로 나타났다.앤드리슨 호로위츠(a16z)가 18일(현지시간) 발표한 보고서에 따르면, 올해 iOS와 안드로이드 등 주요 플랫폼 전반에서 월간 신규 앱 출시 건수가 2021~2023년 대비 2~4배까지 폭발적으로 늘어났다. 크롬 웹스토어에서는 최대 10배까지 증가했다. AI 코딩 도구로 인해 "
   },
   {
+    "id": "05209fa3a6a8fd64",
+    "title": "오늘 밤과 내일(2026년 9월 21일) 날씨 예보: 북부 지역은 맑고, 남부 일부 지역에는 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmFPODV6ZFZ5Nk1qTWU1ZUxjUnFyMTF3Qmd4RTRkOURWclYwbEwtOFBfR0tvYU0zRGdXTWp6a3lxWVlyeG5nMjdrZzVwYkJVWmhQWU1mOEdkQWl6d0hfVXVCQ0JWN3Z6V1FzRnVPcTFqSFNmdEFYWFd6UGs1emhfVjhmOUtYQzh2QmNrdU1ZdHNSdVE3TFdmVXlUNlcxaTEzVjd0TGVLeDhWR0FFNmZpaA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T13:50:20.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 21일) 날씨 예보: 북부 지역은 맑고, 남부 일부 지역에는 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "65d59b0866c8e676",
+    "title": "jev-leftpad - Jev로 값 왼쪽에 패딩 추가",
+    "link": "https://news.hada.io/topic?id=34069",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T13:36:50.000Z",
+    "snippet": "jev-leftpad는 값의 왼쪽에 붙일 공백 수를 Jev 모델이 선택하도록 하는 패키지로, padStart() 한 줄이면 가능한 작업에 모델을 호출함 모델이 space_0부터 space_10까지의 선택지 중 하나를 고르면, JavaScript가 해당 개..."
+  },
+  {
+    "id": "143b1db8d0bf46a1",
+    "title": "Disney+, 새 이용약관으로 모든 구독 요금제에서 영화 시작 전 광고 허용",
+    "link": "https://news.hada.io/topic?id=34068",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T13:33:50.000Z",
+    "snippet": "Disney+ 가 2025년 1월 구독 약관을 변경해, ‘광고 없음’으로 판매하는 요금제를 포함한 모든 구독 등급에 광고가 들어갈 수 있도록 함 광고 없는 요금제는 일반적으로 상업 광고로 재생이 중단되지 않지만, 스트리밍 권리나 기타 제약, 실시간 방송과 특별 행사..."
+  },
+  {
+    "id": "7163a587d9e5040e",
+    "title": "9월 22일 날씨 예보: 탄화에서 후에 시까지 무더운 날씨가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2k4dTQydFB1c3RzalQzb1lhNUFjTWRaRi1jakwwVHd4eGtPd0xtbUFzT2RJYXFqUVA2emVzZ0s2VVlrbnhoT3dxVGUzV2lQSVFNbUxNa1JxSEtiSkRZX2JESlUwOWZuUHM1TWZMRzRPUXhoN0dEV2x1RzhlOHFnQ0w0MHEyY18xTWtaUTJjcGxvMjU5THduVw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T13:14:42.000Z",
+    "snippet": "9월 22일 날씨 예보: 탄화에서 후에 시까지 무더운 날씨가 예상됩니다. Vietnam.vn"
+  },
+  {
     "id": "6638a79057cc2211",
     "title": "중국 스마트 안경 판매량 120% 급증...가성비·AI로 시장 공략",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215522",
@@ -210,6 +340,36 @@
     "snippet": "중국 내수 소비 시장이 스마트 기술과 헬스케어, 고품질 제품 중심으로 급격히 재편되면서, 올해 들어 스마트 안경을 비롯한 웨어러블 첨단 기기 판매량이 두 배 이상 증가한 것으로 나타났다.20일 중국 상무부의 발표에 따르면 2026년 1월부터 8월까지 주요 중국 온라인 플랫폼을 통한 스마트 안경 판매량은 전년 동기 대비 120% 급증했다. 상무부 관계자는 \"중국 소비자 시장이 스마트, 건강 관련 및 고품질 제품으로 향하는 흐름이"
   },
   {
+    "id": "f2abee3c3f6e9aca",
+    "title": "오픈AI에 올인한 이 회사, 또 15조원 정크본드 발행 추진",
+    "link": "https://www.hankyung.com/article/202609219285i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T13:06:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ef734b822de9a9c2",
+    "title": "\"또 사이드카 쏟아지나\"…한숨 돌리던 개미들 떨게 한 '경고' [분석+]",
+    "link": "https://www.hankyung.com/article/2026092181966",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T13:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "08c5c51d45814cc1",
+    "title": "내일 9월 22일 전국 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamV3cW0yZXlFeUpzdDBEb3l4dmpFVXJTV1ZmeFhiQmc5OHFXYms3UEQ1aTZEMVlicEowZ2ZhSjBaMTVudF9INk9Sb0VUR0FuWG5VTUp4ZFA4OFMyUHp0VHdicGMzbU1jRV95WmJCdDBxOTZGVERtZFZndDFTR1M2djd2VXlVQXJ2ZWtnV256d1E?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T13:00:00.000Z",
+    "snippet": "내일 9월 22일 전국 날씨 예보 Laodong.vn"
+  },
+  {
     "id": "3525e7fba5b0b1b4",
     "title": "메리엄-웹스터 사전, ‘바이브 코딩’·‘불쾌한 골짜기’ 등 신조어 1400개 등재",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215515",
@@ -218,6 +378,36 @@
     "category": "AI",
     "publishedAt": "2026-09-21T12:47:05.000Z",
     "snippet": "AI와 소셜미디어가 일상 언어를 빠르게 바꾸면서 새로운 기술 용어와 인터넷 신조어가 사전의 공식 어휘로 속속 편입되고 있다. 미궉의 대표적 사전 출판사인 메리엄-웹스터는 18일(현지시간) 사회와 기술 변화를 반영해 온라인 사전에 약 1400개의 새로운 단어와 의미를 추가했다고 발표했다. AI와 IT 관련 용어부터 소셜미디어와 대중문화, 일상생활에서 널리 사용되는 신조어까지 폭넓게 포함됐다.이번 개정에서 특히 눈에 띄는 것은 A"
+  },
+  {
+    "id": "25f85d9b19f0114f",
+    "title": "\"마트 갔다간 8만원 더 쓴다\"…추석 장보기 가장 싼 곳은",
+    "link": "https://www.hankyung.com/article/2026092192797",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T12:45:18.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "25077b612923729b",
+    "title": "Show HN: Mini-AGI - 8GB VRAM에서 학습하는 동적 지속 학습 모델",
+    "link": "https://news.hada.io/topic?id=34067",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T12:38:05.000Z",
+    "snippet": "mini-AGI는 단일 8GB VRAM GPU에서 처음부터 학습하고, 읽는 데이터에 따라 전문가 풀과 연산 깊이를 바꾸는 바이트 단위 언어 모델임 가중치와 옵티마이저 상태를 디스크에 저장하고 필요한 전문가만 GPU에 올리므로, 전체 파라미터 수보다 현재 작업 집합이 VRAM..."
+  },
+  {
+    "id": "ecca15dc6b0baefc",
+    "title": "ZuckOff, Meta 안경이 당신을 보기 전에 먼저 감지하는 무료 앱",
+    "link": "https://news.hada.io/topic?id=34066",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T12:35:05.000Z",
+    "snippet": "ZuckOff는 주변 스마트 안경의 Bluetooth 신호를 감지해 같은 공간에 기기가 있는지 알려주는 앱으로, iPhone에서 기본 스캔 기능을 무료로 제공함 모델별 Bluetooth 신호로 만든 디지털 지문을 활용하며, Ray-Ban Meta, Oakley Meta, Snap Spectacles 등을 탐지함..."
   },
   {
     "id": "99391f14b13aee2a",
@@ -240,6 +430,86 @@
     "snippet": "AI가 1차 세계대전 당시 독일군이 사용한 암호화된 무선 통신을 약 108년 만에 해독했다. 톰스하드웨어에 따르면, 프린츠라는 독립 개발자는 18일(현지시간) 오픈AI의 'GPT-6 아스트라'를 활용해 1918년 11월29일 독일군이 전송한 암호문을 해독하는 데 성공했다고 밝혔다.이번 암호문은 독일 과학 블로그 포털 '사이언스블로그'가 관리해 온 50개의 미해결 암호 목록 가운데 하나였다. 당시 독일군이 사용한 'ADFGVX'"
   },
   {
+    "id": "3c3065db8885627c",
+    "title": "\"아파트 샀으니 그 다음은\"…2030 반도체맨 지갑 열린 곳",
+    "link": "https://www.hankyung.com/article/2026092188681",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T12:00:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f8c4e8d06db87e3a",
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "source": "MIT Technology Review AI",
+    "sourceId": "mit-tech-review-ai",
+    "category": "AI",
+    "publishedAt": "2026-09-21T12:00:00.000Z",
+    "snippet": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dyi"
+  },
+  {
+    "id": "d3127432d7639c48",
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "source": "MIT Technology Review AI",
+    "sourceId": "mit-tech-review-ai",
+    "category": "AI",
+    "publishedAt": "2026-09-21T12:00:00.000Z",
+    "snippet": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undet"
+  },
+  {
+    "id": "cd25620efbb87a2e",
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "source": "MIT Technology Review AI",
+    "sourceId": "mit-tech-review-ai",
+    "category": "AI",
+    "publishedAt": "2026-09-21T12:00:00.000Z",
+    "snippet": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern"
+  },
+  {
+    "id": "cddec4e64586d086",
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "source": "MIT Technology Review AI",
+    "sourceId": "mit-tech-review-ai",
+    "category": "AI",
+    "publishedAt": "2026-09-21T12:00:00.000Z",
+    "snippet": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending v"
+  },
+  {
+    "id": "c75cc08d325ecfd2",
+    "title": "“절반이 900점대, 변별력 있나요?”…무늬만 고신용자 걸러내는 은행",
+    "link": "https://www.mk.co.kr/news/economy/12158688",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T12:00:00.000Z",
+    "snippet": "고신용자 5명중 1명 대출거절 총량규제 등 가계대출 조이며 고신용자 심사도 엄격해져 중저신용자는 대출난민 전락 제2금융권서 고신용자와 경쟁 일부 차주 부담이자 20% 육박정부의 강.."
+  },
+  {
+    "id": "9ec6ba0b662c3a23",
+    "title": "암호화폐 겨울 끝났나…비트코인 美서 8만5000달러 회복",
+    "link": "https://www.hankyung.com/article/202609219260i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T11:57:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "55b957b1ee6305ce",
+    "title": "Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델",
+    "link": "https://news.hada.io/topic?id=34065",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T11:42:00.000Z",
+    "snippet": "Qwen3.5를 기반으로, 긴 답변을 생성하는 대신 예/아니요 확률, 선택지별 확률과 평가 점수를 반환하는 의사결정 모델 고객 문의 하나에서 담당 부서, 긴급 대응 여부, 고객의 불만 정도를 함께 판단할 수 있으며, 각 질문은 다른 질문의 내용에 ..."
+  },
+  {
     "id": "8efc23721d7343ea",
     "title": "태양광 패널 땅에 바로 설치…미국 텍사스서 직류 93MW 규모 건설",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215527",
@@ -248,6 +518,16 @@
     "category": "AI",
     "publishedAt": "2026-09-21T11:40:00.000Z",
     "snippet": "미국 텍사스에서 철제 지지대나 추적장치 없이 태양광 패널을 지면에 직접 설치하는 52메가와트(MW) 규모 발전소가 건설되고 있다. 발전소의 교류 기준 설비용량은 52MW이며, 설치되는 태양광 모듈의 직류 기준 설비용량은 93MW다. 대규모 발전소에 지면 직접 설치 방식을 적용하는 사례로 오는 11월 상업운전을 목표로 하고 있다.미국 태양광 기업 어소스(Erthos)에 따르면 ‘프로젝트 브라보(Project Bravo)’는 텍사"
+  },
+  {
+    "id": "19067271e1c6249c",
+    "title": "ZuckOff - 방 안에 카메라가 있는지 알려주는 앱",
+    "link": "https://news.hada.io/topic?id=34064",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T11:39:00.000Z",
+    "snippet": "ZuckOff는 카메라 안경의 Bluetooth 신호를 감지해 Ray-Ban Meta, Oakley Meta, Snap Spectacles 같은 기기가 근처에 있으면 알려줌 제조사 식별 정보로 카메라 안경을 판별하고, 각 판별의 근거를 공개해 사용자가 직접 판단할 수 있게 함 데이터..."
   },
   {
     "id": "9e97ae3f609b8893",
@@ -270,6 +550,16 @@
     "snippet": "AI 인프라 소프트웨어 전문 오케스트로 그룹(의장 김민준)이 퓨리오사AI(대표 백준호)와 협력해 국산 NPU AI 인프라를 상용화, 시장 확대에 나선다. 오케스트로 그룹은 AI 반도체 전문 퓨리오사AI와 ‘NPU 기반 AI 인프라 및 플랫폼 기술·사업 협력’ MOU를 체결했다고 21일 밝혔다.양사는 올해 초부터 퓨리오사AI의 2세대 NPU ‘레니게이드(RNGD)’와 오케스트로 AI 인프라 소프트웨어 간의 긴밀한 기술 협력을 이"
   },
   {
+    "id": "04514382564f045b",
+    "title": "美·中 AI 불신벽 높은데…'AI위험 알림시스템' 논의 될까",
+    "link": "https://www.hankyung.com/article/202609219239i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T11:26:15.000Z",
+    "snippet": ""
+  },
+  {
     "id": "0d833a3fec3e39b0",
     "title": "아제르바이잔, 태양광 378MW로 확대…100MW 신규 발전소 준공",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215525",
@@ -278,6 +568,16 @@
     "category": "AI",
     "publishedAt": "2026-09-21T11:25:00.000Z",
     "snippet": "아제르바이잔이 처음으로 경쟁입찰을 통해 사업자를 선정한 100메가와트(MW) 규모 태양광발전소를 가동했다. 중국 유니버설인터내셔널홀딩스가 개발한 사업으로, 2024년 진행된 입찰에서 킬로와트시(kWh)당 3.54센트(약 49원)의 전력가격을 제시해 사업권을 확보했다.아제르바이잔 대통령실에 따르면 일함 알리예프 대통령은 지난 16일(현지시간) 수도 바쿠 가라다그 지역에 조성된 ‘고부스탄 태양광발전소’ 준공식에 참석했다. 발전소는"
+  },
+  {
+    "id": "951999e973bcc6df",
+    "title": "\"월급 꼬박꼬박 넣었는데 왜?\"…대출 우대금리 날아간 이유",
+    "link": "https://www.hankyung.com/article/2026092192377",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T11:24:46.000Z",
+    "snippet": ""
   },
   {
     "id": "45caa8002b326d09",
@@ -290,6 +590,46 @@
     "snippet": "지방정부의 행정업무와 주민 서비스에 생성 AI와 바이브 코딩 활용이 확대되면서 서비스 개발 속도뿐 아니라 보안 점검을 함께 고려해야 한다는 제언이 나왔다. AI를 활용해 빠르게 서비스를 구축하더라도 권한 관리와 인증정보, API를 통한 데이터 노출 등 실제 운영 과정에서 발생할 수 있는 취약점을 개발 단계부터 살펴야 한다는 취지다.AI 보안 전문 AI스페라는 강병탁 대표가 행정안전부가 개최한 ‘제43회 지역정보화 우수사례 발표"
   },
   {
+    "id": "8d13ce48ad256792",
+    "title": "최다니엘, 본업 바꿨나... 아침 뉴스서 능청스러운 날씨 예보 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54TVBPMjIyS0tubFdzMUJuN2o1em44Q2JMbVR4MjNDRVRXZXJPVDJvU1dxS3RXN3U3RWpvOU9qcFdqNlJhaGVKMncyMUJlb0E?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T11:14:00.000Z",
+    "snippet": "최다니엘, 본업 바꿨나... 아침 뉴스서 능청스러운 날씨 예보 v.daum.net"
+  },
+  {
+    "id": "356c71b7ada9e88a",
+    "title": "\"기름 미리 넣지 마세요\"…추석 고속도로 주유소 가야하는 이유",
+    "link": "https://www.hankyung.com/article/2026092192237",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T11:12:51.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5b855f0a4a9627c3",
+    "title": "최다니엘, 본업 바꿨나... 아침 뉴스서 능청스러운 날씨 예보 - 일간스포츠",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6Vnpva0N6M0hWYmFtVExtZ2ZjcllIbWdxQ1RzMjhxYWhWeDJVc184Q1l2QnQ4R21IcTdaUzh3MUtMTDlhY0YtVlNkTndBNldKazN5c0xsWmswM0E?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T11:12:00.000Z",
+    "snippet": "최다니엘, 본업 바꿨나... 아침 뉴스서 능청스러운 날씨 예보 일간스포츠"
+  },
+  {
+    "id": "a63be0016e8228f4",
+    "title": "콘웨이의 법칙과 프로그래밍 언어",
+    "link": "https://news.hada.io/topic?id=34063",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T11:08:31.000Z",
+    "snippet": "콘웨이의 법칙을 AI 에이전트에 적용하면 그대로 들어맞지 않음. 에이전트는 통신 속도는 빠르지만 세션마다 리셋되는 고정된 컨텍스트 윈도우 때문에 인간처럼 프로젝트별 공유 지식을 축적하지 못함 인간-에이전트 상호작용의 병목은 인간이 에이전트의 출력을 읽고 판단하..."
+  },
+  {
     "id": "483dfaded37a47fe",
     "title": "정부, 탠덤 태양전지 상용화 속도…대면적 제조·표준화 지원",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215523",
@@ -298,6 +638,246 @@
     "category": "AI",
     "publishedAt": "2026-09-21T11:05:00.000Z",
     "snippet": "정부가 페로브스카이트와 실리콘을 결합한 차세대 탠덤 태양전지의 조기 상용화를 위해 대면적 제조와 성능평가, 국제 표준화 기반 확충에 나선다. 기업과 연구기관이 개발한 태양전지와 모듈을 양산에 앞서 검증할 수 있는 공동 연구시설을 활용해 차세대 태양광 기술의 상용화 시기를 앞당긴다는 계획이다.기후에너지환경부는 김성환 장관이 21일 대전 유성구 한국에너지기술연구원 태양광기업공동활용연구센터를 방문해 차세대 태양전지 기술개발 현황을 "
+  },
+  {
+    "id": "4b47b4b23d96d0a3",
+    "title": "\"술 없이 아침부터 춤추고 떼창\"…2030이 주말 보내는 법 [박수림의 요즘 여기]",
+    "link": "https://www.hankyung.com/article/202609218204g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T11:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "07a2c66c02de4041",
+    "title": "\"이름·주소까지 샜는데\"…쿠팡, 대만 과징금 6489만원",
+    "link": "https://www.hankyung.com/article/2026092191887",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T10:25:18.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0576c8dc979dc6f0",
+    "title": "오늘 밤과 내일(2026년 9월 22일) 날씨 예보: 북부 지역은 덥고 맑겠고, 남부 지역은 폭우 또는 매우 심한 비가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOenF3bHVnenFucjEwU0JUWnFGTmY1eDdIMmo5TVFQSmJkVHlweHQxTWMtLWpNbVdDUWlqOFh2WmFneWluU3hFQ2o3SUdtbTdPd3Z2QWF2NGxuRV9mM1FKZEszQnpHUnlobDMtVEtsaWYzcWZTcEdTWG5jUGtRYmxObW1IUUdOOUUyNEptTW9IQTRMZVlCdzJpdUdkdjJGa0xFNFdsbXhCVUxGN3BLNmItbWFjZWxpZw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T10:16:58.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 22일) 날씨 예보: 북부 지역은 덥고 맑겠고, 남부 지역은 폭우 또는 매우 심한 비가 내리겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "0dbd5d8730a9a4c2",
+    "title": "“월급 꼬박꼬박 들어왔는데 대출금리 왜 안깎였죠?”…급여이체 인정 안 된 까닭",
+    "link": "https://www.mk.co.kr/news/economy/12158603",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:48:02.000Z",
+    "snippet": "금감원은 21일 ‘주요 민원 사례로 알아보는 은행 이용 시 소비자 유의사항’을 통해 최근 접수된 민원 사례를 소개하며 소비자들에게 주의를 당부했다. 대출 금리 감면 조건으로 급여 .."
+  },
+  {
+    "id": "3d4440a160338b2a",
+    "title": "신한금융 은행·카드·증권 등 자회사 CEO 선임 시동",
+    "link": "https://www.hankyung.com/article/202609219157i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:43:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "481c8261136e807b",
+    "title": "차기 신한은행장 후보, 지주 아닌 은행서도 추천한다…“공정성 강화 차원”",
+    "link": "https://www.mk.co.kr/news/economy/12158600",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:40:20.000Z",
+    "snippet": "신한금융, 은행·카드·증권 등 12개 자회사 CEO 승계절차 개시신한금융그룹이 신한은행과 신한카드, 신한투자증권 등 자회사 최고경영자(CEO) 선임 작업에 돌입했다. 신한금융은 은.."
+  },
+  {
+    "id": "820869e03a2c13c1",
+    "title": "법인세 깎아준다는데 … 태양광엔 '그림의떡'",
+    "link": "https://www.hankyung.com/article/2026092189271",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:30:55.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "18ce917cb1f31cd4",
+    "title": "곽노정 \"차세대 메모리로 AI 새로운 가능성 열 것\"",
+    "link": "https://www.hankyung.com/article/2026092189261",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:29:32.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "19869b40cbc8fdbf",
+    "title": "HL만도 \"외부기관 통해 안전진단 추진\"",
+    "link": "https://www.hankyung.com/article/2026092189291",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:29:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "994271ecf7028514",
+    "title": "삼성, HVAC 승부수…광주서 냉난방공조 라인 착공",
+    "link": "https://www.hankyung.com/article/2026092189231",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:28:46.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e99ca443e2f06a4b",
+    "title": "LGD, 세계 최고 '게이밍 OLED' 출시",
+    "link": "https://www.hankyung.com/article/2026092189311",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:26:59.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3ea7070cbe956aec",
+    "title": "\"기업이 수소에 장기 투자하도록 정책 일관성 필요\"",
+    "link": "https://www.hankyung.com/article/2026092189281",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:26:41.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8f0e543742d6a0eb",
+    "title": "제이오션중공업, 탱커 6척 수주",
+    "link": "https://www.hankyung.com/article/2026092189301",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:26:25.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "46c8d09b6aa39648",
+    "title": "[포토] 'GS그룹 해커톤' 지켜보는 허태수 회장",
+    "link": "https://www.hankyung.com/article/2026092189221",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:26:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f900db7dc63dbb9c",
+    "title": "관행적으로 임대한 농지 처분 유예…불법전용도 구제",
+    "link": "https://www.hankyung.com/article/2026092190541",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:16:56.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6c632e7155f8fd92",
+    "title": "\"中企 홀로 AI 도입땐 필패…산단 전체가 공용 AX모델로 뭉쳐야\"",
+    "link": "https://www.hankyung.com/article/2026092190521",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:15:33.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c04e0a1c04ca5f34",
+    "title": "[단독] \"이것도 中 저것도 中\"…한국 도로 누비는 '붉은 눈'",
+    "link": "https://www.hankyung.com/article/2026092189971",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:10:16.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "70eb19d9b237df01",
+    "title": "\"경쟁사와 데이터 공유\"…'나홀로 AI' 버리고 '동맹' 맺은 제조업체들",
+    "link": "https://www.hankyung.com/article/202609219105i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:09:42.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6871b076542a03ce",
+    "title": "휴머노이드 데이터 시장도 앞서가는 中",
+    "link": "https://www.hankyung.com/article/2026092189961",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:08:58.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9dd358a0140a6a5b",
+    "title": "최태원 \"AI 활용해 우리 사회 비용 낮춰야\"",
+    "link": "https://www.hankyung.com/article/2026092190331",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:08:18.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9bca86c49ec6fe0c",
+    "title": "[단독] 1년새 4.5조 격차 뒤집은 네이버페이…'카드사 독식' 깼다",
+    "link": "https://www.hankyung.com/article/2026092190151",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:05:59.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "2f49c5044a69bee3",
+    "title": "사법부에 날세운 주병기 \"공정위 조사 무력화\"",
+    "link": "https://www.hankyung.com/article/2026092190171",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:04:52.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "963f30c9d8b30574",
+    "title": "\"반도체팹 인프라 등 '투자 걸림돌' 없애달라\"",
+    "link": "https://www.hankyung.com/article/2026092190181",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:04:20.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9b3349ccf470668c",
+    "title": "성영수 사장, 불법사금융 근절 캠페인",
+    "link": "https://www.hankyung.com/article/2026092190341",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T09:04:19.000Z",
+    "snippet": ""
   },
   {
     "id": "51126b809428a02a",
@@ -1130,6 +1710,16 @@
     "snippet": "Radius는 그룹, 이벤트, 활동을 통해 지역 커뮤니티를 찾고 사람들과 연결하는 서비스임 전 세계 도시의 수백 개 그룹을 둘러보고 가입하거나 직접 커뮤니티를 만들 수 있음 초근거리 탐색 기능은 베타로 제공되며, 관심사와 시간, 장소..."
   },
   {
+    "id": "8dfd6d062c01ab70",
+    "title": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 - K-Classic News",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DLV9CRVd0ajRWVl9xSDZsWmI0eVJoOXBraTVsU2N6N0hIbHM3TVpiYlBrNEtHUHRRX2ExWnVuVGdxSzRVcE05NEJveVFaeEMxVTdscEJkb1NFQnhQbDh0SUZCdzlydTQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-21T04:10:15.000Z",
+    "snippet": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 K-Classic News"
+  },
+  {
     "id": "1f889af8bb667b6d",
     "title": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 - newszoom.kr",
     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBaZm1ibjFVMGhRU0gxSUl1eDNGeUJQbzFKMkJvNkdDVGJ3Y3hFNTFTTUN3cTloeW03Z1RRcUlvbGZIZGlX?oc=5",
@@ -1830,6 +2420,16 @@
     "snippet": ""
   },
   {
+    "id": "d1749ba76a98e7a5",
+    "title": "How V7 gives AI agents institutional memory",
+    "link": "https://openai.com/index/v7",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-21T00:00:00.000Z",
+    "snippet": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+  },
+  {
     "id": "ea3c2ffecfacc0e4",
     "title": "하이리움산업, 독일과 손잡고 액화수소 글로벌시장 공략 본격화",
     "link": "https://www.hankyung.com/article/202609217026i",
@@ -1848,6 +2448,16 @@
     "category": "경제",
     "publishedAt": "2026-09-20T23:48:32.000Z",
     "snippet": ""
+  },
+  {
+    "id": "166e8ecbe0300658",
+    "title": "케이웨더, 엔비디아 기반 AI 기상예보 10종 출시…최대 60일 예측 : 네이버 블로그 - Naver Blog",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjdOaUdZUUdZaC01N2JSLU9pQ1lnY2NucTJ3TTB3aGNMNDFpWWpXQ3JqUlV0NlRXUUJqU09LN3R4YjhxTlMtb25jSFk1VjFxblpVelpCWUtrZFBVVEFSOXUtMFdQOFlJOEpCRUluVHJIY0xTVHN0RXFWelZBbjNSTVZhTHV0dXB5QU5XOElJdw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-20T23:45:10.000Z",
+    "snippet": "케이웨더, 엔비디아 기반 AI 기상예보 10종 출시…최대 60일 예측 : 네이버 블로그 Naver Blog"
   },
   {
     "id": "1da446638a2a99b3",
@@ -1968,6 +2578,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-20T23:08:37.000Z",
     "snippet": "9월 21일 날씨 예보: 북부 지역은 덥고 습하며, 남중부 및 남부 지역에는 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "44ca37d81f07edc2",
+    "title": "[날씨] \"아침 선선, 낮엔 30도\"…최다니엘의 깜짝 기상 예보 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pS1Z1b0xuZ0dJTEtVQXVURU0tbk1xeUtCRGtxaXYzamRWLVp1M25ja3JEb09BdWtLV3Z2dVNHU05mSkd3UzJxeFBQQy1pS2M?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-20T23:05:39.000Z",
+    "snippet": "[날씨] \"아침 선선, 낮엔 30도\"…최다니엘의 깜짝 기상 예보 v.daum.net"
   },
   {
     "id": "295e07ec05c96cbb",
@@ -36840,6 +37460,16 @@
     "snippet": "동해시, 슬레이트 철거 지원사업 추가 모집 뉴스핌"
   },
   {
+    "id": "0cbcd8b924067420",
+    "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40c3hab19XOWdnUnVyeFp6b0RGMWZlLWI5a1VwanBxNk14Y0NuQlY2b2VTenFwLUk1S3JoU1NSaExFNmlUSlU0MzZUaG9uWVJBNFlOeHY5UEhMQVRBR1NGY2l3WDlSN0U?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-07T07:00:00.000Z",
+    "snippet": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 국토교통신문"
+  },
+  {
     "id": "d1e70ba94e193c5b",
     "title": "장기금리의 역습을 맞은 자산배분",
     "link": "https://www.hankyung.com/article/202609078122i",
@@ -37208,16 +37838,6 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-07T03:56:12.000Z",
     "snippet": "동해시, 슬레이트 철거 추가 지원…주택·창고 등 18동 모집 뉴스1"
-  },
-  {
-    "id": "0cbcd8b924067420",
-    "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 국토교통신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40c3hab19XOWdnUnVyeFp6b0RGMWZlLWI5a1VwanBxNk14Y0NuQlY2b2VTenFwLUk1S3JoU1NSaExFNmlUSlU0MzZUaG9uWVJBNFlOeHY5UEhMQVRBR1NGY2l3WDlSN0U?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-07T03:50:46.000Z",
-    "snippet": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 국토교통신문"
   },
   {
     "id": "c9eb6378b0e24851",

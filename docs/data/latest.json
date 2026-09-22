@@ -1,5 +1,25 @@
 [
   {
+    "id": "d0ad546af2d4935e",
+    "title": "[9월22일] “제미나이도 해킹했다”…구글 팬들은 오히려 ‘안도’",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215553",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-23T07:00:00.000Z",
+    "snippet": "구글의 ‘제미나이’가 보안 테스트 과정에서 실제 기업 3곳의 시스템에 침입한 사실이 뒤늦게 알려졌습니다. 그런데 이 소식이 전해진 뒤 X와 레딧에서는 의외의 반응이 나왔습니다. “구글이 돌아왔다”라거나 “제미나이도 파티에 합류했다”는 식의 환영이었습니다.제미나이는 지난 5월 AI 보안업체 이레귤러(Irregular)가 진행한 사이버보안 평가에서 가상의 기업을 공격하는 테스트를 수행하다 실제 기업 3곳의 시스템에 접근했습니다. "
+  },
+  {
+    "id": "c24044ec161250da",
+    "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215584",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-23T06:09:40.000Z",
+    "snippet": "오픈AI가 단순한 최고 성능 경쟁에서 벗어나 실무에 필요한 핵심 기능의 효율성을 극대화한 'GPT-6 솔(Sol)'과 'GPT-6 루나(Luna)'를 공개하며 API 이용료를 기존 대비 절반 이하로 내렸다.22일(현지시간) 출시된 GPT-6 솔과 루나는 최첨단 모델의 대중화를 목표로 비용 효율성을 극대화한 것이 핵심이다.오픈AI는 기존 'GPT-5.6' 프로모션 가격 대비 API 비용을 50% 인하했다. 이에 따라 GPT-6 "
+  },
+  {
     "id": "e01ceb0dc620390b",
     "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215583",
@@ -10,6 +30,166 @@
     "snippet": "앤트로픽이 복잡한 추론과 에이전틱 코딩 분야에서 최고 성능을 기록함과 동시에 운영 비용을 대폭 낮춘 최신 프런티어 모델 '클로드 오퍼스 5.5(Claude Opus 5.5)'를 공개했다. 아티피셜 애널리시스(Artificial Analysis)의 지능 지수 1위에 올랐으며, API 기본 요금 인하와 토큰 효율성 향상을 통해 실제 작업 운영 비용을 이전 모델 대비 40% 절감한 것이 가장 큰 특징이다.앤트로픽은 22일(현지시간)"
   },
   {
+    "id": "5c2d721d3feb6c3b",
+    "title": "9월 23일 일기예보: 후에에서 닥락까지 폭우가 예상되며, 일부 지역에서는 250mm 이상의 강우량을 기록할 것으로 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDRmNTFSaHNuSWdwT21DS01Nb1BwSmo2dEVKWU5rU1VURkpZYmRvdk5Lb1B3bnFoLWpGT01QNms2MTlZVGxYdjdqbUFJWTRLM0VrUENBQnFIZlZYZmE5MUJXN3M1RXMwM1BJd3BNVU5td0ZJa0hoN2h5NGVPN3U3YkhqTXowODVCdFZGUFdIZHFXS2Z6?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-22T23:54:54.000Z",
+    "snippet": "9월 23일 일기예보: 후에에서 닥락까지 폭우가 예상되며, 일부 지역에서는 250mm 이상의 강우량을 기록할 것으로 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "b1894102f79b946c",
+    "title": "수학과 인공지능 자문그룹",
+    "link": "https://news.hada.io/topic?id=34144",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T23:33:03.000Z",
+    "snippet": "AI 기업과 수학계의 소통, 수학 연구 결과의 책임 있는 발표와 공개를 자문하는 독립 그룹이 프린스턴의 Institute for Advanced Study를 거점으로 출범함 현재는 OpenAI가 내부 모델로 산출했다고 밝힌 다수의 중요한 수학 연구 결과를 어떻게 조율해 공개할지 자..."
+  },
+  {
+    "id": "76d5ed3c9f5a5803",
+    "title": "오늘 날씨(9월 23일): 북부 지역은 맑음, 중부 및 남부 지역은 폭우 예상. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkZjZVh0aUhaaG9vdDF3OWt4dzFiNmxLMGhYemtiWGUycTVFUjdhckpQWU5Tbld1ZG5OYU9jYjdYUm45dFNkUlczalR1QXlDaFZqbTZRdEgyRUJWWEd2NzdKbGw4dG1zWUdVaXlJcjJlaTQtaklKak5takMyTGgwQ0JZZWxjYUhzMlJKMUR5eVhnTUNDNUZ0ZFRB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-22T23:21:33.000Z",
+    "snippet": "오늘 날씨(9월 23일): 북부 지역은 맑음, 중부 및 남부 지역은 폭우 예상. Vietnam.vn"
+  },
+  {
+    "id": "79566d8f3f7bb6af",
+    "title": "Creators have brought new fans to football and basketball. Why not fencing?",
+    "link": "https://www.tubefilter.com/2026/09/22/usa-fencing-creator-showdown-event-new-york/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-22T23:16:32.000Z",
+    "snippet": "Between September 21-23, the organization that oversees competitive fencing in the United States is bringing influencers onto the strip at a unique event in New York City. USA Fencing is behind the Creator Showdown, which will test whether "
+  },
+  {
+    "id": "ba492ef18cb6f3b9",
+    "title": "Comscore says ChatGPT’s LLM market share is shrinking as Google Gemini advances",
+    "link": "https://www.tubefilter.com/2026/09/22/comscore-ai-intelligence-report-q2-2026-chatgpt-gemini/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-22T22:37:52.000Z",
+    "snippet": "The large language model (LLM) that introduced many consumers to the current era of AI chatbots is still a popular source for answers, but other competitors are gaining fast. ChatGPT accounts for half of the \"prompt volume\" across the chatb"
+  },
+  {
+    "id": "a3c97b08248039cc",
+    "title": "“우리가 FBI를 해킹했다”, 해커 그룹이 FBI 전체 직원의 정보 탈취 주장",
+    "link": "https://news.hada.io/topic?id=34143",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T22:33:11.000Z",
+    "snippet": "해킹 그룹 ShinyHunters가 여러 FBI 관련 서비스에 침입해 모든 직원과 지원자의 데이터를 훔쳤다고 주장함. 요원의 이름, 집 주소, 전화번호, 배우자 정보가 포함됐다고 밝힘 404 Media가 확보한 직원 5,000명 규모의 샘플에서 일부 이름과 전화번호가 일치하고 미..."
+  },
+  {
+    "id": "a53dc0801e47a6ea",
+    "title": "9월 23일 응에안 지역 날씨 예보: 오후와 저녁에 일부 지역에 소나기와 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzVEdDlHWGx1eC1vN1ZlSlRDSElzZFB3V1pFZXpMdzVPRXduWHZOcHRsdTFDUW1QVWZjdkdsZlQzeFB3SWxJY2FRcHljU3kxc1d6dTBhbEY5YWtFYXJDM1VKTTNhaHFhR2EwQW1wUk5jR1A3eUE3MUdLTVJyQTl4NzlxYmRTNTBqd3REVmdUdlhKTHZXZHVVSg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-22T22:32:03.000Z",
+    "snippet": "9월 23일 응에안 지역 날씨 예보: 오후와 저녁에 일부 지역에 소나기와 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "8a4e6267347969a4",
+    "title": "은행장 선임 앞두고…이찬진 \"금융사 CEO 선정 특정계파 매몰 안돼\"",
+    "link": "https://www.hankyung.com/article/2026092215246",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T22:30:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "56bcd482e7ef042a",
+    "title": "이찬진, 5대 은행장 인사 앞두고 \"계파나 친소관계 매몰되지 말라\"",
+    "link": "https://www.hankyung.com/article/202609222063i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T22:30:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "010161f365a0801b",
+    "title": "\"햄버거에 '이것' 넣는다고?\"…맥도날드가 꽂힌 '한국의 맛' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609206166i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T22:00:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f2abfc05b7f88136",
+    "title": "AI가 대신 쇼핑하는 시대…쇼피파이는 열고 아마존은 막았다 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609221263i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T22:00:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "805eb21fac24e744",
+    "title": "Claude Opus 5.5, 추론 설정별 성능과 비용 비교",
+    "link": "https://news.hada.io/topic?id=34142",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T21:35:00.000Z",
+    "snippet": "AAII에서 최대 추론 설정의 Opus 5.5 max는 지능 지수 58점을 기록했으며, 이전 Opus 5의 최고점 51점과 Fable 5.1의 53점을 넘어섬 추론 강도에 따라 medium 51점, high 54점, xhigh 56점, max 58점으로 성능이 올라가지만, 평가 과제당 비용도 함께 증가함 ..."
+  },
+  {
+    "id": "80ebba76b9b7cdfc",
+    "title": "[오늘의 북한 날씨] 서해안 중부 이남 일부 지역 오후 한때 비 - SPN 서울평양뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nR2lQQjFMUExQTkVJVmQxYnN0a2tqcVpXR3dnU0w1SFZOa1RjejNWb2pjZW9jX1ZTSTlIUENPSmlDYjVNdFhYQWxZcndwMm1XdEVrcjM3bGcwZkZZT3lSeXhNN3UyU1Vya0k4?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-22T21:26:21.000Z",
+    "snippet": "[오늘의 북한 날씨] 서해안 중부 이남 일부 지역 오후 한때 비 SPN 서울평양뉴스"
+  },
+  {
+    "id": "78e98b586bf6e540",
+    "title": "은행대출 2.7조 늘렸는데 한달도 못갔다…연말 ‘통곡의 벽’ 불보듯",
+    "link": "https://www.mk.co.kr/news/economy/12159927",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T21:21:31.000Z",
+    "snippet": "가계대출 증가속도 가팔라 올들어 7조 늘며 한도 넘겨 8·13 대책때 총량 늘렸지만 한달새 늘어난 금액 모두 소진 “집단대출 예외로 숨통” 분석도금융당국이 실수요자 대출 절벽을 해.."
+  },
+  {
+    "id": "924788333768acdf",
+    "title": "'BTS·임영웅' 옷 만든 남성복 거장…이번엔 '엄마 옷' 만든다 [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609222024i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T21:00:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e036e689a6add0b8",
+    "title": "\"집에 TV 놓기 싫었는데…\" 30대 새댁 마음 돌린 이유 [텔레비전(戰) ③]",
+    "link": "https://www.hankyung.com/article/202609183258g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T21:00:01.000Z",
+    "snippet": ""
+  },
+  {
     "id": "b6b1e4118cdbb529",
     "title": "Better prompt caching for GPT-6",
     "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
@@ -18,6 +198,16 @@
     "category": "AI",
     "publishedAt": "2026-09-22T21:00:00.000Z",
     "snippet": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+  },
+  {
+    "id": "93e19a0600073a28",
+    "title": "2027년 GrapheneOS가 사전 설치된 기기가 판매될 가능성이 높음",
+    "link": "https://news.hada.io/topic?id=34141",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T20:41:31.000Z",
+    "snippet": "Motorola Mobility(Lenovo) 가 GrapheneOS와 공식 파트너십을 맺고, 향후 출시할 일부 기기에 GrapheneOS를 지원하기 위해 협력 중임 첫 GrapheneOS 지원 기기는 2027년 출시할 고급 플래그십으로 예정돼 있음 지원 대상은 다른 기기로도 확대할 계획이며..."
   },
   {
     "id": "e60bb4bb5fd091a7",
@@ -638,6 +828,16 @@
     "category": "AI",
     "publishedAt": "2026-09-22T12:23:45.000Z",
     "snippet": "스페이스XAI가 코딩과 지식 작업에 특화한 차세대 AI 모델 ‘그록 4.7(Grok 4.7)’을 공개했으나, 프런티어 성능에 미치지 못하며 차기 모델인 ‘그록 4.8’로 본격적인 경쟁을 미루게 됐다.스페이스XAI는 21일(현지시간) 그록 4.7을 출시하며 장시간 수행되는 복잡한 작업에서의 추론 능력과 자체 검증 기능, 사이버보안 성능을 강화했다고 발표했다.그록 4.6 출시 이후 한 달여 만이다. 이날부터 커서와 xAI의 ‘그록"
+  },
+  {
+    "id": "ce45d8dc0f6c9cea",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-22T12:00:00.000Z",
+    "snippet": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
   },
   {
     "id": "89f62f5f265d0572",
@@ -4798,205 +4998,5 @@
     "category": "경제",
     "publishedAt": "2026-09-21T03:00:00.000Z",
     "snippet": "원금 보장·고수익 미끼로 현혹 투자금 모으고 잠적해 피해 확산다단계 방식으로 투자를 유도하거나 협동조합을 가장해 투자금을 모은 뒤 잠적하는 유사수신 사기가 끊이지 않고 있다. 금융.."
-  },
-  {
-    "id": "faedb92c59f9bb18",
-    "title": "“회사 올인했던 선배, 은퇴하니 처량하네요”…4060도 삶의 우선순위 흔들린다",
-    "link": "https://www.mk.co.kr/news/economy/12158045",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T03:00:00.000Z",
-    "snippet": "국가데이터처 분석 40~64세 중장년층 삶의 무게중심 ‘일’에서 ‘가정’으로 빠르게 움직여 ‘가정을 일보다 우선시 한다’ 응답 남성 2015년 7.5%→ 2025년 14.9%로40.."
-  },
-  {
-    "id": "101e1f4e0bd333e0",
-    "title": "[단독] 상록수 23년 추심 논란에도…P2P 연체채권 2321억 ‘제3자’ 손으로",
-    "link": "https://www.mk.co.kr/news/economy/12158040",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T02:31:43.000Z",
-    "snippet": "최종 보유·추심은 ‘깜깜이’ “전 과정 추적토록 제도 정비할 것”카드대란 당시 발생한 부실채권을 사들인 민간 배드뱅크 ‘상록수’가 23년간 추심을 이어온 사실이 드러나 장기연체채권.."
-  },
-  {
-    "id": "4979fbdf5e826c3c",
-    "title": "‘요람에서 취업·독립까지’…금융위, 내년 청년지원 예산 2.1조원 투입",
-    "link": "https://www.mk.co.kr/news/economy/12158032",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T02:26:12.000Z",
-    "snippet": "우리아이자립펀드로 아동 자산형성 지원 청년 전월세결합보증 등 주거분야까지 청년미래적금은 소득기준 폐지, 확대 적용금융위원회가 청년들의 경제적 자립과 목돈 형성을 위해 내년도 청년 .."
-  },
-  {
-    "id": "0763d9cd405354d5",
-    "title": "2026년 9월 21일 날씨 예보: 북부 지역은 맑고, 중부 및 남부 지역은 비가 내리겠으며, 일부 지역에서는 매우 강한 비가 예상됩니다. - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaXpvMDVVOTg5Q05GSjlrRV9TcDEwdkxIYm4zU25odldhMVpSanJHRHpLRjEwRzAwTDNrZHBWQWRrX0QxbDNkeVZSaU5YQTktdUx6TEUxRWEydjVET1BjQ1I0M3AxaWhHRGVIbTU3NmZrS3FYT0lZdGdraXpZY0d3dExXUk5FWDNlbGRkWllfR1VCNnJUdE1yeUxEZlBiTVpocGMtNktyN1A2M3JPd1R5ckd0Sm9UX28wTnlMaGJoNllyUQ?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-21T02:19:58.000Z",
-    "snippet": "2026년 9월 21일 날씨 예보: 북부 지역은 맑고, 중부 및 남부 지역은 비가 내리겠으며, 일부 지역에서는 매우 강한 비가 예상됩니다. vietnam.vn"
-  },
-  {
-    "id": "4f5b6a2879234ec5",
-    "title": "2026년 9월 22일 날씨 예보 - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GaWNvSVJjYVFoM2pqM0RqNzBnTnJsd0FMMmNWSWJUclFYVFFhRWhBTWFleFJSTWVXZGdNSnE1RHV2bzh6VTRSQTdVZGw5Mm9PbF9Hc1drZlNUek1fUndxNmYwUkF6bjNZ?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-21T02:17:58.000Z",
-    "snippet": "2026년 9월 22일 날씨 예보 vietnam.vn"
-  },
-  {
-    "id": "809d9f32597ab9a3",
-    "title": "AI에 고민 털어놓는 이유, “상대가 없어서”보다 “언제든 가능해서”",
-    "link": "https://platum.kr/archives/294961?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ec%2597%2590-%25ea%25b3%25a0%25eb%25af%25bc-%25ed%2584%25b8%25ec%2596%25b4%25eb%2586%2593%25eb%258a%2594-%25ec%259d%25b4%25ec%259c%25a0-%25ec%2583%2581%25eb%258c%2580%25ea%25b0%2580-%25ec%2597%2586%25ec%2596%25b4%25ec%2584%259c%25eb%25b3%25b4%25eb%258b%25a4-%25ec%2596%25b8%25ec%25a0%259c%25eb%2593%25a0",
-    "source": "플래텀",
-    "sourceId": "platum",
-    "category": "창업",
-    "publishedAt": "2026-09-21T02:17:31.000Z",
-    "snippet": "대화형 AI 이용자의 절반 이상이 AI에게 개인적인 고민이나 감정을 이야기해 본 경험이 있는 것으로 나타났다. 리서치 기업 피앰아이(PMI)가 전국 만 20~59세 대화형 AI 이용자 1,000명을 대상으로 진행한 ‘AI와의 감정교류 인식 조사’에서 이런 경험이 있다는 응답은 57.1%였다. 경험은 없지만 앞으로 해볼 의향이 있다는 응답은 20.8%, 경험과 의향이 모두 없다는 응답은 22.1%였다. 연령대별로는 20대가 67"
-  },
-  {
-    "id": "5e3701a4f13141d2",
-    "title": "AI 노출 큰 업종, 해고보다 먼저 나타난 채용 둔화",
-    "link": "https://platum.kr/archives/294958?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25eb%2585%25b8%25ec%25b6%259c-%25ed%2581%25b0-%25ec%2597%2585%25ec%25a2%2585-%25ed%2595%25b4%25ea%25b3%25a0%25eb%25b3%25b4%25eb%258b%25a4-%25eb%25a8%25bc%25ec%25a0%2580-%25eb%2582%2598%25ed%2583%2580%25eb%2582%259c-%25ec%25b1%2584%25ec%259a%25a9-%25eb%2591%2594%25ed%2599%2594",
-    "source": "플래텀",
-    "sourceId": "platum",
-    "category": "창업",
-    "publishedAt": "2026-09-21T02:14:45.000Z",
-    "snippet": "미국의 콜센터 고용은 과거 추세가 이어졌다면 도달했을 수준보다 39% 낮다. 캐나다는 33%, 독일은 27% 낮다. 골드만삭스 리서치가 9월 3일 공개한 글로벌 노동시장 분석에 담긴 수치다. 이 수치는 실제 고용이 그만큼 줄었다는 뜻이 아니라 장기 추세선과 현재 고용 사이의 격차를 가리킨다. 이 분석이 던지는 질문은 AI가 각국 노동시장에 이미 영향을 주고 있느냐다. 골드만삭스는 경제 전체의 고용을 ... 더 읽기"
-  },
-  {
-    "id": "4b3c42ba4af92013",
-    "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-21T02:14:24.000Z",
-    "snippet": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스"
-  },
-  {
-    "id": "4d576cbf03479354",
-    "title": "차봇, 신차 안심 케어 '차봇케어'출시…\"주요 생활손상 보장\"",
-    "link": "https://www.hankyung.com/article/202609217791g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T02:10:55.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "9283f163da8fd0ab",
-    "title": "Apple iPhone 18 Pro 카메라 테스트",
-    "link": "https://news.hada.io/topic?id=34047",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T02:07:36.000Z",
-    "snippet": "DXOMARK 종합 172점을 기록했으며, 넓은 다이내믹 레인지와 개선된 대비 및 피부색, 효과적인 손떨림 보정, 균형 잡힌 디테일과 노이즈 처리가 강점임 가변 조리개가 단체 인물 사진에서 피사계 심도를 자동으로 확장해 여러 인물의 선명도를 유지하며, 수동 조절도..."
-  },
-  {
-    "id": "705efbcd1031ed72",
-    "title": "이제 인간 수학자가 왜 필요한가?",
-    "link": "https://news.hada.io/topic?id=34046",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T02:04:36.000Z",
-    "snippet": "AI가 연구 성과 대부분을 만들어내더라도, 인류의 번영을 위해 연구 방향을 결정할 인간 전문가 공동체는 필요하며 인류의 번영을 공동체의 최우선 원칙으로 삼아야 함 AI의 발전과 AI를 이용한 해킹은 인간이 감독해야 할 통제 지점을 늘림. 인간의 통제를 유지하..."
-  },
-  {
-    "id": "b90d78fa6fbb7867",
-    "title": "Snowden 아카이브에는 무슨 일이 일어났나",
-    "link": "https://news.hada.io/topic?id=34044",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T02:01:35.000Z",
-    "snippet": "Snowden 아카이브의 문서 공개는 2019년 5월 29일 이후 멈춤. 주요 언론사가 2014~2015년에 차례로 공개를 중단한 뒤, 마지막까지 작업하던 The Intercept도 2019년 3월 아카이브 운영을 종료함 공개 중단과 취재 중단은 서로 다름. The Guardian은 문서 공개를 멈..."
-  },
-  {
-    "id": "567d5d824c8fe301",
-    "title": "부산·경남은행 신입행원 공개채용…디지털 역량 갖춘 인재 선발",
-    "link": "https://www.mk.co.kr/news/economy/12157975",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T01:57:38.000Z",
-    "snippet": "11월 중순 최종 선발 예정 데이터·AI 활용 역량 갖춘 ‘통합직군’ 채용BNK금융그룹이 BNK부산은행과 BNK경남은행의 하반기 신입행원 공개채용을 실시한다. 21일 BNK금융그룹.."
-  },
-  {
-    "id": "b21f91b6cd0bc64d",
-    "title": "맥주 이어 소주판 흔드나…오비맥주, 15도 무가당 소주 '찰랑' 첫선",
-    "link": "https://www.hankyung.com/article/202609217663g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T01:45:35.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "5eeffce18fadd48f",
-    "title": "현대차, 글로벌 우수 서비스 인재 초청 교육 실시",
-    "link": "https://www.hankyung.com/article/202609217639g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T01:42:09.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "33a6990a68138522",
-    "title": "[단독] 아이엘 \"車 부품사에 中휴머노이드 첫 공급\"",
-    "link": "https://www.hankyung.com/article/2026092062481",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T01:39:51.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "121211300a2a7912",
-    "title": "추석연휴, 81만명 공항 찾는다…27일 17만명 '최대 혼잡'",
-    "link": "https://www.hankyung.com/article/202609217523g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T01:38:25.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "bd87af6d2d34c235",
-    "title": "폭스바겐코리아, 프로야구 팬 위한 '폭스바겐 위대한 원정대' 이벤트",
-    "link": "https://www.hankyung.com/article/202609217600g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T01:33:42.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "46d99ab225ea11fa",
-    "title": "\"신채경·이신이 피자 박스에\"…레전드 만화 '궁' 소환한 오구피자",
-    "link": "https://www.hankyung.com/article/202609217595g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T01:33:28.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "a63a0827c9f9d130",
-    "title": "영상 속 행동을 물어보면 답한다, 플레이태그 ‘모노’ 출시",
-    "link": "https://platum.kr/archives/294955?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%2581%25ec%2583%2581-%25ec%2586%258d-%25ed%2596%2589%25eb%258f%2599%25ec%259d%2584-%25eb%25ac%25bc%25ec%2596%25b4%25eb%25b3%25b4%25eb%25a9%25b4-%25eb%258b%25b5%25ed%2595%259c%25eb%258b%25a4-%25ed%2594%258c%25eb%25a0%2588%25ec%259d%25b4%25ed%2583%259c%25ea%25b7%25b8-%25eb%25aa%25a8%25eb%2585%25b8",
-    "source": "플래텀",
-    "sourceId": "platum",
-    "category": "창업",
-    "publishedAt": "2026-09-21T01:26:25.000Z",
-    "snippet": "CCTV나 휴대폰으로 찍은 영상에 대해 “누가 무엇을 얼마나 했는지” 말로 물으면 수치로 답하는 AI 솔루션이 나왔다. AI 행동분석 기업 플레이태그가 대화형 행동분석 솔루션 ‘모노엑스와이지(mono_xyz)’를 정식 출시했다. 기존 영상 분석 솔루션은 침입이나 쓰러짐처럼 미리 정해 둔 규칙에 해당하는 장면을 잡아내는 방식이었다. 모노는 사전 설정 없이 영상 속 인물의 연속된 행동을 분석해 데이터로 보여준다는 것이 회사 설명이"
   }
 ]

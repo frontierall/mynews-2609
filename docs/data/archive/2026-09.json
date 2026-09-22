@@ -50,6 +50,16 @@
     "snippet": "AI 생성 영상전남광주통합특별시가 호남권 반도체클러스터의 2030년 6월 첫 양산을 목표로 부지 조성과 전력·용수 등 핵심 기반시설 구축 일정을 구체화했다.전남광주는 22일 기자 차담회를 열고 호남권 반도체클러스터의 부지 착공과 전력·용수 공급, 인재 양성, 정주여건 개선 등 추진상황을 발표했다.호남권 반도체클러스터는 광주 군공항 이전부지 약 250만평에 삼성전자와 SK하이닉스의 메모리 팹 4기를 조성하는 사업으로, 약 800"
   },
   {
+    "id": "c05f99a097076d53",
+    "title": "Meta의 Muse에 파일시스템을 요청했더니 6.8GB를 보내왔다",
+    "link": "https://news.hada.io/topic?id=34136",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T17:49:07.000Z",
+    "snippet": "Muse에 보이는 파일을 압축해 연결된 Google Drive로 보내 달라고 요청하자, 세션에 할당된 Linux 환경의 루트 파일시스템으로 보이는 압축 해제 기준 6.8GB 자료가 전송됨 내보낸 자료에는 내부 문서, 통합 코드, 앱 템플릿, 메모리 파일, 에이전트 로그와"
+  },
+  {
     "id": "32e037a200a61b96",
     "title": "광양 서천변에 꽃무릇·백일홍 물들어…추석 산책길 정비",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215579",
@@ -78,6 +88,16 @@
     "category": "AI",
     "publishedAt": "2026-09-22T17:46:04.000Z",
     "snippet": "오픈AI가 최근 AI를 활용한 수학 연구 성과를 잇달아 공개하면서 불거진 학계의 우려를 달래기 위해 독립적인 수학·AI 자문 그룹을 출범시켰다. 세계적인 수학자들로 구성된 외부 기구를 통해 AI가 만들어낸 수학적 성과의 중요성과 공개 방식을 검토하고, AI와 수학계의 소통을 강화한다는 취지다.오픈AI는 21일(현지시간) 뉴저지주 프린스턴의 고등연구소(IAS)에 수학 및 AI 자문 그룹(Advisory Group on Mathe"
+  },
+  {
+    "id": "e776faaec9ae68a5",
+    "title": "Claude Opus 5.5",
+    "link": "https://news.hada.io/topic?id=34135",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T17:43:06.000Z",
+    "snippet": "Anthropic이 Claude 5.5 제품군의 첫 모델 Claude Opus 5.5를 출시함. 대부분의 작업에서 Claude Fable 5.1 수준의 성능을 내며, 에이전트 코딩과 컴퓨터 사용, 지식 업무 벤치마크에서 선두 성적을 기록함 기본 설정의 일반적인 작업에서 Opus 5 대비 비용이 40% 낮고"
   },
   {
     "id": "83d6ee2db89e49ae",
@@ -170,6 +190,26 @@
     "snippet": "AI 에이전트 전문 튜링이 AI 앱 'GPAI'에 문제 생성, AI 드라이브, PPT 제작 등 대학생을 위한 신기능 3종을 출시했다고 22일 밝혔다. 강의자료 정리부터 시험 대비, 발표 준비까지 대학 학업의 전 과정을 하나의 서비스에서 지원하는 것이 핵심이다. 대학생의 학업 워크플로우를 반영했다는 설명이다. 먼저, AI 드라이브 곳곳에 흩어진 강의자료와 필기, 과제 파일을 한곳에 모아 관리하는 기능이다. 업로드한 자료를 열어둔"
   },
   {
+    "id": "2019d798fd84ba16",
+    "title": "브라우저에서 부팅하는 Apple Copland D11E4",
+    "link": "https://news.hada.io/topic?id=34134",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T16:38:39.000Z",
+    "snippet": "실물 하드웨어에서도 실행이 어렵고 이전에는 에뮬레이션으로 이용할 수 없었던 Apple Copland의 마지막 빌드 D11E4를 개선된 DingusPPC로 브라우저에서 부팅할 수 있음 실물 하드웨어의 부팅 시간은 약 30초이며, 최신 컴퓨터에서는 was..."
+  },
+  {
+    "id": "146421da20a50491",
+    "title": "Apple이 iOS에 추가한 사라지지 않는 ‘광고’, 사용자 반발 확산",
+    "link": "https://news.hada.io/topic?id=34133",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T16:35:38.000Z",
+    "snippet": "iOS 설정 앱 상단에 iCloud+, Apple Music, Apple TV, AppleCare+ 등 Apple 자체 서비스를 홍보하는 배너가 나타나 사용자 반발을 사고 있음 일부 배너는 닫기 버튼이 없거나 제대로 작동하지 않아, 서비스에 결제하거나 만료될 때까지 수주에서 수개월 동안 설정 ..."
+  },
+  {
     "id": "8cfc564e9a5cdf36",
     "title": "오픈AI, 미 정부에 차세대 AI 안전 기준 촉구...\"RSI 통제력 잃을 수도\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215561",
@@ -188,6 +228,16 @@
     "category": "AI",
     "publishedAt": "2026-09-22T16:12:19.000Z",
     "snippet": "구글이 '제미나이'를 핵심 기능으로 내세운 새로운 프리미엄 노트북 '구글북(Googlebook)'의 사전 주문을 21일(현지시간)부터 시작했다.안드로이드 스마트폰과 노트북의 연결성을 강화하고, 기존 크롬OS의 데스크톱 환경에 안드로이드 기술 스택을 결합한 새로운 형태의 노트북이다. 가격은 899달러(약 122만원)부터 시작하며, 에이서·ASUS·델·HP·레노버 등 5개 제조사가 초기 제품을 생산한다.최대 2.8K OLED 디스"
+  },
+  {
+    "id": "d5ceefcae732d482",
+    "title": "rift - macOS용 타일링 창 관리자",
+    "link": "https://news.hada.io/topic?id=34131",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T16:01:01.000Z",
+    "snippet": "Rift는 성능과 사용성에 초점을 맞춘 macOS용 창 관리자로, 타일링부터 스크롤 열까지 6가지 레이아웃을 지원함 메뉴 막대와 CLI에서 레이아웃을 저장하고 복원할 수 있으며, 메뉴 막대에서 작업 공간 전환과 레이아웃 변경도 가능함"
   },
   {
     "id": "593dc2522fa3e1bb",
@@ -240,6 +290,156 @@
     "snippet": "로브로스(대표 노승준)는 자체 이족보행 휴머노이드 ‘이그리스-C’에 실시간 전신 텔레오퍼레이션(원격조작) 기술을 적용한 영상을 공개했다고 22일 밝혔다.기존 상체 중심 텔레오퍼레이션에서 적용 범위를 하체까지 확대해 보행·자세·균형 등을 통합 제어하도록 고도화한 것이 특징이다.로봇을 이동시키며, 동시에 양팔로 물체를 조작하는 등 이동과 작업이 결합된 상황에 대응하도록 구현했으며, 영상에서는 샌드백 타격, 공 차기, 스쿼트, 펀칭"
   },
   {
+    "id": "e7aeca4a1b96ef06",
+    "title": "[날씨] 추분 맞은 오늘 큰 일교차…추석 연휴엔 비 예보 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54ZzdXT2hDbTl0MS1fbGU5dGNiREZnRzB6N2pBLS10ZGZ4WUVPWlo3QklFZUUzNXNtX2tPUlZoaENsRDlIa3M4YnVSUXF0Z0U?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-22T15:39:03.000Z",
+    "snippet": "[날씨] 추분 맞은 오늘 큰 일교차…추석 연휴엔 비 예보 v.daum.net"
+  },
+  {
+    "id": "94535ce37b0eef4c",
+    "title": "OpenAI GPT–6 Astra, 2005년부터 풀리지 않던 Enigma 암호문 해독",
+    "link": "https://news.hada.io/topic?id=34130",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T15:32:56.000Z",
+    "snippet": "GPT–6 Astra가 1941년 독일군 Enigma 메시지 MVUEH의 키와 평문을 찾아냈으며, 전달받은 해독 결과를 검증한 연구자가 정확성을 확인함 Carter Leffer는 미해독 메시지 중 풀 수 있는 것이 있는지 확인하도록 지시했으며, 이후 대상 선정부터 해독 소프트..."
+  },
+  {
+    "id": "ea3adb69eb331c17",
+    "title": "Show GN: FBO 파티클 데모 - Three.js로 구현한 GPU 파티클 데모",
+    "link": "https://news.hada.io/topic?id=34129",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T15:09:18.000Z",
+    "snippet": "Three.js (React Three Fiber) 와 셰이더 코드를 작성하여 구현한 FBO (Framebuffer Object) 파티클 데모입니다. FBO (Framebuffer Object) GPU 연산 결과를 texture 형태로 저장하고, 이후 연산의 입력값으로 다시 활용할 수 있게함 GPU의 빠른 병렬 연산을 활용할 수 있어 많은 양의"
+  },
+  {
+    "id": "df3435722fe42b19",
+    "title": "9월 22일 밤부터 10월 2일까지 전국 10일간의 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3Z2amNVZTByajNxOEpOR014ekZkaXFtejBPbDZ4aHFEclFHQVl2QVdRdXBRR1k2OUVNOC1CX1Y2YlJQLXJBdFpHWFptblhlelVpYWNTRVppbW11YnhrdXhqWFpvVnNJOHlwUjhGWHZnOUlLZ0pMT3Jvb3pMSlVndmZkLVB1dVBJVF9LNld5U1A1SlY3dS1sYWtYV1A1M2doalh2MFpCSEI?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-22T15:00:00.000Z",
+    "snippet": "9월 22일 밤부터 10월 2일까지 전국 10일간의 날씨 예보 Laodong.vn"
+  },
+  {
+    "id": "af70131b4d05f717",
+    "title": "\"AI비서에 쇼핑 맡겼다 돈 날릴 수도\"…글로벌은행들 경고",
+    "link": "https://www.hankyung.com/article/202609222136i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T14:47:38.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "52fa859abfd1072c",
+    "title": "AMD의 난수 생성기는 0을 생성하지 못하는가?",
+    "link": "https://news.hada.io/topic?id=34127",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T14:47:16.000Z",
+    "snippet": "사용자 테스트에서 AMD 프로세서의 rdrand와 rdseed가 16비트 난수 0을 생성하지 않는 현상이 관측됨. 같은 프로그램을 실행한 Intel에서는 0이 나왔으며, AMD 전체의 문제인지 Zen2에 한정되는지는 확인되지 않음 32비트 또는 64비트로 생성한 값..."
+  },
+  {
+    "id": "90499a051cb7cf46",
+    "title": "HERMES 무전기, 초장거리 음성 및 데이터 통신 지원",
+    "link": "https://news.hada.io/topic?id=34126",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T14:44:15.000Z",
+    "snippet": "HERMES는 위성이나 중계탑 없이 단파로 음성과 데이터를 전달하는 오픈소스 시스템으로, 지상 통신 인프라를 구축하기 어려운 외딴 지역을 연결함 전리층을 반사체로 활용하며, 약 20W 출력의 소형 무전기 두 대로 400~600km 구간을 비교적 안정적..."
+  },
+  {
+    "id": "d6093c99926715a5",
+    "title": "추석 보름달에 심술난 날씨…구름 잔뜩, 중부엔 비 예보 - 주간조선",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1POThFbXlzaXVHUWN4TE9RbExKNDdpbUNyTld6SFltNHBRc2NvM0lHMlVKTzF1S2RtckNtSnotS1dPczMwUUcydDBJaVJxU1pxckVsNzFpTk0zX1NJT0JhalB6ckYzWk5aNlHSAW5BVV95cUxQZzNSZ0tXblNSWTdoMUxLT1RDWG9xVXdnVVhNazV0RDExNTYzUVhrTEIwWUZtMktaRlpTMTVoV2lqdlIwMXBMT3JHZkhCTGd6OVlycDRMUmduN1FGcUpRNk41X0pJcXJ2UnhFcnNUdw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-22T14:30:00.000Z",
+    "snippet": "추석 보름달에 심술난 날씨…구름 잔뜩, 중부엔 비 예보 주간조선"
+  },
+  {
+    "id": "2529934240b26bb6",
+    "title": "연속 유가 하락에 美증시 상승…나스닥 개장초 사상최고 경신",
+    "link": "https://www.hankyung.com/article/202609222117i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T14:08:50.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8f074760207939da",
+    "title": "Show GN: NCP External Access 비공식 TS·Go 인증 라이브러리를 만들었습니다",
+    "link": "https://news.hada.io/topic?id=34125",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T14:08:40.000Z",
+    "snippet": "NCP External Access의 X.509 인증을 사용하는 비공식 TS·Go 라이브러리를 만들었습니다. 사용하던 공식 Signing Helper에서 구형 Go 런타임 관련 취약점 경고가 나온 것이 계기였습니다. 필요한 기능을 직접 관리할 수 있도록 구현했습니다. 기능: 인증서·개인키로 요청에 서명하고 NCP 임시 인"
+  },
+  {
+    "id": "c9d7349da0f71c45",
+    "title": "UK Creator Voices launches to bridge digital talent and Britain’s creative industries",
+    "link": "https://blog.youtube/news-and-events/uk-creator-voices-launch/",
+    "source": "YouTube 공식 블로그",
+    "sourceId": "youtube-blog",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-22T14:00:00.000Z",
+    "snippet": "Supported by YouTube, Creator Voices unites top UK creators to bridge the industry gap. See how the alliance aims to boost the creative industry's massive GDP contributi…"
+  },
+  {
+    "id": "52f6a4fbe2bb4138",
+    "title": "호르무즈 재개방 기대…국제유가 2주 만에 '뚝'",
+    "link": "https://www.hankyung.com/article/2026092221051",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T13:52:51.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5f3b2680ef21aea3",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Technology Review AI",
+    "sourceId": "mit-tech-review-ai",
+    "category": "AI",
+    "publishedAt": "2026-09-22T13:42:05.000Z",
+    "snippet": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by"
+  },
+  {
+    "id": "47cc07227c6503d3",
+    "title": "Git 2.56과 3.0을 내다보며",
+    "link": "https://news.hada.io/topic?id=34124",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T13:34:07.000Z",
+    "snippet": "Git 2.56은 9월 말 출시 예정으로 이력 편집과 브랜치 관리 편의성을 높이며, 다음 버전을 Git 3.0으로 출시할지는 아직 논의 중임 특정 커밋을 이력에서 제거하는 git history drop, 병합된 로컬 브랜치를 정리하는 git branch --delete-merge..."
+  },
+  {
+    "id": "7e79f7af02922c98",
+    "title": "\"트럼프 보란 듯 터트렸다\"…중국이 꺼낸 최강 'AI 비밀병기' [강경주의 테크X]",
+    "link": "https://www.hankyung.com/article/2026092220826",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T13:26:27.000Z",
+    "snippet": ""
+  },
+  {
     "id": "ae74b6b42dd9c056",
     "title": "LG전자·LG엔솔, 엔비디아 AI 팩토리 인프라 ‘DSX 레디’ 합류",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215551",
@@ -250,6 +450,16 @@
     "snippet": "LG전자(대표 류재철)는 AI 데이터센터에 탑재되는 대용량 냉각수 분배장치(CDU)가 엔비디아 규격 승인을 받았다고 22일 밝혔다.엔비디아는 AI 팩토리 설계 및 운영을 통합한 ‘엔비디아 DSX AI 팩토리 플랫폼’을 갖추고 있으며, 관련 요건을 충족하는 제품을 ‘DSX 레디’ 제품으로 승인하고 있다. LG전자는 앞서 600킬로와트(kW)급과 1메가와트(MW)급 CDU에 이어 이번 2.5MW급 CDU까지 엔비디아 ‘DSX 레디"
   },
   {
+    "id": "b4e767e49fcd6c9b",
+    "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - 음성타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVTN6UnpHVHVpdGlqNWlsZngwS1NwMjlydlZRTE9zZm9UbnhydEdmc2lRSjdJc0FhajNoRW9ucUlub1NhY3RRTkNnUE1XbWtzSFNXR2hRejFnMlZCbnlnbEpIa2E4X3hxX0E?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-22T13:16:45.000Z",
+    "snippet": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 음성타임즈"
+  },
+  {
     "id": "dcd52ccb515a8719",
     "title": "미 재무장관 \"허깅페이스 해킹 책임은 AI 아닌 오픈AI 경영진에 있어\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215555",
@@ -258,6 +468,26 @@
     "category": "AI",
     "publishedAt": "2026-09-22T13:16:01.000Z",
     "snippet": "스콧 베선트 미국 재무장관이 오픈AI의 AI 모델이 허깅페이스를 해킹한 사건과 관련해 책임은 AI 에이전트가 아니라 이를 개발하고 운영한 오픈AI 경영진에게 있다고 밝혔다. AI 시스템의 자율적 행동을 이유로 개발사의 책임을 면제해서는 안 된다는 입장을 재차 강조했다.베선트 장관은 21일(현지시간) CNBC와의 인터뷰에서 허깅페이스 사건을 언급하며 \"그 책임은 AI 에이전트 무리가 아니라 오픈AI 경영진에 있다\"고 말했다. 이"
+  },
+  {
+    "id": "06dddbfa99ed6d74",
+    "title": "AI에게는 지혜가 없고 당신에게도 없게 될 것이다",
+    "link": "https://news.hada.io/topic?id=34122",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T13:11:39.000Z",
+    "snippet": "Scala 라이브러리 Monix의 저자 Alexandru Nedelcu가 쓴 글로, 코드를 읽고 쓰지 않게 된 사람과 조직은 스스로 위험을 자초하는 것이라고 주장함 바이브 코딩된 프로젝트는 시간이 지나며 유지보수 불가능한 상태로 퇴화하는데, 나쁜 아키텍처의 효과는 수개월~수년 뒤에야 드러나 ..."
+  },
+  {
+    "id": "c48d5da35f2fb197",
+    "title": "유가 80불대로 떨어지나?…사우디 송유관 재가동에 이란도 깜짝 제안",
+    "link": "https://www.hankyung.com/article/202609222069i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-22T13:10:06.000Z",
+    "snippet": ""
   },
   {
     "id": "8fe129c13720f672",
@@ -438,6 +668,16 @@
     "category": "경제",
     "publishedAt": "2026-09-22T09:36:13.000Z",
     "snippet": ""
+  },
+  {
+    "id": "09d6023c77133caf",
+    "title": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZXNXdEFfNlJqQ0RET1g2bEhrNjRZS0tZak8yYUNOQUZMeHdDTUg0OTlYaXFXUjlYcG9PNDNQUWxpNEhWRExURVRrd2tBb1U?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-22T09:35:40.000Z",
+    "snippet": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 v.daum.net"
   },
   {
     "id": "4593028f070db95f",
@@ -998,6 +1238,16 @@
     "category": "개발",
     "publishedAt": "2026-09-22T08:17:17.000Z",
     "snippet": "동료분의 초대를 받아 Jev를 직접 써봤습니다. 처음에는 “빠르고 저렴한 LLM이 나왔나 보다” 정도로 생각했는데, 몇 가지 사례를 따라가고 직접 호출해보니 조금 다르게 보이더라고요. Jev는 긴 답변을 만들어주는 모델이라기보다, 소프트웨어가 다음 행동을 선택할 수 있도록 판단을 반환하는 모델에 가까웠"
+  },
+  {
+    "id": "82eee93cc986f8a8",
+    "title": "수도권 서해5도 비 예보…경기동부 등 안개·건조 주의[내일날씨] - 한국대학신문",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2NkdiSUdTaWNjNnFDR0lrQnNvMXQ4VWMyRC1TU3JqdEFfNFYzVzJsU0p1MWZxYnZmT1pyRzI5TkFvQ295aUtEU3Q1cEZueW9JbTBQWUtha0ZoWWJOU2J0RmhpME9QQQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-22T08:14:27.000Z",
+    "snippet": "수도권 서해5도 비 예보…경기동부 등 안개·건조 주의[내일날씨] 한국대학신문"
   },
   {
     "id": "ae5ccaf72ea40691",
@@ -2098,6 +2348,16 @@
     "category": "경제",
     "publishedAt": "2026-09-22T00:09:01.000Z",
     "snippet": ""
+  },
+  {
+    "id": "b4fb82cc1313a309",
+    "title": "Priorities and principles for effective third party assessments",
+    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-22T00:00:00.000Z",
+    "snippet": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
   },
   {
     "id": "e00b8423c650bf4a",

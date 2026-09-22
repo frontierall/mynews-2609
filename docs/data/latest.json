@@ -1,5 +1,15 @@
 [
   {
+    "id": "217b47612dad478b",
+    "title": "[9월21일] AI ‘킬 스위치’ 논의 확대…“정말 AI를 멈출 수 있을까”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215518",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-22T07:00:00.000Z",
+    "snippet": "AI가 통제를 벗어났을 때 강제로 작동을 중단시키는 ‘킬 스위치(Kill Switch)’ 논의가 최근 부쩍 늘고 있습니다. 미국 의회에서도 지난 7월 위험한 AI 시스템을 필요할 때 중단할 수 있는 기술적 능력을 갖추도록 하는 ‘AI 킬 스위치법’이 발의됐습니다. 또 캘리포니아주는 지난 18일(현지시간) 첨단 AI 모델에 비상 정지 기능을 갖추도록 하는 행정명령을 내렸습니다. 킬 스위치는 AI가 위험한 행동을 하거나 통제를 벗"
+  },
+  {
     "id": "fed9d47e9cfc1346",
     "title": "KAIST, ‘지식 재사용’으로 서버 호출 57% 줄였다…“증류·추가학습 필요 없어”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215545",
@@ -20,6 +30,266 @@
     "snippet": "리더보드 관련 평가 데이터 과적합, 결과 공정성에 대한 문제 제기가 계속되는 가운데, 국내 기업이 ‘답을 알 수 없는’ 글로벌 벤치마크에서 1위를 달성하는 유의미한 성과를 거뒀다. 미래 사건의 결과를 예측하는 벤치마크로, 문제 풀이 시점에는 누구도 답을 알 수 없다는 것이 특징이다.금융 AI 투자 플랫폼 '밸리 AI(Valley AI)'를 운영하는 뉴로퓨전(대표 최한철)이 글로벌 AI 미래 예측 벤치마크인 '포캐스트벤치(For"
   },
   {
+    "id": "ac0a3ae74407a0d7",
+    "title": "카카오, 독립형 AI 서비스 ‘카나나’ 종료",
+    "link": "https://news.hada.io/topic?id=34089",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T00:20:02.000Z",
+    "snippet": "2025년 5월 베타로 시작한 카나나 앱과 PC 서비스가 2026년 10월 15일 종료되며, 정식 출시 없이 약 1년 5개월 만에 운영을 마침 ‘카나’와 ‘나나’라는 AI 메이트와 대화하고, 음성 대화, 이미지 생성과 차량 정비 예약 등을 이용할 수 있었던 독립형 AI 서비스..."
+  },
+  {
+    "id": "36b26f3cd9db2a7d",
+    "title": "삼성물산 패션, 英 '마가렛 호웰' 독점 유통…국내 사업 본격화",
+    "link": "https://www.hankyung.com/article/202609229686g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:39:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "887a3f9b663b6943",
+    "title": "AI에 성장 체력 커졌나…고금리에도 굳건한 세계 경제",
+    "link": "https://www.hankyung.com/article/202609229724i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:33:12.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "db79d37b718d6d23",
+    "title": "반도체가 계속 해준다…9월 무역흑자 벌써 230억달러 ‘역대 최대’",
+    "link": "https://www.mk.co.kr/news/economy/12158840",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:11:49.000Z",
+    "snippet": "관세청 1~20일 수출입 현황 전년보다 수출액 78%↑ 반도체 비중이 48% 차지이달 들어 수출이 700억달러를 돌파하며 역대 최대치를 새로 썼다. 반도체 수출이 260% 가까이 .."
+  },
+  {
+    "id": "5229b97b732e1839",
+    "title": "“기업들 현장조사 거부하면 고발”…공정위원장, 강경대응 예고",
+    "link": "https://www.mk.co.kr/news/economy/12158839",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:11:08.000Z",
+    "snippet": "공정위원장 1주년 간담회 불복기업에 강경 대응 나서 국고채 담합도 조속히 결론공정거래위원회가 쿠팡·한화와 같은 기업들의 반발로 현장조사 단계에서 제동이 걸리자 강경 대응을 예고했다.."
+  },
+  {
+    "id": "d046469ccd14d99f",
+    "title": "\"사기 거래가 80%\"…고성장 이후 허점 드러낸 폴리마켓",
+    "link": "https://www.hankyung.com/article/202609229628i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:09:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "12c3defa55bcbb59",
+    "title": "900점 이상 고신용자도 5명 중 1명은 대출 ‘퇴짜’",
+    "link": "https://www.mk.co.kr/news/economy/12158837",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:09:17.000Z",
+    "snippet": "규제에 자격기준 높아지고 신용점수 인플레까지 겹쳐 시중銀 거절률 5년새 3배로신용점수가 900점 이상인 고신용자도 5명 중 1명은 은행에 신용대출을 신청했다가 거절당하는 것으로 나.."
+  },
+  {
+    "id": "970edaff7ff7b5f5",
+    "title": "9월 22일 날씨 예보: 북부 지역은 덥고 맑겠으며, 후에 남쪽으로는 매우 많은 비가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTNKQVV0Z0tZVk1wNGwyMzN1SzBqdXFXM0pKVGRZSVZlRGhKdTlILVlVQ1FaVzNWN2VaZ0dCN1pIRTYyRUtJOS01ZzNrNFQzWmNFQ0NyOWhWM2o3ZmI1YmxqNUxmbV9aWk9WbTNnUHktSmd0V214bU55VVotMGpQejVXUklnbkcySXJEN1g2ZElVVkxZZnI1LTFnT3NlYWRKRnd5WA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T23:01:07.000Z",
+    "snippet": "9월 22일 날씨 예보: 북부 지역은 덥고 맑겠으며, 후에 남쪽으로는 매우 많은 비가 내리겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "c50378263c8431ec",
+    "title": "오늘 날씨(9월 22일): 북부 지역은 덥고 맑겠고, 중부 및 남부 지역에는 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVNNbEtXRXdURV9KUVJzejBTNlhubVJibmxEU2xZZmxOY2lUZkxDSmFOWXp0NFI1TV9uNVpFWHhPSW53NjR3VGFVYy1xVnFsZ29vXzhKTmFwQktDRE9FcmEyWWZneXdNTFk3Tlg1N2lvMVJ3M0U3SUVIekIwcFpZT2gxeTdpeGlUdnZQNE9wRzJiNlFIaW9CYWt3?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T23:01:07.000Z",
+    "snippet": "오늘 날씨(9월 22일): 북부 지역은 덥고 맑겠고, 중부 및 남부 지역에는 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "c244ced1983e2390",
+    "title": "MS 부회장의 경고 \"AI가 무섭다면 기업 세금부터 줄여야\"",
+    "link": "https://www.hankyung.com/article/202609229388i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:00:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6674ac7751eace1d",
+    "title": "Will students do their homework if it’s turned into a TikTok-style feed? ScrollEd thinks so.",
+    "link": "https://www.tubefilter.com/2026/09/21/scrolled-turns-textbooks-into-tiktok-feeds-new-app/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-21T22:48:41.000Z",
+    "snippet": "There's a new app turning textbooks into social media feeds that look like the For You Page. It's called ScrollEd, and it is trying to improve educational outcomes by making studying more fun for school-age kids. ScrollEd's founders are Uts"
+  },
+  {
+    "id": "787cf2dd714bc261",
+    "title": "\"2년 안에 수천억 매출\"…지드래곤 소속사의 '로봇 야심'",
+    "link": "https://www.hankyung.com/article/202609229469i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:40:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "10e19a8d37828615",
+    "title": "미국, 광케이블 절단으로 동부 주요 공항 항공편 운항 중단",
+    "link": "https://news.hada.io/topic?id=34088",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T22:39:54.000Z",
+    "snippet": "주 통신 회선 장애와 백업 광케이블 절단이 겹치면서 FAA가 뉴욕, 보스턴, 필라델피아 등 미국 동부 주요 공항으로 향하는 항공편을 중단함 FlightAware 집계로 미국 내 5,600편 이상이 지연 또는 취소됐으며, 100편 이상이 다른 공항으로 회항함 필라델피..."
+  },
+  {
+    "id": "56291fe36f33d9b8",
+    "title": "Python Workers 정식 출시",
+    "link": "https://news.hada.io/topic?id=34087",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T22:36:54.000Z",
+    "snippet": "Python Workers가 정식 출시(GA) 되어 Python이 Cloudflare 개발자 플랫폼의 완전 지원 언어가 됨. 기존 Python 코드와 라이브러리로 Workers를 개발하고 Cloudflare 서비스와 연동할 수 있음 바인딩 타입 변환을 런타임과 Python SDK가 처리하므로, Python 객체를..."
+  },
+  {
+    "id": "ac33987b3e17df28",
+    "title": "유령 와이파이 1643곳, 석 달간 아무도 안 썼다",
+    "link": "https://www.hankyung.com/article/2026092295447",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:36:44.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "15731c4bc84cd695",
+    "title": "\"한국인들은 이렇게 관리한대\"…입소문 나더니 미국서 '불티' [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609229534g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:29:29.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "08c3a66e5994eb7b",
+    "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/20/2026",
+    "link": "https://www.tubefilter.com/2026/09/21/top-50-most-subscribed-youtube-channels-week-of-09-20-2026/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-21T22:08:27.000Z",
+    "snippet": "2026 has been a big year for Brazilian creators. CazéTV's World Cup streams ruled the summer, and as the weather turns autumnal, Lucan Pevidor is dominating the YouTube game. Pevidor topped the Global Sub Top 50 for the fourth week in a row"
+  },
+  {
+    "id": "f28d27e1196327c9",
+    "title": "\"한 번 가봤는데 굳이 또?\"…여행객 잡으려 22년 만에 '결단' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609206088i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:00:16.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fd84bfbd8f76791e",
+    "title": "\"80% 싸게 득템했어요\"…점심마다 '보물찾기' 하러 우르르 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202609219296i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:00:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "714f436da93c4cfa",
+    "title": "\"미국 주식 더 사자\"…중국인들 '우르르' 안달난 까닭 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609218274i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ac4a454162896230",
+    "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 09/20/2026",
+    "link": "https://www.tubefilter.com/2026/09/21/top-50-most-viewed-youtube-channels-week-of-09-20-2026/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-21T21:40:01.000Z",
+    "snippet": "T-Series is staying strong at the head of the Global Top 50. During the third week of September, the Indian record showed why it is YouTube's most-watched channel of all time. It picked up 985.1 million weekly views, and if it repeats that "
+  },
+  {
+    "id": "a34329f65a407671",
+    "title": "NASA/ESA의 화성 시료 귀환 임무가 취소됨",
+    "link": "https://news.hada.io/topic?id=34086",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T21:38:10.000Z",
+    "snippet": "미국 의회의 예산 절충안이 Mars Sample Return(MSR) 종료를 지지하면서 화성 암석을 지구로 가져오는 계획이 사실상 끝남. 다만 법안은 아직 상하원 통과와 대통령 서명이 필요함 비용 급증이 사업을 압박해 왔으며, NASA가 예상 비용을 110억 달러에서 70억 달러..."
+  },
+  {
+    "id": "fceaca45f22a0627",
+    "title": "샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델",
+    "link": "https://news.hada.io/topic?id=34085",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T21:35:10.000Z",
+    "snippet": "텍스트, 이미지, 영상, 오디오를 함께 이해하고 코딩과 도구 사용, 컴퓨터 조작을 수행하는 모델군으로, 고성능 Pro와 비용 효율적인 Flash를 공개함 Pro는 발표 기준 Artificial Analysis 지능 지수 46.32점으로 공개 모델 중 1위를 기록했으며, API 가격은 이전 ..."
+  },
+  {
+    "id": "636afee42b083f15",
+    "title": "“장례비 내야하는데 보험금 함흥차사”…보험사가 미리 알려드려요",
+    "link": "https://www.mk.co.kr/news/economy/12158816",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:34:09.000Z",
+    "snippet": "신한라이프 ‘유가족 금융안심’ 고인 보험정보 선제적 안내 보험금 청구도 비대면으로 출시 두달새 2천명 넘게 활용시니어 고객 확대에 박차를 가하고 있는 신한라이프가 유가족의 금융자산.."
+  },
+  {
+    "id": "565b44193884670c",
+    "title": "직장 괴롭힘 신고, 1위도 3위도 '쿠팡 계열사'",
+    "link": "https://www.hankyung.com/article/2026092294577",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:25:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "831a953b2dac5cff",
+    "title": "\"대출 풀린 지 한 달도 안 됐는데\"…5대 은행 '한도 바닥'",
+    "link": "https://www.hankyung.com/article/2026092294467",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:14:19.000Z",
+    "snippet": ""
+  },
+  {
     "id": "ac784045042a6a22",
     "title": "날씨 예보 9월 22일 - 2news.co.kr",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tOVMyZGZjZjFCeC0xemdMbWVvdW93ODkzNl9uVFZaRFZwcy1VempWV2tOTTVLUWlTOHJ0NW9BRnpMc3Q4bUtaWVdGTWF5SkFGc1d2LWlhV1JNZm92cXhMYXVQcnM2TmRH?oc=5",
@@ -30,6 +300,26 @@
     "snippet": "날씨 예보 9월 22일 2news.co.kr"
   },
   {
+    "id": "62a615fed637cccd",
+    "title": "\"부모님은 질색하는데\"…요즘 2030 '중국산 TV' 사는 이유   [텔레비전(戰) ②]",
+    "link": "https://www.hankyung.com/article/202609179916g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:00:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c484cefe9b82659a",
+    "title": "역대급 경상흑자라는데…체감경기는 왜 팍팍할까",
+    "link": "https://www.hankyung.com/article/2026092188491",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:00:06.000Z",
+    "snippet": ""
+  },
+  {
     "id": "1142cf2ca4dd3995",
     "title": "Mac에서 Apple Intelligence 기능 끄기 및 접근 제한하기",
     "link": "https://news.hada.io/topic?id=34084",
@@ -38,6 +328,16 @@
     "category": "개발",
     "publishedAt": "2026-09-21T20:32:31.000Z",
     "snippet": "Mac의 시스템 설정과 개별 앱 설정에서 Siri AI(베타), 요약, 개인화된 답장 등 Apple Intelligence 기능을 끌 수 있음 Siri AI를 끈 뒤 Siri를 다시 켜면서 Siri Classic을 선택하면 기존 Siri로 전환할 수 있음 메시지, 이메일, 알림의..."
+  },
+  {
+    "id": "0e10602d4d86495e",
+    "title": "[기상속보]오늘날씨 출근길 일교차 커 건강주의 서울 낮 29도...주말,주간예보 - 퍼블릭타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55S0otYnFEQWUxUURQejF3QWozcldzZ1g0NVdJUm9iSE9wMGd0RzFnNDRLdG94VXZ4Rldvck93MFpCeFBQU2FDczBmYUladUVOUXdSbi1PblFlQkhQb1pzeGNRdDV6MC1RalHSAW5BVV95cUxQeV9fZmt3cUtibzBiNEM3a2RXMkFoSWYyN1JNNmhtZGk0VzFJYnVleS1ZbzlpWTRUZ0R6cUV6cFJ0bW5CeElZMm56dTlDT1pCRlE2b0tYcmdnejFDZl9oVGNkN1R1akJKbHZWMDMxdw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T20:00:00.000Z",
+    "snippet": "[기상속보]오늘날씨 출근길 일교차 커 건강주의 서울 낮 29도...주말,주간예보 퍼블릭타임스"
   },
   {
     "id": "474dfffcc228f4fc",
@@ -88,6 +388,16 @@
     "category": "AI",
     "publishedAt": "2026-09-21T18:20:59.000Z",
     "snippet": "알리바바가 오디오와 텍스트를 동시에 처리해 통역 지연 시간을 2.3초까지 단축한 차세대 통번역 모델을 공개했다.알리바바는 18일(현지시간) 대화 중 음성이 끝나기를 기다리지 않고 듣는 동시에 번역문과 음성을 생성하는 통번역 모델 ‘큐원3.8-라이브트랜스레이트(Qwen3.8-LiveTranslate)’를 선보였다.이 모델의 핵심은 오디오와 텍스트를 하나의 스트림으로 엮는 '인터리브(Interleave)' 아키텍처다. 음성 데이터"
+  },
+  {
+    "id": "6026133e307f437e",
+    "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-21T18:15:21.000Z",
+    "snippet": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 대한경제"
   },
   {
     "id": "8d660b996a451c76",
@@ -158,6 +468,16 @@
     "category": "개발",
     "publishedAt": "2026-09-21T17:46:35.000Z",
     "snippet": "오랫동안 집중하는 대상은 생각을 형성함. 테트리스를 반복해 플레이하면 일상에서도 블록 모양이 눈에 들어오는 ‘테트리스 효과’처럼, 화면에서 무엇을 보는지도 사고에 영향을 줌 관심 대상을 직접 고르기보다 추천 알고리듬에 맡기면서, 주의력을 의도적으로 ..."
+  },
+  {
+    "id": "ee97def3847e2648",
+    "title": "울산창조경제혁신센터, 'AI 활용 R&D 사업계획서 작성 지원사업' 참여기업 모집 - 투어코리아",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tZllJMm1Bako5Sk5yR2psemo2Mm91WVJELS1SSHYtWDMwTlhnOURlaEk1WnNzRHJ2Zlk0eDlrc3ZEempBWmF4ZVN5S1Flb2FfcGZrRTBQdzRJN2pYMklkMmxac0c4dEZPVVoxVTZ3?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-21T17:44:45.000Z",
+    "snippet": "울산창조경제혁신센터, 'AI 활용 R&D 사업계획서 작성 지원사업' 참여기업 모집 투어코리아"
   },
   {
     "id": "0987785cc30f49b4",
@@ -4678,325 +4998,5 @@
     "category": "개발",
     "publishedAt": "2026-09-20T01:02:24.000Z",
     "snippet": "ChatGPT, Gemini, Claude가 정치적 쟁점에 관한 대화에서 세계 챔피언을 포함한 전문 토론자보다 높은 설득력을 보인 연구 결과가 나옴 챗봇은 감정적 호소보다 사실과 근거를 제시하는 방식으로 생각을 바꾸지만, 그 안에는 허위 정보도 섞이며 설득력을 높이도록..."
-  },
-  {
-    "id": "7f718e299f54e74f",
-    "title": "Brood War Bench",
-    "link": "https://news.hada.io/topic?id=33966",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-20T01:02:23.000Z",
-    "snippet": "에이전트가 Brood War를 얼마나 독립적으로 플레이할 수 있는지 평가하기 위해 모델과 추론 노력 설정 19개 조합을 서로 대전시켰으며, 초보 수준을 넘어선 모델은 없었음 Codex Astra / xhigh가 18승 무패로 1위를 차지했고, Astra / medium과 Claude Fable이 각각..."
-  },
-  {
-    "id": "75e5ab0f089de9c0",
-    "title": "뉴질랜드·사우디·남미…전 세계가 찾는 'K-함정'의 비결은",
-    "link": "https://www.hankyung.com/article/202609171898i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-20T01:00:04.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "7d27dedf76a54948",
-    "title": "Rust 개발자가 경험한 Zig",
-    "link": "https://news.hada.io/topic?id=33965",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-20T00:52:23.000Z",
-    "snippet": "Rust로 만든 JSONPath 라이브러리를 Zig로 재구현하면서, 함수형 변환 중심의 코드가 직접적인 상태 변경과 수동 메모리 관리 중심으로 달라지는 경험을 함 IDE 지원은 제한적이었지만 build.zig 기반 CLI 작업 흐름은 간결했으며, 프로젝트 전체를 평..."
-  },
-  {
-    "id": "4ade333183a452a7",
-    "title": "px0 - 브라우저에서 코드를 빠르게 탐색하고 검토하는 초경량 도구",
-    "link": "https://news.hada.io/topic?id=33964",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-20T00:30:03.000Z",
-    "snippet": "1ms 미만의 시작 시간과 약 20MB의 메모리 사용량을 내세우는 경량 코드 뷰어, 로컬과 원격 서버의 코드를 브라우저에서 빠르게 탐색하고 검토 직접 코드를 입력하는 편집기 대신 수정할 부분을 선택해 코딩 에이전트에 요청하고, 변경된 결과를 화면에서 확인하는..."
-  },
-  {
-    "id": "a87079b291de0a55",
-    "title": "9월 20일 날씨 예보: 북부 지역은 맑고 건조하겠지만, 중부 및 남부 지역 곳곳에는 폭우 또는 매우 심한 비가 내리겠습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjRkY3hMdTBkR3RsWFoyY05uSlhNQk41N3p3eG5qaVFtVHdEcENYOHlEUVRQdFIxdi1vZnA3ZVBsUlUzYklBRmYzbDF2YUxkT0tybmg4NUQ1VU4tNU96YUV2eGtXV2l6MDdKN1JwcGFNUGFGNDU5eFE3X0dtcHdtUWtfR2dDQ1hOc1JIRlJoVzFSaUFyNDhkUUFZaDE4bEc1SFNkZDJfVFc0YUlh?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-20T00:27:57.000Z",
-    "snippet": "9월 20일 날씨 예보: 북부 지역은 맑고 건조하겠지만, 중부 및 남부 지역 곳곳에는 폭우 또는 매우 심한 비가 내리겠습니다. Vietnam.vn"
-  },
-  {
-    "id": "ff80fa6efff68f3c",
-    "title": "오늘(9월 20일) 날씨 예보: 베트남 남부와 중부 고원 일부 지역에 매우 강한 비가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUNiMFVxZm1SeFpuVkxETmUwOHV3X0hLOThSRDRCZHdOMk8tU0l6bGYxT25GUjFmQmd1S3AwRkEtdzZQUkxXRGFkRVhwQjV0bEpsdS02Z1g3b2w2TTdmdERDZVNKNThQdVNRQXI1ZTUySmRLVjIybm55aVVvVzgwWGZ0aFNCZnpZdlJqNnFUZmZGOVdza3Z6amo5WDI?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-20T00:25:57.000Z",
-    "snippet": "오늘(9월 20일) 날씨 예보: 베트남 남부와 중부 고원 일부 지역에 매우 강한 비가 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "bae33e10898fc56c",
-    "title": "삼성의 다음 승부처는 ‘AI 일상’…노태문 “거스를 수 없는 대세”",
-    "link": "https://www.mk.co.kr/news/economy/12157290",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-20T00:14:53.000Z",
-    "snippet": "실리콘밸리서 ‘2026 테크 포럼’ 개최 글로벌 리더급 개발자·삼성 경영진 80여명 참석 AI·로보틱스 결합…일상 모든 공간으로 AI 확장 “최고의 AI 경험 제공해 AX 전환기 .."
-  },
-  {
-    "id": "5512007e727de19c",
-    "title": "아키텍처 우주비행사들에게 겁먹지 말라 (2001)",
-    "link": "https://news.hada.io/topic?id=33963",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-20T00:02:24.000Z",
-    "snippet": "추상화를 지나치게 밀어붙이면 구체적인 문제는 사라지고, 모든 것을 포괄하지만 실제로는 아무 의미 없는 아키텍처만 남음 Napster의 매력은 P2P 구조가 아니라 노래 이름을 입력하면 곧바로 들을 수 있다는 데 있음 아키텍처 자체가 나쁘다는 것이 아니..."
-  },
-  {
-    "id": "eebeb0ea08688990",
-    "title": "Waymo의 싱가포르 진출",
-    "link": "https://news.hada.io/topic?id=33962",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-20T00:02:23.000Z",
-    "snippet": "Waymo가 싱가포르 교통부와 육상교통청과 협력해 2028년 완전 자율주행 상용 호출 서비스 출시를 준비함 초기에는 사람이 직접 운전하며 지도 작성과 검증을 진행하고, 현지 자율주행 전문 인력이 운전석에 탑승하는 단계를 거쳐 완전 무인 운행으..."
-  },
-  {
-    "id": "5626a4dac37605c5",
-    "title": "하브 연비 L당 17.4㎞…'싼타페급'으로 넓어진 현대차 투싼",
-    "link": "https://www.hankyung.com/article/202609171748g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-20T00:00:11.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "0e47f99c3960b02a",
-    "title": "\"120억으로 예금만 했는데\"…5년 새 누적수익률 80% 비결",
-    "link": "https://www.hankyung.com/article/202609183238i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-20T00:00:09.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "bd186677e2eb7222",
-    "title": "비트코인, '클래리티 쇼크' 이틀 만에 극복…7만7000달러선 탈환",
-    "link": "https://www.hankyung.com/article/202609184406i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-20T00:00:05.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "1fcb10c423921574",
-    "title": "ZX Spectrum용 그래픽 데스크톱",
-    "link": "https://news.hada.io/topic?id=33961",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-19T23:52:24.000Z",
-    "snippet": "ZX Desk는 Z80 어셈블리로 작성한 ZX Spectrum 48K용 데스크톱으로, 겹치는 창과 메뉴, 메모장, 시계, 달력, 파일 관리자를 48K 안에 구현하고 실제 하드웨어에서 실행함 실측 기반 최적화로 창 드래그 처리 시간을 프레임당 69,888 T 상태 이내인 59,858 T로 줄여..."
-  },
-  {
-    "id": "0b7544aea710ad93",
-    "title": "두 신경외배엽 전구세포 계통이 병렬적으로 뇌 발달에 기여함",
-    "link": "https://news.hada.io/topic?id=33960",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-19T23:52:23.000Z",
-    "snippet": "사람과 여러 동물의 뇌 앞부분과 뒷부분은 기존에 생각했던 공통 기원이 아니라 서로 다른 전구세포에서 발달함 생쥐 배아에서 OTX2를 발현하는 전구세포는 전뇌와 중뇌 뉴런으로, GBX2를 발현하는 전구세포는 후뇌 뉴런으로 분화하며, 인간 세포..."
-  },
-  {
-    "id": "9b08a8d70b43a340",
-    "title": "“집도 있고 소득도 괜찮은데 거지라고?”…4명 중 3명 노후 비상, 왜?",
-    "link": "https://www.mk.co.kr/news/economy/12157269",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-19T23:23:14.000Z",
-    "snippet": "“당신은 중산층입니까?” 이 질문에 선뜻 “그렇다”고 답하는 사람은 많지 않다. 소득이 평균보다 높더라도 주택대출과 자녀 교육비 부담이 크면 생활에 여유가 없다고 느낀다. 수억원의.."
-  },
-  {
-    "id": "fd7482649f626ffb",
-    "title": "'창사 첫 파업' 사측과 골프?…삼성·포스코 노조 '위원장 리스크'",
-    "link": "https://www.hankyung.com/article/2026092056167",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-19T23:20:54.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "7e3210551654bdca",
-    "title": "Playwright를 2배 빠르게, 토큰 효율을 80% 높게 만들었습니다",
-    "link": "https://news.hada.io/topic?id=33959",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-19T22:52:25.000Z",
-    "snippet": "Stagehand는 웹사이트 조작과 구조화된 데이터 추출을 위한 에이전트용 SDK로, TypeScript, Python, Go에서 Playwright 스타일 API와 자연어 명령을 함께 제공함 접근성 트리의 하이브리드 가지치기로 에이전트에 필요한 페이지 문맥만 전달하며, 브라우저 옆에서 ..."
-  },
-  {
-    "id": "36ce8b86393c3aac",
-    "title": "미 제2연방항소법원, 정부의 국경 전자기기 수색 허용",
-    "link": "https://news.hada.io/topic?id=33958",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-19T22:52:24.000Z",
-    "snippet": "미 제2연방항소법원이 국경 요원의 여행자 전자기기 수색에 아무런 혐의나 의심이 없어도 된다고 판결함 사건은 United States v. Alisigwe로, 정부가 국경에서 피고인의 휴대전화를 영장 없이 두 차례 수색해 확보한 증거를 형사재판에 사용함 K..."
-  },
-  {
-    "id": "670a895adfae1d77",
-    "title": "Alibaba, 암을 포함한 약 150개 질환을 탐지하는 AI 모델 오픈소스로 공개",
-    "link": "https://news.hada.io/topic?id=33957",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-19T22:52:23.000Z",
-    "snippet": "Alibaba 산하 연구기관 Damo Academy가 CT 영상에서 암을 포함한 약 150개 복부 질환을 식별하는 Damo Radar를 오픈소스로 공개함 비전 언어 모델로, 18개 복부 장기를 포함하는 조영증강 CT를 분석해 악성 종양 등 질환과 이상 소견을 찾아냄 CT 영상과 ..."
-  },
-  {
-    "id": "dc4eb0409f5885f4",
-    "title": "글쓰기를 AI에 거의 맡기지 말아야 하는 이유",
-    "link": "https://news.hada.io/topic?id=33956",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-19T22:52:22.000Z",
-    "snippet": "아이디어, 논증, 분석을 전달하는 글에서는 글쓰기 자체가 사고 과정이므로, 상세한 메모를 주거나 결과물을 편집하더라도 AI에 집필을 맡기는 것은 거의 바람직하지 않음 AI가 쓴 문장을 읽고 동의하는 것과 직접 단어를 고르며 쓰는 것은 다름. 그럴듯한 문장을 ..."
-  },
-  {
-    "id": "0f2588bb5d437123",
-    "title": "9월 20일 날씨 예보: 베트남 북부는 맑고 기온은 34도까지 오르겠으며, 중부와 남부 지역은 많은 곳에서 폭우가 예상됩니다. - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHphMENQRE4xQThRa1FLdDc2d25XeG8zRVJqUC1rMGRSQkR3ZWlYck5zUVROemppZ1ZvODNKdmltTmk4YTh0aDhpanY5MDZ6MG1CRHZMSEJtbzVjazNRT29vRExsTW1CWWVtRGFVSUY3cjhNSHhYLUlaWlZ1emQtc3Z4OE85M01zbWN5NGx3OEF4QVJZOTBYeHRXd2dHZ1ZYc1NR?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-19T22:49:59.000Z",
-    "snippet": "9월 20일 날씨 예보: 베트남 북부는 맑고 기온은 34도까지 오르겠으며, 중부와 남부 지역은 많은 곳에서 폭우가 예상됩니다. vietnam.vn"
-  },
-  {
-    "id": "044bb564d08a1796",
-    "title": "\"김밥 한 줄 먹으려 40분 대기\"…백화점이 '로컬 브랜드' 모시는 이유 [박수림의 요즘 여기]",
-    "link": "https://www.hankyung.com/article/202609183306g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-19T22:30:03.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "e785b24986d0760b",
-    "title": "휴게소 돈가스 가격 30% 뛰었다…호두과자·커피도 '깜짝'",
-    "link": "https://www.hankyung.com/article/2026092055857",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-19T22:23:43.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "d495d86d3979c8c6",
-    "title": "[오늘의 북한 날씨] 대체로 맑음, 일부 내륙지방 안개 - SPN 서울평양뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WNWhoOGdaZzZYek5mZ0I3UUxrMGZGX293U1VYeFJnaDhLODk2ZVgwZzdCakZBQnNFallhQkI5VjRKXzhxVkdLZVpOSm1kQXZZQWVhblF5RGxHZWhaRVpzN3ZUVlR6Nk9FMFZN?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-19T22:21:59.000Z",
-    "snippet": "[오늘의 북한 날씨] 대체로 맑음, 일부 내륙지방 안개 SPN 서울평양뉴스"
-  },
-  {
-    "id": "adbf2076a128ef09",
-    "title": "9월 20일 응에안 지역 날씨 예보: 일부 지역에 소나기와 천둥번개가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWG1mclRfSFUtekx5RHB4bjhUV3R6aVg2RFN6eENTMUtuRi1WbXktckVoY3VZOFpBN2JIMl94Wi1PbWpMSTNRODBWUUFxTUxFTnNFZ1dKdUtSY1Z6SGRSZWtZd0JkSVRwbGxwcE02aTdIWnRuOUxpRTUtcVVZeVJUaUJuM2J2UlU?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-19T22:09:35.000Z",
-    "snippet": "9월 20일 응에안 지역 날씨 예보: 일부 지역에 소나기와 천둥번개가 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "d85858ddbd00f6c4",
-    "title": "외국인 실업급여 '역대 최대'…수급자 열명 중 여덟 중국계 [곽용희의 일자리노트]",
-    "link": "https://www.hankyung.com/article/202609195257i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-19T22:00:07.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "6ed117d9af0986a4",
-    "title": "애플도 이제 코인처럼?…290조 몰린 서학개미들 '술렁' [김주완의 글로벌머니 X파일]",
-    "link": "https://www.hankyung.com/article/202609195213i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-19T22:00:04.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "72081c5d1120c965",
-    "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-19T21:57:09.000Z",
-    "snippet": "AI타임스와 이스트에이드의 9월 셋째 주(9월11일~17일) 이슈 분석 결과, SBS 개그맨 술집 난동을 포함해 MBC 사장 인선과 수출 실적, AI 관련 소식이 상위권을 차지했다.이번 주 검색량 1위는 'SBS 개그맨 술집 난동(5.60%)'이 차지했다. SBS 공채 개그맨을 사칭한 남성이 서울의 한 술집에서 업주에게 폭언하고 맥주잔을 던지는 등 난동을 부려 경찰 조사를 받아 화제를 모았다.2위는 'MBC 사장 이성주 내정("
-  },
-  {
-    "id": "5f551c21c71abd2b",
-    "title": "[오늘 전국 날씨예보] 기상청 날씨누리, “20일, 당분간 낮과 밤의 기온차 큼” - 한국강사신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxbnBTV2Q2V210QXdEMlR6S0lrNFF3Q3ZSbzN5aFFCMGdxU2pOMVlETEpndUpFNmZuNURGbjBfT2NCUzg1cHdGOFMxTEVySWI3Q2NhNXdoYVpBRnhUUVh1Zlk4ZVJDNnVxcTJneGFRcmE?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-19T21:54:18.000Z",
-    "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “20일, 당분간 낮과 밤의 기온차 큼” 한국강사신문"
-  },
-  {
-    "id": "f6b0e206980cd52a",
-    "title": "TIN - Postgres용 전문 검색",
-    "link": "https://news.hada.io/topic?id=33955",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-19T21:42:22.000Z",
-    "snippet": "PlanetScale이 Postgres 전문 검색 확장 TIN(Text INdex) 을 정식 출시함. PlanetScale의 모든 Postgres 및 Neki 데이터베이스에서 사용할 수 있음 불리언/구문/스팬 검색, 퍼지/와일드카드/정규식 매칭부터 COUNT(*)와 BM25 상위 결과 검색..."
-  },
-  {
-    "id": "bdcd4c214fc22c8f",
-    "title": "치킨·불고기 넘어 족발·곱창까지…홍콩에 부는 'K푸드 2.0' [권용훈의 트렌드워치]",
-    "link": "https://www.hankyung.com/article/202609183572i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-19T21:00:02.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "c3f783140f2c30b9",
-    "title": "과학은 오픈 소프트웨어다",
-    "link": "https://news.hada.io/topic?id=33954",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-19T20:42:22.000Z",
-    "snippet": "현대 과학, 적어도 계산과학에서 오픈소스 소프트웨어는 과학 그 자체임. 소프트웨어는 예측 모델을 실행 가능한 형태로 담고 공유하는 수단이기 때문임 재현성은 같은 결과를 반복하는 데 그치지 않음. 다른 사람이 과학적 아이디어를 자신의 모델에 통합하고, 검..."
   }
 ]

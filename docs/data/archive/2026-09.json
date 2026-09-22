@@ -1,5 +1,15 @@
 [
   {
+    "id": "217b47612dad478b",
+    "title": "[9월21일] AI ‘킬 스위치’ 논의 확대…“정말 AI를 멈출 수 있을까”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215518",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-22T07:00:00.000Z",
+    "snippet": "AI가 통제를 벗어났을 때 강제로 작동을 중단시키는 ‘킬 스위치(Kill Switch)’ 논의가 최근 부쩍 늘고 있습니다. 미국 의회에서도 지난 7월 위험한 AI 시스템을 필요할 때 중단할 수 있는 기술적 능력을 갖추도록 하는 ‘AI 킬 스위치법’이 발의됐습니다. 또 캘리포니아주는 지난 18일(현지시간) 첨단 AI 모델에 비상 정지 기능을 갖추도록 하는 행정명령을 내렸습니다. 킬 스위치는 AI가 위험한 행동을 하거나 통제를 벗"
+  },
+  {
     "id": "fed9d47e9cfc1346",
     "title": "KAIST, ‘지식 재사용’으로 서버 호출 57% 줄였다…“증류·추가학습 필요 없어”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215545",
@@ -20,6 +30,266 @@
     "snippet": "리더보드 관련 평가 데이터 과적합, 결과 공정성에 대한 문제 제기가 계속되는 가운데, 국내 기업이 ‘답을 알 수 없는’ 글로벌 벤치마크에서 1위를 달성하는 유의미한 성과를 거뒀다. 미래 사건의 결과를 예측하는 벤치마크로, 문제 풀이 시점에는 누구도 답을 알 수 없다는 것이 특징이다.금융 AI 투자 플랫폼 '밸리 AI(Valley AI)'를 운영하는 뉴로퓨전(대표 최한철)이 글로벌 AI 미래 예측 벤치마크인 '포캐스트벤치(For"
   },
   {
+    "id": "ac0a3ae74407a0d7",
+    "title": "카카오, 독립형 AI 서비스 ‘카나나’ 종료",
+    "link": "https://news.hada.io/topic?id=34089",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-22T00:20:02.000Z",
+    "snippet": "2025년 5월 베타로 시작한 카나나 앱과 PC 서비스가 2026년 10월 15일 종료되며, 정식 출시 없이 약 1년 5개월 만에 운영을 마침 ‘카나’와 ‘나나’라는 AI 메이트와 대화하고, 음성 대화, 이미지 생성과 차량 정비 예약 등을 이용할 수 있었던 독립형 AI 서비스..."
+  },
+  {
+    "id": "36b26f3cd9db2a7d",
+    "title": "삼성물산 패션, 英 '마가렛 호웰' 독점 유통…국내 사업 본격화",
+    "link": "https://www.hankyung.com/article/202609229686g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:39:57.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "887a3f9b663b6943",
+    "title": "AI에 성장 체력 커졌나…고금리에도 굳건한 세계 경제",
+    "link": "https://www.hankyung.com/article/202609229724i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:33:12.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "db79d37b718d6d23",
+    "title": "반도체가 계속 해준다…9월 무역흑자 벌써 230억달러 ‘역대 최대’",
+    "link": "https://www.mk.co.kr/news/economy/12158840",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:11:49.000Z",
+    "snippet": "관세청 1~20일 수출입 현황 전년보다 수출액 78%↑ 반도체 비중이 48% 차지이달 들어 수출이 700억달러를 돌파하며 역대 최대치를 새로 썼다. 반도체 수출이 260% 가까이 .."
+  },
+  {
+    "id": "5229b97b732e1839",
+    "title": "“기업들 현장조사 거부하면 고발”…공정위원장, 강경대응 예고",
+    "link": "https://www.mk.co.kr/news/economy/12158839",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:11:08.000Z",
+    "snippet": "공정위원장 1주년 간담회 불복기업에 강경 대응 나서 국고채 담합도 조속히 결론공정거래위원회가 쿠팡·한화와 같은 기업들의 반발로 현장조사 단계에서 제동이 걸리자 강경 대응을 예고했다.."
+  },
+  {
+    "id": "d046469ccd14d99f",
+    "title": "\"사기 거래가 80%\"…고성장 이후 허점 드러낸 폴리마켓",
+    "link": "https://www.hankyung.com/article/202609229628i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:09:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "12c3defa55bcbb59",
+    "title": "900점 이상 고신용자도 5명 중 1명은 대출 ‘퇴짜’",
+    "link": "https://www.mk.co.kr/news/economy/12158837",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:09:17.000Z",
+    "snippet": "규제에 자격기준 높아지고 신용점수 인플레까지 겹쳐 시중銀 거절률 5년새 3배로신용점수가 900점 이상인 고신용자도 5명 중 1명은 은행에 신용대출을 신청했다가 거절당하는 것으로 나.."
+  },
+  {
+    "id": "970edaff7ff7b5f5",
+    "title": "9월 22일 날씨 예보: 북부 지역은 덥고 맑겠으며, 후에 남쪽으로는 매우 많은 비가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTNKQVV0Z0tZVk1wNGwyMzN1SzBqdXFXM0pKVGRZSVZlRGhKdTlILVlVQ1FaVzNWN2VaZ0dCN1pIRTYyRUtJOS01ZzNrNFQzWmNFQ0NyOWhWM2o3ZmI1YmxqNUxmbV9aWk9WbTNnUHktSmd0V214bU55VVotMGpQejVXUklnbkcySXJEN1g2ZElVVkxZZnI1LTFnT3NlYWRKRnd5WA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T23:01:07.000Z",
+    "snippet": "9월 22일 날씨 예보: 북부 지역은 덥고 맑겠으며, 후에 남쪽으로는 매우 많은 비가 내리겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "c50378263c8431ec",
+    "title": "오늘 날씨(9월 22일): 북부 지역은 덥고 맑겠고, 중부 및 남부 지역에는 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVNNbEtXRXdURV9KUVJzejBTNlhubVJibmxEU2xZZmxOY2lUZkxDSmFOWXp0NFI1TV9uNVpFWHhPSW53NjR3VGFVYy1xVnFsZ29vXzhKTmFwQktDRE9FcmEyWWZneXdNTFk3Tlg1N2lvMVJ3M0U3SUVIekIwcFpZT2gxeTdpeGlUdnZQNE9wRzJiNlFIaW9CYWt3?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T23:01:07.000Z",
+    "snippet": "오늘 날씨(9월 22일): 북부 지역은 덥고 맑겠고, 중부 및 남부 지역에는 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "c244ced1983e2390",
+    "title": "MS 부회장의 경고 \"AI가 무섭다면 기업 세금부터 줄여야\"",
+    "link": "https://www.hankyung.com/article/202609229388i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T23:00:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6674ac7751eace1d",
+    "title": "Will students do their homework if it’s turned into a TikTok-style feed? ScrollEd thinks so.",
+    "link": "https://www.tubefilter.com/2026/09/21/scrolled-turns-textbooks-into-tiktok-feeds-new-app/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-21T22:48:41.000Z",
+    "snippet": "There's a new app turning textbooks into social media feeds that look like the For You Page. It's called ScrollEd, and it is trying to improve educational outcomes by making studying more fun for school-age kids. ScrollEd's founders are Uts"
+  },
+  {
+    "id": "787cf2dd714bc261",
+    "title": "\"2년 안에 수천억 매출\"…지드래곤 소속사의 '로봇 야심'",
+    "link": "https://www.hankyung.com/article/202609229469i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:40:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "10e19a8d37828615",
+    "title": "미국, 광케이블 절단으로 동부 주요 공항 항공편 운항 중단",
+    "link": "https://news.hada.io/topic?id=34088",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T22:39:54.000Z",
+    "snippet": "주 통신 회선 장애와 백업 광케이블 절단이 겹치면서 FAA가 뉴욕, 보스턴, 필라델피아 등 미국 동부 주요 공항으로 향하는 항공편을 중단함 FlightAware 집계로 미국 내 5,600편 이상이 지연 또는 취소됐으며, 100편 이상이 다른 공항으로 회항함 필라델피..."
+  },
+  {
+    "id": "56291fe36f33d9b8",
+    "title": "Python Workers 정식 출시",
+    "link": "https://news.hada.io/topic?id=34087",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T22:36:54.000Z",
+    "snippet": "Python Workers가 정식 출시(GA) 되어 Python이 Cloudflare 개발자 플랫폼의 완전 지원 언어가 됨. 기존 Python 코드와 라이브러리로 Workers를 개발하고 Cloudflare 서비스와 연동할 수 있음 바인딩 타입 변환을 런타임과 Python SDK가 처리하므로, Python 객체를..."
+  },
+  {
+    "id": "ac33987b3e17df28",
+    "title": "유령 와이파이 1643곳, 석 달간 아무도 안 썼다",
+    "link": "https://www.hankyung.com/article/2026092295447",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:36:44.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "15731c4bc84cd695",
+    "title": "\"한국인들은 이렇게 관리한대\"…입소문 나더니 미국서 '불티' [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609229534g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:29:29.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "08c3a66e5994eb7b",
+    "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/20/2026",
+    "link": "https://www.tubefilter.com/2026/09/21/top-50-most-subscribed-youtube-channels-week-of-09-20-2026/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-21T22:08:27.000Z",
+    "snippet": "2026 has been a big year for Brazilian creators. CazéTV's World Cup streams ruled the summer, and as the weather turns autumnal, Lucan Pevidor is dominating the YouTube game. Pevidor topped the Global Sub Top 50 for the fourth week in a row"
+  },
+  {
+    "id": "f28d27e1196327c9",
+    "title": "\"한 번 가봤는데 굳이 또?\"…여행객 잡으려 22년 만에 '결단' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609206088i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:00:16.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fd84bfbd8f76791e",
+    "title": "\"80% 싸게 득템했어요\"…점심마다 '보물찾기' 하러 우르르 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202609219296i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:00:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "714f436da93c4cfa",
+    "title": "\"미국 주식 더 사자\"…중국인들 '우르르' 안달난 까닭 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609218274i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T22:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ac4a454162896230",
+    "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 09/20/2026",
+    "link": "https://www.tubefilter.com/2026/09/21/top-50-most-viewed-youtube-channels-week-of-09-20-2026/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-21T21:40:01.000Z",
+    "snippet": "T-Series is staying strong at the head of the Global Top 50. During the third week of September, the Indian record showed why it is YouTube's most-watched channel of all time. It picked up 985.1 million weekly views, and if it repeats that "
+  },
+  {
+    "id": "a34329f65a407671",
+    "title": "NASA/ESA의 화성 시료 귀환 임무가 취소됨",
+    "link": "https://news.hada.io/topic?id=34086",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T21:38:10.000Z",
+    "snippet": "미국 의회의 예산 절충안이 Mars Sample Return(MSR) 종료를 지지하면서 화성 암석을 지구로 가져오는 계획이 사실상 끝남. 다만 법안은 아직 상하원 통과와 대통령 서명이 필요함 비용 급증이 사업을 압박해 왔으며, NASA가 예상 비용을 110억 달러에서 70억 달러..."
+  },
+  {
+    "id": "fceaca45f22a0627",
+    "title": "샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델",
+    "link": "https://news.hada.io/topic?id=34085",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-21T21:35:10.000Z",
+    "snippet": "텍스트, 이미지, 영상, 오디오를 함께 이해하고 코딩과 도구 사용, 컴퓨터 조작을 수행하는 모델군으로, 고성능 Pro와 비용 효율적인 Flash를 공개함 Pro는 발표 기준 Artificial Analysis 지능 지수 46.32점으로 공개 모델 중 1위를 기록했으며, API 가격은 이전 ..."
+  },
+  {
+    "id": "636afee42b083f15",
+    "title": "“장례비 내야하는데 보험금 함흥차사”…보험사가 미리 알려드려요",
+    "link": "https://www.mk.co.kr/news/economy/12158816",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:34:09.000Z",
+    "snippet": "신한라이프 ‘유가족 금융안심’ 고인 보험정보 선제적 안내 보험금 청구도 비대면으로 출시 두달새 2천명 넘게 활용시니어 고객 확대에 박차를 가하고 있는 신한라이프가 유가족의 금융자산.."
+  },
+  {
+    "id": "565b44193884670c",
+    "title": "직장 괴롭힘 신고, 1위도 3위도 '쿠팡 계열사'",
+    "link": "https://www.hankyung.com/article/2026092294577",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:25:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "831a953b2dac5cff",
+    "title": "\"대출 풀린 지 한 달도 안 됐는데\"…5대 은행 '한도 바닥'",
+    "link": "https://www.hankyung.com/article/2026092294467",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:14:19.000Z",
+    "snippet": ""
+  },
+  {
     "id": "ac784045042a6a22",
     "title": "날씨 예보 9월 22일 - 2news.co.kr",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tOVMyZGZjZjFCeC0xemdMbWVvdW93ODkzNl9uVFZaRFZwcy1VempWV2tOTTVLUWlTOHJ0NW9BRnpMc3Q4bUtaWVdGTWF5SkFGc1d2LWlhV1JNZm92cXhMYXVQcnM2TmRH?oc=5",
@@ -30,6 +300,26 @@
     "snippet": "날씨 예보 9월 22일 2news.co.kr"
   },
   {
+    "id": "62a615fed637cccd",
+    "title": "\"부모님은 질색하는데\"…요즘 2030 '중국산 TV' 사는 이유   [텔레비전(戰) ②]",
+    "link": "https://www.hankyung.com/article/202609179916g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:00:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c484cefe9b82659a",
+    "title": "역대급 경상흑자라는데…체감경기는 왜 팍팍할까",
+    "link": "https://www.hankyung.com/article/2026092188491",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-21T21:00:06.000Z",
+    "snippet": ""
+  },
+  {
     "id": "1142cf2ca4dd3995",
     "title": "Mac에서 Apple Intelligence 기능 끄기 및 접근 제한하기",
     "link": "https://news.hada.io/topic?id=34084",
@@ -38,6 +328,16 @@
     "category": "개발",
     "publishedAt": "2026-09-21T20:32:31.000Z",
     "snippet": "Mac의 시스템 설정과 개별 앱 설정에서 Siri AI(베타), 요약, 개인화된 답장 등 Apple Intelligence 기능을 끌 수 있음 Siri AI를 끈 뒤 Siri를 다시 켜면서 Siri Classic을 선택하면 기존 Siri로 전환할 수 있음 메시지, 이메일, 알림의..."
+  },
+  {
+    "id": "0e10602d4d86495e",
+    "title": "[기상속보]오늘날씨 출근길 일교차 커 건강주의 서울 낮 29도...주말,주간예보 - 퍼블릭타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55S0otYnFEQWUxUURQejF3QWozcldzZ1g0NVdJUm9iSE9wMGd0RzFnNDRLdG94VXZ4Rldvck93MFpCeFBQU2FDczBmYUladUVOUXdSbi1PblFlQkhQb1pzeGNRdDV6MC1RalHSAW5BVV95cUxQeV9fZmt3cUtibzBiNEM3a2RXMkFoSWYyN1JNNmhtZGk0VzFJYnVleS1ZbzlpWTRUZ0R6cUV6cFJ0bW5CeElZMm56dTlDT1pCRlE2b0tYcmdnejFDZl9oVGNkN1R1akJKbHZWMDMxdw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-21T20:00:00.000Z",
+    "snippet": "[기상속보]오늘날씨 출근길 일교차 커 건강주의 서울 낮 29도...주말,주간예보 퍼블릭타임스"
   },
   {
     "id": "474dfffcc228f4fc",
@@ -88,6 +388,16 @@
     "category": "AI",
     "publishedAt": "2026-09-21T18:20:59.000Z",
     "snippet": "알리바바가 오디오와 텍스트를 동시에 처리해 통역 지연 시간을 2.3초까지 단축한 차세대 통번역 모델을 공개했다.알리바바는 18일(현지시간) 대화 중 음성이 끝나기를 기다리지 않고 듣는 동시에 번역문과 음성을 생성하는 통번역 모델 ‘큐원3.8-라이브트랜스레이트(Qwen3.8-LiveTranslate)’를 선보였다.이 모델의 핵심은 오디오와 텍스트를 하나의 스트림으로 엮는 '인터리브(Interleave)' 아키텍처다. 음성 데이터"
+  },
+  {
+    "id": "6026133e307f437e",
+    "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-21T18:15:21.000Z",
+    "snippet": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 대한경제"
   },
   {
     "id": "8d660b996a451c76",
@@ -158,6 +468,16 @@
     "category": "개발",
     "publishedAt": "2026-09-21T17:46:35.000Z",
     "snippet": "오랫동안 집중하는 대상은 생각을 형성함. 테트리스를 반복해 플레이하면 일상에서도 블록 모양이 눈에 들어오는 ‘테트리스 효과’처럼, 화면에서 무엇을 보는지도 사고에 영향을 줌 관심 대상을 직접 고르기보다 추천 알고리듬에 맡기면서, 주의력을 의도적으로 ..."
+  },
+  {
+    "id": "ee97def3847e2648",
+    "title": "울산창조경제혁신센터, 'AI 활용 R&D 사업계획서 작성 지원사업' 참여기업 모집 - 투어코리아",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tZllJMm1Bako5Sk5yR2psemo2Mm91WVJELS1SSHYtWDMwTlhnOURlaEk1WnNzRHJ2Zlk0eDlrc3ZEempBWmF4ZVN5S1Flb2FfcGZrRTBQdzRJN2pYMklkMmxac0c4dEZPVVoxVTZ3?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-21T17:44:45.000Z",
+    "snippet": "울산창조경제혁신센터, 'AI 활용 R&D 사업계획서 작성 지원사업' 참여기업 모집 투어코리아"
   },
   {
     "id": "0987785cc30f49b4",
@@ -23978,6 +24298,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-11T15:29:54.000Z",
     "snippet": "[영상] 2026년 9월 12일 오늘 밤과 내일 날씨 예보: 베트남 북부는 밤에 선선하겠지만, 중부와 남부에는 계속해서 많은 비가 내리겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "beb8e8db462f8bd1",
+    "title": "율도동, 목포시, 전남광주통합특별시 - The Weather Channel",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjViZzB3SDNGYkE3aktfdFdFNmRidjJjTjFBQmpKenR6RC1FVnptTUpKSlF0bGRiZHU5VEFiM1Q0VXZWbFBWY1FGZzV2Z0ZGbFhIUV9xRzVCLUx5Umx0ajc5LXRXLXh0YVpfX2NRSEtfZ2VTUmtMdkJQWnBuNE1rcFZ5azhWQTQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T15:29:19.000Z",
+    "snippet": "율도동, 목포시, 전남광주통합특별시 The Weather Channel"
   },
   {
     "id": "ea6597d1b7a4147d",

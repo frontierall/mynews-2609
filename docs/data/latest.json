@@ -80,6 +80,26 @@
     "snippet": "중국 인터넷 규제 당국이 딥시크와 문샷 AI를 상대로 데이터 보안 관련 조사를 벌이고 있는 것으로 알려졌다. 앤트로픽이 두 회사가 민감한 데이터를 '클로드'로 전달했다고 주장한 데 따른 조치다.22일(현지시간) 디 인포메이션에 따르면, 중국 사이버공간관리국(CAC)은 딥시크와 문샷을 대상으로 공식 조사에 착수했다. 앤트로픽은 지난 10일 위협 인텔리전스 보고서를 공개하고 중국 기업들이 클로드를 무단 활용해 모델의 성능을 높이는"
   },
   {
+    "id": "d5ef81526827e8ca",
+    "title": "Claude Code는 텔레메트리가 켜져 있을 때만 AGENTS.md를 읽음",
+    "link": "https://news.hada.io/topic?id=34179",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T14:33:28.000Z",
+    "snippet": "Claude Code 2.1.277에 추가된 AGENTS.md 지원은 원격 기능 플래그에 의존하며, 텔레메트리나 비필수 트래픽을 끄면 로컬 지침 파일을 경고 없이 건너뜀 내장 플러그인 agents-md 는 원격 플래그를 가져오지 못하면 기본값 false를 사용..."
+  },
+  {
+    "id": "e6d226f5cd7633b8",
+    "title": "9월 24일 하노이 날씨 예보: 천둥번개를 동반한 소나기가 내리겠으며, 일부 지역에서는 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGlMS3huWVhiQW1POWVrMzN4ak9PNjlpRWVvMzNtM0pUMms5a19UVXM2UmJSSE5vSjJSazJQbWI1WEVCZjNNb0dwZkJKNXVMYTVMVkxIQUo5aUdqQm42Wl9qSHllTlZjUFV5djlDblpZT3g3RTg4NTBMMUxuQWdUcDJkTnhOSEx2MEE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-23T14:21:52.000Z",
+    "snippet": "9월 24일 하노이 날씨 예보: 천둥번개를 동반한 소나기가 내리겠으며, 일부 지역에서는 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
     "id": "2897537be4ecfc65",
     "title": "알트먼·아모데이·딥시크 총출동…유엔 안보리서 'AI 안전' 논의",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215613",
@@ -98,6 +118,46 @@
     "category": "AI",
     "publishedAt": "2026-09-23T14:00:00.000Z",
     "snippet": "■ 스카이인텔리전스(대표 이재철)는 KAIST 제조피지컬AI연구소, 다임리서치와 피지컬 AI 분야 기술 협력 및 산업 생태계 확산을 위한 3자 MOU를 체결했다고 밝혔다. 제조 현장의 AI 전환을 위해 공동 연구·사업 및 실증 과제 발굴부터 전문인력 양성, 생태계 확산과 공동 시장 개발까지 협력 범위를 넓혀갈 계획이다. 설비와 물류, 개별 로봇부터 로봇 군집 운영까지 아우르는 공동 연구와 사업을 추진, 실증 과제도 발굴해 나간"
+  },
+  {
+    "id": "50d77c8b7ccdaee9",
+    "title": "Obscura - 사용자 활동을 기록할 수 없는 VPN",
+    "link": "https://news.hada.io/topic?id=34177",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T13:47:03.000Z",
+    "snippet": "Obscura는 자체 중계 서버와 독립된 Mullvad 출구 서버를 분리해, 한 사업자가 사용자의 접속 IP와 인터넷 활동을 모두 볼 수 없도록 설계한 VPN임 WireGuard-over-QUIC 구조에서 Obscura는 암호화된 패킷을 복호화할 수 없고, Mullvad는 사용자의 원래 접속 IP를 ..."
+  },
+  {
+    "id": "5eaa070a107b6a1a",
+    "title": "이딴 짓거리는 이제 끝",
+    "link": "https://news.hada.io/topic?id=34176",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T13:44:02.000Z",
+    "snippet": "이딴 짓거리는 이제 끝"
+  },
+  {
+    "id": "cb27a66181d23909",
+    "title": "의사로 살아가는 일의 어두운 면",
+    "link": "https://news.hada.io/topic?id=34175",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T13:41:02.000Z",
+    "snippet": "의사의 정신적 고통에는 여러 원인이 얽혀 있지만, 일터는 고통을 악화하고 지속시키는 요인이 될 수 있으며 결혼, 가족, 사회생활에도 영향을 미침 통제권 상실은 과도한 당직뿐 아니라 진료 방식을 규정하는 행정에서도 발생하며, 인력 충원 없이는 환자를 돌봐야..."
+  },
+  {
+    "id": "939767198bf96b5c",
+    "title": "메타 AI비서 뮤즈…사람이 대신 전화 걸어주는 '인간컨시어지'실험",
+    "link": "https://www.hankyung.com/article/202609234444i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-23T13:17:08.000Z",
+    "snippet": ""
   },
   {
     "id": "e84b2115e8b61482",
@@ -120,6 +180,76 @@
     "snippet": "인핸스(대표 이승현)는 GS칼텍스와 '제조 암묵지 기반 AI 모델 개발' 프로젝트를 수행한다고 23일 밝혔다.산업통상자원부의 '2026 제조 암묵지 기반 AI 모델 개발 사업'에 따라 진행되며, 인핸스는 주관기관으로 연구개발을 총괄한다. 오픈그래프랩스는 비정형 문서 파싱을 담당하고 전남대와 광주과학기술원(GIST)은 공동연구기관으로 참여한다.제조 현장의 암묵지를 AI 및 챗봇으로 구현하는 것이 목표다. GS칼텍스 설비 83만 "
   },
   {
+    "id": "d3c1bf9cb6ac5947",
+    "title": "올해 추석 연휴 기간 동안 지역에 폭우 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONE9KeVRHMms1R3JJc1Z3cGVfOTZSMTNoTk5melNzeVBuSEJSZlpsYmVMWjdUNEZQZVQxY1RScEZWUmpVTmVnSlVVX29XNVNabzc4NXJKNnhpaE9sWFRHaFhvV3FzbmpNMHAwMFhDQTNCbVp2dTdzUFpRdHZNdGdWcnpvWmtrLVlpSjFlbFZPbV9Dcnd1TGlEZ0FhNmIzRi1CMHdnbmdB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-23T13:11:29.000Z",
+    "snippet": "올해 추석 연휴 기간 동안 지역에 폭우 예보 Laodong.vn"
+  },
+  {
+    "id": "b76930d79eb58eae",
+    "title": "No Sloptober - 10월 한 달 LLM 도구 사용하지 않기",
+    "link": "https://news.hada.io/topic?id=34174",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T13:02:07.000Z",
+    "snippet": "10월 한 달 동안 LLM 기반 도구를 사용하지 않는 개인 도전을 제안함. 타인을 평가하려는 것이 아니라, 사용을 멈춰 LLM의 장단점을 스스로 판단하는 기회로 삼음 가장 엄격한 방식은 집과 직장에서 AI 검색 요약, 챗봇, 코드 리뷰, 에이전트 사용을 모두 중단하는..."
+  },
+  {
+    "id": "1d77064cbebb782f",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-23T13:00:00.000Z",
+    "snippet": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+  },
+  {
+    "id": "3e6577f1002e7e58",
+    "title": "내일 9월 24일 전국 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlpaSG85bF80RHJSYlJEdW5xQmRZRG1nS21CdmdxMmJocjdDQ0FwLVd0emg2MWRCUHNmZ09sOUFfaUhlQVFvaTJLeTVPcnJzU0lYdFFJQWt0MEc3YUUwZmE5NVRLY1NmVC1MT1ZxN0hnYWJvSDNMVTdmMVMwV2NoX2xRWFg0MEhpekxRZXpiMHc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-23T13:00:00.000Z",
+    "snippet": "내일 9월 24일 전국 날씨 예보 Laodong.vn"
+  },
+  {
+    "id": "13b785fd950db7a5",
+    "title": "Show GN: jgrep - diff 하나로 어떤 테스트를 돌릴지 Jev에게 묻는 CLI",
+    "link": "https://news.hada.io/topic?id=34173",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T12:45:40.000Z",
+    "snippet": "TypeSafe Jev로 grep을 만들어봤습니다. Jev는 텍스트를 생성하지 않고 예/아니오 확률만 돌려주는 모델인데, 코드 검색에 써보면 어떨까 싶었어요. 코드를 청크로 나누고 각각 “이 설명에 해당하나?”를 묻습니다. 한 요청에 16개씩 묶어서 보내고, 결과는 grep처럼 file:line으로 보여줍니다. 그 중"
+  },
+  {
+    "id": "39f642c29f3086e8",
+    "title": "대중교통 리워드",
+    "link": "https://news.hada.io/topic?id=34172",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T12:32:46.000Z",
+    "snippet": "Waymo가 자사 차량과 대중교통을 연계 이용하면 Waymo Cash를 지급하는 리워드 프로그램을 샌프란시스코 베이 지역에서 시작함 Waymo 앱에 등록한 Visa 카드로 Waymo와 대중교통을 2시간 이내에 이용하면 샌프란시스코 버스 요금..."
+  },
+  {
+    "id": "2eb16d42ca1d1886",
+    "title": "오늘 밤과 내일 9월 24일 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDUzbE1uUEt5UllUMWlMazhBU0FDNjhrWUhaOHJXSGdyRUFMbWJBX1FSaGtYbFVzalB5cFBiNUpUYzVHMjlxNTI4M0RxZFJ3d2hFOG1xR1N6MjUxQ3VyUldIWk15NGYzUTR5emprdVVGWUdHZHFnemxVZWtmcmNrdzBEOWFLS0xLUDhrdzdyX25RUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-23T12:30:00.000Z",
+    "snippet": "오늘 밤과 내일 9월 24일 날씨 예보 Laodong.vn"
+  },
+  {
     "id": "14fab471b93e5711",
     "title": "프랑스 영농형 태양광 실증…가뭄 속 옥수수 수확량 19.6% 증가",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215586",
@@ -128,6 +258,36 @@
     "category": "AI",
     "publishedAt": "2026-09-23T12:10:00.000Z",
     "snippet": "프랑스 영농형 태양광 실증에서 패널 아래 재배한 사일리지용 옥수수의 건조물 기준 수확량이 일반 노지보다 19.6% 높게 나타났다. 다른 보리 재배 실증에서는 작물과 토양에서 빠져나가는 수분을 나타내는 증발산량이 한 작기 동안 20% 감소했다. 티에스이(TSE)는 폭염과 가뭄이 심했던 올해 태양광 구조물이 작물의 고온·수분 스트레스를 줄인 결과로 분석했다.프랑스 태양광 개발사 티에스이(TSE)는 지난 18일(현지시간) 프랑스 내"
+  },
+  {
+    "id": "0f41d9827a0f7828",
+    "title": "\"관세 더 내라\"…인도, 삼성·LG OLED 부품 관세 조사 중 [로이터]",
+    "link": "https://www.hankyung.com/article/202609234426i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-23T12:07:35.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3f061f8d2693c252",
+    "title": "프로그래밍 언어를 제대로 설계하자! (2024)",
+    "link": "https://news.hada.io/topic?id=34171",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T12:02:52.000Z",
+    "snippet": "새 프로그래밍 언어는 여러 줄 문자열, 경로, 확장 가능한 문법처럼 이미 해법이 있는 문제를 초기에 다뤄야 함. 사용자가 생긴 뒤에는 하위 호환성 때문에 수정이 어려워짐 설정 파일의 상대 경로는 해당 파일이나 명확히 정의한 프로젝트 루트를 기준으로 삼고, ..."
+  },
+  {
+    "id": "88246c83974220f5",
+    "title": "\"비행기표 다 나갔네\" 좌절했는데…포기하긴 이른 이유 있었다 [플라잇톡]",
+    "link": "https://www.hankyung.com/article/202609233111g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-23T12:00:04.000Z",
+    "snippet": ""
   },
   {
     "id": "0568e768f97bdff5",
@@ -170,6 +330,16 @@
     "snippet": "AI 생성 영상순천만국가정원이 추석 연휴를 맞아 전통놀이와 공연, 가족 체험 프로그램을 운영한다.순천시는 24일부터 27일까지 4일간 순천만국가정원 동문 호수정원과 테라피가든 일원에서 ‘정원에서 만나는 한가위’를 주제로 문화행사를 연다고 밝혔다.동문 호수정원에서는 매일 오후 1시부터 5시까지 제기차기와 딱지치기, 투호, 오재미, 사방치기, 칠교놀이 등 전통놀이를 즐길 수 있다. 개인전과 가족 협동 미션으로 진행하는 민속놀이 레"
   },
   {
+    "id": "cee6818f86a45e4b",
+    "title": "LLM Ass Bench",
+    "link": "https://news.hada.io/topic?id=34170",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T11:31:24.000Z",
+    "snippet": "LLM AssBench는 하나의 프롬프트로 여러 모델을 여러 날짜에 비교하는 LLM 벤치마크임 Claude 비교 항목에는 Opus, Fable, Sonnet, Haiku 계열의 여러 버전이 포함됨 GPT 비교 항목에는 Astra, Sol, Terra, Luna 계열과 GPT 5.5가 포함됨..."
+  },
+  {
     "id": "84faabe3ef88ce9a",
     "title": "알리바바, 10조 매개변수 초대형 모델 내놓는다...중국 최강 AI 칩도 선보여",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215594",
@@ -180,6 +350,106 @@
     "snippet": "알리바바가 최대 10조개 매개변수에 달하는 초대형 AI 모델 개발을 추진하고 차세대 AI 가속기까지 공개하는 등 AI 모델부터 반도체, 클라우드 인프라까지 아우르는 ‘풀스택 AI’ 전략을 본격화했다.알리바바는 22일(현지시간) 중국 항저우에서 열린 연례 기술 행사 ‘아스파라 컨퍼런스’에서 차세대 AI 모델 ‘큐원(Qwen) 4’가 현재 학습 단계에 들어갔다고 밝혔다.이어 ‘큐원 4.5’와 ‘큐원 5’로 이어지는 로드맵을 공개하"
   },
   {
+    "id": "0205383e4c0d783e",
+    "title": "Mac 기본 UI를 고집할 이유는 이제 거의 사라졌다",
+    "link": "https://news.hada.io/topic?id=34169",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T11:02:45.000Z",
+    "snippet": "Mac 기본 UI를 선택해 온 근거인 사용자 친숙도, 개발 부담 절감, Apple의 디자인 우위가 더는 충분히 성립하지 않는 것으로 보임 사용자는 기본 UI인지 맞춤형 UI인지보다 앱을 이해하고 사용하는 데 관심이 있으며, Things처럼 표준 도구 막대를 쓰지 않는 앱도 ..."
+  },
+  {
+    "id": "f5606a8f73be16c6",
+    "title": "美·中 앞에선 AI패권경쟁…뒤로는 상대 기술주 사들여",
+    "link": "https://www.hankyung.com/article/202609234365i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-23T11:02:41.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "928f6bb2d18ac7bb",
+    "title": "[날씨] 연휴 첫날 전국 구름 많음…아침엔 서늘, 낮 최고 30도 - yna.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WUllLVDJzTS16TG9RR0tJMFhWR042MHp2MklacmxFb3JkWU05SWJCY1Fjb1JTQjhSbF9QT3BWcXprRzkwTG9qdURJLXphVlNjMWpDMVhadDVOYjDSAWBBVV95cUxPeExmU1J1UDNXQlY0QVlISUp6SW9PRWFyazFsdUZ2b2k2QUgtMWxVc1pQcHlRTFdWaGxPOElteEtpX1poVEhWaUpQRFFDSGNnU0RJUXZtd1lyQS1HcWp4X2c?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-23T11:00:00.000Z",
+    "snippet": "[날씨] 연휴 첫날 전국 구름 많음…아침엔 서늘, 낮 최고 30도 yna.co.kr"
+  },
+  {
+    "id": "12a0f899115aab8a",
+    "title": "구독 취소를 시도하면 모든 사용자에게 상식 밖의 메시지를 보내는 Grammarly",
+    "link": "https://news.hada.io/topic?id=34168",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T10:37:01.000Z",
+    "snippet": "구독 취소를 시도하면 모든 사용자에게 상식 밖의 메시지를 보내는 Grammarly"
+  },
+  {
+    "id": "e68d673c761282c8",
+    "title": "Python 25줄로 구현한 Jev",
+    "link": "https://news.hada.io/topic?id=34167",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T10:34:01.000Z",
+    "snippet": "NobodyWho가 선택지가 담긴 프롬프트를 받아 확률을 출력하는 로컬 분류 예제로 Jev를 흉내 냄 Qwen3-0.6B-GGUF를 불러와 선택지 레이블의 로짓을 추출하고, 이를 정규화해 선택지별 확률로 변환함 회사 소유가 아닌 로그인 페이지에서 비밀번호를 요구하..."
+  },
+  {
+    "id": "446ba430d5291f76",
+    "title": "OECD \"올해 세계 경제 2.9% 성장…한국은 3.7% 성장\"",
+    "link": "https://www.hankyung.com/article/202609234359i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-23T10:30:41.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "68eb064035237b55",
+    "title": "오늘 밤과 내일(2026년 9월 24일) 날씨 예보: 북부 지역에는 천둥번개가, 중부 및 남부 지역에는 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VWVjRTb2R6OVNjTU02dUJpeHBwN01WejNSa2ZXcmpJSVcxNkdxTExUbzF4eEo5SktUT181YnBHZXpfNXZvWGkwenZjcDJtbU9HOTV6U2pGNTRweU5haWdMQTdvN3c2dFlkclB6cElGT3BZclJtbENPN0xab3R1UjhHXzNqWDBWTzg1Ym8zTUl3Q3hnTHNiTF9rUWFtQTFGQ2t1RVo2VFQ3ckhaRkFyYmZocEVYQQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-23T10:14:32.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 24일) 날씨 예보: 북부 지역에는 천둥번개가, 중부 및 남부 지역에는 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "8814af6c02a3f401",
+    "title": "\"고향 안 가고 전도 안 부쳐요\"…2030 '혼추족' 늘자 대박난 곳 [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609232940g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-23T10:00:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f5824607411027e6",
+    "title": "일반 텍스트 파일이 위기에 처해 있다",
+    "link": "https://news.hada.io/topic?id=34166",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-23T09:02:55.000Z",
+    "snippet": "일반 텍스트 파일은 다양한 인코딩과 형식을 아우르며, 지금까지 사실상 유일한 범용 데이터 인터페이스 역할을 해왔음 파일시스템에 저장된 텍스트는 기본 텍스트 편집기만으로 읽고 수정할 수 있고, 클라우드 연결 없이 여러 애플리케이션에서 공유하고 활용할 수..."
+  },
+  {
+    "id": "f36acfdee1690797",
+    "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609221250g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-23T09:00:05.000Z",
+    "snippet": ""
+  },
+  {
     "id": "8314d2d737ad4576",
     "title": "[AI리더의 서가] LLM 마스터: 모델 × 시스템 엔지니어링",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215467",
@@ -188,6 +458,16 @@
     "category": "AI",
     "publishedAt": "2026-09-23T09:00:00.000Z",
     "snippet": "LLM 마스터: 모델 × 시스템 엔지니어링에디 유·양기빈·장지선·조수현 | 프리렉2026년 9월 28일추천이유독자는 API 활용을 넘어 트랜스포머의 원리부터 파인튜닝, 서빙 최적화, 고급 RAG와 에이전트까지 LLM 개발의 전체 흐름을 익혀 실제 서비스를 구현하는 역량을 갖추게 됩니다.상세보기올 하반기 들어 서점에서 감지되는 흐름이 하나 있다. LLM을 '가져다 쓰는' 법을 찾던 개발자들이, 이제 '직접 손보고 서빙까지 책임지"
+  },
+  {
+    "id": "68c796784c99a70f",
+    "title": "시몬스 \"온라인 전용 침대도 누워보고 고르세요\"",
+    "link": "https://www.hankyung.com/article/202609234238i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-23T08:52:08.000Z",
+    "snippet": ""
   },
   {
     "id": "2a4c3b29e069a095",
@@ -460,6 +740,16 @@
     "snippet": ""
   },
   {
+    "id": "f9f62535b0846bc6",
+    "title": "[법무법인 비트 TIP] 저작권을 양도받으면 바로 공개해도 되나요? 공표권의 범위와 제한",
+    "link": "https://platum.kr/archives/295192?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%2595%25eb%25ac%25b4%25eb%25b2%2595%25ec%259d%25b8-%25eb%25b9%2584%25ed%258a%25b8-tip-%25ec%25a0%2580%25ec%259e%2591%25ea%25b6%258c%25ec%259d%2584-%25ec%2596%2591%25eb%258f%2584%25eb%25b0%259b%25ec%259c%25bc%25eb%25a9%25b4-%25eb%25b0%2594%25eb%25a1%259c-%25ea%25b3%25b5%25ea%25b0%259c",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T07:02:52.000Z",
+    "snippet": "기업은 사업 과정에서 외부 디자이너나 개발자, 작가, 사진작가 등으로부터 저작물을 제공받거나 저작재산권을 양도받는 경우가 많습니다. 콘텐츠 제작을 외주로 맡기거나, 디자인·사진·영상·설계도면 등의 이용허락을 받아 사업에 활용하는 경우도 흔합니다. 이때 실무에서는 주로 ‘저작권을 누구에게 귀속시킬 것인지’, ‘어디까지 이용할 수 있는지’에 관심을 두지만, 아직 외부에 공개되지 않은 저작물이라면 누가 언제 어떤 방식으로 처음 공개"
+  },
+  {
     "id": "40efe93caffb067d",
     "title": "[표] 외국환율고시표",
     "link": "https://www.mk.co.kr/news/economy/12160476",
@@ -560,6 +850,16 @@
     "snippet": ""
   },
   {
+    "id": "84a4fea271464732",
+    "title": "전담 인력 없는 중소기업, 계약·급여·해외영업도 AI로",
+    "link": "https://platum.kr/archives/295187?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2584%25eb%258b%25b4-%25ec%259d%25b8%25eb%25a0%25a5-%25ec%2597%2586%25eb%258a%2594-%25ec%25a4%2591%25ec%2586%258c%25ea%25b8%25b0%25ec%2597%2585-%25ea%25b3%2584%25ec%2595%25bd%25c2%25b7%25ea%25b8%2589%25ec%2597%25ac%25c2%25b7%25ed%2595%25b4%25ec%2599%25b8%25ec%2598%2581%25ec%2597%2585%25eb%258f%2584-ai%25eb%25a1%259c",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T06:58:40.000Z",
+    "snippet": "AI를 업무에 쓰고 싶어도 중소기업이 넘어야 할 벽은 대기업과 다르다. AI 전담 조직을 꾸리기 어렵고, 자체 시스템을 만드는 데 드는 비용과 시간도 부담이다. 큰돈을 들여 시스템을 갖추더라도 이를 계속 운영하고 관리할 인력을 확보하기 쉽지 않다. 이 때문에 중소기업이 AI를 도입하는 현실적인 방법으로 서비스형 소프트웨어(SaaS)가 주목받고 있다. SaaS는 별도 시스템을 구축하지 않고 가입 후 바로 인터넷으로 ... 더 읽"
+  },
+  {
     "id": "67ad38366f024a76",
     "title": "한경이 만든 '보유세 계산기'…내년 종부세 미리 확인하세요",
     "link": "https://www.hankyung.com/article/2026092339041",
@@ -608,6 +908,16 @@
     "category": "경제",
     "publishedAt": "2026-09-23T06:49:25.000Z",
     "snippet": "이번 매경 자이앤트에서는 존 리 대표와 함께 “주식은 기업을 소유하는 것”이라며 장기투자와 노후준비의 중요성을 강조했습니다. 또 사교육 대신 아이들에게 금융과 창업을 가르쳐야 하며.."
+  },
+  {
+    "id": "0beee9d3a726f9f2",
+    "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - 경인매일",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-23T06:46:16.000Z",
+    "snippet": "여주시, 3차 전기자동차 구매 지원사업 안내 경인매일"
   },
   {
     "id": "6157cbccab701a78",
@@ -678,6 +988,16 @@
     "category": "경제",
     "publishedAt": "2026-09-23T05:58:32.000Z",
     "snippet": ""
+  },
+  {
+    "id": "8c96d612faa5b0b1",
+    "title": "뤼튼, 상장 주관사로 미래에셋증권·NH투자증권 선정",
+    "link": "https://platum.kr/archives/295184?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a4%25bc%25ed%258a%25bc-%25ec%2583%2581%25ec%259e%25a5-%25ec%25a3%25bc%25ea%25b4%2580%25ec%2582%25ac%25eb%25a1%259c-%25eb%25af%25b8%25eb%259e%2598%25ec%2597%2590%25ec%2585%258b%25ec%25a6%259d%25ea%25b6%258c%25c2%25b7nh%25ed%2588%25ac%25ec%259e%2590%25ec%25a6%259d%25ea%25b6%258c-%25ec%2584%25a0%25ec%25a0%2595",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T05:54:18.000Z",
+    "snippet": "뤼튼테크놀로지스가 기업공개(IPO) 대표주관사로 미래에셋증권을, 공동주관사로 NH투자증권을 선정했다. 주관사는 상장 요건 점검과 기업가치 산정, 공모 절차를 맡는 증권사다. 뤼튼은 내년 상장 예비심사 청구를 목표로 주관사들과 세부 일정을 조율할 계획이다. 뤼튼은 이달 초 상장 준비 착수를 공식 발표하고 주요 증권사를 대상으로 주관사 선정 작업을 진행해 왔다. 당시 회사는 북미 시장용 캐릭터 채팅 서비스 ‘OOC’의 월매출이 1"
   },
   {
     "id": "12e5ecc6de696c19",
@@ -810,6 +1130,16 @@
     "snippet": ""
   },
   {
+    "id": "89c8e177763adeb1",
+    "title": "노타, 로봇 AI의 판단 속도 높인 경량화 결과 공개",
+    "link": "https://platum.kr/archives/295178?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2585%25b8%25ed%2583%2580-%25eb%25a1%259c%25eb%25b4%2587-ai%25ec%259d%2598-%25ed%258c%2590%25eb%258b%25a8-%25ec%2586%258d%25eb%258f%2584-%25eb%2586%2592%25ec%259d%25b8-%25ea%25b2%25bd%25eb%259f%2589%25ed%2599%2594-%25ea%25b2%25b0%25ea%25b3%25bc-%25ea%25b3%25b5%25ea%25b0%259c",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T04:48:10.000Z",
+    "snippet": "로봇용 AI 모델이 다음 동작을 판단하는 시간을 7분의 1 수준으로 줄이면서 작업 성공률은 거의 그대로 유지한 결과가 공개됐다. AI 모델 경량화 기업 노타는 23일 서울 코엑스에서 열린 ‘휴머노이드 서밋 서울 2026’에서 자사 최적화 플랫폼 ‘넷츠프레소’로 로봇용 AI 모델 7종을 최적화한 결과를 발표했다. 발표는 김건민 노타 AI 연구원이 맡았다. 이번에 다룬 모델은 비전언어행동모델(VLA)이다. 카메라 영상으로 주변 ."
+  },
+  {
     "id": "e9a7e269ea241629",
     "title": "샤인머스캣 인기 시들하더니…백화점에 등장한 새 '명품 과일' [트렌드+]",
     "link": "https://www.hankyung.com/article/202609232892g",
@@ -900,6 +1230,16 @@
     "snippet": ""
   },
   {
+    "id": "d62cea0e4148ae68",
+    "title": "지쿠 누적 탑승 3억 건, 대부분은 5km 안쪽 짧은 이동",
+    "link": "https://platum.kr/archives/295175?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2580%25ec%25bf%25a0-%25eb%2588%2584%25ec%25a0%2581-%25ed%2583%2591%25ec%258a%25b9-3%25ec%2596%25b5-%25ea%25b1%25b4-%25eb%258c%2580%25eb%25b6%2580%25eb%25b6%2584%25ec%259d%2580-5km-%25ec%2595%2588%25ec%25aa%25bd-%25ec%25a7%25a7%25ec%259d%2580-%25ec%259d%25b4%25eb%258f%2599",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T03:24:13.000Z",
+    "snippet": "공유 킥보드·자전거 서비스 지쿠의 누적 탑승 건수가 지난 20일 3억 건을 넘었다. 2023년 9월 1억 건을 넘긴 지 약 3년 만이다. 지쿠를 운영하는 지바이크는 이에 맞춰 이용 데이터를 분석한 ‘소셜임팩트리포트 2026’을 내놨다. 리포트는 친환경 이동, 스마트 이동, 포용적 이동, 일자리 창출, 신뢰할 수 있는 이동 등 다섯 개 영역으로 나눠 지쿠 이용이 환경과 도시, 지역사회에 ... 더 읽기"
+  },
+  {
     "id": "824add8e7be151c5",
     "title": "9월 23일 날씨 예보: 북부 지역은 덥고 맑겠고, 중부 지역은 폭우가 예상됩니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1d1bjV2dVlrMlZpQ1MtczRvMUZYbmNrWjNLRDI0VTNTTDk4V05ZdDF6S1FXT1F0Q1liSmh3V3UxNDJSdFlONGhPZ21WanRnM0FCcWt6eS15Ym5EMGlfRy1kMzJmR0FZcTktZ0c0SkZaaTJScEJRaHNlRTBTek1WTDJFRXhxcVdqNWxDVEFqWQ?oc=5",
@@ -910,6 +1250,16 @@
     "snippet": "9월 23일 날씨 예보: 북부 지역은 덥고 맑겠고, 중부 지역은 폭우가 예상됩니다. Vietnam.vn"
   },
   {
+    "id": "32ca43a794b5b2c1",
+    "title": "올해의 K-스타트업 본선에 오른 경기창조경제혁신센터 출신 기업들",
+    "link": "https://platum.kr/archives/295172?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25ac%25ed%2595%25b4%25ec%259d%2598-k-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25b3%25b8%25ec%2584%25a0%25ec%2597%2590-%25ec%2598%25a4%25eb%25a5%25b8-%25ea%25b2%25bd%25ea%25b8%25b0%25ec%25b0%25bd%25ec%25a1%25b0%25ea%25b2%25bd%25ec%25a0%259c%25ed%2598%2581%25ec%258b%25a0%25ec%2584%25bc",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T03:08:01.000Z",
+    "snippet": "중소벤처기업부의 ‘올해의 K-스타트업 2026’ 혁신창업리그 통합본선에 오른 22개사 가운데 7개사가 경기창조경제혁신센터 지역예선을 거쳐 올라왔다. 전체 본선 진출기업의 31.8%에 해당한다. 종합예선에서 상위 5개사에 준 상도 3개가 이 7개사에게 돌아갔다. 더에이스컴퍼니(대표 김성수)가 최우수상을, 마케마케(대표 곽효섭)와 오랜드바이오(대표 한동근)가 장려상을 받았다. 나머지 수상기업은 우수상의 디어니언과 장려상의 린솔이다"
+  },
+  {
     "id": "05f4aea2afb20c39",
     "title": "\"59세 직장인들, 월급날마다 따박따박 25년 넣었더니…\" 깜짝 [박신영의 월가 아나토미]",
     "link": "https://www.hankyung.com/article/202609233289i",
@@ -918,6 +1268,16 @@
     "category": "경제",
     "publishedAt": "2026-09-23T02:50:53.000Z",
     "snippet": ""
+  },
+  {
+    "id": "2eb4d3e3314ccb7b",
+    "title": "리얼월드, 로봇 손재주는 실험실보다 산업 현장에서 키운다",
+    "link": "https://platum.kr/archives/295165?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a6%25ac%25ec%2596%25bc%25ec%259b%2594%25eb%2593%259c-%25eb%25a1%259c%25eb%25b4%2587-%25ec%2586%2590%25ec%259e%25ac%25ec%25a3%25bc%25eb%258a%2594-%25ec%258b%25a4%25ed%2597%2598%25ec%258b%25a4%25eb%25b3%25b4%25eb%258b%25a4-%25ec%2582%25b0%25ec%2597%2585-%25ed%2598%2584%25ec%259e%25a5%25ec%2597%2590%25ec%2584%259c",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T02:48:34.000Z",
+    "snippet": "휴머노이드가 공장이나 물류센터에서 제 몫을 하려면 물건을 집고, 돌리고, 끼우는 손의 정교함이 필요하다. 피지컬 AI 기업 리얼월드(RLWRLD)는 이 손재주를 연구실에서 완성한 뒤 현장으로 옮기는 대신, 처음부터 산업 현장에 기술을 적용해 데이터를 모으고 모델을 키우는 방식을 내세우고 있다. 회사는 이를 ‘디플로이먼트 퍼스트(Deployment-First)’, 즉 현장 적용 우선 전략이라고 부른다. 류중희 리얼월드 대표는 2"
   },
   {
     "id": "fd25e3d4fac12325",
@@ -1018,6 +1378,16 @@
     "category": "경제",
     "publishedAt": "2026-09-23T01:48:50.000Z",
     "snippet": "아트 세미나, 갤러리 투어 등 금융권 VIP 서비스도 미술로 확장고액자산가들의 자산 포트폴리오에서 미술품이 차지하는 비중이 커지면서 금융권의 자산관리(WM) 서비스도 변하고 있다..."
+  },
+  {
+    "id": "20dadee340818beb",
+    "title": "주방 로봇과 전자약, 일본 무라타와 협업 후보로 뽑혔다",
+    "link": "https://platum.kr/archives/295153?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a3%25bc%25eb%25b0%25a9-%25eb%25a1%259c%25eb%25b4%2587%25ea%25b3%25bc-%25ec%25a0%2584%25ec%259e%2590%25ec%2595%25bd-%25ec%259d%25bc%25eb%25b3%25b8-%25eb%25ac%25b4%25eb%259d%25bc%25ed%2583%2580%25ec%2599%2580-%25ed%2598%2591%25ec%2597%2585-%25ed%259b%2584%25eb%25b3%25b4%25eb%25a1%259c-%25eb%25bd%2591%25ed%2598%2594",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T01:40:16.000Z",
+    "snippet": "일본 전자부품 기업 무라타제작소와 기술 협업을 제안한 국내 딥테크 스타트업 9곳이 무라타 본사 담당자 앞에서 협업 모델을 발표했다. 디캠프(은행권청년창업재단)와 한국무라타전자가 함께 운영한 ‘스타트업 OI 교토 #딥테크’의 최종 피칭이 지난 16일 디캠프 선릉에서 진행됐다. 이 자리에는 무라타제작소 본사와 한국무라타전자의 엔지니어, 신사업 담당자 등 20여 명이 참석했다. 심사는 무라타 측 3명이 맡아 기술 적합성과 사업화 가"
   },
   {
     "id": "4707e699eaf8b71c",
@@ -1430,6 +1800,16 @@
     "snippet": "코딩 에이전트가 코드를 작성하면서, Steve Klabnik의 Rust 이름 있는 매개변수 도입에 대한 오랜 반대가 조건부 수용으로 바뀜. 직접 입력하는 부담은 줄고 호출부의 명확성은 여전히 가치가 있음 이름 있는 인자는 같은 타입의 값 여러 개를 전달할 때 각 값의 역..."
   },
   {
+    "id": "23c6155359fdbdf7",
+    "title": "수영장 잔류염소로 상한 머리·피부 겨냥, 마케마케 30억원 투자 유치",
+    "link": "https://platum.kr/archives/295135?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2588%2598%25ec%2598%2581%25ec%259e%25a5-%25ec%259e%2594%25eb%25a5%2598%25ec%2597%25bc%25ec%2586%258c%25eb%25a1%259c-%25ec%2583%2581%25ed%2595%259c-%25eb%25a8%25b8%25eb%25a6%25ac%25c2%25b7%25ed%2594%25bc%25eb%25b6%2580-%25ea%25b2%25a8%25eb%2583%25a5-%25eb%25a7%2588%25ec%25bc%2580%25eb%25a7%2588%25ec%25bc%2580-30",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T00:06:40.000Z",
+    "snippet": "수영 후 잔류염소 때문에 생기는 모발과 피부 문제를 겨냥한 뷰티 브랜드 ‘수(SOOO)’를 운영하는 마케마케가 30억원 규모의 프리A 투자를 유치했다. 시그나이트와 아모레퍼시픽, 이그나이트XL이 새로 참여했고 기존 시드 투자사인 블루포인트파트너스도 후속 투자했다. 기업가치는 공개하지 않았다. 마케마케는 자체 개발한 수질 대응 기술과 특허 소재를 바탕으로 수영 이용자를 겨냥한 제품을 내놓은 뒤, 경수와 금속이온 등 물의 성분 때"
+  },
+  {
     "id": "526b7ef02028fbc8",
     "title": "9월 23일 오늘 날씨 예보: 베트남 남부 지역은 폭우와 높은 파도가 겹쳐 많은 지역에서 심각한 홍수가 발생하고 있습니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEdRb2VPZGFJMkNxSDZ3dWZzak0teW44T1dKajRyekppVl9KMjE1VmtqVDR6T1hrWDZlSHFjbkRwTmdVNFZIWnB6Z0pGZjdIWnRWNmNpN3ZDQU9jR3ZPTnA2QXhKMml0ZEdiRF84eW5idGRuUV9jMXh1bzluNVVJNkl6X1dQelZSMmtjTUo3eFJZeGhQaEhFcWhoYkg1blViMllCNWVSYV9uYWR4X09vdQ?oc=5",
@@ -1438,6 +1818,26 @@
     "category": "날씨",
     "publishedAt": "2026-09-23T00:05:26.000Z",
     "snippet": "9월 23일 오늘 날씨 예보: 베트남 남부 지역은 폭우와 높은 파도가 겹쳐 많은 지역에서 심각한 홍수가 발생하고 있습니다. Vietnam.vn"
+  },
+  {
+    "id": "2d9680a260164315",
+    "title": "종합몰 앱 상위 5위 안에 중국 직구 앱, 10·20대는 쉬인까지",
+    "link": "https://platum.kr/archives/295134?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a2%2585%25ed%2595%25a9%25eb%25aa%25b0-%25ec%2595%25b1-%25ec%2583%2581%25ec%259c%2584-5%25ec%259c%2584-%25ec%2595%2588%25ec%2597%2590-%25ec%25a4%2591%25ea%25b5%25ad-%25ec%25a7%2581%25ea%25b5%25ac-%25ec%2595%25b1-10%25c2%25b720%25eb%258c%2580%25eb%258a%2594-%25ec%2589%25ac%25ec%259d%25b8%25ea%25b9%258c",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-09-23T00:04:00.000Z",
+    "snippet": "모든 연령대에서 많이 쓰는 종합몰 앱 상위 5개 안에 중국 직구 앱이 한 개 이상 들어갔다. 앱·결제 데이터 분석 서비스 와이즈앱·리테일이 한국인 스마트폰 사용자(안드로이드·iOS)를 표본 조사한 결과다. 40대를 뺀 모든 연령대에서는 알리익스프레스와 테무가 나란히 5위 안에 들었고, 연령대별 2위도 두 앱 중 하나였다. 10대 이하에서는 테무가 83만명으로 2위, 알리익스프레스가 81만명으로 3위였고 쉬인도 30만명으로 4위"
+  },
+  {
+    "id": "09a0c6dbf1c6c00d",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-23T00:00:00.000Z",
+    "snippet": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
   },
   {
     "id": "e644d85f6958c548",
@@ -4598,405 +4998,5 @@
     "category": "개발",
     "publishedAt": "2026-09-21T18:34:05.000Z",
     "snippet": "Anthropic이 Fable 5를 구독 요금제에서 상시 이용할 수 있게 한 뒤, 사용자가 큰 성능 저하를 체감함 모델이 더 둔해진 듯한 느낌을 받았지만, 그 이유는 설명하지 못함 다섯 가지 방식으로 측정했을 때, 8월의 사고 토큰 수가 7월보다..."
-  },
-  {
-    "id": "8fc0ab9811435f58",
-    "title": "알리바바, 통역 지연 '2.3초'로 줄인 AI '큐원3.8-라이브트랜스레이트' 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215516",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T18:20:59.000Z",
-    "snippet": "알리바바가 오디오와 텍스트를 동시에 처리해 통역 지연 시간을 2.3초까지 단축한 차세대 통번역 모델을 공개했다.알리바바는 18일(현지시간) 대화 중 음성이 끝나기를 기다리지 않고 듣는 동시에 번역문과 음성을 생성하는 통번역 모델 ‘큐원3.8-라이브트랜스레이트(Qwen3.8-LiveTranslate)’를 선보였다.이 모델의 핵심은 오디오와 텍스트를 하나의 스트림으로 엮는 '인터리브(Interleave)' 아키텍처다. 음성 데이터"
-  },
-  {
-    "id": "6026133e307f437e",
-    "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-21T18:15:21.000Z",
-    "snippet": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 대한경제"
-  },
-  {
-    "id": "8d660b996a451c76",
-    "title": "LLM 내부에서 '고통 축' 발견...\"회피 행동까지 수행\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215520",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T18:07:02.000Z",
-    "snippet": "대형언어모델(LLM)이 인간의 고통과 유사한 개념을 단순히 학습된 언어 패턴으로 처리하는 것을 넘어, 모델 내부에서 이를 구분해 표현하고 관련 행동까지 보일 수 있다는 연구 결과가 나왔다. 연구진은 AI 모델 내부에서 '고통 방향(Pain Direction)'으로 부를 수 있는 특정 벡터가 형성되며, 이를 조작하면 모델의 출력과 행동이 일관된 방향으로 변화한다고 밝혔다.미국 미래영향그룹(FIG)과 보훔 루르대학교 연구진은 14"
-  },
-  {
-    "id": "3cc91ff6f7103d22",
-    "title": "정말 같은 데스크톱 UX를 영원히 사용할 것인가?",
-    "link": "https://news.hada.io/topic?id=34080",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T18:05:19.000Z",
-    "snippet": "데스크톱의 사용 범위는 넓어졌지만 UX는 지난 20년간 거의 정체됐으며, Linux 커뮤니티가 Microsoft의 실험을 기다리기보다 직접 새로운 사용 방식을 탐색할 필요가 있음 창, 파일, 클립보드를 빠르게 조작하는 직접 조작은 강력하지만 작업의 맥락과 과정을 기억..."
-  },
-  {
-    "id": "b20e7eff0b02d705",
-    "title": "M5 Ultra Mac Studio 리뷰",
-    "link": "https://news.hada.io/topic?id=34079",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T17:55:36.000Z",
-    "snippet": "256GB RAM을 탑재한 M5 Ultra Mac Studio는 로컬 모델 기반 개인 비서를 일상적으로 사용할 만한 속도를 제공함. Qwen3.8-Flash-Next를 Open Minis와 Hermes Agent의 기본 모델로 사용하며 추가 클라우드 비용 없이 작업을 수행함 M3 Ultra 대비 응답 생성은 평균 약 70%, 프..."
-  },
-  {
-    "id": "1020de16c74f4180",
-    "title": "Emily Normandin-Parker 사망 사건에 대한 Uber 중재 판정",
-    "link": "https://news.hada.io/topic?id=34078",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T17:52:36.000Z",
-    "snippet": "중재인이 고속도로에 남겨진 뒤 차량에 치여 숨진 23세 Emily Normandin-Parker의 부모에게 Uber와 운전자 Vu Tran이 4,000만 달러를 배상하라고 판정함 Uber를 단순 소프트웨어 플랫폼이 아닌 일반운송인(common carrier) 으로 판단해, 운전자에..."
-  },
-  {
-    "id": "207524adb5211b30",
-    "title": "앤돈랩스, AI가 기업 전반 자율 운영하는 플랫폼 '파이온' 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215537",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T17:51:38.000Z",
-    "snippet": "AI 안전성과 자율 에이전트의 역량을 연구하는 앤돈랩스(Andon Labs)가 15일(현지시간) AI 에이전트가 기업 업무 전반을 스스로 수행할 수 있도록 설계된 자율 경영 플랫폼 ‘파이온(Pion)’을 공개했다.파이온은 단순히 부분적인 자동화를 돕는 도구가 아니라, 이메일과 전화, 웹 브라우저, 금융 계좌 권한을 받아 기업 경영 전체를 전담하는 구조다.이번 발표는 2년간 쌓아온 자율 기업 운영 실험의 결과물이다. 앤돈랩스는 "
-  },
-  {
-    "id": "68715a746fba28ca",
-    "title": "Grok 4.7",
-    "link": "https://news.hada.io/topic?id=34077",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T17:49:35.000Z",
-    "snippet": "Grok 4.7은 코딩과 지식 업무용 모델로, 어려운 작업에 더 오래 집중하고 자체 검증과 긴 컨텍스트 관리를 개선했으며 Grok 4.6과 같은 가격과 속도로 제공됨 더 큰 기반 모델에 수 시간이 걸리는 어려운 과제 중심의 강화학습을 더 오래 적용했으며, Grok Bot 하네..."
-  },
-  {
-    "id": "049cdd72b10247fa",
-    "title": "주의력은 당신이 가진 전부다",
-    "link": "https://news.hada.io/topic?id=34076",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T17:46:35.000Z",
-    "snippet": "오랫동안 집중하는 대상은 생각을 형성함. 테트리스를 반복해 플레이하면 일상에서도 블록 모양이 눈에 들어오는 ‘테트리스 효과’처럼, 화면에서 무엇을 보는지도 사고에 영향을 줌 관심 대상을 직접 고르기보다 추천 알고리듬에 맡기면서, 주의력을 의도적으로 ..."
-  },
-  {
-    "id": "ee97def3847e2648",
-    "title": "울산창조경제혁신센터, 'AI 활용 R&D 사업계획서 작성 지원사업' 참여기업 모집 - 투어코리아",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tZllJMm1Bako5Sk5yR2psemo2Mm91WVJELS1SSHYtWDMwTlhnOURlaEk1WnNzRHJ2Zlk0eDlrc3ZEempBWmF4ZVN5S1Flb2FfcGZrRTBQdzRJN2pYMklkMmxac0c4dEZPVVoxVTZ3?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-21T17:44:45.000Z",
-    "snippet": "울산창조경제혁신센터, 'AI 활용 R&D 사업계획서 작성 지원사업' 참여기업 모집 투어코리아"
-  },
-  {
-    "id": "0987785cc30f49b4",
-    "title": "오픈아트, AI 이미지·비디오 모델 평가 '아레나' 출시...\"용도별 최적 모델 찾아준다\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215531",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T17:41:48.000Z",
-    "snippet": "AI 모델이 빠르게 늘어나며 기업과 창작자들이 단순 성능 비교를 넘어 작업 목적에 맞는 최적의 모델을 찾아야 하는 상황이다. 이에 대응해 크리에이티브 AI 도구 스타트업 오픈아트(OpenArt)가 용도별 벤치마크를 출시하고 초기 순위 결과와 함께 모델 라우팅의 중요성을 제시했다.크리에이티브 AI 도구 스타트업 오픈아트(OpenArt)는 15일(현지시간) 이미지·비디오 생성 모델을 용도별로 비교하는 공개 벤치마크 ‘오픈아트 아레"
-  },
-  {
-    "id": "1f47b82ab197562c",
-    "title": "스텝펀, 차세대 MoE 모델 '스텝 5 프리뷰' 공개...에이전트·금융 특화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215519",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T17:26:00.000Z",
-    "snippet": "중국의 스텝펀이 에이전트 작업과 코딩, 전문 지식 업무, 금융 분석에 특화한 차세대 플래그십 모델 '스텝 5 프리뷰(Step 5 Preview)'를 공개했다.스텝펀은 20일(현지시간) 높은 수준의 지능을 유지하면서도 작업 비용을 낮춰 지능과 비용 사이의 '파레토 프런티어'를 확장하는 것을 목표로 스텝 5 프리뷰를 개발했다.총 6000억개 매개변수 가운데 토큰당 270억개를 활성화하는 희소 전문가 혼합(MoE) 구조를 적용했다."
-  },
-  {
-    "id": "13b2ef6cdc64cbbc",
-    "title": "권오현 전 삼성전자 대표, KAIST 신임 이사장 선임",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215541",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T17:15:00.000Z",
-    "snippet": "한국과학기술원(KAIST, 총장 배충식) 이사회는 21일 서울에서 열린 제298회 임시이사회에서 권오현 전 삼성전자 대표이사 회장 겸 오렌지플래닛 창업재단 이사장을 신임 이사장으로 선임했다고 밝혔다. KAIST 이사회는 지난 6월 말 김명자 전 이사장의 임기가 만료된 뒤 차기철 이사(인바디 대표이사)가 직무대행을 맡아 왔다. 새로 선임된 권 이사장은 지난 8월 제297회 임시이사회에서 KAIST 이사로 선임된 데 이어 이번 이"
-  },
-  {
-    "id": "65fd5dfbf5857246",
-    "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215536",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T17:08:26.000Z",
-    "snippet": "기업들의 AI 도입이 단순히 새로운 AI 도구를 기존 업무에 추가하는 방식만으로는 실질적인 성과를 내기 어렵다는 지적이 나오고 있다. AI를 제대로 활용하려면 기술 선택에 앞서 기업의 목표와 업무 방식 자체를 다시 설계해야 한다는 것이다. 마이크로소프트(MS)는 17일(현지시간) 내부의 AI 전환 경험과 실무 지침을 담은 44쪽 분량의 ‘선도 기업이 되는 길: 프런티어 플레이북’ 개정판을 공개했다.100건이 넘는 내부 AI 전"
-  },
-  {
-    "id": "378068748280660c",
-    "title": "[게시판] SK하이닉스, AI 실전 역량 겨루는 해커톤 개최 등 단신",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215542",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T17:00:00.000Z",
-    "snippet": "■ SK하이닉스가 AI를 활용한 문제 해결 역량에 초점을 맞춘 ‘SK하이닉스 AI 해커톤 2026’을 개최한다고 밝혔다. 총 상금 1억 원 규모로 열리는 이번 대회는 9월 21일부터 28일까지 별도 홈페이지를 통해 참가 신청을 받는다. 신청 단계에서는 출신학교, 전공, 학점 등 학력 정보를 받지 않는다. 개발 경력도 별도 참가 요건으로 두지 않고, 참가자가 AI를 활용해 문제를 정의하고 해결책을 도출하는 과정과 결과를 평가할 "
-  },
-  {
-    "id": "fa1de861fff1d510",
-    "title": "대화창 하나로 음성·영상까지 제작…일레븐랩스, MCP로 창작 도구 통합",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215539",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T16:57:47.000Z",
-    "snippet": "'클로드'나 '챗GPT' 등 대화형 AI 창을 벗어나지 않고도 음성과 음악, 이미지, 비디오까지 한자리에서 생성할 수 있는 길이 열렸다. 대화형 AI 비서가 단순한 텍스트 작성이나 코드 생성을 넘어, 멀티미디어 콘텐츠를 즉시 완성하는 일체형 제작 스튜디오로 진화하고 있다는 평가가 나온다.일레븐랩스는 14일(현지시간) 자체 AI 콘텐츠 도구인 ‘일레븐크리에이티브(ElevenCreative)’를 MCP(Model Context P"
-  },
-  {
-    "id": "0b41dce4a6b0d2be",
-    "title": "2030년까지 15.7만명 부족...미국 반도체 인력난에 경고등",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215538",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T16:48:34.000Z",
-    "snippet": "미국이 AI 반도체 공급망을 자국 내에 구축하기 위해 대규모 생산시설을 잇달아 건설하고 있지만, 정작 공장을 운영할 숙련 인력이 부족해 가동에 차질이 빚어질 수 있다는 우려가 커지고 있다.맥킨지와 국제반도체장비재료협회(SEMI) 재단의 최근 보고서에 따르면, 미국 반도체 산업의 인력 부족 규모는 2030년까지 최대 15만7000명에 이를 것으로 전망된다.특히 미국에서 공학 관련 직종으로 진출하는 졸업생 가운데 반도체 산업을 선"
-  },
-  {
-    "id": "d00687e076774899",
-    "title": "CXMT, 5세대 DRAM 플랫폼 양산 개시...“세계 최고 수준 근접”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215529",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T16:37:58.000Z",
-    "snippet": "중국 메모리 반도체 기업 창신메모리(CXMT)가 5세대 DRAM 기술 플랫폼인 ‘G5’의 양산을 시작했다고 발표했다. 새로운 공정 기술이 세계 최고 수준의 양산형 DRAM 플랫폼에 근접했으며, 이를 통해 메모리 집적도와 생산 효율을 동시에 높였다고 밝혔다.CXMT는 20일 중국 허페이에서 열린 ‘2026 세계제조업대회’에서 G5 플랫폼의 양산을 공식화했다.G5는 메모리 배열의 핵심 구조를 더 촘촘하게 배치하는 데 초점을 맞췄으"
-  },
-  {
-    "id": "38a9fe5538c92043",
-    "title": "Amiga Unix, 다시 시작하다",
-    "link": "https://news.hada.io/topic?id=34075",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T16:33:52.000Z",
-    "snippet": "amigaux.org는 Commodore의 Amiga용 Unix인 Amix를 68040/68060과 현대적 가속기 하드웨어에서 다시 사용할 수 있도록 개발하는 비공식 커뮤니티 프로젝트임 Amix 2.1이 실제 68060에서 동작하며, Z3660의 SCSI/이더넷과 A4091/A4092의 SCSI를 지원함. FPU 없이도 ..."
-  },
-  {
-    "id": "66bda6cd92fb8405",
-    "title": "\"AI가 2주 만에 칩 설계...아키텍트 랩스, '레드우드'로 개발 패러다임 제시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215521",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T16:33:38.000Z",
-    "snippet": "몇 년이 걸리던 반도체 개발 주기를 AI로 몇 주까지 단축할 수 있다는 연구 결과가 나왔다. 스타트업 아키텍트 랩스(Architect Labs)는 최근 고수준 사양만을 바탕으로 AI가 하드웨어 설계부터 검증, 펌웨어와 커널 개발까지 수행해 저전력 AI 추론 칩 ‘레드우드(Redwood)’ 설계를 2주가 채 안 돼 마쳤다고 밝혔다.핵심은 자체 플랫폼인 ‘아키텍트 랩스 플랫폼(ALP)’이다. 엔지니어 2명이 고수준의 칩 사양을 작"
-  },
-  {
-    "id": "1af564442516c8f3",
-    "title": "전남광주, 학교 밖 청소년 109명 테마형 수학여행…스포츠·문화 체험",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215532",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T16:16:48.000Z",
-    "snippet": "AI 생성 영상전남광주통합특별시가 학교 밖 청소년의 관심과 수요를 반영한 스포츠·문화 테마형 수학여행을 운영했다.전남광주는 통합교육청, 청소년미래재단 학교밖청소년지원센터와 함께 학교 밖 청소년 109명을 대상으로 서울·경기와 부산에서 문화·스포츠 체험 프로그램을 진행했다고 21일 밝혔다.이번 수학여행은 지난해와 달리 청소년 수요를 반영해 스포츠와 문화 등 2개 테마로 나눠 운영했다.1회차는 서울·경기에서 스포츠를 주제로 진행했"
-  },
-  {
-    "id": "99029a1c3f796af2",
-    "title": "순천SAT, 2027년 누리호 6호기 탑재 목표…위성 설계·기술 점검",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215534",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T16:16:36.000Z",
-    "snippet": "AI 생성 영상순천시가 지역 대학·기관과 개발 중인 소형위성 ‘순천SAT’의 설계와 기술 현안을 점검하며 2027년 하반기 발사를 위한 준비에 들어갔다.순천은 지난 17일 어울림체육센터에서 ‘순천SAT 개발 및 실증사업’ 진도점검회의를 열고 위성 개발 현황과 향후 추진계획을 점검했다고 밝혔다.순천SAT은 지난해 12월 우주항공청과 한국항공우주연구원이 진행한 ‘누리호 6차 발사 부탑재위성 공모’에 선정됐다. 지역 대학과 기업, "
-  },
-  {
-    "id": "51b8aaa10a50d98e",
-    "title": "여수, 장도·두력도 장기 계류 바지선 정비…두력도 25척 철거",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215533",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T16:16:27.000Z",
-    "snippet": "AI 생성 영상여수시가 장도와 웅천 두력도 인근에 장기간 계류·사용돼 온 바지선을 어촌계와 협의해 단계적으로 정비했다.여수는 실제 어업활동에 필요한 바지선과 폐·미사용 시설을 구분해 전수조사와 자진정비, 어촌계 간담회 등을 거쳐 관리방안을 마련했다고 21일 밝혔다.장도 인근에서는 지난 7월 쌍봉어촌계와 간담회를 열고 바지선 정비와 어업인 상생방안을 논의했다.이후 어촌계가 폐·미사용 바지선을 분류하고, 어업에 필요한 바지선은 자"
-  },
-  {
-    "id": "12dc2c4d1d43b703",
-    "title": "술레이먼 \"중국 경쟁 핑계로 AI 안전 규제 미뤄선 안 돼\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215530",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T16:02:34.000Z",
-    "snippet": "무스타파 술레이먼 마이크로소프트(MS) AI CEO가 AI 기술 발전 과정에서 중국과의 경쟁을 핑계로 안전장치 마련을 미뤄서는 안 된다고 강조했다.술레이먼 CEO는 20일(현지시간) CNN의 ‘페리드 자카리아 GPS’에 출연해 AI 개발 시 명확한 안전 기준과 규범을 마련해야 한다고 주장했다.그는 AI 개발자들이 모델에 부여하는 목표가 “산업 차원에서 설정해야 할 인본주의적 원칙에 의해 제한돼야 하며, 명확한 안전장치를 갖춰야"
-  },
-  {
-    "id": "68def97e1a3f6ede",
-    "title": "Heretic, 언어 모델의 제한을 제거하는 도구",
-    "link": "https://news.hada.io/topic?id=34073",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T15:37:35.000Z",
-    "snippet": "Heretic은 언어 모델의 제한을 제거하는 도구임 제거 대상은 언어 모델에 적용된 검열임 검열 제거는 완전 자동 방식으로 수행함 제한을 제거해 모델이 사용자의 지시를 항상 따르도록 하는 것을 목표로 함..."
-  },
-  {
-    "id": "69cb9d750bdec6b1",
-    "title": "‘암호 해독·마인크래프트’ 성과 낸 발스, AI 벤치마크 강자로 부상",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215535",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T15:36:43.000Z",
-    "snippet": "실질적인 산업 적용 능력을 측정하는 벤치마크 기술로 AI 업계의 눈길을 사로잡은 스타트업 발스 AI(Vals AI)가 4000만달러(약 553억원) 규모의 시리즈 A 투자를 유치하며 빠른 성장세를 입증했다. 이 회사는 최근 앤트로픽과 오픈AI의 최신 모델로 고난도 테스트를 실시하며 글로벌 업계에서 폭발적인 반응을 얻고 있다.테크크런치 등에 따르면, 발스는 지난달 앤드리슨 호로위츠(a16z)가 주도한 투자 라운드에서 4억달러의 "
-  },
-  {
-    "id": "2e807bf058afd4cb",
-    "title": "Sun이 잘못한 것",
-    "link": "https://news.hada.io/topic?id=34072",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T15:34:35.000Z",
-    "snippet": "Sun의 핵심 실패는 사업 운영의 기본 실무에 흥미를 잃은 것이었으며, 전략이 성공하더라도 운영 실패를 극복하지 못하면 기업은 성공할 수 없음 2005년 OpenSolaris로 인프라를 운영하던 급성장 스타트업이 Sun 하드웨어를 대량 구매하려 했지만, Sun은 연락에 응..."
-  },
-  {
-    "id": "48c5b4e5cb7936c9",
-    "title": "Show GN: 알람케이 - iOS 26 AlarmKit으로 만든, 미션을 끝내야 꺼지는 알람",
-    "link": "https://news.hada.io/topic?id=34071",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T15:22:35.000Z",
-    "snippet": "미션을 끝내야 꺼지는 iPhone 알람 앱입니다. QR·바코드 스캔, 수학 문제, 기억력, 타이핑, 흔들기, 스쿼트, 걷기, 사진 인증 등 8가지 미션을 지원하고, 하나의 알람에 최대 5개의 미션을 연속으로 설정할 수 있습니다. iOS 26에서 Apple이 공개한 시스템 알람 API인 AlarmKit을 기반으로 만들었습니다"
-  },
-  {
-    "id": "2cafc815409daa6e",
-    "title": "브렌트유 100달러 아래로…美채권과 주식 일제 상승",
-    "link": "https://www.hankyung.com/article/202609229353i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T15:12:51.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "20821d208e2b199b",
-    "title": "2026년 9월 21일 호치민시 날씨 예보: 흐리고, 보통에서 강한 비와 천둥번개가 예상되며, 일부 지역에서는 매우 강한 비가 내릴 수 있습니다. 천둥번개가 칠 때는 토네이도, 번개, 강풍이 발생할 가능성이 있습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOYmNkUkxjT0UxeGYyWmdicUVHb2dxaUJjMlpza0gyWGZRZjFqN1dMWjREY0tqWW94WDIzLTQ1ZTVNdjhQczJZak9JaUNJNldib3FiMk9sU2E1eTVJaE1XWEI0ZmJDbnI0bWVFbnlRckQ2ZFRaSFZYMmN3clRGU2lRRzIzZWlpQTFvZDN1MDVKZjdVNWlCenM3eTI2eEVDallUalc0WWZfdDFCM1B1b0NqUllkX3NqbUFlYklhY1ZRaktrMEF4QlEzMkFUQTJDQndJVWtHM2J5aHcwN1B4bi0ySlpXNW1TUDVqWmM4akxwNng3UWpuMVFnelRIQWZDUVYzNVgwTUZqc0pvbzh4Q3FLbjFYUTVuRy1wRExWdg?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-21T15:11:20.000Z",
-    "snippet": "2026년 9월 21일 호치민시 날씨 예보: 흐리고, 보통에서 강한 비와 천둥번개가 예상되며, 일부 지역에서는 매우 강한 비가 내릴 수 있습니다. 천둥번개가 칠 때는 토네이도, 번개, 강풍이 발생할 가능성이 있습니다. Vietnam.vn"
-  },
-  {
-    "id": "6df2d4077c04e490",
-    "title": "[오늘의 북한 날씨] 대체로 맑음, 함남 일부 지역 5밀리미터 미만 비 - SPN 서울평양뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95eFc4czlaZ0g4dDFjaThnT3ZHRFRYQUh1ekNMSWVKSFlnV0R4OGFKa2E1Qkd6RW9PNGVmWmFVR1N1WFVmbW1KeXNwdjVwbjRDM2hKVld0NXliazJWQ0FTLWZHTjhXUVFidXhn?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-21T15:00:00.000Z",
-    "snippet": "[오늘의 북한 날씨] 대체로 맑음, 함남 일부 지역 5밀리미터 미만 비 SPN 서울평양뉴스"
-  },
-  {
-    "id": "aca9d13d45f3dbc4",
-    "title": "샤오미, AI 훈련 과정 첫 '생중계'…일주일 만에 50억 투입",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215528",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T14:51:35.000Z",
-    "snippet": "샤오미가 차세대 플래그십 모델 '미모(MiMo)-V2.6'의 강화학습(RL) 사후훈련 과정을 실시간으로 생중계하는 파격적인 행보로 관심을 끌고 있다. 기술설명서 발표나 모델 재현을 넘어, 수백만달러가 투입되는 모델 훈련 과정을 대시보드 형태로 대중에 노출한 것은 주요 AI 기업 중 최초다.샤오미 AI 대형모델팀은 지난 15일부터 실시간 훈련 상태를 추적할 수 있는 대시보드 페이지를 오픈했다. 여기에는 '미모-V2.6 프로'와 "
-  },
-  {
-    "id": "bec15c219aa0d449",
-    "title": "[영상] 2026년 9월 22일 오늘 밤과 내일 날씨 예보: 베트남 중부 및 남부 지역에 광범위한 폭우가 예상되며, 일부 지역에서는 300mm 이상의 강우량을 기록할 것으로 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2RoRmNjWVRTTXFIcXhwdDNiQ3psQy1rcHFxSk5scldUWWNZMmVsZWI1MmRwSmdWTU54Zk5SX20tWEFpS2J4Z3ZwQ0ZRbzViRHJqTllDSS04dC14ZVZHT0luUk9ROGcxcWd2bklpQTZSaXUyTWdyMjJBMTViMWNvUkd6T0tvc2NwQzR1anVyOG13Z2wwdnJaLXhFbDE3SG9McjVyUExaTGpyWEhaemtzbG9qLV9ZRlVYVmtLQWhRelBaTGZJX09xWTdhSkd3eUxNWXZN?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-21T14:46:37.000Z",
-    "snippet": "[영상] 2026년 9월 22일 오늘 밤과 내일 날씨 예보: 베트남 중부 및 남부 지역에 광범위한 폭우가 예상되며, 일부 지역에서는 300mm 이상의 강우량을 기록할 것으로 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "e37cb5e10f5a8384",
-    "title": "LG, ‘AI 미래세대’ 양성 위한 에이머스 해커톤·청소년 캠프 진행",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215526",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T14:45:00.000Z",
-    "snippet": "LG가 국내 AI 인재 양성에 집중하기 위해 해커톤, 채용 박람회, 청소년 캠프 등 교육 프로그램을 연이어 진행했다고 21일 밝혔다.먼저, LG는 19일부터 1박 2일 일정으로 경기도 이천 LG인화원에서 AI 기술로 산업 난제를 해결하는 실전형 프로그램 ‘LG 에이머스(Aimers) 해커톤’을 열었다.이번 LG 에이머스 9기에는 역대 최다인 3393명의 청년이 참가하며 높은 관심을 입증했다. 이중 온라인 교육부터 해커톤 온라인"
-  },
-  {
-    "id": "285f490312b9dabb",
-    "title": "AI주 올라도 지금 맞서면 안되는 3가지 [박신영의 개장전 요것만]",
-    "link": "https://www.hankyung.com/article/202609219323i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T14:41:08.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "62766035f4ae20b0",
-    "title": "AI 챗봇, 금융 질문에 ‘대부분’ 잘못된 답변",
-    "link": "https://news.hada.io/topic?id=34070",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-21T14:31:22.000Z",
-    "snippet": "ChatGPT, Claude, Grok, Gemini 등 18개 AI 모델에 금융 관련 질문을 테스트한 결과, 평균 57% 에서 잘못된 답변을 내놓았으며 복잡한 질문에서는 오류율이 평균 88%까지 올라감 100개 이상의 금융 질문을 최대 5회씩 반복해 *총 1만 건 이상- 질의했으며..."
-  },
-  {
-    "id": "90ea02fb7e8831a8",
-    "title": "베선트 \"AI 모델이 해킹 사고 내면 해당 AI 회사 경영진 책임\"",
-    "link": "https://www.hankyung.com/article/202609219335i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T14:26:57.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "be9ec351c2508664",
-    "title": "굴스비 \"AI 투자가 총생산 증가 시킬 경우 금리 인상 필요\"",
-    "link": "https://www.hankyung.com/article/202609219320i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-21T14:14:59.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "e588dc12d92e720d",
-    "title": "\"바이브 코딩으로 앱은 늘어났지만\"…이용자 외면으로 '앱 슬롭' 확산",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215524",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-21T13:56:33.000Z",
-    "snippet": "AI 기반 코드 생성 도구의 등장으로 누구나 앱을 개발할 수 있는 ‘바이브 코딩’ 환경이 열렸지만, 정작 시장에서 선택받는 앱은 드문 것으로 나타났다.앤드리슨 호로위츠(a16z)가 18일(현지시간) 발표한 보고서에 따르면, 올해 iOS와 안드로이드 등 주요 플랫폼 전반에서 월간 신규 앱 출시 건수가 2021~2023년 대비 2~4배까지 폭발적으로 늘어났다. 크롬 웹스토어에서는 최대 10배까지 증가했다. AI 코딩 도구로 인해 "
-  },
-  {
-    "id": "05209fa3a6a8fd64",
-    "title": "오늘 밤과 내일(2026년 9월 21일) 날씨 예보: 북부 지역은 맑고, 남부 일부 지역에는 폭우가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmFPODV6ZFZ5Nk1qTWU1ZUxjUnFyMTF3Qmd4RTRkOURWclYwbEwtOFBfR0tvYU0zRGdXTWp6a3lxWVlyeG5nMjdrZzVwYkJVWmhQWU1mOEdkQWl6d0hfVXVCQ0JWN3Z6V1FzRnVPcTFqSFNmdEFYWFd6UGs1emhfVjhmOUtYQzh2QmNrdU1ZdHNSdVE3TFdmVXlUNlcxaTEzVjd0TGVLeDhWR0FFNmZpaA?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-21T13:50:20.000Z",
-    "snippet": "오늘 밤과 내일(2026년 9월 21일) 날씨 예보: 북부 지역은 맑고, 남부 일부 지역에는 폭우가 예상됩니다. Vietnam.vn"
   }
 ]

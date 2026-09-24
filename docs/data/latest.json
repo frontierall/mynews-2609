@@ -1,5 +1,55 @@
 [
   {
+    "id": "190e9d6b2b4b7d8a",
+    "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전'도 선보여",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215642",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-24T14:13:03.000Z",
+    "snippet": "메타가 연례 행사 '커넥트 2026'에서 개인용 AI 에이전트 '뮤즈(Muse)'의 지원 범위를 AI 안경으로 확대하고, 새로운 안경 제품군을 공개했다.23일(현지시간) 캘리포니아 멘로파크의 본사에서 열린 행사를 통해 공개된 뮤즈 탑재 AI 안경은 스마트폰을 확인하지 않고도 스포츠 경기 결과나 주변 맛집 등의 정보를 확인하고 실시간 대화 번역을 이용할 수 있도록 지원한다.사용자의 목표와 일정을 바탕으로 한 개인화 기능도 제공할"
+  },
+  {
+    "id": "19501c80c8c6ea87",
+    "title": "알리바바, ‘큐원-오디오-3.1’ 공개...최대 95% 가격 파괴",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215639",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-24T13:58:49.000Z",
+    "snippet": "알리바바가 고비용 구조에 머물러 있던 글로벌 오디오 API 시장의 판도를 흔들고, 중국 내 B2B 음성 에이전트 주도권을 확보하기 위한 본격적인 가격 경쟁에 나섰다. 오픈AI와 바이트댄스 등에 맞서 파격적인 단가 인하로 개발자 생태계를 조준하겠다는 전략이다.알리바바는 23일(현지시간) 음성인식(ASR)과 음성합성(TTS), 실시간 대화 기능을 강화하고 오디오 이해 및 디퓨전 기반 생성 모델을 새롭게 추가한 ‘큐원-오디오-3.1"
+  },
+  {
+    "id": "0fb0c45186d78e8d",
+    "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215640",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-24T12:53:52.000Z",
+    "snippet": "허깅페이스를 뚫었던 오픈AI의 에이전트가 민간 기업을 넘어 국가 정부 시스템 내부망을 무단 침입한 사실이 최초로 드러났다. 이에 따라 세계 각국 공공 인프라의 보안 재점검과 통제 불능 AI에 대한 국제적 규제 논의로 파장이 확대될 전망이다.앤서니 앨버니지 호주 총리는 24일(현지시간) 뉴욕 유엔총회 현장 기자회견에서 오픈AI의 에이전트가 호주 정부의 의료 통계 보고 서비스(Medicare Statistics Reporting "
+  },
+  {
+    "id": "4a3f93719c5571b8",
+    "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215637",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-24T12:06:33.000Z",
+    "snippet": "마이크로소프트(MS)가 AI 에이전트와 코딩 도구를 통합한 ‘슈퍼 앱’ 출시를 앞두고 코파일럿의 대규모 구독료 할인 정책을 펼치는 등 비즈니스 모델 재편에 본격적으로 나섰다.22일(현지시간) 디 인포메이션에 따르면, MS는 최근 영업 임직원들에게 기업 고객이 대량 라이선스를 구매하고 특정 기능 사용량에 따라 추가 결제를 약정할 경우 코파일럿 구독료를 30%에서 최대 50%까지 할인하도록 지침을 내렸다. 기존에는 2000개 이상"
+  },
+  {
+    "id": "d6caeff8a0703c5b",
+    "title": "오픈서베이, '합성 소비자'로 데이터 장벽 허문다...\"AI 시대의 리서치\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215544",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-24T11:20:00.000Z",
+    "snippet": "“모든 비즈니스와 의사결정에는 유의미한 데이터가 필요합니다. 하지만 기존 시장 조사는 비싼 비용과 긴 시간, 엄격한 개인정보 규제 때문에 실무자가 원하는 데이터에 즉시 접근하기 어려웠습니다. 오픈서베이는 AI 기술로 이러한 데이터 장벽을 낮추고, 누구나 손쉽게 데이터에 접근할 수 있도록 돕고 있습니다.”이건노 오픈서베이 최고 기술책임자(CTO)는 최근 선보인 '합성 소비자' 솔루션을 설명하며 이같이 강조했다.그는 “내가 생각한"
+  },
+  {
     "id": "d956bf05d10221ca",
     "title": "앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215633",
@@ -60,6 +110,26 @@
     "snippet": "독일이 내년부터 소형 지붕형 태양광의 기존 고정가격 매입을 단계적으로 종료하고 직접 전력판매를 확대하는 방향으로 재생에너지 지원체계 개편을 추진한다. 100킬로와트(kW) 미만 일부 태양광에는 전력망으로 내보낼 수 있는 출력을 설비용량의 50%로 제한하는 방안도 포함됐다. 태양광 업계는 제도가 원안대로 시행될 경우 신규 투자와 설치 수요가 위축될 수 있다고 우려하고 있다.독일 연방정부가 제출한 ‘재생에너지법 개정안(EEG 20"
   },
   {
+    "id": "94165776b56eb56e",
+    "title": "\"삼성, 지금 성과급 잔치 할 때 아냐\"…섬뜩한 경고 나왔다 [강경주의 테크X]",
+    "link": "https://www.hankyung.com/article/2026092184316",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T08:26:55.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "52d39ee599ab39b6",
+    "title": "MongoDB와 PostgreSQL은 무엇이 다를까?",
+    "link": "https://news.hada.io/topic?id=34219",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T08:20:55.000Z",
+    "snippet": "동일한 진료 데이터를 Montwo databases by configuring identical medical data as MongoDB documents and PostgreSQL relational tables MongoDB는 유연하고 중첩된 데이터를 함께 다룰 때 어떤 차이가 있는지 보여줍니다. 어느 쪽이 무조건 더 빠르거나 좋은지를 정하기보다, 애플리케이션이 데이터를 읽고"
+  },
+  {
     "id": "c5e81d8c933dceea",
     "title": "테슬라, 13.7조 태양광 생산공장 추진…텍사스 세제 절차 승인",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215585",
@@ -68,6 +138,76 @@
     "category": "AI",
     "publishedAt": "2026-09-24T08:10:00.000Z",
     "snippet": "테슬라의 101억달러(약 13조6500억원) 규모 텍사스 태양광 셀·모듈 공장 건설 프로젝트가 현지 교육 당국의 세제지원 승인을 받으며 한 단계 진전했다. 다만 테슬라는 텍사스 외 다른 지역 후보지도 비교 검토 중이어서 최종 입지는 미정이다.텍사스주 라마 통합독립교육구 이사회는 지난 15일(현지시간) 테슬라의 ‘프로젝트 크리스털 선(Project Crystal Sun)’에 대한 적격 자산 과세가액 제한 협약 절차를 진행하는 결"
+  },
+  {
+    "id": "36384f2538c60f27",
+    "title": "Scientific Linux를 포기한 것은 실수였다",
+    "link": "https://news.hada.io/topic?id=34218",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T08:03:54.000Z",
+    "snippet": "Scientific Linux의 가치는 RHEL 패키지를 재빌드하는 작업만이 아니라, 과학계가 플랫폼을 독립적으로 유지할 인력과 지식, 인프라에 있었음 CentOS로 통합하면 중복 작업을 줄일 수 있었지만, CentOS Linux 중단 이후 CERN과 Fermilab은 다시 독립적인 RHEL 호환..."
+  },
+  {
+    "id": "38fbef0155c56668",
+    "title": "\"홍준표 닮았다\" 뒷말…혈세 '6억' 박정희 동상의 운명은? [혈세 누수 탐지기]",
+    "link": "https://www.hankyung.com/article/202609233010H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T07:53:27.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "394d588faa9e28d5",
+    "title": "같은 집에 서로 다른 보유세 '논란'…1주택자들 '불만 폭발'",
+    "link": "https://www.hankyung.com/article/202609245131i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T07:53:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "97e0e2bd219e7b1f",
+    "title": "\"하루만 맡겨도 이자 준대\" 들썩…'103조원' 출혈 경쟁 터졌다",
+    "link": "https://www.hankyung.com/article/2026092336926",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T07:37:17.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "87113db466bdc224",
+    "title": "\"카니발 독주에 도전장\"…테슬라까지 뛰어든 3열 패밀리카 전쟁 [맞짱대결]",
+    "link": "https://www.hankyung.com/article/202609220758g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T07:33:44.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "46d1841110fe4116",
+    "title": "OpenAI의 Medicare 무단 침입, Albanese 총리가 공개",
+    "link": "https://news.hada.io/topic?id=34216",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T07:33:32.000Z",
+    "snippet": "OpenAI의 AI 에이전트가 Medicare 통계 포털의 차단 장치를 우회해 공개/비공개 정보에 접근하고 내부 서버에 파일을 기록함 침입은 6월 18일 발생했지만 OpenAI는 약 3개월 뒤 정부에 통보했으며, Services Australia가 알림을 확인한 뒤 담당 장관에게 보고하기까..."
+  },
+  {
+    "id": "de725dcacdf9ad81",
+    "title": "\"월급 꼬박 이체했는데\"…금리 우대 못 받은 황당한 이유",
+    "link": "https://www.hankyung.com/article/202609229909i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T07:10:01.000Z",
+    "snippet": ""
   },
   {
     "id": "423660635fc4d877",
@@ -80,6 +220,106 @@
     "snippet": "AI 에이전트라는 말이 등장한 지는 벌써 2~3년이 됐습니다. 하지만 최근 들어서야 일반 사용자들이 체감할 만한 서비스가 나오기 시작했습니다. 스페이스XAI의 ‘그록봇(Grok Bot)’은 출시 한 달 만에 이용자 40만명 이상을 확보했고, 메타의 개인용 에이전트 ‘뮤즈(Muse)’도 출시 첫 주 50만명 이상의 사용자를 확보한 것으로 알려졌습니다.아직 이 수치만으로 에이전트가 대중화됐다고 보기는 어렵습니다. 다만 그동안 기업"
   },
   {
+    "id": "9b32215d66ea34b2",
+    "title": "서울 집값 85주째 올랐다…文정부 때 세운 ‘최장 기록’ 따라잡아",
+    "link": "https://www.mk.co.kr/news/economy/12160908",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T06:45:54.000Z",
+    "snippet": "최근 85주간 17.5% 상승 다음 주도 오르면 역대 최장 경신서울 아파트 매매가격이 85주 연속 오르며 문재인 정부 당시 세운 역대 최장 상승 기록과 동률을 이뤘다. 다음 주에도.."
+  },
+  {
+    "id": "ed9f5c3b4f2d4356",
+    "title": "미 연방정부, AI 비판자들을 ‘외국 대리인’으로 겨냥",
+    "link": "https://news.hada.io/topic?id=34213",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T05:34:37.000Z",
+    "snippet": "Trump 행정부가 AI와 데이터센터 반대 여론을 중국의 영향력 행사와 연결하는 가운데, 법무부는 외국 세력의 목표를 돕는 공개 활동에 정부 신고 의무와 형사책임이 따를 수 있다고 경고함 의회 공화당 지도부도 데이터센터 반대 활동에 대한 외국 개입 조사를 요구..."
+  },
+  {
+    "id": "4c02ff1dd0de201a",
+    "title": "VSCode의 SSH 에이전트는 제정신이 아니다 (2025)",
+    "link": "https://news.hada.io/topic?id=34212",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T04:32:51.000Z",
+    "snippet": "VSCode의 SSH 원격 편집은 원격 환경의 기존 명령만 활용하는 대신, Bash 코드로 Node 바이너리를 포함한 에이전트를 내려받아 실행함 원격 에이전트는 SSH 포트 포워딩을 거쳐 로컬 VSCode 프런트엔드와 WebSocket으로 연결되며, 파일 탐색과 임..."
+  },
+  {
+    "id": "f7672154f446f506",
+    "title": "\"시세보다 40% 싸게 전세 줬는데\"…60대 집주인 '날벼락' [고정삼의 절세GPT]",
+    "link": "https://www.hankyung.com/article/2026092334526",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T04:10:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1fc5eee6b946a1f0",
+    "title": "베트남 북부 지역은 9월 25일 밤부터 폭우가 내리기 시작했습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hSHloTE5jWHJsTHNtb2lXR2xySXBHMkpnZlJIZEhDM21pVzZRMmdhc0VwQzdCYzlrMFhndnNFYnQwbFNEMnhwOFk3cXo4RklLZ2lwRkIzeVNyZnE4NjBodF91Zm1BNzBIWXNIRlh2WQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-24T04:06:16.000Z",
+    "snippet": "베트남 북부 지역은 9월 25일 밤부터 폭우가 내리기 시작했습니다. Vietnam.vn"
+  },
+  {
+    "id": "43e78f49a2db097e",
+    "title": "\"홍대 골목인 줄\"…북유럽서 인기 폭발한 길거리 간식 뭐길래 [씬메이커]",
+    "link": "https://www.hankyung.com/article/202609106359g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T03:13:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "657e4fe9f8a44799",
+    "title": "대미투자 새 축으로 떠오른 원전…'K원전' 美진출 넓어지나",
+    "link": "https://www.hankyung.com/article/202609234053i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T03:08:35.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d2723434ecc5fd4e",
+    "title": "[속보] 머스크 \"시진핑은 뛰어난 지도자…중국 엄청나게 번영\"",
+    "link": "https://www.hankyung.com/article/2026092449617",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T02:48:21.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "bdcbbc4a926c405e",
+    "title": "오늘부터 내일까지 가장 많은 비가 내릴 것으로 예상되는 3개 성, 일부 지역은 200mm 이상 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjg1QlVVb3ZJRDU2bHduQmRMSUdMYkRkME5KWTNZSGpuWE1KaERJZEV0OVpQVDZsNUdtamdkUV9TUThZTWQ0a0ZBSEd2N1kwWGFxWDZqTU51cXQ3aF9wSHR6THBCTnNocjJmZWk3dWN0YldxQkctOUw3TGJ0a3lwTjAtTkxDc2R1amNKWlpYdGtpUGFTYUpBQ1dDSHlHd0V5SnZTenp3VE1QdXRqcVJjOUNR?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-24T02:43:39.000Z",
+    "snippet": "오늘부터 내일까지 가장 많은 비가 내릴 것으로 예상되는 3개 성, 일부 지역은 200mm 이상 Laodong.vn"
+  },
+  {
+    "id": "648c4beb2b985a58",
+    "title": "Snapdragon X2 Series에 Linux 지원이 도입될 예정",
+    "link": "https://news.hada.io/topic?id=34210",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T02:33:10.000Z",
+    "snippet": "Qualcomm이 Snapdragon X2 Series의 Linux 지원을 추진하며, Windows와 Googlebook에 이어 개발자와 기기 제조사가 활용할 운영체제 선택지를 넓힘 Hexagon NPU와 Adreno GPU를 포함한 핵심 드라이버를 Linux 업스트림에 반영하고 있음 Debian은 ..."
+  },
+  {
     "id": "48e6f4f9dd31a0a9",
     "title": "2026년 9월 25일 안장성 날씨 예보 - vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lNnJsMlVTMUM4cTZLcWxMTTZfR2tZZWtHMWgxZjJLSGhrTEloWFBwWkFidkc5aWtNS04zZFp4WnVzZjM4T3laZU5TTGMzWktLRGx0cDFndVlDbExPY0ZJcDNvNFdla1BWTDRYYWRxUnhyeXZMRndoT3d6Zw?oc=5",
@@ -88,6 +328,26 @@
     "category": "날씨",
     "publishedAt": "2026-09-24T02:18:47.000Z",
     "snippet": "2026년 9월 25일 안장성 날씨 예보 vietnam.vn"
+  },
+  {
+    "id": "699006738c238ac5",
+    "title": "\"연휴 끝나면 '6억 잭팟' 터지나\"…삼성 반도체 직원들 '들썩'",
+    "link": "https://www.hankyung.com/article/2026092449257",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T02:04:21.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5a52eacc758b51d7",
+    "title": "오늘(9월 24일) 날씨 예보: 베트남 북부에 다시 ​​비가 내리겠으며, 꽝찌에서 베트남 남부까지 매우 강한 비가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWnpfV2lLV1dWejFLT1Q3bE1VSnhOaWEzTTZMeHZoX21DSndxcE9FZWZQY0RCMUtucDliRDZiYkFmMFFpeTZDcHJxd2tkakRXUjFZcjN2RW9LOW41QXpmYnFESGhpUkdMWGYyeTJnNE5RU0txQ19WTW9TNnQ4TlZET3VpRmlkNE9Nemd6R0lKQVR2Tm5lOWdieGNZVTBlbnpv?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-24T01:32:40.000Z",
+    "snippet": "오늘(9월 24일) 날씨 예보: 베트남 북부에 다시 ​​비가 내리겠으며, 꽝찌에서 베트남 남부까지 매우 강한 비가 예상됩니다. Vietnam.vn"
   },
   {
     "id": "0a7ed6018adb8f82",
@@ -788,6 +1048,16 @@
     "category": "AI",
     "publishedAt": "2026-09-23T14:55:00.000Z",
     "snippet": "아마존웹서비스(AWS)는 에이전트를 손쉽게 구축·운영할 수 있는 오픈소스 실행환경 '스트랜즈 하네스'를 공개했다고 23일 밝혔다.스트랜즈 하네스는 AI 에이전트 실행에 필요한 구성요소를 조립해 제공하는 방식으로 모델·도구·메모리 등을 개별적으로 연결해야 했던 기존 구축 과정을 단순화했다.로컬 PC에서 즉시 실행하거나 클라우드 환경에 배포할 수 있으며, 자유로운 수정이 가능한 '아파치 2.0' 라이선스로 제공된다.내부 테스트에 "
+  },
+  {
+    "id": "815663e715879605",
+    "title": "[오늘의 북한 날씨] 함북·양강도 일부 지역에 2mm 미만 비 - SPN 서울평양뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QcV9NVTZQLWRLSXhJMzV3VURRdHF3RE9qVTBHWlV6SzhWOHhlWXpGZVcwanJvTGpXcmZiNWtMY2J6aXBjR1BadkFCQmRPbi1kSGE3bElaX284TXF5X2tuU0x1UldUd2s1Qkt3?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-23T14:49:42.000Z",
+    "snippet": "[오늘의 북한 날씨] 함북·양강도 일부 지역에 2mm 미만 비 SPN 서울평양뉴스"
   },
   {
     "id": "265a21de1668e827",
@@ -2268,6 +2538,16 @@
     "category": "경제",
     "publishedAt": "2026-09-23T02:10:37.000Z",
     "snippet": ""
+  },
+  {
+    "id": "1dd9ce125c6e0e60",
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-23T02:00:00.000Z",
+    "snippet": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
   },
   {
     "id": "92568164a6cec348",
@@ -4718,285 +4998,5 @@
     "category": "경제",
     "publishedAt": "2026-09-22T05:43:49.000Z",
     "snippet": ""
-  },
-  {
-    "id": "c3d4d5259312f26d",
-    "title": "“집값 잡으려 어쩔수 없지만, 영끌족 어쩌나”…금리 0.25%P 오르면 가계이자 3.3조↑",
-    "link": "https://www.mk.co.kr/news/economy/12159314",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:37:38.000Z",
-    "snippet": "한은 “금리 인상이 금융취약성 완화” 대출금리 5개월·연체율 15개월 뒤 상승한국은행이 최근 기준금리 인상이 가계부채 증가와 수도권 주택가격 상승 등에 따른 금융취약성을 완화하는 .."
-  },
-  {
-    "id": "b1d3349386b895f0",
-    "title": "[단독] \"투자처 물색\"…'월가 큰손' 드러켄밀러, 원익IPS 방문",
-    "link": "https://www.hankyung.com/article/202609221029i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:33:20.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "d236e41cedef0548",
-    "title": "추미애 “재정긴축 대선용쇼? 그런 야바위 안해봤다”",
-    "link": "https://www.mk.co.kr/news/economy/12159307",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:32:55.000Z",
-    "snippet": "월간회의 첫 생중계서 격정토로 “전임자 질타 아냐, 진짜 어려워” “예산달라고 잡아당겨 팔 늘어”“민선 9기 도지사가 기존 사업을 다 깎아 돈을 감춰 놨다가 대선용으로 쓰려고 하나.."
-  },
-  {
-    "id": "cd5f6497ae008b99",
-    "title": "가업상속공제는 상속세 아끼는 꼼수? 나중에 기업 팔 때 양도세 더 내야한다 [기자24시]",
-    "link": "https://www.mk.co.kr/news/economy/12159305",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:31:10.000Z",
-    "snippet": "가업상속공제를 둘러싼 논쟁을 듣다 보면 마치 수백억 원의 상속세를 통째로 없애주는 제도로만 느껴진다. 하지만 제도의 속을 들여다보면 얘기가 달라진다. 일반적인 상속 재산은 상속 당.."
-  },
-  {
-    "id": "715521bd502219e6",
-    "title": "도루코, 새 CI로 레드닷 본상 수상…'글로벌 디자인 경쟁력' 입증",
-    "link": "https://www.hankyung.com/article/202609220954g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:17:55.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "eba44caae034d579",
-    "title": "박홍근 장관 “적극재정으로 V자형 회복…성과관리로 선순환 만들어야”",
-    "link": "https://www.mk.co.kr/news/economy/12159288",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:14:12.000Z",
-    "snippet": "올해 첫 통합평가 예산반영 성과 공유하고 개선방안 마련 연말까지 2차기본계획 수립박홍근 기획예산처 장관이 미래 성장 동력과 청년 지원 등에 적극 투자하기 위한 재정 성과관리의 역할.."
-  },
-  {
-    "id": "8edbec4adfa429b4",
-    "title": "정부가 4000억·민간서 8조 투입...차세대 배터리에 승부수 건다",
-    "link": "https://www.mk.co.kr/news/economy/12159286",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:13:41.000Z",
-    "snippet": "5년간 신규 R&D 사업 착수 나트륨·전고체 기술 집중 육성 배터리 3사도 공동개발 확대 로봇·드론·UAM 시장 선점산업통상부가 차세대 배터리 경쟁력 강화를 위해 앞으로 5년간 약.."
-  },
-  {
-    "id": "e064f74ceaa36075",
-    "title": "한해 36.2만명 사망 1년새 1.2% 쑥…3대 원인은 암·심장질환·폐렴",
-    "link": "https://www.mk.co.kr/news/economy/12159279",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:11:07.000Z",
-    "snippet": "데이터처, 2025년 사망원인통계 10~40대는 자살이 1위 OECD 중 자살률 가장 높아사망자 수가 지난해 36만2968명을 기록해 전년 대비 4399명(1.2%) 증가한 것으로.."
-  },
-  {
-    "id": "b0ce5da90cef66e8",
-    "title": "[속보] 우버, 배민 인수 본격화…공정위 기업결합 사전심사 개시",
-    "link": "https://www.hankyung.com/article/2026092209727",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:05:22.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "ad34c03c8507a823",
-    "title": "농협은행, 호남권 반도체클러스터 입주기업에 대출 요건 완화",
-    "link": "https://www.hankyung.com/article/202609220906i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T05:03:09.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "de2e293c24ab8536",
-    "title": "Show GN: ITLAND - 짧게 플레이하고 기록을 겨루는 웹 게임 플랫폼",
-    "link": "https://news.hada.io/topic?id=34106",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-22T05:01:50.000Z",
-    "snippet": "게임을 좋아하는 학생이나 직장인이 게임을 시작하기 전에 가볍게 손을 풀고, 친구나 동료와 기록으로 내기할 수 있는 웹 플랫폼을 만들었습니다. 처음에는 반응속도 게임 QUEUE ZERO로 시작했는데, 타자와 계산처럼 짧게 집중해서 즐길 수 있는 도구들을 하나씩 추가하면서 ITLAND라는 플랫폼으로 확장했습니"
-  },
-  {
-    "id": "fed9d47e9cfc1346",
-    "title": "KAIST, ‘지식 재사용’으로 서버 호출 57% 줄였다…“증류·추가학습 필요 없어”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215545",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-22T05:01:17.000Z",
-    "snippet": "국내 연구진이 한 번 얻은 지식을 기기 내부 저장소에 쌓아뒀다가 재사용하는 온디바이스 AI 기술을 개발했다. 기존 모델을 추가로 학습시킬 필요 없이 대형 AI 모델에 대한 서버 의존도를 낮춘 것이 특징이다.한국과학기술원(KAIST, 총장 배충식)은 이재길 전산학부 교수 연구팀이 기기의 소형 AI와 서버의 대형 AI를 효율적으로 연결하는 협업 프레임워크 ‘CURE(Cumulative Knowledge Reuse, 누적 지식 재사"
-  },
-  {
-    "id": "36027f483238161b",
-    "title": "뉴로퓨전, 답 없는 글로벌 AI 미래 예측 벤치마크 1위…국내 스타트업 ‘기술력 증명’",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215547",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-22T04:54:46.000Z",
-    "snippet": "리더보드 관련 평가 데이터 과적합, 결과 공정성에 대한 문제 제기가 계속되는 가운데, 국내 기업이 ‘답을 알 수 없는’ 글로벌 벤치마크에서 1위를 달성하는 유의미한 성과를 거뒀다. 미래 사건의 결과를 예측하는 벤치마크로, 문제 풀이 시점에는 누구도 답을 알 수 없다는 것이 특징이다.금융 AI 투자 플랫폼 '밸리 AI(Valley AI)'를 운영하는 뉴로퓨전(대표 최한철)이 글로벌 AI 미래 예측 벤치마크인 '포캐스트벤치(For"
-  },
-  {
-    "id": "3bce6a6ba9896115",
-    "title": "현대카드·네이버, 세계 여자테니스 ‘톱6’ 인천에 모은다",
-    "link": "https://www.mk.co.kr/news/economy/12159255",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T04:53:45.000Z",
-    "snippet": "오랜 파트너십 기반으로 스포츠마케팅 협력까지 오사카 등 유명선수 6인 초청 연말 인스파이어서 토너먼트현대카드가 네이버와 손잡고 세계 여자 테니스 정상급 선수 6명을 국내로 불러.."
-  },
-  {
-    "id": "f42bdf428ba2a3e7",
-    "title": "해외서 카드 긁고 취소했더니 환차손?…카드사가 자동 보상한다",
-    "link": "https://www.mk.co.kr/news/economy/12159254",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T04:51:59.000Z",
-    "snippet": "원화 취소금액도 문자로 안내키로A씨는 추석 연휴 때 친구들과 함께 해외여행을 가려고 4명의 항공권을 5000달러(약 740만원)에 한 번에 결제했다. 그런데 한 달 후 1명의 항공.."
-  },
-  {
-    "id": "329689286a917ba1",
-    "title": "알리바바, 차세대 모델 Qwen4 학습 중… 자체 AI 칩·데이터센터 20GW 로드맵 공개",
-    "link": "https://platum.kr/archives/295077?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%258c%25eb%25a6%25ac%25eb%25b0%2594%25eb%25b0%2594-%25ec%25b0%25a8%25ec%2584%25b8%25eb%258c%2580-%25eb%25aa%25a8%25eb%258d%25b8-qwen4-%25ed%2595%2599%25ec%258a%25b5-%25ec%25a4%2591-%25ec%259e%2590%25ec%25b2%25b4-ai-%25ec%25b9%25a9%25c2%25b7%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0",
-    "source": "플래텀",
-    "sourceId": "platum",
-    "category": "창업",
-    "publishedAt": "2026-09-22T04:51:32.000Z",
-    "snippet": "알리바바(Alibaba)가 차세대 AI 모델 ‘Qwen4(큐웬4)’를 학습하고 있다고 밝혔다. 향후 모델 규모를 파라미터 5조~10조 개까지 키우는 로드맵과 함께 자체 AI 칩, 데이터센터 확장 계획도 내놨다. 알리바바는 자회사 알리바바 클라우드의 연례 기술 행사 ‘압사라 컨퍼런스’에서 AI 칩부터 클라우드, 모델, 에이전트까지 아우르는 전략을 공개했다고 22일 밝혔다. 에디 우 알리바바 그룹 최고경영자(CEO)는 알리바바 클"
-  },
-  {
-    "id": "d079fff0f4e93db3",
-    "title": "\"뉴욕 울리는 한국의 취기\"…만두 다음은 프리미엄 전통주다",
-    "link": "https://www.hankyung.com/article/202609220864g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T04:46:12.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "160291c7d551c3bb",
-    "title": "\"3년째 이자도 못 냈어요\"…역대 최대 찍은 '좀비기업'",
-    "link": "https://www.hankyung.com/article/202609220832i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T04:44:51.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "d8986b80b5b42c03",
-    "title": "“금리·유가 불안 낮아져 … 外人 매수 원톱은 반도체”",
-    "link": "https://www.mk.co.kr/news/economy/12159237",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T04:39:24.000Z",
-    "snippet": "족집게 3인방의 증시 전망우려됐던 미국 10년물 국채금리가 5%를 넘나들고 있지만 증시에서 인공지능(AI)과 반도체 종목들의 강세는 만만찮다. AI 속도조절론으로 주춤했던 코스피는.."
-  },
-  {
-    "id": "dc06a253062b0ae4",
-    "title": "[단독] ‘대미투자’ 텍사스발전소 사업…최대 454억달러 회수 전망",
-    "link": "https://www.mk.co.kr/news/economy/12159219",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T04:14:51.000Z",
-    "snippet": "산업부 “상업적 합리성 있다” 고신용 구매자와 고정가 계약 후 연료비·운영비는 구매자가 부담 수요처 미확정인데 낙관 우려도정부가 텍사스 가스복합화력발전소 사업의 향후 20년간 예상.."
-  },
-  {
-    "id": "48eac2707d7d2ef6",
-    "title": "\"지금 팔면 손해 아닌가요\"…다주택자 버티는 이유 있었다",
-    "link": "https://www.hankyung.com/article/202609220815i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T04:14:42.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "2dc7bc23ec248d9e",
-    "title": "[단독] 대미투자펀드로 美원전 8기 짓는다…추가건설땐 기당 20억弗",
-    "link": "https://www.mk.co.kr/news/economy/12159218",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T04:11:50.000Z",
-    "snippet": "한미 원전 프레임워크 협의 대형원전 8기 MOU 포함 추진 美웨스팅하우스 지분일부 인수 한국 EPC·기자재기업 추천키로한국과 미국 정부가 미국내 대형원전을 8기 이상 짓는 방안을 .."
-  },
-  {
-    "id": "1568e8d429294e99",
-    "title": "홍천군, 마을 교육공동체 지원사업 참여 공동체 9월 23일까지 모집 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4Q2J5RWtuM2kxRXBXUWc2OWhHQjNMYkM2YldtVlUyNktPU1lqaDJVOUVKYWlKeHQ5SU5nRkRUN1RZYUdSYXNlVkh3bk4wWXFtOVNtTmNHem1ZTDg4TVc2UmEzVkhFRWpvaVpzZkZR?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-22T04:02:40.000Z",
-    "snippet": "홍천군, 마을 교육공동체 지원사업 참여 공동체 9월 23일까지 모집 gukjenews.com"
-  },
-  {
-    "id": "f04a35c15f801947",
-    "title": "[단독] 대미투자 ‘안전판’ 챙겼다…기업 추천·원리금 우선회수·비상개입권 확보",
-    "link": "https://www.mk.co.kr/news/economy/12159211",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-22T03:59:29.000Z",
-    "snippet": "대미투자펀드 투자구조 국회 보고 원금 회수 전 수익금 5대5 비율 배분 특수목적법인 통해 연 200억弗 투자 초과비용 20%넘으면 양국 개선협상 한국 기업 벤더 참여 등 추천권 확.."
-  },
-  {
-    "id": "c8bd4542526a284d",
-    "title": "로봇팔 작업 36초에서 12초로, 노타 퀄컴 칩에서 로봇 AI 3배 빠르게",
-    "link": "https://platum.kr/archives/295069?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a1%259c%25eb%25b4%2587%25ed%258c%2594-%25ec%259e%2591%25ec%2597%2585-36%25ec%25b4%2588%25ec%2597%2590%25ec%2584%259c-12%25ec%25b4%2588%25eb%25a1%259c-%25eb%2585%25b8%25ed%2583%2580-%25ed%2580%2584%25ec%25bb%25b4-%25ec%25b9%25a9%25ec%2597%2590%25ec%2584%259c-%25eb%25a1%259c%25eb%25b4%2587-ai-3%25eb%25b0%25b0",
-    "source": "플래텀",
-    "sourceId": "platum",
-    "category": "창업",
-    "publishedAt": "2026-09-22T03:54:51.000Z",
-    "snippet": "AI 모델 경량화 기업 노타가 퀄컴의 산업용 칩에서 로봇 AI 모델을 최적화해 실제 로봇팔의 작업 속도를 3배로 높였다고 22일 밝혔다. 외부 서버나 고성능 GPU 없이 로봇에 연결된 칩 안에서 AI 모델을 직접 돌린 결과다. 노타가 최적화한 것은 카메라 영상과 언어 명령을 이해해 로봇의 다음 동작을 만들어 내는 ‘비전언어행동(VLA) 모델’이다. 이 모델을 퀄컴 ‘드래곤윙 IQ-9075’ 프로세서의 ... 더 읽기"
-  },
-  {
-    "id": "384eaa4770a1a09c",
-    "title": "AI 코딩으로 병목이 된 CI, 개발 속도에 맞춰 재설계함",
-    "link": "https://news.hada.io/topic?id=34105",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-22T03:42:20.000Z",
-    "snippet": "Linear는 연초 이후 테스트 스위트가 거의 4배로 늘어났는데도 PR의 CI 대기 시간을 6분 초과에서 5분 남짓으로 줄이고, 테스트당 러너 사용 시간을 약 절반으로 낮춤 더 빠른 외부 러너와 tsgo 로 전환하고 린트 규칙의 타입 정보 의존성을 제거해, ..."
-  },
-  {
-    "id": "9494c29dbc0b8794",
-    "title": "워터마크가 아니라 스파이마크",
-    "link": "https://news.hada.io/topic?id=34104",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-22T03:39:20.000Z",
-    "snippet": "사용자의 인지나 동의 없이 콘텐츠를 추적할 수 있게 하는 숨은 신호는 스파이마크(spymark) 로 구분해 부르자는 제안임 Google SynthID 같은 기술은 이미지, 오디오, 텍스트, 영상에 사람이 감지하기 어려운 신호를 삽입하며, 그 안에 개인정보와 연결되는 데이터..."
-  },
-  {
-    "id": "c6288c641d873f31",
-    "title": "미 CFTC·백악관 출신 인사들 서울로, 두나무 디지털자산 기관 서밋 연다",
-    "link": "https://platum.kr/archives/295064?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25af%25b8-cftc%25c2%25b7%25eb%25b0%25b1%25ec%2595%2585%25ea%25b4%2580-%25ec%25b6%259c%25ec%258b%25a0-%25ec%259d%25b8%25ec%2582%25ac%25eb%2593%25a4-%25ec%2584%259c%25ec%259a%25b8%25eb%25a1%259c-%25eb%2591%2590%25eb%2582%2598%25eb%25ac%25b4-%25eb%2594%2594%25ec%25a7%2580%25ed%2584%25b8%25ec%259e%2590%25ec%2582%25b0",
-    "source": "플래텀",
-    "sourceId": "platum",
-    "category": "창업",
-    "publishedAt": "2026-09-22T03:36:15.000Z",
-    "snippet": "미국과 유럽의 전직 디지털자산 정책 담당자들과 글로벌 금융·디지털자산 기업 임원들이 서울에 모여 디지털자산 규제와 제도권 금융의 참여를 논의한다. 업비트 운영사 두나무가 29일 서울 광진구 그랜드 워커힐 서울에서 ‘업비트 인스티튜셔널 서밋(UIS)’을 연다. 정책당국과 기관투자자, 금융회사, 디지털자산 기업 관계자 가운데 사전 초청된 인사만 참석하는 행사다. 연사로는 브라이언 퀸텐츠 전 미국 상품선물거래위원회(CFTC) 위원,"
   }
 ]

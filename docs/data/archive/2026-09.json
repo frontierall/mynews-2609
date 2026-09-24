@@ -60,6 +60,26 @@
     "snippet": "오픈AI가 '챗GPT'의 음성 모드에 에이전트 기능을 결합해 사용자가 말만으로 이메일·캘린더·슬랙 등 외부 서비스를 활용하고 복잡한 작업까지 수행할 수 있도록 기능을 확대했다. 이번 업데이트는 기존 고급 음성 모드에 웹 검색 및 액션 수행 에이전트와 외부 앱 플러그인 연동을 통합한 것이 핵심이다.오픈AI는 23일(현지시간) 최신 버전의 챗GPT 모바일 앱과 웹사이트에서 음성 모드에 플러그인 지원을 추가하고, '챗GPT 워크'에"
   },
   {
+    "id": "b9d79fe9fa571a9c",
+    "title": "GitHub, 3주가 지나도록 악성 모방 소프트웨어를 삭제하지 않음",
+    "link": "https://news.hada.io/topic?id=34238",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T19:37:21.000Z",
+    "snippet": "Easy Data Transform의 제품명과 로고를 무단 사용한 모방 소프트웨어가 GitHub에 올라왔으며, 신고 후 23일 동안 최초 자동 응답 외에 지원팀의 답변이 없었음 저장소의 Mac용.dmg 파일을 VirusTotal로 검사한 결과, 다수의 악성코드 경고가 나타..."
+  },
+  {
+    "id": "554eebb63153e01c",
+    "title": "주가상승 13%에 배당 10% … 파이어족 갈아타는 ‘혜자 GPIQ’ 뭐길래",
+    "link": "https://www.mk.co.kr/news/economy/12159601",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T19:30:00.000Z",
+    "snippet": "좀더 안정적 배당으로…커버드콜 갈아타기 유행중김모씨(47)는 ‘JP모건 나스닥 주식 프리미엄 인컴 ETF’(JEPQ)를 1년 넘게 보유하다가 최근 전량 매도했다. 1년전 유튜브에서.."
+  },
+  {
     "id": "02fabd32ac27d9d3",
     "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215634",
@@ -78,6 +98,46 @@
     "category": "AI",
     "publishedAt": "2026-09-24T18:54:04.000Z",
     "snippet": "구글이 자연어 프롬프트만으로 새로운 음성을 설계하고 대사별 연기와 억양까지 세밀하게 조절할 수 있는 텍스트 음성 변환(TTS) 모델 2종을 출시했다. 기존의 고정된 음성 선택 방식에서 벗어나 게임, 오디오북, 팟캐스트, 더빙, 음성 에이전트 등 다양한 분야에서 맞춤형 음성을 제작할 수 있도록 한 것이 특징이다.구글은 23일(현지시간) 제미나이 오디오 제품군에 '제미나이 3.8 플래시 TTS'와 '제미나이 3.8 플래시-라이트 "
+  },
+  {
+    "id": "d84621ff3ecc78fb",
+    "title": "영국군, 자국 방어 위해 다른 나라 위성 전파 방해 중이라고 BBC에 밝혀",
+    "link": "https://news.hada.io/topic?id=34237",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T18:44:14.000Z",
+    "snippet": "영국 공군(RAF) 이 적대적 위협에 대응하기 위해 지난 1년간 지상 기반 시스템으로 다른 나라 위성의 전파를 방해하거나 차단해 왔으며, 국방 소식통은 이를 이미 적대국 억제에 사용했다고 밝힘 이 시스템은 적대국 위성이 영국의 핵무장 잠수함 이동이나 특수부대..."
+  },
+  {
+    "id": "86e352d944173a11",
+    "title": "Windows 스크롤 바 단축 조작의 간략한 역사",
+    "link": "https://news.hada.io/topic?id=34236",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T18:41:14.000Z",
+    "snippet": "Windows 스크롤 바에는 줄/페이지 단위 이동과 드래그 외에도, 원하는 위치로 바로 이동하는 “Scroll Here” 메뉴와 Shift+클릭이 있음 “Scroll Here”는 이동하려는 지점을 우클릭한 뒤 선택하는 기능으로, 스크롤 손잡이를 잡아 먼 거리까지 ..."
+  },
+  {
+    "id": "20425f770bb27dda",
+    "title": "모든 샌드위치를 즐기세요",
+    "link": "https://news.hada.io/topic?id=34235",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T18:38:14.000Z",
+    "snippet": "말기 암을 앓던 Warren Zevon은 2002년 David Letterman의 방송에서 삶과 죽음에 관해 새롭게 알게 된 것이 있느냐는 질문에, “모든 샌드위치를 즐기는 것”의 소중함으로 답함 Zevon에게는 매 순간이 이전보다 귀해졌으며, 샌드위치를 먹고 동료들과 연주하고 아..."
+  },
+  {
+    "id": "a09909ffdb688fe7",
+    "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-09-24T18:30:00.000Z",
+    "snippet": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act"
   },
   {
     "id": "9e01652196d0dcbd",
@@ -100,6 +160,126 @@
     "snippet": "이미지 생성으로 유명한 블랙 포레스트 랩스(BFL)가 로봇 분야로 영역을 확대했다. 경쟁 모델 절반 수준의 크기로 세계 최고 수준의 제어 성능을 달성한 로봇 AI를 공개하며 피지컬 AI 시장에 도전장을 던졌다.BFL은 22일(현지시간) 카메라 영상과 로봇의 현재 상태, 자연어 지시를 분석해 실제 물리적 행동으로 전환하는 70억 매개변수 규모의 오픈웨이트 로봇 모델 '플럭스 3 액션(FLUX 3 Action)'을 공개했다.공개 "
   },
   {
+    "id": "b4f434fffec0489e",
+    "title": "최신 ESP32, Linux를 실행하며 Raspberry Pi에 가까워지고 있음",
+    "link": "https://news.hada.io/topic?id=34234",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T17:40:14.000Z",
+    "snippet": "센서와 기기를 제어하는 데 쓰이는 ESP32 마이크로컨트롤러가 Linux와 다양한 주변장치를 지원하면서, 소형 컴퓨터로 활용할 수 있는 범위를 넓히고 있음 Espressif의 ESP32-S31은 기가비트 Ethernet, USB 호스트, 카메라와 디스플레이 인터페이스를 갖춰 화면과 키..."
+  },
+  {
+    "id": "40b76c813ce279d3",
+    "title": "Nokia 디자인 아카이브(2025)",
+    "link": "https://news.hada.io/topic?id=34233",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T17:37:14.000Z",
+    "snippet": "Nokia Design Archive는 Nokia Mobile Phones와 Microsoft Mobile에서 수행한 디자인 작업 관련 자료를 모은 컬렉션임 자료의 시간 범위는 1990년 1월 1일부터 2020년 12월 31일까지이며, 영어와 핀란드어 자료가 있음 실물과 재료 샘플..."
+  },
+  {
+    "id": "0d9614863279d1d5",
+    "title": "Show GN: TODO Flow — 선택한 TODO를 코딩 에이전트의 병렬 작업·검증·리뷰로 연결하는 오픈소스",
+    "link": "https://news.hada.io/topic?id=34232",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T17:11:12.000Z",
+    "snippet": "안녕하세요. Claude 또는 Codex CLI로 여러 개발 작업을 진행할 때, 작업 상태와 검증 근거를 대화 세션 밖에 남기고 관리할 수 있는 TODO Flow를 만들었습니다. 작업 계획을 등록하고 실행할 TODO를 선택하면, 각 작업을 별도의 Git worktree에서 진행합니다. 로컬 대시보드에서는 진행 중인 작업, 담당 에이"
+  },
+  {
+    "id": "0472a3c613f4072d",
+    "title": "삼성 스마트 냉장고, 업데이트 후 먹통돼 보관하던 음식까지 폐기",
+    "link": "https://news.hada.io/topic?id=34231",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T16:41:30.000Z",
+    "snippet": "삼성 비스포크 AI 냉장고 일부가 펌웨어 업데이트 후 냉장/냉동 기능을 멈춰, 보관하던 음식을 버렸다는 피해 신고가 이어짐 SmartThings 업데이트 직후 전원이 꺼지거나 화면이 멈추고 앱에서는 오프라인으로 표시됐으며, 피해 제품은 주로 2024년 이후 출시된 4도어 모델..."
+  },
+  {
+    "id": "7c97e3487ae42bdd",
+    "title": "F-Droid 2.0 발표, 10년 만의 대규모 개편",
+    "link": "https://news.hada.io/topic?id=34230",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T16:38:29.000Z",
+    "snippet": "자유/오픈소스 안드로이드 앱을 찾아 설치하는 F-Droid가 공식 앱을 전면 재설계하고, 14차례 테스트를 거쳐 앞으로 수주간 순차 배포함 화면을 앱 발견, 검색, 내 앱 관리 중심으로 정리하고, 신규 앱과 최근 업데이트뿐 아니라 많이 다운로드된 앱도 쉽게 찾도록..."
+  },
+  {
+    "id": "ae0100581b447588",
+    "title": "영국의 이원화된 암호화 보호, 같은 Apple 기기에도 다른 보호 수준",
+    "link": "https://news.hada.io/topic?id=34229",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T15:36:57.000Z",
+    "snippet": "영국에서는 Advanced Data Protection(ADP) 을 2025년 2월 신규 활성화 중단 전에 켰는지에 따라, 같은 기기와 iCloud 서비스를 사용하는 고객도 서로 다른 수준의 데이터 보호를 받음 영국 정부는 Apple에 ADP로 암호화된 데이터에 접근할 기술적 능력을 요구한 것..."
+  },
+  {
+    "id": "74d2ed6f7c4de6f1",
+    "title": "2026년 9월 25일 호치민시 날씨 예보: 흐리고, 보통 수준의 비와 천둥번개가 예상되며, 일부 지역에서는 강한 비 또는 매우 강한 비가 내릴 수 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEZtSFdnNTkzOVlSVnNUbjI2dTRlTHhWdWcxaGYxRnhmYXpmYzRqT25MOGFRMWpocU1UWkc5d0hhVUhySk9nNUljRTNHdUtRdUM2bnpDZ2pmTE0zeDRlaXRXYkZxU3A0eUlCcEh0UFZPSnlPQXV5Sk5YYlBnVHkybER2MHUyZE55T05CLU9XZzBhbHZpLWtNTTJXQldQWFVlNkplck40WWJEWEJPMDBEcDU5SXhlNXJjX3lTQVdyVkc1RWZ5U3JtMFJYeUtsQQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-24T15:34:46.000Z",
+    "snippet": "2026년 9월 25일 호치민시 날씨 예보: 흐리고, 보통 수준의 비와 천둥번개가 예상되며, 일부 지역에서는 강한 비 또는 매우 강한 비가 내릴 수 있습니다. Vietnam.vn"
+  },
+  {
+    "id": "54a7457533d1a0ae",
+    "title": "\"오라클,뉴멕시코 데이터센터 '불가항력'선언\" [블룸버그]",
+    "link": "https://www.hankyung.com/article/202609245339i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T15:11:32.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4369d45eef224b5a",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-09-24T15:00:00.000Z",
+    "snippet": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank"
+  },
+  {
+    "id": "107705dcf325d054",
+    "title": "9월 24일 밤부터 10월 4일까지 전국 10일간의 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWkzSmd0TFZaUHNXX3FHdGFGZ1lzMVhPTFQtVWNRM1pZNWhFbXlmbmk1UG1HQlctNWRhRjdGcE5ZVlRBaGlOWEp4SEVqVG8zMVAwRWZydHd0UUJNNnBTaDNrUFloRG9TbE9PR2Q5NUpZRDI0VUx6R1pNYVZSQm1XVXgyaFVZUk9fM2NxVld2XzctRlRZYnBPdlJsMTFhMV9DR0N4RG1ZVVc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-24T15:00:00.000Z",
+    "snippet": "9월 24일 밤부터 10월 4일까지 전국 10일간의 날씨 예보 Laodong.vn"
+  },
+  {
+    "id": "6a8096c907364675",
+    "title": "도수치료 막히니 ‘이 치료’에 환자 북적…실손보험 적자 줄인다더니, 효과는",
+    "link": "https://www.mk.co.kr/news/economy/12161157",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T14:42:05.000Z",
+    "snippet": "도수치료, 지난 7월 관리급여화 전환 횟수 제한·선행 물리치료 조건 생겨 신장분사치료 등 유사한 치료 증가# 최근 어깨가 아파 병원을 찾은 A씨는 주사를 맞고 물리치료를 받았다. .."
+  },
+  {
+    "id": "c05ca104e2d9803e",
+    "title": "OpenAI 에이전트가 호주 정부 웹사이트를 해킹했다고 호주 총리가 밝힘",
+    "link": "https://news.hada.io/topic?id=34228",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-24T14:35:12.000Z",
+    "snippet": "자율형 OpenAI 에이전트가 호주 공공의료보험 Medicare의 통계 포털에 침입함. OpenAI는 환자 데이터에 접근한 기록을 찾지 못했다고 밝힘 침입은 6월 18일 발생했지만 OpenAI는 8월에 잠재적 침해를 인지하고 9월 10일 정부에 통보함. Anthony Albanese 총리는"
+  },
+  {
     "id": "190e9d6b2b4b7d8a",
     "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전'도 선보여",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215642",
@@ -108,6 +288,16 @@
     "category": "AI",
     "publishedAt": "2026-09-24T14:13:03.000Z",
     "snippet": "메타가 연례 행사 '커넥트 2026'에서 개인용 AI 에이전트 '뮤즈(Muse)'의 지원 범위를 AI 안경으로 확대하고, 새로운 안경 제품군을 공개했다.23일(현지시간) 캘리포니아 멘로파크의 본사에서 열린 행사를 통해 공개된 뮤즈 탑재 AI 안경은 스마트폰을 확인하지 않고도 스포츠 경기 결과나 주변 맛집 등의 정보를 확인하고 실시간 대화 번역을 이용할 수 있도록 지원한다.사용자의 목표와 일정을 바탕으로 한 개인화 기능도 제공할"
+  },
+  {
+    "id": "f82df8b04454f009",
+    "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급",
+    "link": "https://www.hankyung.com/article/202609245306i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-24T14:12:32.000Z",
+    "snippet": ""
   },
   {
     "id": "19501c80c8c6ea87",
@@ -180,6 +370,16 @@
     "snippet": "졸음운전과 안전거리 미확보 등 원인 중앙선 침범과 음주운전 사고도 증가 차량 점검·긴급출동 서비스 활용 가능보험업계는 추석 연휴 기간 졸음 운전 등으로 추돌사고가 늘어나는 만큼 사.."
   },
   {
+    "id": "4e7cd65f97061325",
+    "title": "함평군, 전남광주통합특별시 일기예보 및 날씨 - The Weather Channel | Weather.com - The Weather Channel",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yTTR4QkdRNjdweU5kNjF4dUR3VFR6NUF4YnRiX0xTV2J1bUpLOFcwbldmMTRlOGFWMWhmX0lCcGFDR2xKZXA4eC1JenFxQlNrSEVMS1c1X1p1N21NNDYxdzJ0VTJFQjdremR6UGdDU2s0Y00?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-24T12:47:44.000Z",
+    "snippet": "함평군, 전남광주통합특별시 일기예보 및 날씨 - The Weather Channel | Weather.com The Weather Channel"
+  },
+  {
     "id": "4a3f93719c5571b8",
     "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215637",
@@ -238,6 +438,16 @@
     "category": "AI",
     "publishedAt": "2026-09-24T11:20:00.000Z",
     "snippet": "“모든 비즈니스와 의사결정에는 유의미한 데이터가 필요합니다. 하지만 기존 시장 조사는 비싼 비용과 긴 시간, 엄격한 개인정보 규제 때문에 실무자가 원하는 데이터에 즉시 접근하기 어려웠습니다. 오픈서베이는 AI 기술로 이러한 데이터 장벽을 낮추고, 누구나 손쉽게 데이터에 접근할 수 있도록 돕고 있습니다.”이건노 오픈서베이 최고 기술책임자(CTO)는 최근 선보인 '합성 소비자' 솔루션을 설명하며 이같이 강조했다.그는 “내가 생각한"
+  },
+  {
+    "id": "4d2e96a66780a034",
+    "title": "Zemen 공기질 지수 (AQI) 및 불가리아 공해 | IQAir 대한민국 - IQAir",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xV0FYQ1JpSmU4RTlRNTdHNmtDVTIwMF9YeGcwb3U1aWFGS3lNUmJ3QjBYSllFT21YMXg3SzZWYUIyTTFVbFc5bjNOUGktZlQxM0dncDB2VWR2Z2FlZFdKV1hjUjI1N3pmelE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-24T11:19:14.000Z",
+    "snippet": "Zemen 공기질 지수 (AQI) 및 불가리아 공해 | IQAir 대한민국 IQAir"
   },
   {
     "id": "d956bf05d10221ca",

@@ -1,5 +1,15 @@
 [
   {
+    "id": "e6ff5d3e16a8ed72",
+    "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T07:23:18.000Z",
+    "snippet": "마이크로소프트(MS)가 '코파일럿(Copilot)'의 전면 개편을 단행하며 챗봇 중심 시장에서 자율형 에이전트 플랫폼으로의 전환을 선언했다. 단순한 대화형 AI 서비스에서 벗어나 오피스 소프트웨어와 코드 생성, 상시 가동형 에이전트를 하나로 묶은 슈퍼 앱으로 서비스로 재편해 비즈니스 AI 시장의 주도권을 굳히겠다는 전략이다. 사티아 나델라 MS CEO는 25일(현지시간) 새로운 코파일럿을 공개하며 발표에서 \"모든 에이전트는 고"
+  },
+  {
     "id": "df8b144fb3fca108",
     "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
@@ -8,6 +18,16 @@
     "category": "AI",
     "publishedAt": "2026-09-25T23:18:42.000Z",
     "snippet": "미국 백악관이 오픈AI와 앤트로픽 등 자국 AI 기업에 미국 정부의 검증절차가 완료될 때까지 신규 모델을 영국 AI안보연구소(AISI) 등 해외 기관에 제공하지 말라고 요청했다.폴리티코는 24일(현지시간) 정통한 소식통과 미국 행정부 고위 관계자를 인용, 미국 국가사이버국(NCC)의 요청으로 이같은 압박이 이뤄졌다고 보도했다.관계자에 따르면, 이번 조치는 미국 기업이 개발한 최첨단 AI 모델의 보안성을 자국 시스템에서 먼저 검"
+  },
+  {
+    "id": "e57ae347b9923100",
+    "title": "Have you heard? Saying sayonara to the PewDiePie vlog and taking “go back to Africa” literally.",
+    "link": "https://www.tubefilter.com/2026/09/25/have-you-heard-pewdiepie-vlog-abdirahman-keinaan/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-25T22:44:25.000Z",
+    "snippet": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, a YouTube legend is ending a chapter of his career, two others are thinking about"
   },
   {
     "id": "1536aa8cc478dfde",
@@ -20,6 +40,46 @@
     "snippet": "젠슨 황 엔비디아 CEO가 통제 불가능한 AI 연구소는 규제를 넘어 폐쇄해야 한다는 파격적인 발언을 내놓았다. AI 위험성에 대한 경고가 잇따르는 가운데 브래드 스미스 마이크로소프트(MS) 사장과 피터 틸 팔란티어 공동 창립자 등 주요 기술 리더들도 기술 통제와 책임론을 두고 각자 다른 시각을 드러냈다.황 CEO는 23일(현지시간) 뉴욕타임스(NYT)의 팟캐스트 '에즈라 클라인 쇼'에 출연, 안전 검증이 불가능한 프런티어 AI"
   },
   {
+    "id": "62209a9d79a9d2a1",
+    "title": "[오늘의 북한 날씨] 북부지역 비...백두산 0도 예상 - spnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xNGlpQVVBdGRxLTJLM2lDTUcyUDhaSDJSWmxZaW9xQi1oTk1pS09RelJ6SXJwY0JRU3BJZGU2b0dWMkNERzNXU2haa2RqemYwOW5CNXdNTEhzWkxqT2VfeXgyZk1tZHIwdzhz?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T22:30:23.000Z",
+    "snippet": "[오늘의 북한 날씨] 북부지역 비...백두산 0도 예상 spnews.co.kr"
+  },
+  {
+    "id": "8fe36f5108a62b25",
+    "title": "美 PCE 물가 0.2%P 낮아진다…통화정책 경로에 미칠 영향은 [심성미의 중앙은행 워치]",
+    "link": "https://www.hankyung.com/article/202609256104i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T22:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "18d71a39259e41cb",
+    "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609232798i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T22:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4fc87286ecf7991d",
+    "title": "'아재들의 섬' 여의도 옛말…이제 '그녀들'이 지갑을 연다 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202609233846i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T22:00:01.000Z",
+    "snippet": ""
+  },
+  {
     "id": "b64a347b4e111214",
     "title": "오픈AI, GPT-6 ‘프롬프트 캐싱’ 강화…“비용 90% 절감·속도 향상”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215652",
@@ -28,6 +88,16 @@
     "category": "AI",
     "publishedAt": "2026-09-25T21:45:44.000Z",
     "snippet": "오픈AI가 'GPT-6' 제품군을 장시간 작동하는 AI 에이전트 환경에서 효율적으로 구동할 수 있도록 '프롬프트 캐싱' 기능을 대폭 강화했다.오픈AI는 22일(현지시간) GPT‑6 제품군과 함께 기본 캐시 적중률을 높인 향상된 프롬프트 캐싱 시스템을 출시했다.코드베이스 리팩터링이나 대규모 조사, 문서·프레젠테이션 제작처럼 수 시간에 걸쳐 여러 차례 API 요청이 이어지는 작업에서 반복되는 컨텍스트를 재사용해 응답 속도와 비용 "
+  },
+  {
+    "id": "8eff7356b0d1d440",
+    "title": "지난해 음주 진료비 첫 4조원대…흡연은 2024년 이후 지속 상승",
+    "link": "https://www.mk.co.kr/news/economy/12161539",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T21:38:59.000Z",
+    "snippet": "지난해 음주·흡연으로 인한 진료비가 8조5000억원에 이르는 등 최근 5개년간 37조원 넘게 소요된 것으로 나타났다. 26일 국회 보건복지위원회 소속 더불어민주당 남인순 의원이 국.."
   },
   {
     "id": "0b739712f1661e90",
@@ -40,6 +110,56 @@
     "snippet": "전방 배치 엔지니어(FDE)의 채용이 1년 사이 급증하며, 직무 관련 지식과 현장 경험에 대한 교육 수요도 빠르게 증가하는 것으로 나타났다. 교육 전문 데이원컴퍼니(대표 신해동, 김동혁)는 기업 AX 전 과정을 지원하는 ‘데이원 AI 디플로이먼트 컴퍼니(DAY1 AI Deployment Company)’ 사업의 인재 양성 프로그램으로 ‘FDE 아카데미’를 신설했다고 25일 밝혔다. FDE는 기존 소프트웨어 엔지니어와 달리 고객"
   },
   {
+    "id": "21929dcfe7deac0b",
+    "title": "Ollaya - 오픈소스 Jev 스타일 의사결정 모델을 위한 Ollama",
+    "link": "https://news.hada.io/topic?id=34288",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-25T21:32:54.000Z",
+    "snippet": "Ollaya는 텍스트나 JSON에 타입이 지정된 질문을 하고, 보정된 답을 로컬 하드웨어에서 얻는 오픈소스 의사결정 모델 실행 도구임 토큰을 순차 생성하지 않고 한 번의 순전파로 답하며, RTX 4090에서 Laya로 질문 5개를 처리하는 HTTP API 요청의 전체 소요 시간은..."
+  },
+  {
+    "id": "cb44acbb4172a91e",
+    "title": "YouTube CEO Neal Mohan shrugs off Meta’s attempt to persuade rivals to add safety features",
+    "link": "https://www.tubefilter.com/2026/09/25/youtube-ceo-neal-mohan-denies-meta-request-safety/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-25T21:26:28.000Z",
+    "snippet": "Neal Mohan has had a busy week. On Wednesday, the YouTube CEO led his company as it presented new products and features at its annual Made On event. Then, after he stepped off the stage, Mohan delivered another announcement: He told CNN tha"
+  },
+  {
+    "id": "78c19b52d53fd67f",
+    "title": "'차 한 대 값' 컴퓨터 뜯던 소년…30년 넘게 '코딩' 못놓는 이유 [권용훈의 직업불만족(族)]",
+    "link": "https://www.hankyung.com/article/202607045653i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T21:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4c3d20782cbdb6c2",
+    "title": "Oracle, 데이터센터에 전력이 공급되지 않아도 투자자에게 대금 지급 의무",
+    "link": "https://news.hada.io/topic?id=34287",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-25T20:43:27.000Z",
+    "snippet": "Oracle, 데이터센터에 전력이 공급되지 않아도 투자자에게 대금 지급 의무"
+  },
+  {
+    "id": "872702da6d0b95ae",
+    "title": "시험",
+    "link": "https://news.hada.io/topic?id=34286",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-25T20:40:27.000Z",
+    "snippet": "기술 업계 거물들의 터무니없는 발언은, 의도적으로 설계하지 않았더라도 주변 사람이 어디까지 받아들이는지 가르는 복종의 시험으로 작동함 Jensen Huang은 아이들이 기초 수학을 잊는 것이 중요하지 않다고 답하고, 자신의 주소와 전화번호를 몰라도 생활할 수 ..."
+  },
+  {
     "id": "063eabecad481b15",
     "title": "오픈AI, 신규 개발자 플랫폼·요금제 준비...앱 개발 전 과정 지원",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215650",
@@ -48,6 +168,46 @@
     "category": "AI",
     "publishedAt": "2026-09-25T20:38:20.000Z",
     "snippet": "오픈AI가 개발자 생태계 확장을 위한 플랫폼 개편에 나선 것으로 알려졌다. 단순히 AI 모델을 API로 제공하는 것을 넘어, 아이디어 구상부터 프로토타입 제작, 실제 서비스 운영까지 애플리케이션 개발 전 과정을 지원하는 방향으로 플랫폼의 역할을 확대하려는 움직임이다.23일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 개발자 API 플랫폼의 새로운 온보딩 절차를 준비 중이다. 여기에는 '오픈AI 플랫폼(OpenAI Platfo"
+  },
+  {
+    "id": "fa3366091e725d16",
+    "title": "제1원리 사고",
+    "link": "https://news.hada.io/topic?id=34285",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-25T20:37:27.000Z",
+    "snippet": "축적한 경험은 변화한 환경에서 다른 접근을 어렵게 만들 수 있으며, 제1원리 사고는 기존 답보다 지금 해결하려는 문제와 목적에서 출발함 막혔을 때는 결과에만 집중하기보다 실행 가능한 가장 작은 일을 끝내며 추진력을 얻는 것이 다음 행동을 찾는 데 도움이 ..."
+  },
+  {
+    "id": "967f31dc3abf8994",
+    "title": "What do YouTube’s eating disorder rules mean for the future of mukbang content?",
+    "link": "https://www.tubefilter.com/2026/09/25/mukbang-youtube-disordered-eating-rules-tsuyang/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-25T20:34:33.000Z",
+    "snippet": "For over a decade, mukbang streams have been one of the internet's greatest curiosities. In 2026, however, parents and tech companies are worried about imitable patterns of disordered eating within creator content, and those concerns are br"
+  },
+  {
+    "id": "6530a9a2e6044227",
+    "title": "너무 일찍 죽거나, 너무 늦게 죽거나 … 꼭 필요한 안전망",
+    "link": "https://www.mk.co.kr/news/economy/12160516",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T20:30:00.000Z",
+    "snippet": "⑭사회보험부터 생명·손해보험까지, 위험을 나누는 방법미히르 데사이(Mihir Desai)의 책 ‘금융의 모험(The Wisdom of Finance)’에 따르면 금융은 인간의 두 .."
+  },
+  {
+    "id": "5a0ccfacc36b1ea6",
+    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-09-25T20:30:00.000Z",
+    "snippet": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc."
   },
   {
     "id": "b79a097ffa9ea76f",
@@ -60,6 +220,16 @@
     "snippet": "구글과 오픈AI, 앤트로픽이 정부의 직접적인 감독 없이 최첨단 AI 모델의 안전 기준을 마련하는 업계 자율 규제기구 설립을 추진 중이다.24일(현지시간) 디 인포메이션에 따르면, 세 회사는 ‘프런티어 AI 표준기구(SAFA·Standards Authority for Frontier AI)’라는 가칭을 검토 중이며, 올해 말이나 2027년 초 출범을 목표로 하고 있다.SAFA는 최첨단 AI 모델 출시 전 제3자 안전성 평가를 지"
   },
   {
+    "id": "36ba233d96f704fb",
+    "title": "SourceHut 빌드 로그를 통한 계정 탈취 취약점, ansi2html의 XSS",
+    "link": "https://news.hada.io/topic?id=34284",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-25T19:55:00.000Z",
+    "snippet": "ansi2html의 XSS 취약점으로 빌드 로그에 악성 문자열을 삽입한 공격자가 해당 로그를 열람하는 SourceHut 사용자의 계정을 탈취할 수 있었음 공격자는 OSC 8 하이퍼링크 처리의 허점을 악용할 수 있었으며, CI가 활성화된 공개 메일링 리스트에 패치를 보내는 경로..."
+  },
+  {
     "id": "eddfb8ac158fe3b2",
     "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215649",
@@ -68,6 +238,86 @@
     "category": "AI",
     "publishedAt": "2026-09-25T19:53:13.000Z",
     "snippet": "앤트로픽이 안전장치를 우회해 AI 모델의 지식이나 능력을 복제하려는 ‘모델 증류 공격’에 대응하기 위해, 안전장치에 의해 차단된 일부 요청에도 요금을 부과하기로 했다. 대규모 반복 요청을 통한 증류 시도를 억제하기 위한 방어 조치다.앤트로픽은 24일(현지시간)부터 '클로드'가 응답하기 전에 안전장치에 의해 거부한 요청 가운데 주요 위험 정책 범주에 해당하는 질의에 대해 일반 요청과 동일한 방식으로 과금을 시작한다고 발표했다.최"
+  },
+  {
+    "id": "c96f0a6e0e4b6679",
+    "title": "Oracle, 논란의 데이터센터 사업에서 자사 보호 위해 ‘불가항력’ 사유 내세워",
+    "link": "https://news.hada.io/topic?id=34283",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-25T19:52:00.000Z",
+    "snippet": "Oracle이 뉴멕시코에 건설 중인 대규모 데이터센터에서 비용 부담이 쌓이는 것을 막기 위한 조치에 나섬 사정을 아는 관계자들에 따르면, 개발사인 Blue Owl Capital 계열사에 불가항력(force majeure) 사유를 명시한 통지를 보냄 대상인..."
+  },
+  {
+    "id": "2fd3806f8cf1df52",
+    "title": "HTTP에서 가장 보기 흉한 부분, Vary 지원을 출시하다",
+    "link": "https://news.hada.io/topic?id=34282",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-25T19:48:59.000Z",
+    "snippet": "Cloudflare가 모든 요금제의 Cache Rules에 Vary 지원을 추가함. 원본 서버가 응답에 영향을 주는 요청 헤더를 지정하고, 운영자는 각 헤더 값을 캐시에 어떻게 반영할지 결정함 Vary는 같은 URL의 서로 다른 응답을 구분하지만, 어떤 헤..."
+  },
+  {
+    "id": "7afb1a524bba04fe",
+    "title": "기밀 추산으로 드러난 NSA의 수십억 달러 규모 AI 모델 테스트 지출",
+    "link": "https://news.hada.io/topic?id=34281",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-25T19:45:59.000Z",
+    "snippet": "기밀 추산을 아는 소식통 2명에 따르면, NSA는 올해 첨단 AI 모델 평가와 테스트에 수십억 달러의 세금을 쓰고 있다고 의원들에게 알림 잇따른 해킹과 보안 사고 이후 NSA의 Artificial Intelligence Security Center가 최첨단 모델의 잠재적 국가..."
+  },
+  {
+    "id": "b4e770bbc16f5ba2",
+    "title": "[제주도 날씨예보] 최대 80㎜ 비…강풍·풍랑에 천둥·번개 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43TlhZYlNpbnNINmdjNHN2VzRUVHpreXpvWmJvZm5IMHNpZ1JfM0s0NWxRMzBGdDNVYjRTRmdsZUxWUmNzX3dYOVE3LXIxNDdQMFIwdGtCR1gyR1U3X1FGR1NKMzlXc1JDRTluSWNjRFTSAXRBVV95cUxQYTdIb3pBS2xPako1VURFZnpYbHdIZC1BYThobGItVVJGMFc4YWV6MHItUjBCRDAwWUtHVDR0MG43em56YlI3UE9UN2ZUcldLN05lbHl2OW1zWjdpUHEteF8yRm02V05rRlB1SnZuZ3FmNWZaQw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T19:45:00.000Z",
+    "snippet": "[제주도 날씨예보] 최대 80㎜ 비…강풍·풍랑에 천둥·번개 thefairnews.co.kr"
+  },
+  {
+    "id": "e54fe170d961788b",
+    "title": "[강원도 날씨예보] 새벽까지 비…오전부터 차차 맑아져 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jbXlYVGt3QzRxZ0t0OUVmMVpEUzlfTG9kbE1Hak02VmdKSnFabEdlektMWHVETFk3Q1BjNWpjNzVRZUk3ZjZxMjR1TXlXaWRzNkRuMV9Fem16U0NHUHJFYmpPY0p5aUYtQWJoZzVMUFXSAXRBVV95cUxPSlpLMmY0TmdXend5NmdFTkNBbWdvbVRTLUd6R2FQaUpxTG5RRnpzMm9aUmdPUzBDUGx2ajZmSEVsSi1TemNvbndqWWw4ek5VVFliWGMwa2F6OTlEeFJhaFVfdTdMeXUxTDJaUXV2MUNmTkp5QQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T19:45:00.000Z",
+    "snippet": "[강원도 날씨예보] 새벽까지 비…오전부터 차차 맑아져 thefairnews.co.kr"
+  },
+  {
+    "id": "92cbf73fba2207bc",
+    "title": "[충북 날씨예보] 새벽까지 비…오전부터 차차 맑아져 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UU1JUQ2ltRDd0UzV6SWE4U2NSMjA5T3Q2YVFZMnROZ2Y1TlBlM2FOVERoclNSWEdBZHlhTkpXSm9NRi1vVWFvZ2ViWDVQNmFQVFNmMFZyOER4a21KeklQUm1VcnJ3alZJdHYzZUNac0HSAXRBVV95cUxQN3M4alVQckh0RnItTDZwcmpKRFhVOXBlS0QzZ09WZzA0aUF4YkMybWgyRHV6RnFBWkdIZzdzdHM1OUp6d24zdXZTa1dENkhzUTlVbFhvVVdaZnNrdVlzc3JDdzRoYzlXaUItTmhoMk9udVo0Vg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T19:40:00.000Z",
+    "snippet": "[충북 날씨예보] 새벽까지 비…오전부터 차차 맑아져 thefairnews.co.kr"
+  },
+  {
+    "id": "6f1e7ddbe506d379",
+    "title": "[충남권 날씨예보] 늦은 새벽까지 비…낮부터 차차 맑아져 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VNlNZZk9LM3Npdm9pcEs4eDNiaEpMME1jYmUzV0hjLVNLRmtyREo5NFlJUTRmbHFJZHJhanlNdklJZzdYbkswdkl5Q2ZZTEVaaFU3Y3lVRVhxWk1XSFVqWlRhWkxEUGp4ZzlDMHZDdU7SAXRBVV95cUxNTFFYN1FDSWh4eTdYSlJ1cjl3UElHZUdfRmViTVFWbDZxYWVaOWhoZ2Z6Z2ZYX2c3UWJyemNzZHpWV29DbUY2ekFxUWdKTFJsOFJCclhQYjZ1RG93UzdZa1NaNjkyUWxWRlhvX3pJVnBMaUxxOQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T19:35:00.000Z",
+    "snippet": "[충남권 날씨예보] 늦은 새벽까지 비…낮부터 차차 맑아져 thefairnews.co.kr"
+  },
+  {
+    "id": "92d7f1c736fe618e",
+    "title": "[전북 날씨예보] 오전까지 비…최대 40㎜·서해 먼바다 높은 물결 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5maHRPWXV4S0h1TkhLd25UNW9sbVE4czNDdWE5eDFlNDV6VlhSQy0yWF9NM2o0dVRzajBaVGZ2enItRFl4TEg5X3F5M1lPakkzX3I3NTZIaEtESmpGNVZmLTZUem9wSDhpZzNQZ2l6Q2rSAXRBVV95cUxQTXdjWWMwczJIU1JxZEJWOGkzbFFBdklraWQ4RUdmUnZkZzZjbjhlaFRhQVhRaGs2c3FpaGZhYnUxMWFyalBhYm9IQUh6SFhIdGVUZms2bUI0TGQ1QmNzTFN6dk1xV2wtWTdqa25DSllmVkV5eA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T19:30:00.000Z",
+    "snippet": "[전북 날씨예보] 오전까지 비…최대 40㎜·서해 먼바다 높은 물결 thefairnews.co.kr"
   },
   {
     "id": "9120fc47f5fa9dad",
@@ -3660,6 +3910,16 @@
     "snippet": "구글의 ‘제미나이’가 보안 테스트 과정에서 실제 기업 3곳의 시스템에 침입한 사실이 뒤늦게 알려졌습니다. 그런데 이 소식이 전해진 뒤 X와 레딧에서는 의외의 반응이 나왔습니다. “구글이 돌아왔다”라거나 “제미나이도 파티에 합류했다”는 식의 환영이었습니다.제미나이는 지난 5월 AI 보안업체 이레귤러(Irregular)가 진행한 사이버보안 평가에서 가상의 기업을 공격하는 테스트를 수행하다 실제 기업 3곳의 시스템에 접근했습니다. "
   },
   {
+    "id": "acdfae3d043dc1f3",
+    "title": "오늘 밤과 내일(2026년 9월 23일) 날씨 예보: 북부 지역은 맑음, 남부 지역은 폭우와 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbkF1ZWVuSFdfODRuMmxNcUNrMHVyaDF4Tjl1cW14eklRb0FXYXMyNEhJZmJIbXJJMURGdGUzakhlLTFrVnQ1T3ZvUUZoM0FlNWFfT0c0Qm1zQjZ1eDJfWDRGVnlhRFIyMXlWWFZEMEpvaVJTZFNQYnQyamRJZ25jd0hRa3ZqVHdLb01LOVYzNE1MX0VNMkYxQy01VlNLOTlfTUhXVDdfem52TC1VX3c?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-23T07:00:00.000Z",
+    "snippet": "오늘 밤과 내일(2026년 9월 23일) 날씨 예보: 북부 지역은 맑음, 남부 지역은 폭우와 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
     "id": "9531137e84ba1332",
     "title": "GTX-C 사업 3.8兆 조달…2031년 개통",
     "link": "https://www.hankyung.com/article/2026092339311",
@@ -5798,16 +6058,6 @@
     "category": "개발",
     "publishedAt": "2026-09-22T09:35:29.000Z",
     "snippet": "dlab은 로컬 추론, 에이전트 하네스, 자율 연구 시스템을 하나의 생태계로 묶어 공개할 예정. 소수의 연구자와 GPU만으로 최첨단 연구소와 경쟁할 수 있는 시스템을 만드는 것이 목표 자체 추론 프레임워크는 125B 모델을 단일 24GB GPU에서 실행하고, 128GB 메모리..."
-  },
-  {
-    "id": "acdfae3d043dc1f3",
-    "title": "오늘 밤과 내일(2026년 9월 23일) 날씨 예보: 북부 지역은 맑음, 남부 지역은 폭우와 천둥번개가 예상됩니다. - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbkF1ZWVuSFdfODRuMmxNcUNrMHVyaDF4Tjl1cW14eklRb0FXYXMyNEhJZmJIbXJJMURGdGUzakhlLTFrVnQ1T3ZvUUZoM0FlNWFfT0c0Qm1zQjZ1eDJfWDRGVnlhRFIyMXlWWFZEMEpvaVJTZFNQYnQyamRJZ25jd0hRa3ZqVHdLb01LOVYzNE1MX0VNMkYxQy01VlNLOTlfTUhXVDdfem52TC1VX3c?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-22T09:33:43.000Z",
-    "snippet": "오늘 밤과 내일(2026년 9월 23일) 날씨 예보: 북부 지역은 맑음, 남부 지역은 폭우와 천둥번개가 예상됩니다. vietnam.vn"
   },
   {
     "id": "8fb032906939eeaa",

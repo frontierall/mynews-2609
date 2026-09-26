@@ -1,5 +1,55 @@
 [
   {
+    "id": "5f88cbe7c8a87035",
+    "title": "비전 모델을 포함한 LLM용 단일 함수 Jev 스타일 래퍼",
+    "link": "https://news.hada.io/topic?id=34327",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T16:49:52.000Z",
+    "snippet": "LLM에 선택지를 문자로 제시하고 토큰 로그 확률을 읽어, 분류 결과와 참일 확률, 순서형 점수를 반환하는 단일 Python 함수 score()를 구현함 긴 답변 대신 선택지 문자 하나를 생성하도록 요청해 출력 시간을 줄임. 입력 처리 비용은 남지만, 백엔드..."
+  },
+  {
+    "id": "e8752e3546af28f7",
+    "title": "연방 판사, 텍사스에 2029년 말까지 모든 교도소 냉방 설치 명령",
+    "link": "https://news.hada.io/topic?id=34326",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T16:46:52.000Z",
+    "snippet": "연방 지방법원은 텍사스의 냉방 없는 교도소 환경이 잔혹하고 비정상적인 형벌을 금지하는 수정헌법 제8조를 위반한다며, 2029년 12월 31일까지 모든 주립 교도소에 냉방을 설치하도록 명령함 텍사스 형사사법국(TDCJ) 산하 104개 시설 중 전체 냉방을 갖춘 곳은 9월 1일 기준"
+  },
+  {
+    "id": "68c2940a568cbeed",
+    "title": "알파 너드들의 보드게임 (2014)",
+    "link": "https://news.hada.io/topic?id=34325",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T16:43:52.000Z",
+    "snippet": "Diplomacy는 주사위나 카드의 운 대신, 다른 사람을 설득해 협력하게 만드는 협상이 승패를 좌우하는 7인용 전략 보드게임임 모든 플레이어가 명령을 적어 동시에 실행하며, 그 전에 공개 또는 비공개로 협상함. 동맹이 필요하지만 약속을 지킬 의..."
+  },
+  {
+    "id": "c5bca8f6f7ce82af",
+    "title": "모든 패키지가 이미 설치되어 있다",
+    "link": "https://news.hada.io/topic?id=34324",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T16:02:28.000Z",
+    "snippet": "omnibin은 nixpkgs가 제공해 온 바이너리를 $PATH에서 바로 사용할 수 있게 하는 FUSE 파일시스템으로, 별도 설치나 빌드 없이 파일을 실제로 읽을 때 필요한 데이터를 가져옴 2013~2026년의 바이너리 881,933개를 포함하며, 기본 이름은 최신 패키지..."
+  },
+  {
+    "id": "c5d1bb37f13ebde5",
+    "title": "AI 없이 보낸 한 달",
+    "link": "https://news.hada.io/topic?id=34323",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T15:36:43.000Z",
+    "snippet": "업무에서 AI 코딩 에이전트에 구현과 테스트, 커밋까지 맡기던 개발자가 코드에 대한 통제력을 잃었다고 느껴 사용을 중단하고, 한 달 동안 직접 개발하는 방식으로 돌아옴 여러 에이전트를 병렬로 실행하자 코드 생성은 빨라졌지만, 검토 부담과 문맥 전환이 쌓여..."
+  },
+  {
     "id": "dab1146b98ce4d8c",
     "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215675",
@@ -10,6 +60,16 @@
     "snippet": "챗봇 기능을 빼고 속도와 비용 효율에 집중한 신형 AI 모델 '제브(Jev)'가 출시 일주일 만에 폭발적인 반응을 얻고 있다. 개발사인 타입세이프 AI(TypeSafe AI)의 기업 가치도 일주일 새 50배 치솟았다.24일(현지시간) 디 인포메이션에 따르면, 타입세이프 AI는 최근 투자자들과 10억달러(약 1조3590억원) 이상 규모의 신규 자금 조달을 위한 논의를 시작했다.지난주 비공개 모드에서 벗어나 제브를 처음 공개할 당"
   },
   {
+    "id": "c84c5d3da8a74fac",
+    "title": "9월 26일 밤부터 10월 6일까지 전국 10일간의 날씨 예보 - ko.laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUJvSnNrQVdaV0xWTGd0NXZCeDhBUEtHVlFkVTZPRGpTb2U0a3g5OFMzQVQ5Rng4RWdqeF9tWHltRWdvSC1mNUFnUjh6S3ljTXFmOVpqQjVJN3N3b04xcTJJSlkxLWN6S0JNNWszc3RIS1RCZWNGSTkyN0Jzci1YclFtWTRVTUlrbkk4SW9jTHcxVXJ5SHdUN09DVGNDRFlNbmhJRmhKQTk?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T14:59:00.000Z",
+    "snippet": "9월 26일 밤부터 10월 6일까지 전국 10일간의 날씨 예보 ko.laodong.vn"
+  },
+  {
     "id": "ff2e3b01deddf64e",
     "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215674",
@@ -18,6 +78,26 @@
     "category": "AI",
     "publishedAt": "2026-09-26T14:39:55.000Z",
     "snippet": "일론 머스크 CEO가 스페이스XAI의 대규모 AI 컴퓨팅 클러스터 ‘콜로서스 2’에 탑재되는 엔비디아 GPU를 연말까지 현재의 두 배 이상으로 늘리겠다는 계획을 밝혔다.머스크는 25일(현지시간) X를 통해 콜로서스 2에 현재 엔비디아 GB200 11만개와 GB300 44만개가 가동되고 있다고 밝혔다. 여기에 다음 주까지 GB300 22만개를 추가 가동하고, 11월에도 22만개를 더 투입할 계획이다.이어 “운이 좋다면(if we"
+  },
+  {
+    "id": "1ce5ffe70388edb2",
+    "title": "보즈 오브 카시오(Boards of Casio)",
+    "link": "https://news.hada.io/topic?id=34322",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T14:38:54.000Z",
+    "snippet": "웹 신시사이저 CZP-1에서 oliveoil22의 Casio CZ-101 패치 데이터를 불러와 Boards of Casio 사운드를 연주할 수 있음 패치는 JSON 뱅크 파일로 제공되며, 화면 건반이나 컴퓨터 키보드, MIDI로 연결한 외부 키보드로 연주 가능함 CZP-1에는 원본 패치의 ..."
+  },
+  {
+    "id": "058cb8805f514ddf",
+    "title": "15년 만에 돌아보는 Apple Cards의 탄생 이야기",
+    "link": "https://news.hada.io/topic?id=34321",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T14:35:53.000Z",
+    "snippet": "Apple Cards는 iPhone에서 사진과 메시지를 넣은 카드를 만들면 Apple이 인쇄와 우편 발송까지 맡는 서비스로, Steve Jobs의 아이디어에서 출발해 2011년 출시됨 100% 면지와 깊게 눌러 찍는 인쇄 방식을 고수하면서 제작 난도가 높아졌고, 사진 인쇄까지 완료하려..."
   },
   {
     "id": "931040be98f7838d",
@@ -3628,355 +3708,5 @@
     "category": "개발",
     "publishedAt": "2026-09-23T18:39:03.000Z",
     "snippet": "Hacker News의 정치적 편향은 단순한 이용자 성향 문제가 아니라, 운영 주체인 Y Combinator와 그 주변 인물들의 가치관 및 이해관계에 뿌리를 두고 있다는 비판을 받음 자동 관리와 신고 기능은 논쟁적인 주제의 노출을 줄이지만, 진보적 의견을 숨기는 데 주로 작..."
-  },
-  {
-    "id": "172c830f546e2d3e",
-    "title": "GPT-6 Astra가 자동차를 운전할 능력을 갖추게 됨",
-    "link": "https://news.hada.io/topic?id=34187",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-23T17:38:33.000Z",
-    "snippet": "DrivingBench는 최신 언어 모델에 실제 Toyota Corolla의 조향, 가속, 제동 제어권을 주고 고정된 콘 코스에서 주행 능력을 평가함 GPT-6 Astra는 첫 시도에서 진행률 49%를 기록한 뒤 두 번째 시도에서 5분 22초 만에 코스를 완주함 나..."
-  },
-  {
-    "id": "bafc95fd1c47c169",
-    "title": "Portobello 경찰서 시계 고치기",
-    "link": "https://news.hada.io/topic?id=34186",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-23T17:35:33.000Z",
-    "snippet": "지역 공동체가 매입한 옛 Portobello 경찰서 시계탑에서 시간 설정법을 찾아 시계를 맞추고, 타종 장치의 작동 방식도 파악함 시계는 모터와 기어로 세 개의 시계판을 구동하며, 기어의 걸쇠를 들어 올리자 축을 직접 돌려 시간을 맞출 수 있었음 개조된 ..."
-  },
-  {
-    "id": "36bfdabd49f5ef86",
-    "title": "앤드리슨 호로위츠, 대학 대안 'AI 아카데미' 출범...젊은 창업가 육성",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215596",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T16:55:48.000Z",
-    "snippet": "미국 벤처캐피털 앤드리슨 호로위츠(a16z)가 전통적인 대학 교육을 대체할 수 있는 새로운 AI 교육기관을 설립하고 젊은 AI 인재와 창업가 육성에 나선다. 대학 진학 대신 AI 제품을 직접 만들고 스타트업을 창업하려는 고등학교 졸업생과 대학 중퇴자 등이 주요 대상이다.앤드리슨 호로위츠는 22일(현지시간) ‘호로위츠 앤드리슨 아카데미(Horowitz Andreessen Academy)’를 설립한다고 밝혔다.아카데미는 샌프란시스"
-  },
-  {
-    "id": "fccc2658a90f77c0",
-    "title": "&quot;완벽주의라는 자기검열을 깨고 일단 빌드하라&quot; — 피터 신(Outsome CEO) 세션 요약",
-    "link": "https://news.hada.io/topic?id=34184",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-23T16:46:27.000Z",
-    "snippet": "성수에서 열린 [Bloom x Airwallex x Peter Shin] 세션을 듣고 정리한 스타트업 마인드셋 및 빌더의 실행 원칙에 대한 글입니다."
-  },
-  {
-    "id": "40ec9ca5283a9d0f",
-    "title": "세부 사항은 듣고 싶지 않습니다",
-    "link": "https://news.hada.io/topic?id=34183",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-23T16:38:09.000Z",
-    "snippet": "사고 뒤에는 원인을 납득하는 데서 멈추지 말고, 같은 유형의 실패를 줄이기 위해 무엇을 바꿀지 물어야 함 모두가 합리적으로 행동했다는 설명에 동의하면 변화의 긴급성이 사라질 수 있으며, 문제를 이해하는 것과 해결하는 것은 다름 담당자 부재, 출시..."
-  },
-  {
-    "id": "6fbd85ccc30912e4",
-    "title": "삼성, 소프트웨어 업데이트 실수로 스마트 냉장고 먹통",
-    "link": "https://news.hada.io/topic?id=34182",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-23T16:35:09.000Z",
-    "snippet": "삼성이 한국에서 일부 스마트 냉장고의 작동 중단 신고를 받은 뒤 SmartThings 업데이트 배포를 중단함 사용자들은 냉장고가 완전히 멈춰 음식이 상하는 피해를 보고했으며, 자동 문 열림 기능과 내부 조명 고장도 신고함 삼성은 업데이트 테스트..."
-  },
-  {
-    "id": "dd1b6bbcd21689fb",
-    "title": "텐센트, 고성능 'Hy 이미지 3.5' 출시...경쟁사 추격 기대감에 주가 급등",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215599",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T16:21:53.000Z",
-    "snippet": "텐센트가 주요 경쟁사인 알리바바의 대형 AI 행사 개막일에 맞춰 최신 이미지 생성 AI 모델을 공개하며 선두 추격에 속도를 냈다. 기술력 개선 기대감이 반영되며 이날 홍콩 증시에서 텐센트 주가는 7% 이상 급등했다.텐센트는 22일(현지시간) 고성능 이미지 생성 모델 ‘Hy 이미지 3.5(Hy Image 3.5)’를 공개했다. 이번 모델은 이전 버전인 ‘Hy 이미지 3.0’보다 전반적인 성능이 30% 향상된 것이 특징이다.특히 "
-  },
-  {
-    "id": "9d02eeb8cef10808",
-    "title": "Two years of OpenAI Academy",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "source": "OpenAI",
-    "sourceId": "openai",
-    "category": "AI",
-    "publishedAt": "2026-09-23T16:00:00.000Z",
-    "snippet": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
-  },
-  {
-    "id": "45a28f75206df3ec",
-    "title": "美10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
-    "link": "https://www.hankyung.com/article/202609244510i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-23T15:56:49.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "c5cd1b902c514799",
-    "title": "퀄컴, 차세대 온디바이스 AI 칩 공개…\"에이전트 중심 경험 전환\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215614",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T15:55:35.000Z",
-    "snippet": "퀄컴이 온디바이스 AI 기능을 강화한 차세대 프리미엄 안드로이드용 칩을 공개했다. 스마트폰 자체에서 AI 모델을 실행하고 사용자의 맥락을 이해하는 '에이전틱 AI' 기능을 앞세워 프리미엄 시장 공략에 나선다는 전략이다.퀄컴은 22일(현지시간) '스냅드래곤 8 엘리트 익스트림 젠 6(Snapdragon 8 Elite Extreme Gen 6) '과 '스냅드래곤 8 엘리트 젠 6(Snapdragon 8 Elite Gen 6)' 등"
-  },
-  {
-    "id": "e64da5f767dea3f3",
-    "title": "오픈AI, 모델 개발 초기부터 외부 안전성 검증 받는다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215615",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T15:40:26.000Z",
-    "snippet": "오픈AI가 AI 모델의 출시 직전뿐 아니라 학습과 평가 등 개발 초기 단계부터 외부 독립기관이 안전성을 점검할 수 있도록 평가 권한을 확대한다. AI 모델이 예상치 못한 방식으로 작동하거나 다른 시스템에 접근하는 사례가 잇따르면서 개발 과정 전반에 대한 독립적인 검증을 강화하려는 조치다.오픈AI는 22일(현지시간) AI 모델의 학습·평가·배포 과정에서 외부 기관이 기술적 안전성 평가를 수행하도록 할 계획이라고 밝혔다. 라마 아"
-  },
-  {
-    "id": "8ebfe1a4963124f0",
-    "title": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
-    "link": "https://news.hada.io/topic?id=34181",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-23T15:38:49.000Z",
-    "snippet": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단"
-  },
-  {
-    "id": "a0f3cdb3fd199488",
-    "title": "YouTube is using AI to tinker with everything — from thumbnails to homepages to entire videos",
-    "link": "https://www.tubefilter.com/2026/09/23/made-on-youtube-2026-ai-personalization-creator-tools/",
-    "source": "Tubefilter",
-    "sourceId": "tubefilter",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-23T15:38:48.000Z",
-    "snippet": "On September 23, YouTube held its annual Made On event in New York City. If you've tuned into previous editions of YouTube's product spiel, the headlines for the 2026 presentation may sound familiar. YouTube is bringing more AI-powered pers"
-  },
-  {
-    "id": "d03c2d43009c1a14",
-    "title": "OpenAI, ‘세상에 이로운’ 기업으로 보이기 위해 인플루언서 군단 동원",
-    "link": "https://news.hada.io/topic?id=34180",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-23T15:35:49.000Z",
-    "snippet": "OpenAI가 크리에이터 마케팅을 확대하며 ChatGPT의 업무와 일상 활용 사례를 홍보함. AI 안전 우려를 직접 해소하기보다는 ChatGPT가 매력적이고 세상에 이로운 일을 도울 수 있다는 메시지에 집중함 HypeAuditor 집계에서 ChatGPT를 홍보하는 Instagram 협찬 게시물"
-  },
-  {
-    "id": "8da8f4d4b5f80833",
-    "title": "3D 코딩 대결...클로드 오퍼스 5.5 \"디테일\" vs GPT-5.6 \"비용·속도\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215618",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T15:20:00.000Z",
-    "snippet": "같은 날 공개된 '클로드 오퍼스 5.5'와 'GPT-6 솔' 간의 3D 웹 연출 비교 결과가 등장했다.AI 모델 라우팅 전문 AI/ML은 23일 앤트로픽과 오픈AI의 API를 통해 두 모델에 같은 프롬프트를 입력한 결과를 비교했다. 여기에는 움직이는 물고기 떼(Fish School), 소용돌이(Maelstrom), 폭풍 속의 배(Ship in a storm), 쓰나미(Tsunami) 등 4가지 프롬프트로 작성된 3D 애니메이션"
-  },
-  {
-    "id": "a5162af91d256e3d",
-    "title": "美 공급압박속 9월 기업활동 PMI 58.4 …5년만에 최고",
-    "link": "https://www.hankyung.com/article/202609244494i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-23T15:18:48.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "620352f616d43b27",
-    "title": "노타 ‘휴머노이드 서밋’서 로봇 AI 모델 7종 최적화 성과 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215628",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T15:00:00.000Z",
-    "snippet": "노타(대표 채명수)는 서울 코엑스에서 열린 '휴머노이드 서밋 서울 2026'에 참여해 자체 플랫폼 '넷츠프레소'를 활용한 7종의 로봇 AI 모델 최적화 성과를 발표했다고 23일 밝혔다.노타는 퀄컴 신경망처리장치(NPU) '드래곤윙 IQ-9075'와 엔비디아 그래픽처리장치(GPU) 기반 엣지 AI 플랫폼 '젯슨 토르'를 대상으로 최적화 결과를 공개했다.검증 모델은 엔비디아의 '그루트 N1.7'과 '코스모스 3 엣지', 피지컬 인"
-  },
-  {
-    "id": "02b30d617aa234e3",
-    "title": "메타 '뮤즈AI'가 스테이블코인 키운다 [박신영의 개장전 요것만]",
-    "link": "https://www.hankyung.com/article/202609234485i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-23T14:59:05.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "b9b184d444ac5dde",
-    "title": "AWS, 토큰 비용 28% 낮춘 AI 에이전트 실행환경 '스트랜즈 하네스' 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215620",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T14:55:00.000Z",
-    "snippet": "아마존웹서비스(AWS)는 에이전트를 손쉽게 구축·운영할 수 있는 오픈소스 실행환경 '스트랜즈 하네스'를 공개했다고 23일 밝혔다.스트랜즈 하네스는 AI 에이전트 실행에 필요한 구성요소를 조립해 제공하는 방식으로 모델·도구·메모리 등을 개별적으로 연결해야 했던 기존 구축 과정을 단순화했다.로컬 PC에서 즉시 실행하거나 클라우드 환경에 배포할 수 있으며, 자유로운 수정이 가능한 '아파치 2.0' 라이선스로 제공된다.내부 테스트에 "
-  },
-  {
-    "id": "815663e715879605",
-    "title": "[오늘의 북한 날씨] 함북·양강도 일부 지역에 2mm 미만 비 - SPN 서울평양뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QcV9NVTZQLWRLSXhJMzV3VURRdHF3RE9qVTBHWlV6SzhWOHhlWXpGZVcwanJvTGpXcmZiNWtMY2J6aXBjR1BadkFCQmRPbi1kSGE3bElaX284TXF5X2tuU0x1UldUd2s1Qkt3?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-23T14:49:42.000Z",
-    "snippet": "[오늘의 북한 날씨] 함북·양강도 일부 지역에 2mm 미만 비 SPN 서울평양뉴스"
-  },
-  {
-    "id": "265a21de1668e827",
-    "title": "美'경유수출중단' 자충수 될수도…에너지장관,석유업계 반발",
-    "link": "https://www.hankyung.com/article/202609234483i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-09-23T14:45:39.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "9e5e63f1b9354b97",
-    "title": "중국, 딥시크·문샷 수사 중...\"국방·민감 정보, 미국 서버로 넘어가\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215610",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T14:41:16.000Z",
-    "snippet": "중국 인터넷 규제 당국이 딥시크와 문샷 AI를 상대로 데이터 보안 관련 조사를 벌이고 있는 것으로 알려졌다. 앤트로픽이 두 회사가 민감한 데이터를 '클로드'로 전달했다고 주장한 데 따른 조치다.22일(현지시간) 디 인포메이션에 따르면, 중국 사이버공간관리국(CAC)은 딥시크와 문샷을 대상으로 공식 조사에 착수했다. 앤트로픽은 지난 10일 위협 인텔리전스 보고서를 공개하고 중국 기업들이 클로드를 무단 활용해 모델의 성능을 높이는"
-  },
-  {
-    "id": "d5ef81526827e8ca",
-    "title": "Claude Code는 텔레메트리가 켜져 있을 때만 AGENTS.md를 읽음",
-    "link": "https://news.hada.io/topic?id=34179",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-09-23T14:33:28.000Z",
-    "snippet": "Claude Code 2.1.277에 추가된 AGENTS.md 지원은 원격 기능 플래그에 의존하며, 텔레메트리나 비필수 트래픽을 끄면 로컬 지침 파일을 경고 없이 건너뜀 내장 플러그인 agents-md 는 원격 플래그를 가져오지 못하면 기본값 false를 사용..."
-  },
-  {
-    "id": "bc2827d6ca62f736",
-    "title": "Dive in and discover what’s next on YouTube with our latest viewer features",
-    "link": "https://blog.youtube/news-and-events/made-on-youtube-viewer-custom-feeds-shopping-tools/",
-    "source": "YouTube 공식 블로그",
-    "sourceId": "youtube-blog",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-23T14:30:00.000Z",
-    "snippet": "Dive into YouTube’s latest viewer features. Curate Custom Feeds on your homepage and use Ask YouTube for an interactive product shopping experience."
-  },
-  {
-    "id": "e7495e830cdb9669",
-    "title": "Coachella will stream exclusively on YouTube through 2030",
-    "link": "https://blog.youtube/news-and-events/made-on-youtube-coachella-exclusively-stream-youtube-2030/",
-    "source": "YouTube 공식 블로그",
-    "sourceId": "youtube-blog",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-23T14:30:00.000Z",
-    "snippet": "Coachella will continue streaming exclusively on YouTube through 2030, marking 15 years of partnership in 2027."
-  },
-  {
-    "id": "d1d7f68317057e66",
-    "title": "Bringing brands and creators together to help you earn more",
-    "link": "https://blog.youtube/news-and-events/made-on-youtube-creator-monetization-shopping/",
-    "source": "YouTube 공식 블로그",
-    "sourceId": "youtube-blog",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-23T14:30:00.000Z",
-    "snippet": "At Made On YouTube 2026, we’re introducing new tools to help creators earn more, including streamlined brand partnerships in YouTube Studio and expanded global access to…"
-  },
-  {
-    "id": "01251fcfddece307",
-    "title": "Innovation for the YouTube Era: What’s new for viewers and creators",
-    "link": "https://blog.youtube/news-and-events/innovation-youtube-era-made-on-viewers-creators/",
-    "source": "YouTube 공식 블로그",
-    "sourceId": "youtube-blog",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-23T14:30:00.000Z",
-    "snippet": "Discover everything announced at Made On YouTube 2026. Explore new conversational AI tools, Custom Feeds, Live Auto-Dubbing, and updates to the YouTube Era."
-  },
-  {
-    "id": "36724c3e700f82f2",
-    "title": "New tools to power your creation journey from start to finish",
-    "link": "https://blog.youtube/news-and-events/made-on-youtube-new-tools-power-creation-journey/",
-    "source": "YouTube 공식 블로그",
-    "sourceId": "youtube-blog",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-23T14:30:00.000Z",
-    "snippet": "Ease your creation journey with new YouTube Studio tools. Discover conversational editing with Gemini Omni, video A/B testing, and voice likeness protections."
-  },
-  {
-    "id": "ed9e6e58305f9184",
-    "title": "Connect with creators on the biggest screen with YouTube’s latest features",
-    "link": "https://blog.youtube/news-and-events/made-on-youtube-creators-shorts-series-tv-features/",
-    "source": "YouTube 공식 블로그",
-    "sourceId": "youtube-blog",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-23T14:30:00.000Z",
-    "snippet": "Connect with creators on the biggest screen. Explore YouTube's TV updates, including episodic Shorts Series for microdramas and on-screen voice commenting."
-  },
-  {
-    "id": "d5b4de06efb51c93",
-    "title": "New YouTube Live tools for fan funding, dubbing and more",
-    "link": "https://blog.youtube/news-and-events/made-on-youtube-live-tools-fan-funding-dubbing/",
-    "source": "YouTube 공식 블로그",
-    "sourceId": "youtube-blog",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-23T14:30:00.000Z",
-    "snippet": "Today at Made on YouTube, we’re sharing a set of updates built to give you more freedom while live."
-  },
-  {
-    "id": "953a48de96cc6494",
-    "title": "Press play on these new YouTube Music updates",
-    "link": "https://blog.youtube/news-and-events/made-on-youtube-music-new-discovery-features/",
-    "source": "YouTube 공식 블로그",
-    "sourceId": "youtube-blog",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-09-23T14:30:00.000Z",
-    "snippet": "Discover your next favorite artist or show. Explore YouTube Music's newest features, including the conversational Ask Music tool and the AI Podcast Lineup."
-  },
-  {
-    "id": "e6d226f5cd7633b8",
-    "title": "9월 24일 하노이 날씨 예보: 천둥번개를 동반한 소나기가 내리겠으며, 일부 지역에서는 폭우가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGlMS3huWVhiQW1POWVrMzN4ak9PNjlpRWVvMzNtM0pUMms5a19UVXM2UmJSSE5vSjJSazJQbWI1WEVCZjNNb0dwZkJKNXVMYTVMVkxIQUo5aUdqQm42Wl9qSHllTlZjUFV5djlDblpZT3g3RTg4NTBMMUxuQWdUcDJkTnhOSEx2MEE?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-09-23T14:21:52.000Z",
-    "snippet": "9월 24일 하노이 날씨 예보: 천둥번개를 동반한 소나기가 내리겠으며, 일부 지역에서는 폭우가 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "2897537be4ecfc65",
-    "title": "알트먼·아모데이·딥시크 총출동…유엔 안보리서 'AI 안전' 논의",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215613",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T14:18:56.000Z",
-    "snippet": "샘 알트먼 오픈AI CEO와 다리오 아모데이 앤트로픽 CEO를 비롯해 중국 딥시크와 문샷 AI 등의 주요 관계자들이 AI와 국제안보를 논의하는 유엔 안전보장이사회 브리핑에 참여한다. 세계 각국 정상들이 유엔총회 참석을 위해 뉴욕에 모인 가운데 AI의 안전성과 관리 방안을 둘러싼 논의가 글로벌 차원으로 확대되고 있다.유엔 안보리는 23일(현지시간) AI가 국제 평화와 안보에 미치는 영향을 주제로 회의를 개최할 예정이다.로이터에 "
-  },
-  {
-    "id": "bb2bb73693f97eb3",
-    "title": "[게시판] KAIST·스카이인텔리전스·다임리서치, ‘제조 피지컬AI 스타케이트’ 결성 등 단신",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215617",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T14:00:00.000Z",
-    "snippet": "■ 스카이인텔리전스(대표 이재철)는 KAIST 제조피지컬AI연구소, 다임리서치와 피지컬 AI 분야 기술 협력 및 산업 생태계 확산을 위한 3자 MOU를 체결했다고 밝혔다. 제조 현장의 AI 전환을 위해 공동 연구·사업 및 실증 과제 발굴부터 전문인력 양성, 생태계 확산과 공동 시장 개발까지 협력 범위를 넓혀갈 계획이다. 설비와 물류, 개별 로봇부터 로봇 군집 운영까지 아우르는 공동 연구와 사업을 추진, 실증 과제도 발굴해 나간"
-  },
-  {
-    "id": "97b1d159d63c613b",
-    "title": "[게시판] 한컴위드, N2SF 기반 'AI 문서 분류 기술' 개발 등 단신",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215629",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-09-23T14:00:00.000Z",
-    "snippet": "■ 한컴위드(대표 송상엽)는 커넥셔너리와 AI 지능형 문서 자동 분류 제품 공동 개발을 위한 양해각서(MOU)를 체결했다고 밝혔다. 한컴위드의 데이터 보안 태세 관리(DSPM) 및 암호화 기술에 커넥셔너리의 AI 분류 엔진 '클래시피케이션 스튜디오'를 결합한다. 이를 통해 AI로 문서의 보안등급을 분류하고 암호화까지 연결하는 제품 개발로 국가 망 보안체계(N2SF) 전환에 따른 공공기관의 데이터 분류 수요에 선제적으로 대응한다"
   }
 ]

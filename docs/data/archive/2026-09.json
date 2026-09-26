@@ -1,5 +1,55 @@
 [
   {
+    "id": "5f88cbe7c8a87035",
+    "title": "비전 모델을 포함한 LLM용 단일 함수 Jev 스타일 래퍼",
+    "link": "https://news.hada.io/topic?id=34327",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T16:49:52.000Z",
+    "snippet": "LLM에 선택지를 문자로 제시하고 토큰 로그 확률을 읽어, 분류 결과와 참일 확률, 순서형 점수를 반환하는 단일 Python 함수 score()를 구현함 긴 답변 대신 선택지 문자 하나를 생성하도록 요청해 출력 시간을 줄임. 입력 처리 비용은 남지만, 백엔드..."
+  },
+  {
+    "id": "e8752e3546af28f7",
+    "title": "연방 판사, 텍사스에 2029년 말까지 모든 교도소 냉방 설치 명령",
+    "link": "https://news.hada.io/topic?id=34326",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T16:46:52.000Z",
+    "snippet": "연방 지방법원은 텍사스의 냉방 없는 교도소 환경이 잔혹하고 비정상적인 형벌을 금지하는 수정헌법 제8조를 위반한다며, 2029년 12월 31일까지 모든 주립 교도소에 냉방을 설치하도록 명령함 텍사스 형사사법국(TDCJ) 산하 104개 시설 중 전체 냉방을 갖춘 곳은 9월 1일 기준"
+  },
+  {
+    "id": "68c2940a568cbeed",
+    "title": "알파 너드들의 보드게임 (2014)",
+    "link": "https://news.hada.io/topic?id=34325",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T16:43:52.000Z",
+    "snippet": "Diplomacy는 주사위나 카드의 운 대신, 다른 사람을 설득해 협력하게 만드는 협상이 승패를 좌우하는 7인용 전략 보드게임임 모든 플레이어가 명령을 적어 동시에 실행하며, 그 전에 공개 또는 비공개로 협상함. 동맹이 필요하지만 약속을 지킬 의..."
+  },
+  {
+    "id": "c5bca8f6f7ce82af",
+    "title": "모든 패키지가 이미 설치되어 있다",
+    "link": "https://news.hada.io/topic?id=34324",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T16:02:28.000Z",
+    "snippet": "omnibin은 nixpkgs가 제공해 온 바이너리를 $PATH에서 바로 사용할 수 있게 하는 FUSE 파일시스템으로, 별도 설치나 빌드 없이 파일을 실제로 읽을 때 필요한 데이터를 가져옴 2013~2026년의 바이너리 881,933개를 포함하며, 기본 이름은 최신 패키지..."
+  },
+  {
+    "id": "c5d1bb37f13ebde5",
+    "title": "AI 없이 보낸 한 달",
+    "link": "https://news.hada.io/topic?id=34323",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T15:36:43.000Z",
+    "snippet": "업무에서 AI 코딩 에이전트에 구현과 테스트, 커밋까지 맡기던 개발자가 코드에 대한 통제력을 잃었다고 느껴 사용을 중단하고, 한 달 동안 직접 개발하는 방식으로 돌아옴 여러 에이전트를 병렬로 실행하자 코드 생성은 빨라졌지만, 검토 부담과 문맥 전환이 쌓여..."
+  },
+  {
     "id": "dab1146b98ce4d8c",
     "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215675",
@@ -10,6 +60,16 @@
     "snippet": "챗봇 기능을 빼고 속도와 비용 효율에 집중한 신형 AI 모델 '제브(Jev)'가 출시 일주일 만에 폭발적인 반응을 얻고 있다. 개발사인 타입세이프 AI(TypeSafe AI)의 기업 가치도 일주일 새 50배 치솟았다.24일(현지시간) 디 인포메이션에 따르면, 타입세이프 AI는 최근 투자자들과 10억달러(약 1조3590억원) 이상 규모의 신규 자금 조달을 위한 논의를 시작했다.지난주 비공개 모드에서 벗어나 제브를 처음 공개할 당"
   },
   {
+    "id": "c84c5d3da8a74fac",
+    "title": "9월 26일 밤부터 10월 6일까지 전국 10일간의 날씨 예보 - ko.laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUJvSnNrQVdaV0xWTGd0NXZCeDhBUEtHVlFkVTZPRGpTb2U0a3g5OFMzQVQ5Rng4RWdqeF9tWHltRWdvSC1mNUFnUjh6S3ljTXFmOVpqQjVJN3N3b04xcTJJSlkxLWN6S0JNNWszc3RIS1RCZWNGSTkyN0Jzci1YclFtWTRVTUlrbkk4SW9jTHcxVXJ5SHdUN09DVGNDRFlNbmhJRmhKQTk?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T14:59:00.000Z",
+    "snippet": "9월 26일 밤부터 10월 6일까지 전국 10일간의 날씨 예보 ko.laodong.vn"
+  },
+  {
     "id": "ff2e3b01deddf64e",
     "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215674",
@@ -18,6 +78,26 @@
     "category": "AI",
     "publishedAt": "2026-09-26T14:39:55.000Z",
     "snippet": "일론 머스크 CEO가 스페이스XAI의 대규모 AI 컴퓨팅 클러스터 ‘콜로서스 2’에 탑재되는 엔비디아 GPU를 연말까지 현재의 두 배 이상으로 늘리겠다는 계획을 밝혔다.머스크는 25일(현지시간) X를 통해 콜로서스 2에 현재 엔비디아 GB200 11만개와 GB300 44만개가 가동되고 있다고 밝혔다. 여기에 다음 주까지 GB300 22만개를 추가 가동하고, 11월에도 22만개를 더 투입할 계획이다.이어 “운이 좋다면(if we"
+  },
+  {
+    "id": "1ce5ffe70388edb2",
+    "title": "보즈 오브 카시오(Boards of Casio)",
+    "link": "https://news.hada.io/topic?id=34322",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T14:38:54.000Z",
+    "snippet": "웹 신시사이저 CZP-1에서 oliveoil22의 Casio CZ-101 패치 데이터를 불러와 Boards of Casio 사운드를 연주할 수 있음 패치는 JSON 뱅크 파일로 제공되며, 화면 건반이나 컴퓨터 키보드, MIDI로 연결한 외부 키보드로 연주 가능함 CZP-1에는 원본 패치의 ..."
+  },
+  {
+    "id": "058cb8805f514ddf",
+    "title": "15년 만에 돌아보는 Apple Cards의 탄생 이야기",
+    "link": "https://news.hada.io/topic?id=34321",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T14:35:53.000Z",
+    "snippet": "Apple Cards는 iPhone에서 사진과 메시지를 넣은 카드를 만들면 Apple이 인쇄와 우편 발송까지 맡는 서비스로, Steve Jobs의 아이디어에서 출발해 2011년 출시됨 100% 면지와 깊게 눌러 찍는 인쇄 방식을 고수하면서 제작 난도가 높아졌고, 사진 인쇄까지 완료하려..."
   },
   {
     "id": "931040be98f7838d",

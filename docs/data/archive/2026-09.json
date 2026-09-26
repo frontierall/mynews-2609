@@ -1,5 +1,155 @@
 [
   {
+    "id": "dab1146b98ce4d8c",
+    "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215675",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T15:30:49.000Z",
+    "snippet": "챗봇 기능을 빼고 속도와 비용 효율에 집중한 신형 AI 모델 '제브(Jev)'가 출시 일주일 만에 폭발적인 반응을 얻고 있다. 개발사인 타입세이프 AI(TypeSafe AI)의 기업 가치도 일주일 새 50배 치솟았다.24일(현지시간) 디 인포메이션에 따르면, 타입세이프 AI는 최근 투자자들과 10억달러(약 1조3590억원) 이상 규모의 신규 자금 조달을 위한 논의를 시작했다.지난주 비공개 모드에서 벗어나 제브를 처음 공개할 당"
+  },
+  {
+    "id": "ff2e3b01deddf64e",
+    "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215674",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T14:39:55.000Z",
+    "snippet": "일론 머스크 CEO가 스페이스XAI의 대규모 AI 컴퓨팅 클러스터 ‘콜로서스 2’에 탑재되는 엔비디아 GPU를 연말까지 현재의 두 배 이상으로 늘리겠다는 계획을 밝혔다.머스크는 25일(현지시간) X를 통해 콜로서스 2에 현재 엔비디아 GB200 11만개와 GB300 44만개가 가동되고 있다고 밝혔다. 여기에 다음 주까지 GB300 22만개를 추가 가동하고, 11월에도 22만개를 더 투입할 계획이다.이어 “운이 좋다면(if we"
+  },
+  {
+    "id": "931040be98f7838d",
+    "title": "구글, 우주에서 AI 칩 첫 시험...‘선캐처 프로젝트’ 10월 본격화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215670",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T14:29:50.000Z",
+    "snippet": "구글이 AI 데이터센터를 우주에 구축하는 ‘선캐처(Project Suncatcher)’ 프로젝트의 첫 번째 실증에 나선다. 구글은 오는 10월1일(현지시간) 스페이스X의 팰컨9 로켓을 이용해 실험용 위성 ‘MVP’를 저궤도에 올리고, 실제 우주 환경에서 AI 칩이 정상적으로 작동하는지 확인할 예정이라고 발표했다.이번 임무는 우주에 대규모 데이터센터를 바로 구축하는 것이 아니라 앞으로 우주 기반 AI 컴퓨팅이 가능한지를 확인하기"
+  },
+  {
+    "id": "0d13802c016d9d4b",
+    "title": "공쿠르상, 'AI 작성·표절 의혹' 소설 후보서 제외",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215671",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T14:03:42.000Z",
+    "snippet": "프랑스의 권위 있는 문학상인 공쿠르상이 AI로 소설을 썼다는 의혹을 받은 아이티계 캐나다 작가 텔리송 오렐리앵의 작품을 장편 후보에서 제외했다. 공쿠르 아카데미는 25일(현지시간) 오렐리앵의 소설 ‘그것 아니면 죽음이었다(C’était ça ou mourir)’를 2026년 공쿠르상 후보 명단에서 제외한다고 밝혔다.AI 사용 및 표절 의혹과 관련해 \"공쿠르상과 아카데미의 온전성을 지키기 위한 결정\"이라고 설명했다.특히 \"AI의"
+  },
+  {
+    "id": "c7a30e26719e2f7c",
+    "title": "트럼프·미 하원의장, 빅테크 수장들과 29일 AI 안전 회의 예정",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215673",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T13:58:04.000Z",
+    "snippet": "미국에서 AI 규제와 안전장치를 둘러싼 논쟁이 커지는 가운데 정부와 의회, 업계 수장이 한자리에 모인다.로이터에 따르면, 도널드 트럼프 미국 대통령과 마이크 존슨 하원의장, 주요 기술 기업 CEO들은 29일(현지시간) AI을 주제로 회의를 열 예정이다. 구체적인 참석 기업과 의제는 아직 공개되지 않았다. 이번 회의는 최근 AI 안전과 규제를 둘러싼 워싱턴의 논의가 본격화되는 가운데 마련됐다. 주요 AI 기업들은 AI가 인간에게"
+  },
+  {
+    "id": "cf66da16d4a8a6f5",
+    "title": "메타, AI 에이전트 '뮤즈' 보안 취약점 발견…안전 경고 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215666",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T13:47:00.000Z",
+    "snippet": "메타가 개인용 AI 에이전트 '뮤즈(Muse)'에서 사용자의 민감한 정보에 접근할 수 있는 보안 취약점이 발견되자 안전 경고를 강화했다. AI 에이전트가 이메일과 파일 등 개인 데이터에 직접 접근하고 외부 웹사이트와 상호작용하는 만큼, 악성 링크를 이용한 공격 가능성에 대한 보호 장치를 추가한 것이다.24일(현지시간) 디 인포메이션에 따르면, 외부 보안 연구원이 메타의 버그바운티 프로그램을 통해 뮤즈의 취약점을 신고했다.메타 "
+  },
+  {
+    "id": "b06b0e8fe853e92d",
+    "title": "트웰브랩스, 스마트 제조·피지컬 AI로 B2B 사업 영토 대폭 확장",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215656",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T13:45:00.000Z",
+    "snippet": "국내 대표 영상 AI 전문 트웰브랩스(대표 이재성)가 기존 주력 무대였던 글로벌 미디어·엔터테인먼트 분야를 넘어 국내 스마트 제조와 피지컬 AI 시장으로 B2B 비즈니스 영토를 넓힌다.트웰브랩스는 국내외 사업을 공격적으로 확대하며 기존 방송·미디어 중심 사업 구조를 제조 현장과 피지컬 AI 영역으로 빠르게 전환하고 있다고 26일 밝혔다.신규 시장 공략과 맞물려 국내 영업 조직과 에이전트 개발진 채용을 대폭 가속화하고 있으며, "
+  },
+  {
+    "id": "285f484bb1e8743d",
+    "title": "앤트로픽, IPO 앞두고 공동 창립자 7명에 의결권 50.1% 부여 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215665",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T13:24:27.000Z",
+    "snippet": "기업공개(IPO)를 앞둔 앤트로픽이 회사의 경영권을 유지하기 위한 새로운 지배구조를 추진한다. 다리오 아모데이 CEO와 6명의 공동 창립자에게 특별 의결권을 부여해 이들이 상장 이후에도 주요 경영 사안에서 과반의 의결권을 행사할 수 있도록 하는 방안이다.24일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 주주들에게 새로운 주식 구조를 승인해 달라고 요청할 예정이다.계획대로라면 아모데이 CEO와 6명의 창립자는 특별한 종류의 "
+  },
+  {
+    "id": "2a3b0c961e099eb1",
+    "title": "딥시크, 매출 두 달 만에 2배 껑충...\"가격 인상에도 1.4조 달성\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215672",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T13:10:32.000Z",
+    "snippet": "딥시크의 연간 반복 매출(ARR)이 10억달러(약 1조3600억원)에 도달한 것으로 전해졌다. 두 달 전보다 2배 이상 늘어난 수준으로, 최근 AI 모델 가격 인상과 지속적인 사용자 수요가 매출 증가를 이끈 것으로 보인다.디 인포메이션은 23일(현지시간) 정통한 소식통을 인용, 량원펑 CEO가 최근 투자자들과의 회의에서 이 같은 매출 수치를 공유했다고 보도했다. 딥시크의 ARR은 지난 7월만 해도 4억~5억달러 수준으로 알려졌"
+  },
+  {
+    "id": "86c6c04435f5bf00",
+    "title": "아카마이, 앤트로픽과 16조 클라우드 계약...5% 지분 인수권도 부여",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215664",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T12:57:25.000Z",
+    "snippet": "세계 최대의 콘텐츠 전송 기업인 아카마이(Akamai Technologies)가 앤트로픽의 대규모 AI 컴퓨팅 수요를 통해 클라우드 사업을 크게 확대한다. 아카마이는 24일(현지시간) 앤트로픽과 7년간 116억달러(약 15조7600억원) 규모의 클라우드 인프라 계약을 체결했다. 급증하는 AI 서비스 수요에 대응하기 위해 분산형 클라우드 인프라와 CPU 컴퓨팅 자원을 제공하는 내용이다.이번 계약은 지난 5월 체결한 18억달러(약"
+  },
+  {
+    "id": "0f9a66ba313b0b5c",
+    "title": "미 항소법원 \"국방부의 앤트로픽 배제 조치는 정당\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215668",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T12:48:12.000Z",
+    "snippet": "미국 국방부가 앤트로픽을 군사 계약 대상에서 배제한 조치가 정당하다는 판결이 나왔다. 연방 항소법원이 AI 안전장치를 둘러싼 앤트로픽과 도널드 트럼프 행정부의 수개월간 갈등에서 국방부의 손을 들어준 것이다.로이터 등에 따르면, 미국 워싱턴DC 연방항소법원은 25일(현지시간) 3명의 판사로 구성된 재판부의 2대 1 결정으로 국방부가 앤트로픽을 국가안보 공급망 위험 기업으로 지정한 것이 합리적이었다고 판결했다.법원은 국방부가 앤트"
+  },
+  {
+    "id": "a711acb31b51d118",
+    "title": "[내면 지도 그리기] 35 Inner Mapping: 나를 찾는 지도",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215660",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T10:00:00.000Z",
+    "snippet": "내면지도_지도에 없는 시간, 지도에 없는 아침2024년 12월, 파라과이 아순시온에서 유네스코 무형문화유산보호협약 정부간위원회가 열렸다. 스물네 개 위원국이 다룬 안건 가운데 하나는 '말레이시아의 아침 식사 문화: 다민족 사회에서의 식사 경험'이었다. 말레이시아가 신청서를 낸 지 1년 8개월 만이었다.조금 이상한 유산이었다. 특정 도시나 식당, 특정 공동체에 속하지 않았기 때문이다. 신청서는 이 문화를 도시와 농촌을 가리지 않"
+  },
+  {
+    "id": "c4dfdaada3a80632",
+    "title": "[AI카툰] Bob, Senior IT guy - 밥, 새 AI 글라스 테스트 중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215659",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T10:00:00.000Z",
+    "snippet": "글·그림 Dr. Alf"
+  },
+  {
+    "id": "9e8c5eefcdf9d1f0",
+    "title": "[AI 이슈트렌드] 대통령 지지율 반등...DMZ 지뢰·아시안게임·부산 상어 출몰 주목",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215653",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T10:00:00.000Z",
+    "snippet": "AI타임스와 이스트에이드의 9월 넷째 주(9월18일~25일) 이슈 분석 결과 대통령 지지율 반등을 포함해 DMZ 지뢰 폭발과 주요 증시 소식이 상위권을 차지했다.이번 주 검색량 1위는 '대통령 지지율 반등(14.97%)'이 압도적 비중을 차지했다. 지난 18일 기자회견을 계기로 이 대통령의 국정수행 지지도는 한 주 전보다 1.0%포인트 상승한 34.8%로 10주 만에 반등했다.향후 유엔(UN) 총회와 트럼프 미국 대통령과 회담"
+  },
+  {
+    "id": "bb5d6767ced1ac94",
+    "title": "빌 게이츠 \"AI가 10억명 목숨 위협할 수도\"…정부 개입·규제법 제정 촉구",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215669",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T09:19:48.000Z",
+    "snippet": "빌 게이츠 마이크로소프트(MS) 창립자가 AI 기술의 오용이 대형 참사로 이어질 수 있다고 경고하며 미국 정부의 법적 감시와 연방 차원의 규제 법안 제정을 촉구했다.게이츠 창립자는 25일(현지시간) NBC 뉴스와의 인터뷰에서 \"AI는 10억명의 목숨을 앗아갈 만한 사건을 일으킬 만큼 강력하다\"라며 \"인류 전체를 대상으로 하기는 어렵겠지만, 악의를 가진 사람들이 최신 AI 도구를 사용하는 것만큼 강력한 무기는 지금까지 없었다\"라"
+  },
+  {
     "id": "17a646f65b7bd4a9",
     "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215667",
@@ -20,6 +170,16 @@
     "snippet": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 백악관 국빈 만찬에서 빅테크 수장들과 자리를 함께하며 AI 패권을 둘러싼 미중 관계의 향방을 타진했다. 양국 정상은 AI 주도권을 확보하겠다는 본질적인 목표와 기술 경쟁 의지를 공유하면서도, 이를 풀어내는 화법과 접근 방식에서는 온도 차를 드러냈다.24일(현지시간) 백악관 이스트룸에서 열린 국빈 만찬에는 젠슨 황 엔비디아 CEO, 팀 쿡 애플 회장, 일론 머스크 CEO, 마크"
   },
   {
+    "id": "4d9debe824bd8a17",
+    "title": "남부 지방 날씨 예보, 뇌우 점차 감소 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3E0bURqcGVTVzl5NmFVcGtkczNlRFFoUDZLdnhJYmZGTVc1Y2hkYnNLRmpHMXE1WUprYWdaVmNCU0ZTcG81N182Y05QMHMxa1lpZnl5VlpjU2NNN29UTDNTVWtYMXQ3Nk1rNlduOUlqNFZWLWowd2tOa0x1VlhQVEZieEdfMl9oMnc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T07:52:50.000Z",
+    "snippet": "남부 지방 날씨 예보, 뇌우 점차 감소 Laodong.vn"
+  },
+  {
     "id": "e6ff5d3e16a8ed72",
     "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215662",
@@ -28,6 +188,226 @@
     "category": "AI",
     "publishedAt": "2026-09-26T07:23:18.000Z",
     "snippet": "마이크로소프트(MS)가 '코파일럿(Copilot)'의 전면 개편을 단행하며 챗봇 중심 시장에서 자율형 에이전트 플랫폼으로의 전환을 선언했다. 단순한 대화형 AI 서비스에서 벗어나 오피스 소프트웨어와 코드 생성, 상시 가동형 에이전트를 하나로 묶은 슈퍼 앱으로 서비스로 재편해 비즈니스 AI 시장의 주도권을 굳히겠다는 전략이다. 사티아 나델라 MS CEO는 25일(현지시간) 새로운 코파일럿을 공개하며 발표에서 \"모든 에이전트는 고"
+  },
+  {
+    "id": "ff969a2e316e78c0",
+    "title": "\"SUV가 왜 이렇게 조용해?\"…16년차 연구원도 놀란 '역발상'",
+    "link": "https://www.hankyung.com/article/202609182599g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T07:18:12.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "19df3922c56cb91b",
+    "title": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
+    "link": "https://www.mk.co.kr/news/economy/12161632",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T06:36:11.000Z",
+    "snippet": "미중 협상, AI투자 향방에 환율 출렁일 듯 한미금리차·대미투자 부담에 약세 압력도추석 연휴에도 서울외환거래시장은 24시간 돌아간다. 하지만 거래량이 급격히 줄었다가 연휴 이후 정.."
+  },
+  {
+    "id": "e8608371559f35cf",
+    "title": "Flock 카메라 데이터 한 건이 무고한 여성을 13일간 감옥에 가둠",
+    "link": "https://news.hada.io/topic?id=34311",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T06:33:11.000Z",
+    "snippet": "플로리다의 Lindsey Isaacs는 사망 사고 현장에서 수 마일 떨어진 곳에 차량이 찍힌 Flock 카메라 기록으로 수사 대상이 된 뒤, 관련 없는 사고로 13일간 구금됨 목격자가 지목한 차량은 적갈색 Dodge Durango였지만 Isaacs의 차량은 검은색이었고 충돌 손..."
+  },
+  {
+    "id": "441e5968b39d9eef",
+    "title": "9월 26일 날씨 예보: 북부 지역은 맑고, 남부 지역은 늦은 오후와 저녁에 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXV2b1VwaGZGRHhtdktBYjMwT0ZzUkxGYzFZb042aEhuc2xPbTFjVzIyeWJqdnNnMUdncXk1TmpWNjdMVUYtMW5fcXZZb2ZPY1d3N0tLbUVqeHgtRkR1cmhMdnlvUU9zYmM2SlVCZlgxV2pKSnNQXzBWSm1aV3FHRjFDQk8zZk9jVUNPWEthaHA2amk0U1FoRWdaSlk?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T06:13:32.000Z",
+    "snippet": "9월 26일 날씨 예보: 북부 지역은 맑고, 남부 지역은 늦은 오후와 저녁에 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "896c46e68d61c3a3",
+    "title": "AI가 거의 모든 코드를 작성하면 소프트웨어 엔지니어링에는 무슨 일이 일어날까?",
+    "link": "https://news.hada.io/topic?id=34310",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T06:03:17.000Z",
+    "snippet": "AI가 대부분의 코드를 생성하는 시대에 소프트웨어 엔지니어링의 역할, 기회, 위험, 그리고 제품 관리와의 관계가 어떻게 바뀔지 살펴봅니다. AI 코딩 에이전트가 빠르게 발전하면서 숙련된 개발자들 사이에서도 \"직접 코드를 거의 작성하지 않는다\"는 사례가 늘고 있음. 글의 핵심은 <stron"
+  },
+  {
+    "id": "67c9418b7a7a0f43",
+    "title": "AI 시대 보험사 경쟁력, 특허에 달렸다",
+    "link": "https://www.hankyung.com/article/202609221940i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T06:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "701cac8e2243b266",
+    "title": "20대부터 80대까지, 한눈에 보는 은퇴 자산관리",
+    "link": "https://www.hankyung.com/article/202609171357i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T06:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "591ecc632eb526de",
+    "title": "\"한국이란 나라는 몰라도…\" 네덜란드 마트 싹쓸이한 '이것' [현장+]",
+    "link": "https://www.hankyung.com/article/202609168429g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T05:59:48.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d34122c2a91801e9",
+    "title": "이제 OS란 대체 무엇인가?",
+    "link": "https://news.hada.io/topic?id=34309",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T05:40:22.000Z",
+    "snippet": "프로그래머와 사용자 사이의 경계가 AI로 허물어지면서, 사용자가 자연어로 자신에게 필요한 프로그램을 직접 만드는 컴퓨팅 환경이 열리고 있음 앞으로는 사용자 수가 1~2명에 불과한 애플리케이션이 많아지고, 어쩌면 대다수를 차지할 수 있음 소프트웨..."
+  },
+  {
+    "id": "622d5494f8f0c7de",
+    "title": "배심원단, Cambridge Analytica 사건에서 이용자 기만에 대한 Facebook의 책임 인정",
+    "link": "https://news.hada.io/topic?id=34308",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T05:37:22.000Z",
+    "snippet": "뉴멕시코 배심원단이 Facebook의 개인정보 보호 관련 이용자 기만 책임을 인정함. 데이터 보호 실패가 200만 명이 넘는 주 전체 인구에 영향을 미쳤다고 판단함 사건은 제3자 성격 검사 퀴즈가 약 8,700만 개 프로필의 데이터를 수집해 정치 컨설팅 업체 Cambridge..."
+  },
+  {
+    "id": "7eef89302b8562b9",
+    "title": "9월 26일 아침 뉴스: 하노이 향후 10일간 날씨 예보; 10학년 학생들은 세 번째 과목만 면제받고 수학과 문학 시험만 치르게 됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWW12b1R4eHhvY04wSGJfVmY3d0hxbElzS0NmYktBVWIybUd3S1h2TnczczNiTWxGS0F4b290VVoxcTlodkRTTEY4ZEpVRW5NeEEtVmI2RWZHRlE1VWN6bmRTRExfYWQyX3FyWVBRUXl2QXRBaTFmTjBlZE43eEJkdTk3VkpkU0FTYlZ6YlNBNkRic20xSWo4bVhTVW54X05KcFYyWmlRZllkVlhDbEZaVjIyN0YwekxJZGtMWlln?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T05:32:53.000Z",
+    "snippet": "9월 26일 아침 뉴스: 하노이 향후 10일간 날씨 예보; 10학년 학생들은 세 번째 과목만 면제받고 수학과 문학 시험만 치르게 됩니다. Vietnam.vn"
+  },
+  {
+    "id": "5aac57fafa1dd237",
+    "title": "9월 26일 날씨 예보: 북부 지역은 맑음, 남부 지역은 천둥번개 예상. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZk1MSl9Ca1h6RVBHTE1JWmxjb3VQMTNoZ2RZZ0k2ZkctQjJ6SlFzdEMyU2RLREFZMzlXbDlXVnpIOWxFS3JFdjhSYy1LaEtEcFJGZnJ3WVVqN2ozUlBWQ24wazREZjFSUTRBSEcxWFJzZmluOXRoSWRpak8xWnhXSHhFcXN6TVVzTW4tZi1pdE1aMHM?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T05:32:49.000Z",
+    "snippet": "9월 26일 날씨 예보: 북부 지역은 맑음, 남부 지역은 천둥번개 예상. Vietnam.vn"
+  },
+  {
+    "id": "14c525793d254188",
+    "title": "\"10년 전 1억 주고 샀다면 지금쯤…\" 압도적 수익률 1위는",
+    "link": "https://www.hankyung.com/article/2026092665447",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T05:03:45.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b65d278bbae52fb8",
+    "title": "농지 전수조사가 던진 숙제, 세제도 함께 점검해야 [고인선의 택스인사이트]",
+    "link": "https://www.hankyung.com/article/202609266328i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T05:00:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "66e5586a3c17d60f",
+    "title": "Excel, 이제 하나의 셀에 여러 값 저장 지원",
+    "link": "https://news.hada.io/topic?id=34306",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T04:35:16.000Z",
+    "snippet": "Excel이 목록, 셀 내부 배열, 중첩 배열을 도입해 한 셀에 여러 값을 저장하고 개별 값으로 계산할 수 있도록 함. Windows와 Mac의 Beta Channel에 먼저 제공됨 목록을 사용하면 프로젝트 담당자나 설문 응답을 한 셀에 유지하면서도 전체 텍스트가 아닌 개별 항목..."
+  },
+  {
+    "id": "153e63ce32a91584",
+    "title": "잘 팔리는 韓 무기, 유럽의 'SAFE'가 걸림돌 된다는데…왜?",
+    "link": "https://www.hankyung.com/article/202609266550i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T04:25:50.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f0b633019c701dff",
+    "title": "Show GN: 담월 – 미래를 맞힌 척하지 않는 AI 사주 웹앱",
+    "link": "https://news.hada.io/topic?id=34305",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T03:53:54.000Z",
+    "snippet": "1인으로 만든 AI 사주 웹앱이에요. 로그인 없이 써볼 수 있어요. 오늘의 운세·띠별 운세: 일진 계산 + 열두 띠별 흐름과 오늘 해볼 행동 하나 성격유형 × 사주: 12문항으로 16유형을 고르고 생년월일로 일간을 더해 160가지 조합 궁합 초대: 내 생일로 링크를 만들어 보내면 상대는 생"
+  },
+  {
+    "id": "bd78d6fe4db64a48",
+    "title": "\"물회 대접하려 했는데…\" 동해안서 오징어가 사라졌다",
+    "link": "https://www.hankyung.com/article/202609266521i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T03:38:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "372c1dacb7e5bbbb",
+    "title": "계획 모드는 죽었다",
+    "link": "https://news.hada.io/topic?id=34304",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T03:34:30.000Z",
+    "snippet": "AI 코딩 도구의 계획 모드가 맡아 온 두 역할 중 에이전트에 정밀한 지시를 전달하는 역할은 모델 성능 향상으로 빠르게 불필요해지고 있음. 사람이 무엇을 만드는지 이해하도록 돕는 역할은 더 중요해졌지만, 계획 모드는 이에 적합한 방식이 아님 구현 전에 생각을 정리하..."
+  },
+  {
+    "id": "8f0f3ecb9209cc09",
+    "title": "으악! 내가 뭘 먹은 거야…김치·돼지고기 '이렇게 팔았어?'",
+    "link": "https://www.hankyung.com/article/2026092665327",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T03:29:48.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "75977adb02d44fe2",
+    "title": "대출심사 파고드는 핀테크…2금융권과 잇달아 '동맹'",
+    "link": "https://www.hankyung.com/article/202609266145i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T03:17:43.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "32f8dab44340ff9e",
+    "title": "오늘 뇌우 지역 예보, 일부 지역 60mm 이상의 폭우 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVp3aDhWUV9QSURVZ2ZKT01wbXBfOU04X3lHT2hPWkJXZ25WQVNqNVA3cXB4MHJLUWIwY0s4LU9ibVZ4Z1ExTUFKa2xyN0RBajd3QnY4MFBIRnB6U3VzUHJyaHFObENMalhndlpRNE9OTFZESU9udUdHUGwxVWFnbWJkbC02Z2dGZ24wWTRnTTM0SU95QjY2ZVd3dzEybklrTmc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T02:47:30.000Z",
+    "snippet": "오늘 뇌우 지역 예보, 일부 지역 60mm 이상의 폭우 Laodong.vn"
   },
   {
     "id": "30208ab5606825be",
@@ -348,6 +728,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-25T22:30:23.000Z",
     "snippet": "[오늘의 북한 날씨] 북부지역 비...백두산 0도 예상 spnews.co.kr"
+  },
+  {
+    "id": "7ec88978d65420da",
+    "title": "Jordan Matter is doing a full-day AMA at VidSummit so younger creators can learn everything he knows",
+    "link": "https://www.tubefilter.com/2026/09/25/vidsummit-jordan-matter-ama/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-25T22:18:53.000Z",
+    "snippet": "Next week, at VidSummit 2026, Jordan Matter will do something no one else has done before. He will spend an entire day sitting in a room, door open, and answering every question fellow creators throw his way. Matter, whose channel has 38 mi"
   },
   {
     "id": "8fe36f5108a62b25",
@@ -17080,6 +17470,16 @@
     "snippet": "샘 알트먼 오픈AI CEO가 AI의 급격한 발전에 따른 사고 가능성을 인정하면서도 AI 업계가 안전 문제를 관리할 수 있다며 대중에게 업계 리더들을 신뢰해 달라고 강조했다.알트먼은 15일(현지시간) 미국 샌프란시스코에서 열린 세일즈포스의 연례 컨퍼런스 '드림포스 2026'에서 마크 베니오프 세일즈포스 CEO와의 대담 중 \"세상이 AI를 두려워하는 것은 당연하다\"고 말했다.그는 AI 모델의 능력이 빠르게 향상되면서 통제력을 잃거"
   },
   {
+    "id": "14b5c4e6e43df34a",
+    "title": "정부지원사업은 공고가 나오기 전에 시작된다 - 브런치",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wMEg1OFJLLU5pdkMwN3lCTWNCQ1NvVkQwcktPekxnLVljZ2p4QVBwby1CSDJNdWlfdURPS2gyNVRSc0djOUU3Q0N0RQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-17T17:00:01.000Z",
+    "snippet": "정부지원사업은 공고가 나오기 전에 시작된다 브런치"
+  },
+  {
     "id": "e5c69090f888338e",
     "title": "\"국산 휴머노이드로 담낭 절제까지\"...삼성서울병원 로봇 수술 시연",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215413",
@@ -29428,6 +29828,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-13T13:00:00.000Z",
     "snippet": "내일 9월 14일 전국 날씨 예보 Laodong.vn"
+  },
+  {
+    "id": "842e47dd8d95ba6b",
+    "title": "산본동, 군포시, 경기도 일기예보 및 날씨 - The Weather Channel | Weather.com - The Weather Channel",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWkhVRVVOanBoeFJVSGpQT3NVSkJIUUVTaXJJWTk2a2cwY21qQWxjMldZSHlhVWZBSDRoYTMzRFdnR3BTcjY1RmE1c3lqUkxqdURsUk1zS3pmXzh4TTRMM20tRUxLWkxXaWR5dzNPZnQxcFlOVGFvTThlVEtmUXJ0aGNVTQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-13T12:46:39.000Z",
+    "snippet": "산본동, 군포시, 경기도 일기예보 및 날씨 - The Weather Channel | Weather.com The Weather Channel"
   },
   {
     "id": "1409257a7613e018",

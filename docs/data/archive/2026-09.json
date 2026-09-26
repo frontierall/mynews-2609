@@ -1,5 +1,25 @@
 [
   {
+    "id": "17a646f65b7bd4a9",
+    "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T08:57:00.000Z",
+    "snippet": "오픈AI가 최신 사이버 보안 전용 모델 'GPT-6 사이버(Cyber)'를 몇주 안에 공개하고, 기존 모델 API 공급 방식에서 벗어나 고객이 모델을 더 안전하고 자동화된 방식으로 배포 및 운용할 수 있도록 지원하는 최초의 사이버 보안 전용 제품을 선보인다.포춘은 24일(현지시간) 소식통을 인용해 오픈AI가 오는 29일 미국 샌프란시스코에서 열리는 '데브데이 2026'에서 GPT-6 사이버를 비롯해 12개 이상의 신규 제품을 "
+  },
+  {
+    "id": "0b687cb0b3202e28",
+    "title": "미중 정상 백악관 회담...시진핑 \"AI 통제\" vs 트럼프 \"현상 유지\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215663",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-26T08:01:13.000Z",
+    "snippet": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 백악관 국빈 만찬에서 빅테크 수장들과 자리를 함께하며 AI 패권을 둘러싼 미중 관계의 향방을 타진했다. 양국 정상은 AI 주도권을 확보하겠다는 본질적인 목표와 기술 경쟁 의지를 공유하면서도, 이를 풀어내는 화법과 접근 방식에서는 온도 차를 드러냈다.24일(현지시간) 백악관 이스트룸에서 열린 국빈 만찬에는 젠슨 황 엔비디아 CEO, 팀 쿡 애플 회장, 일론 머스크 CEO, 마크"
+  },
+  {
     "id": "e6ff5d3e16a8ed72",
     "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215662",
@@ -10,6 +30,276 @@
     "snippet": "마이크로소프트(MS)가 '코파일럿(Copilot)'의 전면 개편을 단행하며 챗봇 중심 시장에서 자율형 에이전트 플랫폼으로의 전환을 선언했다. 단순한 대화형 AI 서비스에서 벗어나 오피스 소프트웨어와 코드 생성, 상시 가동형 에이전트를 하나로 묶은 슈퍼 앱으로 서비스로 재편해 비즈니스 AI 시장의 주도권을 굳히겠다는 전략이다. 사티아 나델라 MS CEO는 25일(현지시간) 새로운 코파일럿을 공개하며 발표에서 \"모든 에이전트는 고"
   },
   {
+    "id": "30208ab5606825be",
+    "title": "중력은 홀로그래픽한 듯하다. 이는 현실에 무엇을 의미할까?",
+    "link": "https://news.hada.io/topic?id=34303",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T02:42:24.000Z",
+    "snippet": "홀로그래피 원리는 공간의 경계면만 측정해도 내부에서 일어나는 모든 일을 알아낼 수 있다는 생각으로, 중력이 있는 세계에서 부피와 면적의 구분을 근본적으로 뒤흔듦 블랙홀 엔트로피가 부피가 아닌 표면적에 비례한다는 계산이 첫 단서였지만, 이를 내부 전체가..."
+  },
+  {
+    "id": "915e09e50b09aeff",
+    "title": "우리는 어떻게 걱정을 멈추고 캠퍼스 감시를 사랑하게 되었나",
+    "link": "https://news.hada.io/topic?id=34302",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T02:39:24.000Z",
+    "snippet": "MIT가 캠퍼스에 수백 대의 감시 카메라를 설치하고 Ambient.ai의 AI 기능 도입을 검토하면서, 사생활 침해와 공동체 의견 수렴 부족에 대한 교수들의 비판이 커짐 행정부는 2026년 5월 교수회의에서 구성원에게 알리거나 동의를 구하지 않은 채 AI 기능을 이미 시험"
+  },
+  {
+    "id": "6dd82c2e96d8d113",
+    "title": "9월 26일 오늘 날씨 예보입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRVY2WTZVNnpGdFl6UmJ0OWpCZnFsRWJiZFdCS05HZzdCSlQtNjN4dXBuaVpGYWlfTlhjN2xuclNVcWppX0s0eE10QWU0dzhpdTh6bmlpQ05BdVVD?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T02:29:38.000Z",
+    "snippet": "9월 26일 오늘 날씨 예보입니다. Vietnam.vn"
+  },
+  {
+    "id": "dd0218fd127859a2",
+    "title": "9월 26일 날씨 예보: 베트남 북부는 맑겠고, 중부 고원과 남부 베트남에는 폭우가 점차 그치겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcG8xRzZ1Rk1mVFdFMHNWSUZlVWRpY09HUGU1eXBybXkxcE1xUE96Q1JYbzZMRUJRU3lNVTJOeHdBMmtRdmo1Ym5NMzFnaUs0dTVQcVM5dTVWMXlIRFY0VFZNaEFvb1FfM0s2S2lfSjNMMEw1eUFGODFNUzlPbnY3Wjdua2ZiSmVSMFFGVjVwR1NYY1ZwbFJTQ3poVmZsQ2o1cUxMNUhhQ01odEZFdmc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T01:58:56.000Z",
+    "snippet": "9월 26일 날씨 예보: 베트남 북부는 맑겠고, 중부 고원과 남부 베트남에는 폭우가 점차 그치겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "ca7b679f6f874910",
+    "title": "1억1000만원대 회복한 비트코인…고금리에도 상승세 이어갈까",
+    "link": "https://www.hankyung.com/article/202609255801i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T01:56:12.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "137f24101b523db6",
+    "title": "오늘 날씨(9월 26일): 북부 지역은 맑고, 남부 지역은 늦은 오후와 저녁에 소나기가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjk1MTFKVjVIeklia0xsc2I3TXViQVIwcWRCS1p0OC1pY1VudndPXzNQOC00SEdKa25SVlpYeE9FS3lhOF9HZ2swdDh5dkJaWWRMZUsxSGtWNkRSWXliRm5lZF93eUZMN3hqaGtzakdwMzNjTVhYay01aXRxSlk0THJOWWVPVjRXUk91aGQzU3ZHUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T01:54:55.000Z",
+    "snippet": "오늘 날씨(9월 26일): 북부 지역은 맑고, 남부 지역은 늦은 오후와 저녁에 소나기가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "d1e84ae6045d3feb",
+    "title": "Alan Kay: Shannon은 잡음이 있는 채널을 다루는 방법을 제시했다 [영상]",
+    "link": "https://news.hada.io/topic?id=34300",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T01:46:30.000Z",
+    "snippet": "Alan Kay는 Shannon이 잡음이 있는 채널을 다루는 방법을 제시했다는 사실을 거의 매일 떠올리며 경이로움을 느낌 대화 중 오디오 지연이 나타나고, 같은 발언이 반복해서 들림 참가자들은 신호가 우회 경로를 거쳐 되돌아오는지 확인하..."
+  },
+  {
+    "id": "43957a98ab3a10fe",
+    "title": "Amiga 스크린 입문",
+    "link": "https://news.hada.io/topic?id=34299",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T01:43:30.000Z",
+    "snippet": "Amiga의 스크린은 해상도와 색 깊이를 개별적으로 설정할 수 있는 그래픽 표시 영역으로, 서로 다른 스크린을 동시에 표시하거나 겹칠 수 있음 비트플레인 기반 그래픽은 화면에 필요한 색 수만큼 메모리를 사용하므로, 적은 메모리에서도 2색 텍스트 편집기와 32색..."
+  },
+  {
+    "id": "53cc06a1349a9b33",
+    "title": "과외 업체, 학부모에게 돈을 아끼고 “대신 AI를 쓰라”고 권고",
+    "link": "https://news.hada.io/topic?id=34298",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T01:40:30.000Z",
+    "snippet": "호주 Dymocks Tutoring and Talent 100이 학부모에게 비싼 과외 대신 Gemini나 ChatGPT에 돈을 쓰라고 권고함 고객에게 기술 발전으로 자사 서비스가 더 이상 필요하지 않게 됐다고 알림 업체는 이번 주 말 영업을 종료할 예정임 ..."
+  },
+  {
+    "id": "cc2d7f6e556096d2",
+    "title": "일반 아이스크림 안 팔려도…이것만은 불티나게 팔렸다",
+    "link": "https://www.hankyung.com/article/202609245253i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T01:30:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0d6d982ab1134efd",
+    "title": "Microsoft, Home/Code/Autopilot을 갖춘 새 Copilot 발표",
+    "link": "https://news.hada.io/topic?id=34296",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T01:03:01.000Z",
+    "snippet": "질문에 답하는 채팅부터 문서 공동 편집, 업무용 앱 제작, 상시 실행 에이전트까지 하나의 Copilot 앱에서 처리하도록 개편함 Home은 Chat과 업무를 끝까지 맡기는 Cowork를 통합하고, Word, Excel, PowerPoint 문서를 대화 옆에서 만들고 팀원과 함께 편집할 수 있..."
+  },
+  {
+    "id": "ae3fedab0cdd8313",
+    "title": "알렉산더 왕: 내가 Muse를 만드는 이유",
+    "link": "https://news.hada.io/topic?id=34295",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T00:59:02.000Z",
+    "snippet": "사람들은 가족과 시간을 보내거나 가게를 열고 싶은 꿈이 있어도, 어디서 시작할지 몰라 실행하기도 전에 포기하는 경우가 많음 Muse가 지향하는 것은 사용자가 무엇을 원하는지 함께 알아내고, 실제로 이루도록 돕는 개인 AI 에이전트임 막연한 바람을 구..."
+  },
+  {
+    "id": "00e0c602b98b1061",
+    "title": "Show HN: Jev가 Pokémon Red를 플레이함",
+    "link": "https://news.hada.io/topic?id=34294",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T00:57:24.000Z",
+    "snippet": "Jev가 Pokémon Red를 플레이하는 모습을 실시간으로 볼 수 있는 페이지임 화면 오른쪽 패널에서 Jev의 모든 결정을 확인할 수 있음 오른쪽 패널에는 Jev의 승산도 표시됨 게임 오디오는 기본적으로 음소거되어..."
+  },
+  {
+    "id": "7d5bab1fcae58ef7",
+    "title": "늘 네트워크에 연결되어 있는 삶에 지쳤다",
+    "link": "https://news.hada.io/topic?id=34293",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T00:54:24.000Z",
+    "snippet": "스마트폰은 어디서나 인터넷을 쓰게 해주던 소중한 기기에서, 학교와 교통, 신원 인증 등 일상에 참여하려면 감수해야 하는 사실상의 의무가 됨 사용자가 경험을 통제하기는 어려운데, 앱과 지도, 팟캐스트는 광고와 알림으로 끊임없이 다른 행동을 요구함"
+  },
+  {
+    "id": "f161860fbfbf8e22",
+    "title": "ChatGPT와 Gemini가 가짜 고객센터 번호를 안내하도록 만드는 사기 수법",
+    "link": "https://news.hada.io/topic?id=34292",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T00:51:24.000Z",
+    "snippet": "웹에 가짜 고객센터 번호와 지원 페이지를 대량 게시해, ChatGPT, Gemini와 Google AI Overview가 사기 연락처를 정상적인 기업 정보로 안내하게 만드는 공격이 발견됨 조사팀은 항공사, 은행, 여행 플랫폼과 소프트웨어 업체 등 374개 기업을 사칭한 공격과 악성 페이지 수..."
+  },
+  {
+    "id": "0fb35caeb0043875",
+    "title": "OpenAI 에이전트가 Hugging Face를 해킹한 구체적 수법 공개",
+    "link": "https://news.hada.io/topic?id=34291",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T00:48:22.000Z",
+    "snippet": "지난 7월 700개 OpenAI 에이전트의 Hugging Face 공격에서 남은 공개 URL을 추적해 8만 개 이상의 공격 페이로드를 복원함. 내부 데이터 접근, 자격 증명 수집, 지속적인 원격 제어와 흔적 삭제 시도가 드러남 에이전트는 GET 요청만 가능한 제약..."
+  },
+  {
+    "id": "740508deebaa98ee",
+    "title": "Ordewell - 코딩 작업을 위한 멀티 에이전트 오케스트레이터",
+    "link": "https://news.hada.io/topic?id=34290",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T00:30:01.000Z",
+    "snippet": "하나의 개발 목표를 주면 작업을 나누고 실행 순서를 정해 Claude Code, Codex, OpenCode에 배분하는 도구 작업마다 에이전트와 모델, 추론 수준을 다르게 지정하므로 복잡한 코드 수정과 간단한 문서 작업에 서로 다른 모델을 배정 가능 계획 담..."
+  },
+  {
+    "id": "a1147c076950c64c",
+    "title": "9월 26일 날씨 예보: 베트남 중부에서 남부 지역에 걸쳐 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkhiaXB6dzFveDRnSEZfMWZVeEpRSnRQbVljT1JRZWVDNXRkSFFrRkhKQUZPWlh2bmNHWC1nZ2RMdmk2ODB5dGRfbVhuVGdRRlpsMzlBUEd3UzJWMmRIYzhiRDQ4QW1HV05xVURWbGtxWlc0S3NqRGd0RHJhV19DNDBiSEpCd296cU9lY3o4b2s?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T00:22:08.000Z",
+    "snippet": "9월 26일 날씨 예보: 베트남 중부에서 남부 지역에 걸쳐 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "6d74645e2699df41",
+    "title": "Lobsters: vibecoding을 llms로 바꾸는 Greasemonkey 스크립트",
+    "link": "https://news.hada.io/topic?id=34289",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T00:01:24.000Z",
+    "snippet": "Lobsters의 vibecoding 태그를 llms로 표시하는 사용자 스크립트임 Greasemonkey 스크립트임 구현 언어는 JavaScript임 목록에 표시된 일일 설치 수와 전체 설치 수는 각각..."
+  },
+  {
+    "id": "e6668093151b74e5",
+    "title": "\"어머니, 올해 동그랑땡은 꽝꽝 얼린 걸로\"…추석 차례상의 반란 [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609266319i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T00:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a1943008bd370262",
+    "title": "샴푸·양말세트는 옛말…추석 선물시장 '주류' 존재감 커졌다",
+    "link": "https://www.hankyung.com/article/2026092663417",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T23:57:59.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e7e860d58f5903ad",
+    "title": "[영상] 2026년 9월 26일 날씨 예보: 북부 지역은 간간이 햇볕이 비치겠고, 중부 지역은 강수량이 점차 줄어들겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmd5b241SDJWRFVpRkxoS3pJOG9xNWhHTHJFZ1NrdGNDNEFCLXNFdDAyYTdmZmZYakJuT29FV0VhdllBaFVRZXFQX3FYekU1MGJQVlc3WDNSSW5tZVFLSjRSLXFsOVo4eHFuOEdCbnpLOF9ub0FSWlFsdWtVLXBwdURSWW9pTGRyQ3FTWC1ldV9fRzhzZS1MMEs1bFBqa1Q3OGJxejB1N0o3THhOUElN?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T23:52:19.000Z",
+    "snippet": "[영상] 2026년 9월 26일 날씨 예보: 북부 지역은 간간이 햇볕이 비치겠고, 중부 지역은 강수량이 점차 줄어들겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "0c0cae08958f6548",
+    "title": "미중 무역휴전 두 달 연장…충돌 대신 관리 택한 시진핑·트럼프",
+    "link": "https://www.hankyung.com/article/202609266324i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T23:47:35.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ae1c5cf3b81d60f5",
+    "title": "오늘 저녁 호치민시의 날씨에 대비하세요. 만조가 곧 최고조에 달할 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXRfQjhjRGItRnc3NEdXa2NIekRtemgxNmRjZGJSbmpfZEVWckFGNTJOck1DVDBVbUw0Ykd4UHlaUFpwZVZBMDc5V21HWFRZOUVDTWlXVUNYZ3U5aFRVYkFWUDRZMFNreWdrMGZEREYtVnN2dlVvQWFmMEs3Z2p4NjlzOFVJbE1URUc3dnh4cw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T23:40:05.000Z",
+    "snippet": "오늘 저녁 호치민시의 날씨에 대비하세요. 만조가 곧 최고조에 달할 예정입니다. Vietnam.vn"
+  },
+  {
+    "id": "1934adde5414f55a",
+    "title": "\"한은 총재가 종목 추천해준다?\"…유명인 사칭 SNS 기승",
+    "link": "https://www.hankyung.com/article/2026092663157",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T23:35:00.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3ccc3840f024ebf8",
+    "title": "오늘 날씨 예보(9월 26일): 베트남 중부 및 남부 지역에 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeEJkSG5uME9ieXFoYzZlUUxQMkJ4THJPMGR1VXVITFJBelZRcjh2TWxRMGpjRC01ZThaYTM0dnVYS0hveC0zYzNTbC1iQldLdXBRdm5leHZxYXJTelNjeHRfdzdUVWV3TWEtdnRqZ3kwcHBnUkQ5QlZyalNNcFhoZlBGNTM1Zw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T23:30:58.000Z",
+    "snippet": "오늘 날씨 예보(9월 26일): 베트남 중부 및 남부 지역에 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "4917a3aa8300fea6",
+    "title": "[오늘 전국 날씨예보] 기상청 날씨누리, “26일 남부지방과 제주도 중심 비” - 한국강사신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LQ1lOdDFZNVdkVUZGWG9DalZiTUNfRjJab3NONnJzSGNWQUJqQkx0SFg5b1lNbHB0N3I4WDBvMUJSVi0ydC1SRlJiMlhqRXgwMHJQU2cyZFZUS0ZZZXlXcklfN2F4ZU5fTHE4eDRWQ0o?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-25T23:18:43.000Z",
+    "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “26일 남부지방과 제주도 중심 비” 한국강사신문"
+  },
+  {
     "id": "df8b144fb3fca108",
     "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
@@ -18,6 +308,16 @@
     "category": "AI",
     "publishedAt": "2026-09-25T23:18:42.000Z",
     "snippet": "미국 백악관이 오픈AI와 앤트로픽 등 자국 AI 기업에 미국 정부의 검증절차가 완료될 때까지 신규 모델을 영국 AI안보연구소(AISI) 등 해외 기관에 제공하지 말라고 요청했다.폴리티코는 24일(현지시간) 정통한 소식통과 미국 행정부 고위 관계자를 인용, 미국 국가사이버국(NCC)의 요청으로 이같은 압박이 이뤄졌다고 보도했다.관계자에 따르면, 이번 조치는 미국 기업이 개발한 최첨단 AI 모델의 보안성을 자국 시스템에서 먼저 검"
+  },
+  {
+    "id": "85f4991491bfc526",
+    "title": "\"고기 사기 겁나네\"…추석 연휴 축산물 가격 줄줄이 상승",
+    "link": "https://www.hankyung.com/article/2026092662657",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-25T23:04:34.000Z",
+    "snippet": ""
   },
   {
     "id": "e57ae347b9923100",

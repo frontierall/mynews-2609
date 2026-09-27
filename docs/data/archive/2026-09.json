@@ -1,5 +1,205 @@
 [
   {
+    "id": "e45ef0492168c9e9",
+    "title": "서로 돕기 위해 잠시 멈추지 않는다면, 우리는 무엇이 되는가?",
+    "link": "https://news.hada.io/topic?id=34343",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-27T00:01:46.000Z",
+    "snippet": "전쟁 중 학업을 병행하던 한 공군 복무자에게 Stack Overflow의 낯선 사람들이 건넨 도움은 과제 해결을 넘어, 누군가 자신을 신경 쓰고 있다는 연결감을 줌 가족과 친구 중 소프트웨어 엔지니어들에게 도움을 청했지만 무시당하거나 혼자 해결하라는 답을 들었고, 정작 아무..."
+  },
+  {
+    "id": "67edcfe3c048a769",
+    "title": "ASML, 2026년 유럽에서 “아무것도 팔지 못했다”고 밝혀",
+    "link": "https://news.hada.io/topic?id=34342",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T23:47:50.000Z",
+    "snippet": "ASML의 유럽 매출 비중이 2026년 1분기와 2분기 모두 0% 를 기록했으며, 회사는 EU에 유럽산 반도체 수요 창출을 요청함 공장 건설 보조금 같은 공급 측 지원에 더해, 유럽 정부가 반도체 수요를 모으고 보장해 제조사의 현지 투자에 경제적 유인을 만들어야 한다고..."
+  },
+  {
+    "id": "42053994333cb8d9",
+    "title": "DeepSeek Elastic Compute (DSec)",
+    "link": "https://news.hada.io/topic?id=34341",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T23:44:50.000Z",
+    "snippet": "DSec은 대규모 LLM 에이전트 학습과 평가를 위해 FnCall, 컨테이너, microVM, 전체 VM을 통합 SDK로 제공하는 프로덕션 샌드박스 플랫폼임 에이전트 작업은 샌드박스를 대량으로 동시에 생성하고, CPU가 쉬는 동안에도 상태를 유지하므로 탄력적 배치와 고밀도 자원 관리"
+  },
+  {
+    "id": "4f48edbf3be002cf",
+    "title": "Automattic, CEO 휴직 시도 무산 후 새 이사회 구성",
+    "link": "https://news.hada.io/topic?id=34340",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T23:41:50.000Z",
+    "snippet": "Automattic CEO Matt Mullenweg가 자신을 휴직시키고 이사회에서 배제하려던 기존 이사들의 시도가 무산된 지 몇 주 만에 이사회를 재구성함 Mullenweg는 자신이 통제하는 의결권 84% 를 활용해 경영권을 되찾고 관련 이사들을 교체했으며, 휴직부터 복귀까지는"
+  },
+  {
+    "id": "fd56cd477cb80f4c",
+    "title": "오늘 날씨(9월 27일): 베트남 북부와 중부는 맑음, 남부는 천둥번개 예상. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUNkRC1VX0N3UlBHOHp3X1ZFc0dGaG93Mm9mN19IVGlobkJxQUFsVnY4T2VuTXI0THpLZTNQMDNsMWFtakQzRzh5bDVCNC1zZW8tTXJaUjlVYWM2SkxLQXZFUHpKN3FjNmJOMjUzbWRFWlZacExhYUJyUFM5NjdwQ3hLZ3NlOGxrbnZSZWM4YnQzNW1meUdWUA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T23:24:01.000Z",
+    "snippet": "오늘 날씨(9월 27일): 베트남 북부와 중부는 맑음, 남부는 천둥번개 예상. Vietnam.vn"
+  },
+  {
+    "id": "a46b024c9ba57a3e",
+    "title": "9월 27일 응에안 지역 날씨 예보: 맑음, 오후와 저녁에 소나기. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDBWUEtYN0tYWWxNeFFSQ0xVSDBuSnZFU1V0Q0JrZmQ4cWZGeDE2elFpaFRmUDN3X05xYVI0VTFPaXZ2cGgyemNZb09yNEFSaXpwTmxDeVZ3bmtmWl91Y29WUWJGcW9pNjduU0VTSFlsOWJSOHF4YVdwbWVfcE1TTUMwUUppM09GMXRsSWVsa3E?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T23:13:56.000Z",
+    "snippet": "9월 27일 응에안 지역 날씨 예보: 맑음, 오후와 저녁에 소나기. Vietnam.vn"
+  },
+  {
+    "id": "9754e2829a289943",
+    "title": "2026년 9월 27일 날씨 예보: 베트남 북부는 맑은 날씨가 이어지겠으며 기온은 약 34도까지 오르겠습니다. 한랭 전선이 접근하고 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOUNubWYwZ2cxQUFxamlLUmhzYm16bXF1VmVYcDllR2ZUckotYldhLWV3ZkJIWEZVLXdlVkdGd0hkT05jSkZuODdiQ1RrcWppeWlVaktCQ3JaNnYtTE94c2IxTHhod0g5bjV6TGJnVkZnY2VlRldtRUVSRzExWkVtcW9BajdYSGE4SE5Nand4MHo2RVMtQ0djMGpMdlpEMU0zckZxc3VB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-26T23:02:24.000Z",
+    "snippet": "2026년 9월 27일 날씨 예보: 베트남 북부는 맑은 날씨가 이어지겠으며 기온은 약 34도까지 오르겠습니다. 한랭 전선이 접근하고 있습니다. Vietnam.vn"
+  },
+  {
+    "id": "dfc567ceb6c7ab7d",
+    "title": "\"엔비디아 너무 비싸\"…1200조 시장 노리는 K반도체",
+    "link": "https://www.hankyung.com/article/2026092769927",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T22:56:40.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b1af9e8eb5a18b2c",
+    "title": "1만원 목욕탕 놔두고 9만원 낸다…'예약 전쟁' 벌어진 이곳 [박수림의 요즘 여기]",
+    "link": "https://www.hankyung.com/article/202609220866g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T22:45:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5f1fcd4e434a0415",
+    "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
+    "link": "https://www.hankyung.com/article/2026092769727",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T22:39:58.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9033368a95860a85",
+    "title": "Show HN: Reladraw - 요소를 어디에 놓을지 직접 정하는 다이어그램 언어",
+    "link": "https://news.hada.io/topic?id=34338",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T22:32:41.000Z",
+    "snippet": "Reladraw는 좌표 대신 요소 간 상대적 위치를 텍스트로 지정하는 다이어그램 언어로, 자동 배치와 수동 절대 좌표 편집 사이를 지향함 배치 관계는 소스가 결정하고 엔진은 필요한 거리를 계산함. 요소를 추가하거나 텍스트가 길어지면 최소 간격 제약을 풀어 공간..."
+  },
+  {
+    "id": "f0a11c06fcb44f28",
+    "title": "\"AI 전기 너무 먹네\" 골치였는데…삼성도 꽂힌 신기술 나왔다",
+    "link": "https://www.hankyung.com/article/202609276925i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T22:00:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "025bf109658daeb3",
+    "title": "스테이블코인도 '은행업'처럼…Fed, 2영업일 환매·100% 준비금 추진 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609266710i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T22:00:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "daa3354a0c44684f",
+    "title": "\"농기계 회사가 자율주행 한다고?\"…75년 기업의 '대변신'",
+    "link": "https://www.hankyung.com/article/202609229954i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T22:00:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7fa3bf9f8ed67165",
+    "title": "\"35년 삼성맨인데 인턴입니다\"…62세에 다시 출근한 이유 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202609234199i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T22:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "712073aa60547027",
+    "title": "\"직원은 수억원 주면서 우리는?\"…반도체 성과급 잔치의 그늘 [강진구의 회사법 뜨락]",
+    "link": "https://www.hankyung.com/article/202609234174i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-26T22:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "15b3e8bdcd6f73d5",
+    "title": "Show GN: 자조모임 BBS 무료 게시판/대화방",
+    "link": "https://news.hada.io/topic?id=34337",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T21:51:07.000Z",
+    "snippet": "의사로서 중독, 우울, 불안 환자를 치료하면서 왜 한국에는 자조모임이 없을까? 자조모임만큼 효과적인 것은 없는데! 라는 생각을 많이 했었죠 문화차이겠죠 그렇다면 온라인 자조모임이라도 활성화 될 수 있으면 좋겠다라는 생각으로 병원의 치료소모임을 위한 게시판 서비스를 만들었습니다. 의료 분야 뿐만"
+  },
+  {
+    "id": "9e7cff0ee909536b",
+    "title": "LLM 시대에도 프로그래밍을 계속 즐기는 법",
+    "link": "https://news.hada.io/topic?id=34336",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T21:40:53.000Z",
+    "snippet": "코딩은 사람이 맡고, LLM에는 계획 정리, 조사, 검토 등 주변 작업을 맡기는 방식으로 프로그래밍의 즐거움과 적당한 생산성 향상을 함께 추구할 수 있음 코드베이스에 대한 이해와 주도권을 유지하려면 직접 코드를 계속 작성해야 함. 모든 구현을 에이전트에 넘기..."
+  },
+  {
+    "id": "a14eb3b2a4aa57e6",
+    "title": "Postgres 마이그레이션은 안전할까, 안전하지 않을까?",
+    "link": "https://news.hada.io/topic?id=34335",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T21:37:53.000Z",
+    "snippet": "safe-not-safe는 PostgreSQL 마이그레이션 SQL을 입력하고 검사하는 도구로, 브라우저 편집기와 CLI 실행 명령을 제공함 SQL 파싱에는 libpg_query 17의 WASM 버전을 사용하며, 브라우저 탭의 웹 워커에서 다운로드하고 컴파일함 입력 내용은 업로..."
+  },
+  {
+    "id": "5221abf0c267a608",
+    "title": "Johannes Doerfert를 추모하며",
+    "link": "https://news.hada.io/topic?id=34334",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-26T20:34:04.000Z",
+    "snippet": "LLVM에 활발히 기여하며 존경받던 개발자 Johannes Doerfert가 암 투병 끝에 2026년 9월 17일, 36세로 별세함 프로그램 전반의 함수와 인자 속성을 추론하고 전파하는 Attributor를 설계했으며, 이 프레임워크는 LLVM의 프로시저 간 최적화 인프라에서 중요한 역할..."
+  },
+  {
     "id": "7ec706b7e5d9241e",
     "title": "[수도권 날씨예보] 대체로 맑음…낮 최고 28도·큰 일교차 - thefairnews.co.kr",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pYXVGRS14TmJOb1JKVVJDUnl4YnM4eGtSYWllWW1SMW9VZGZkX1VmT2tGbmFjel9NajVBZFhpVWtYc0R3dGYyNllSamNfZ0VrZWpTUFd3WjQ3Yl9Lb1o3RHpaZDFodTZoRFJGaWZrNFrSAXRBVV95cUxNLW12eC0zNjlQNDNkNkhPZGw2MnhQSUI4dVZ4dUtFUXBTRG9pVkZzSVgyTlNWU05TZlpEb2IyaGxqcnYwLUpDWFpIWmRBUFo4ZU1FMzdhZy1LLWlrc3NMeFAtX0JhWk1VcEgyWV91ajFRM3Iwbg?oc=5",

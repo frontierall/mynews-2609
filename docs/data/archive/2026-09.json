@@ -1,5 +1,395 @@
 [
   {
+    "id": "23a5857bdb5b6ea4",
+    "title": "앤트로픽, '클로드 소네트 5.5' 공개…오퍼스급 지능에 최강 가성비",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215734",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-29T07:27:02.000Z",
+    "snippet": "앤트로픽이 차세대 모델 라인업의 두 번째 주자인 '클로드 소네트 5.5(Claude Sonnet 5.5)'를 출시했다. 상장(IPO)을 준비 중인 앤트로픽이 기업용 시장에서의 주도권을 확고히 하기 위해 성능은 물론 효율성을 대폭 끌어올린 실용형 모델이라는 점이 특징이다.28일(현지시간) 발표에 따르면, 소네트 5.5는 이전 세대인 '소네트 5' 대비 출력이 30% 이상 빨라졌으며, 압도적인 작업 처리 효율성 덕분에 동일 작업당"
+  },
+  {
+    "id": "b89a06590653f53d",
+    "title": "[9월28일] 메타 '뮤즈'가 찾아낸 새로운 유즈 케이스는 '구독 해지'",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215702",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-29T07:00:00.000Z",
+    "snippet": "메타의 AI 에이전트 ‘뮤즈(Muse)’가 미국에서 빠르게 인기를 얻고 있습니다. 아직 뮤즈를 사용할 수 없는 국내에서는 이런 현상이 다소 뜬금없이 느껴질 수 있지만, 현지에서 사용자들의 실제 활용 사례를 살펴보면 새로운 유즈 케이스(Use Case)가 눈에 띕니다. 의외로 ‘구독 해지’입니다.사용하지 않는 구독 서비스를 찾아내고 직접 해지해 돈을 아꼈다는 사례가 잇따르면서 ‘AI가 내 돈을 아껴준다’는 사용법이 뮤즈의 대표적"
+  },
+  {
+    "id": "4fb2a3a4ac1a1775",
+    "title": "주택전세보증 12배 뛸 때…보증보험 ‘못 받은 돈’은 83배 껑충",
+    "link": "https://www.mk.co.kr/news/economy/12163368",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:52:28.000Z",
+    "snippet": "김재섭 “회수율 높일 실효성 있는 대책 마련해야”한국주택금융공사가 전세보증금을 돌려받지 못한 세입자에게 집주인 대신 보증금을 지급한 뒤 임대인에게서 회수하지 못한 돈이 4년여 만에.."
+  },
+  {
+    "id": "b056050696172115",
+    "title": "내년 해외여행 가려고 했는데…\"7000원이 2만원?\" 화들짝 [김익환의 부처 핸즈업]",
+    "link": "https://www.hankyung.com/article/202609255871i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:45:39.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e387aa358f0e2d69",
+    "title": "\"수출길 막힐라\" 날벼락에…1165억달러 베트남 시장 살린 묘수",
+    "link": "https://www.hankyung.com/article/202609288746i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:33:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "370f8ee599324718",
+    "title": "사모펀드 돈 묶이자…부유층도 지분 담보 현금 확보",
+    "link": "https://www.hankyung.com/article/202609290856i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:24:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a43e3300ab13ac9c",
+    "title": "트럼프도 바이든도 피하자…정치 리스크 줄이는 美 벤처캐피털",
+    "link": "https://www.hankyung.com/article/202609290851i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:20:32.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a7da7726e9da905a",
+    "title": "셰인 상장 첫 성적표 충격…조정이익 67% 급감",
+    "link": "https://www.hankyung.com/article/202609290828i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:18:53.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4c509910ec9d900e",
+    "title": "[속보] 삼성 6개사, 美 AI 인프라 기업 헬릭스에 10억 달러 투자",
+    "link": "https://www.hankyung.com/article/2026092905977",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:12:53.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4f0c5bb719519bc6",
+    "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/27/2026",
+    "link": "https://www.tubefilter.com/2026/09/28/top-50-most-subscribed-youtube-channels-week-of-09-27-2026/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-28T23:10:59.000Z",
+    "snippet": "Lucan Pevidor has completed a perfect September in the Global Sub Top 50. We published four editions of our subscriber chart during the ninth month of the year, and Pevidor finished in first place in all four. Pevidor, however, is far from "
+  },
+  {
+    "id": "022418c313102159",
+    "title": "[밤 사이 해외뉴스 영상] 엔비디아의 1500억 달러 자사주 매입 결단",
+    "link": "https://www.hankyung.com/article/202609290812i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:10:37.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "2911f462a490cd95",
+    "title": "'현대家' 노현정 19세 아들, 알고 보니…'766억 회사' 최대주주",
+    "link": "https://www.hankyung.com/article/202609290806H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:07:34.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8240282dc2d22b49",
+    "title": "[밤 사이 해외뉴스] 국채금리 20년 만에 최고인데 증시는 왜 버틸까?",
+    "link": "https://www.hankyung.com/article/202609290735i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:07:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ab3a70f91761eed6",
+    "title": "엔비디아 1500억달러 자사주 매입…美 역대 최대",
+    "link": "https://www.hankyung.com/article/202609290792i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:05:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c009230684f1f8dd",
+    "title": "내가 알던 63빌딩 맞아?…'유령도시' 여의도의 '반전'",
+    "link": "https://www.hankyung.com/article/2026092800271",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:00:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "34d3d225fd834a6b",
+    "title": "커피는 지고 빵이 떴다…편의점 최고 효자 상품은 '이것'",
+    "link": "https://www.hankyung.com/article/202609289740i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T23:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4d46090e7f43ccf8",
+    "title": "이란전쟁 충격에 英 디젤값 사상 최고…물류비 압박",
+    "link": "https://www.hankyung.com/article/202609290728i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T22:55:32.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6d85177a015b2290",
+    "title": "Jeff - 집에서 학습한 Jev 호환 0.8B 의사결정 모델, 약 30ms",
+    "link": "https://news.hada.io/topic?id=34459",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T22:43:38.000Z",
+    "snippet": "Jeff는 상황과 선택지를 자연어로 입력하면 단 한 번의 순전파로 선택지별 보정된 확률을 반환하는 소형 분류 모델임. 텍스트 생성이나 응답 파싱 없이 로컬 코드에 넣어 사용할 수 있음 Qwen3.5와 Gemma 4를 미세조정했으며, 0.8B 모델의 결정 시간은 RTX PRO 600..."
+  },
+  {
+    "id": "20e4338f7a734003",
+    "title": "포천시, ‘2026년 하반기 효드림 할인업소 지원사업’ 참여 업소 모집 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15STFfcjJqRmJYaEVualEzcWFWSHp0aUJ5ZDJpMEJNZEV4MzBUb3BteDRHbUpVR3E5VDJsOGZlY0EtbUxDVmMzcE8yYzVzSzFpUWkzbWt3?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-28T22:41:23.000Z",
+    "snippet": "포천시, ‘2026년 하반기 효드림 할인업소 지원사업’ 참여 업소 모집 헤럴드경제"
+  },
+  {
+    "id": "662e3356534e40eb",
+    "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 09/27/2026",
+    "link": "https://www.tubefilter.com/2026/09/28/top-50-most-viewed-youtube-channels-week-of-09-27-2026/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-28T22:40:58.000Z",
+    "snippet": "T-Series has completed its dominant September. The Indian record label ran the table at #1 for an entire month in the Global Top 50. To complete that winning streak, T-Series collected 946.5 million weekly views, pushing its YouTube-leading"
+  },
+  {
+    "id": "c89f481a9ca20a5a",
+    "title": "World Labs, AMD에 합류",
+    "link": "https://news.hada.io/topic?id=34458",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T22:40:38.000Z",
+    "snippet": "World Labs가 AMD 합류를 위한 본계약을 체결함. 규제 승인과 기타 통상적인 종결 조건 충족을 전제로 2026년 말까지 거래를 종결할 것으로 예상됨 공간과 물리적 세계의 문제를 해결하는 AI 개발을 가속하기 위해 연구 규모와 도달 범위를 확대하..."
+  },
+  {
+    "id": "b513201c618d52c2",
+    "title": "9월 29일 응에안 지역 날씨 예보: 낮에는 맑고, 오후와 저녁에는 소나기와 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGtDdHVUMFlsNjFxQmdYY2ZiajFXVTk2TWx0WUFlSDJqMklUTElQU1VhY2s0eE5ZQU5DZ3ljSl9OMHJVbGx2bFVIMWZnOEZyQ09zcGlIbFhHb1c3Mi0tVEgzQXdTMmFkUEtwUVZVRS1mSGFxSHVvVG94Q3d3WE82bTI5LWV5UnJTaTFZU01XTFp0S1llS09meXFkSWdma0dObHItalhvSHFUZVBY?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-28T22:38:41.000Z",
+    "snippet": "9월 29일 응에안 지역 날씨 예보: 낮에는 맑고, 오후와 저녁에는 소나기와 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "c36a6ac57f86909a",
+    "title": "AI 연구소를 조사할 때다",
+    "link": "https://news.hada.io/topic?id=34457",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T22:37:38.000Z",
+    "snippet": "미국 의회가 OpenAI와 Anthropic의 연구 활동을 대상으로, 무엇을 어떻게 어떤 목적으로 연구하는지 공개적으로 사실관계를 조사해야 함 두 회사가 자사 기술의 위험을 부각하면서도 개발 중단 대신 정부의 잠재적 경쟁자 견제와 선도 연구소 주도의 개발을 해법으..."
+  },
+  {
+    "id": "a5034c256c60376d",
+    "title": "오늘(9월 29일) 날씨: 베트남 북부 지역은 계속해서 무더운 날씨를 보이고 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JVm13MURfYzRyOXg5RmdKNnk3dDF2SjBQbG80OEVNT2NhRHczSWNTS0RHcGFOYmFiWGVFRFNQdkZFa2FXRHZzRnpDZ2FxcU1Uc2VwYTl6MWNjUkVxYUtGZGpRMXdqWC1yZnhERmlhQjZvUkJUQUU0dXEzWFNYREk?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-28T22:30:59.000Z",
+    "snippet": "오늘(9월 29일) 날씨: 베트남 북부 지역은 계속해서 무더운 날씨를 보이고 있습니다. Vietnam.vn"
+  },
+  {
+    "id": "535647ec1a008c09",
+    "title": "DuckDB 2.0이 더 빠른 이유",
+    "link": "https://news.hada.io/topic?id=34456",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T22:24:06.000Z",
+    "snippet": "DuckDB 2.0 알파는 비동기 I/O, 재귀 CTE 엔진 재작성, VARIANT 필드 분리 저장으로 성능을 높임. 다만 개선 폭은 데이터 구조에 따라 다르며, 측정값은 M5 노트북 한 대와 가정용 인터넷 환경에서 얻은 결과임 S3 읽기는 별도 다운로드 스레드 풀이 데이터를 미리..."
+  },
+  {
+    "id": "848bcfb9ccfd0a50",
+    "title": "인덱스 하나 더의 참을 수 없는 가벼움",
+    "link": "https://news.hada.io/topic?id=34455",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T22:20:37.000Z",
+    "snippet": "코딩 에이전트가 만든 PostgreSQL 인덱스는 개별 쿼리에는 적절했지만, 쓰기가 집중되는 테이블에 누적되는 비용을 충분히 고려하지 못함 지원 도구의 tickets 벤치마크에서 인덱스가 16개인 생성 스키마는 수작업 기준 스키마보다 WAL을 1.8배 더 기록하고, 업..."
+  },
+  {
+    "id": "43cfd2e61fc0c201",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Technology Review AI",
+    "sourceId": "mit-tech-review-ai",
+    "category": "AI",
+    "publishedAt": "2026-09-28T22:17:07.000Z",
+    "snippet": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. "
+  },
+  {
+    "id": "dc4e4762944e199d",
+    "title": "Diskless Kafka: 브로커가 데이터를 소유하지 않으면 무엇이 달라질까?",
+    "link": "https://news.hada.io/topic?id=34454",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T22:14:45.000Z",
+    "snippet": "Diskless Kafka는 Kafka 클라이언트 API를 유지하면서 메시지의 영속 저장을 브로커 로컬 로그에서 공유 객체 스토리지로 옮김. 브로커의 연산 자원을 조정할 때 저장 데이터까지 이동해야 하는 결합을 줄임 객체 스토리지에는 메시지 바이트를 저장하고, 강한 일관성을 갖는..."
+  },
+  {
+    "id": "405b57e866f9c484",
+    "title": "대부분의 기술 혁명은 직원들의 일을 더 힘들게 만들었다",
+    "link": "https://news.hada.io/topic?id=34453",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T22:08:08.000Z",
+    "snippet": "PC, 이메일, 스마트폰은 업무 속도와 접근성을 높였지만, 절약한 시간은 직원에게 돌아오기보다 더 높은 업무 기대치로 바뀌는 패턴을 보였음 AI는 업무를 빠르게 연결하는 데 그치지 않고 일부 업무를 직접 수행한다는 점에서 다르며, 속도 향상으로 새로 생기는 ..."
+  },
+  {
+    "id": "fd897fdeeb16402e",
+    "title": "\"해외여행 안가요\"…백화점 럭셔리 주얼리 매출 73% '껑충'",
+    "link": "https://www.hankyung.com/article/2026092906627",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T22:00:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1db27c18f4fdb670",
+    "title": "\"하이브리드보다 130만원 싸다\"…'강남 쏘나타'의 반전 승부수",
+    "link": "https://www.hankyung.com/article/202609289256g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T22:00:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e82da42992b1a766",
+    "title": "미·중 '관세전쟁'서 '병목전쟁'으로…희토류·AI칩 경쟁은 계속된다[김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609289497i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T22:00:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "38e7a1ab10239105",
+    "title": "\"술자리·골프 다 불참…우리 같은 '대문자 I' 결국 성과로 승부봐야\"",
+    "link": "https://www.hankyung.com/article/2026092801801",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T22:00:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7641fc77a87b625c",
+    "title": "Alex Zarfati hoped being on YouTube would help him convince studios to greenlight his projects. Now he’s doing things himself–with AI.",
+    "link": "https://www.tubefilter.com/2026/09/28/alex-zarfati-ai-filmmaker-viral-nation/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-28T21:42:34.000Z",
+    "snippet": "Alex Zarfati‘s first YouTube video has 768 views. He originally got into filmmaking as a composer, scoring other people’s documentaries. Music was his first love, but after getting a behind-the-scenes glimpse of the film and TV production p"
+  },
+  {
+    "id": "5b956d9f0fcc607c",
+    "title": "제대로 된 AI 제품은 어떤 모습이어야 할까?",
+    "link": "https://news.hada.io/topic?id=34452",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T21:37:32.000Z",
+    "snippet": "“AI는 실수할 수 있으니 확인하세요”라고 요구한다면, 확인할 도구도 제공해야 함. 오류 검증은 작은 면책 문구가 아니라 제품의 핵심 기능이어야 함 답변보다 원문 인용과 데이터 출처를 앞세우고, 원본 자료·API에서 가져온 데이터와 모델이 생성하거나 가공한..."
+  },
+  {
+    "id": "b07842cd25717c8b",
+    "title": "YouTube is letting creators make reaction content on-platform, using everyone else’s long-form videos",
+    "link": "https://www.tubefilter.com/2026/09/28/youtube-long-form-reaction-content/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-28T21:32:09.000Z",
+    "snippet": "Reaction content is a tricky beast. It’s one of the top content categories across all platforms and formats, from many-hour Twitch livestreams to many-hour YouTube video essays to bite-size TikTok duets and those Facebook videos where peopl"
+  },
+  {
+    "id": "55bafc274874fa94",
+    "title": "\"석유 한 방울 안 나는 게 다행?\"…'자원의 저주' 뭐길래",
+    "link": "https://www.hankyung.com/article/2026092800371",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T21:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7cbe8c2aac072252",
+    "title": "또 국채금리 쇼크...힘못쓴 기술주, 美 증시 급락 [월가월부]",
+    "link": "https://www.mk.co.kr/news/economy/12163292",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T20:36:03.000Z",
+    "snippet": "10년물 5.2%, 30년물 5.5% 상회 국채 투매에 20여년만에 최고치 엔비디아 자사주 매입에 반등국제유가 변동성에 따른 인플레이션 우려 확산으로 미 국채금리가 연일 급등하.."
+  },
+  {
+    "id": "6efa8dd3c44087f8",
+    "title": "Show HN: HN.watch - 모든 Hacker News 게시물을 영상으로",
+    "link": "https://news.hada.io/topic?id=34451",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T20:31:34.000Z",
+    "snippet": "HN.watch는 Hacker News 첫 페이지의 각 게시물에 짧은 설명 영상을 제공하는 서비스임 게시물 제목을 클릭하면 해당 영상을 시청할 수 있음 목록에서 영상, 원문, Hacker News 댓글로 각각 이동할 수 있음 각 게시물에"
+  },
+  {
     "id": "72b702204c5f16e0",
     "title": "과기부, 국대 AI 중단설 일축...\"현 구조로는 프런티어 역부족\" 지적도",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215733",
@@ -8,6 +398,126 @@
     "category": "AI",
     "publishedAt": "2026-09-28T20:12:48.000Z",
     "snippet": "과학기술정보통신부(장관 배경훈)가 독자 AI 파운데이션 모델(독파모) 프로젝트를 중단하고 특수목적법인(SPC)을 설립한다는 보도에 대한 일축에 나섰다.과기정통부는 28일 설명자료를 통해 \"정부는 최상위급 AI 모델 개발을 위한 재원 집중 지원 필요성을 깊이 인식하고 있다\"면서도 \"독자 AI 파운데이션 모델 프로젝트 중단 및 최상위급 AI 모델 개발 관련 SPC 설립 여부 등은 아직 정해진 바 없다\"고 입장을 정리했다.이번 자료"
+  },
+  {
+    "id": "885cc21a83e889c5",
+    "title": "“미국이 예전 같지 않다” … 美 국채금리 5% 돌파가 보내는 섬뜩한 신호",
+    "link": "https://www.mk.co.kr/news/economy/12162927",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "snippet": "미국 고금리 시대 개막의 의미미국 국채금리가 잇달아 연 5%를 넘고 있다. 미국채 30년물은 지난 7월 5%를 넘어 현재 5.5%까지 올랐다. 장기 기준금리 역할을 하는 10년물 .."
+  },
+  {
+    "id": "7e633e528952e081",
+    "title": "미국채 금리발작은 인과응보 … 그래도 증시 낙관론 외치는 이유",
+    "link": "https://www.mk.co.kr/news/society/12162878",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "snippet": "스티브 잉글랜더 스탠다드차타드 북미 거시전략 헤드 인터뷰전 세계적인 인플레이션 확산 속에 미 연방준비제도(Fed)가 3년 2개월 만에 기준금리를 인상했다. 트럼프 대통령이 발탁한 .."
+  },
+  {
+    "id": "f3ac2641feafb1e4",
+    "title": "F/OSS Comics #10: C언어의 아버지, 데니스 리치의 일생",
+    "link": "https://news.hada.io/topic?id=34450",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T19:56:24.000Z",
+    "snippet": "joone.net에서 있던 만화들은 그림과 내용을 업데이트에서 fosscomics.com에 공개하고 있습니다.. 이번 에피소드는 하버드에서 벨 연구소까지, C언어를 만들고 동료들과 유닉스를 개발한 데니스 리치의 삶과 Plan 9, Inferno 이야기입니다."
+  },
+  {
+    "id": "952a19b6dd4bea38",
+    "title": "Show HN: PaperMono - 모바일 웹페이지와 연동되는 전자잉크 냉장고 자석 쇼핑 목록",
+    "link": "https://news.hada.io/topic?id=34449",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T19:49:32.000Z",
+    "snippet": "M5Stack PaperMono를 냉장고에 붙여 쓰는 가정용 쇼핑 목록으로 바꾸는 펌웨어로, 휴대전화 웹 앱과 목록을 동기화함 매장 내 이동 순서에 맞춰 통로별로 목록을 정렬하며, 기기에서 터치로 구매한 항목을 체크하거나 화면 키보드로 추가할 수 있음 전자잉..."
+  },
+  {
+    "id": "b55e8fc6127dbae5",
+    "title": "잘 가, Google, 누드 사진들은 고마웠어",
+    "link": "https://news.hada.io/topic?id=34448",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T19:46:32.000Z",
+    "snippet": "구형 Android 기기에서 Play Store가 작동하지 않아 앱을 직접 고르고 실험한 경험이 Google 없는 Android 사용에 대한 관심으로 이어짐 RAM 2GB 제약 때문에 선택한 가벼운 앱이 오히려 취향에 맞았으며, 원하는 앱을 찾지 못하면 직접 만들고 있음 텍스..."
+  },
+  {
+    "id": "08a44e456ab1bfde",
+    "title": "PS5의 RTMP 스트림 가로채기",
+    "link": "https://news.hada.io/topic?id=34447",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T19:43:32.000Z",
+    "snippet": "PS5가 Twitch로 보내는 방송을 DNS 응답 변경으로 Mac에 우회시켜, 캡처 카드 없이 Discord에 게임 화면을 공유함 Remote Play는 주변기기를 Mac에 연결해야 하고 간헐적인 입력 지연과 화질 설정 제약이 있어, 기존 게임 환경을 유지하는 방식을 찾음 Tw..."
+  },
+  {
+    "id": "89fa6a6c4c8a8abf",
+    "title": "Windows 11½",
+    "link": "https://news.hada.io/topic?id=34446",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-28T19:40:31.000Z",
+    "snippet": "Windows 11½는 Windows 데스크톱을 흉내 내며 구독, 광고, AI 기능, 업데이트, 저장 공간 경고를 풍자하는 비공식 패러디 사이트임 Edge의 다른 브라우저 설치 만류, 유효한 구독의 재인증 요구, 계산에도 업그레이드를 요구하는 Excel 등으로 소프트웨어 사용의 번거로움..."
+  },
+  {
+    "id": "32d995eb4b155345",
+    "title": "[부울경 날씨예보] 대체로 맑음…울산 오전 한때 5㎜ 안팎 비 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6TkFDbEF6M0psYi1LTWx6SFBYWXQ4VnJRVFhoNHpnVzh6Ty1DWURtM3VTNUtwczhiVkdGVUgwUWg0QTNzLW1ZbHUxNXdqeUVqbkdLTjJBQU9KQUtkTEJOb25EcFZRYkVLSFhJNUxmZkfSAXRBVV95cUxNcVNVZ2dzX21CMnh6OTltVWhDaFZFUDVfanJZVzU5Q2l0UkItb0Mza3VISEhMbVpiUXZKcW4zTWpBeUo1MDQtZUlSOGhDWU1PUFBWaHJwZjVITkFxa2FhcTlqRG9RLVZCNHdoaVoweDh1UW1WbQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-28T19:35:00.000Z",
+    "snippet": "[부울경 날씨예보] 대체로 맑음…울산 오전 한때 5㎜ 안팎 비 thefairnews.co.kr"
+  },
+  {
+    "id": "234d8f065cf3c3d2",
+    "title": "[수도권 날씨예보] 아침 쌀쌀…낮 최고 27도, 일교차 최대 15도 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tMjg5cHFkTmpnYUdpUzNFQ0JPdUdWaXAxa0tnWU1xNlpUaHhHdWZhUlFrLXJRQWQxUWJZTHljdG5JQkMwaE0xcWdoei1ZU2g5MEdXR1FweTY3a0ZWMG5wLXFXOEZGTE5zWjlLN19fNEXSAXRBVV95cUxNX3drSS1Fb3J1NVRWajVrWHNoYlVUU2tqZHNkSVRHZkprMjgzQXpEak03Q0V5cll1WjkzTXFhUTkzWjROZWxOZExfcS11ZGdKbXFLVkhJaUNRdVUzVnhSWDc1ZlVTaWJqMTlPaDFlU3lNV0x5Yg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-28T19:30:00.000Z",
+    "snippet": "[수도권 날씨예보] 아침 쌀쌀…낮 최고 27도, 일교차 최대 15도 thefairnews.co.kr"
+  },
+  {
+    "id": "caf8262129ca2833",
+    "title": "[대구·경북 날시예보] 큰 일교차…동해안·북동산지 가끔 비 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1Z3BBZWxYSDh3Z3FsVktkNmM1RHE1cE9aMWc5MndzaFF5WTZjTjRPLU5JdXI5OUc3MkNPVTR5LU9lcHBmaTgwd1JlMjRoVHBCNXFVRVV5VThqeVBCaHpHLTh0NXNJSHNmNW92YldBMnHSAXRBVV95cUxNbnczUXBRMmphXzRuaTR3MDQ4UVVsREhfZ0ZfS0c5NUVHOUdHaXNKQ1JMVmE1SGtIVkNRTDRUQ2NGczNwek13NGpDTkx1YzN4aHZMTWdHeHdqbF9Ramc3UDFfQTZNaEd4RXUxaWQwc2c0SXMydQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-28T19:25:00.000Z",
+    "snippet": "[대구·경북 날시예보] 큰 일교차…동해안·북동산지 가끔 비 thefairnews.co.kr"
+  },
+  {
+    "id": "1931a20422bb8c05",
+    "title": "CNN dives into Texas Senate race alongside media partner Jubilee",
+    "link": "https://www.tubefilter.com/2026/09/28/cnn-jubilee-media-town-hall-james-talarico/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-28T19:21:41.000Z",
+    "snippet": "As James Talarico attempts to turn Texas blue, CNN and Jubilee Media are giving him a chance to meet his constituents online. The two news organizations have joined forces to present CNN & Jubilee Town Hall with James Talarico, a stream hos"
+  },
+  {
+    "id": "3e1c0f8d16d2e87c",
+    "title": "[강원도 날씨예보] 동해안·산지 새벽부터 오후까지 5㎜ 안팎 비 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LX29mcE5DTkM4dnliMXVDR2M2MUNVczg4RV9maFZMcWpPa0hReG4zYnZRa0ctOE5ZSTNkUWFUaGp0WjdJdEVBYUNMR2N3QlFkalRGS0pFN0luU2g0aURaQmY2aFdRbnJYTlpKUlJWd3HSAXRBVV95cUxPeXhqOHV3dk15TktjZGhEcUdyc1pmTkpMNkZVS3JoaHNlVzR2RWNVZWdETW9fWVpENUtEVjMxOVV3RFBnbG5STzlSa0RMUVdYRjU5dEE0cURxbVY2dWFfb2RoOHhWU0xvbmFYWmF5dXQ5Tldyeg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-28T19:20:00.000Z",
+    "snippet": "[강원도 날씨예보] 동해안·산지 새벽부터 오후까지 5㎜ 안팎 비 thefairnews.co.kr"
   },
   {
     "id": "70b2318b9d014a7b",
@@ -980,6 +1490,26 @@
     "snippet": "\"세계한상대회를 계기로 한상 선배님들께 더 많이 배우고 싶습니다.\"(김미성 WJK디스트리뷰션 대표) 28일 인천 송도에서 열린 제24차 세계한상대회는 젊은 한상들이 외연을 넓히는 .."
   },
   {
+    "id": "29d2c066f6d69b8e",
+    "title": "\"韓기술력 어메이징\" … 전세계 바이어 홀렸다",
+    "link": "https://www.mk.co.kr/news/columnists/12163001",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T08:48:37.000Z",
+    "snippet": "국내 중소기업의 제품과 기술을 전 세계 한인 경제인에게 선보이는 제24차 세계한상대회 기업전시회가 28일 개막했다. 30일까지 사흘간 열리는 이번 전시회에는 총 330개사와 각종 .."
+  },
+  {
+    "id": "202687319c396b42",
+    "title": "\"K브랜드 달라진 위상 실감 … K의료·車부품으로 영토 더 넓히자\"",
+    "link": "https://www.mk.co.kr/news/columnists/12162999",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T08:48:36.000Z",
+    "snippet": "제24차 세계한상대회가 28일 막을 올린 가운데 주요 한상들은 K콘텐츠, K푸드, K뷰티 등 한국의 산업과 문화가 전 세계에서 큰 파도를 일으키고 있다고 입을 모았다. 중동 전쟁과.."
+  },
+  {
     "id": "eda4a1a89ed3e682",
     "title": "[포토] '한국은행 넥타이' 매고…신현송 찾은 이형일",
     "link": "https://www.mk.co.kr/news/economy/12162996",
@@ -998,6 +1528,16 @@
     "category": "경제",
     "publishedAt": "2026-09-28T08:48:30.000Z",
     "snippet": ""
+  },
+  {
+    "id": "0c4fa6a5b4a100cb",
+    "title": "李대통령 \"재외동포 디지털플랫폼 구축할것\"",
+    "link": "https://www.mk.co.kr/news/columnists/12162995",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-28T08:48:30.000Z",
+    "snippet": "이재명 대통령이 세계 각지에 진출한 동포 경제인들을 지원하기 위해 전담 디지털 플랫폼을 구축하겠다고 28일 밝혔다. 이 대통령은 이날 인천 송도에서 열린 제20회 세계한인의 날 기.."
   },
   {
     "id": "4140423152daecff",
@@ -2408,6 +2948,26 @@
     "category": "경제",
     "publishedAt": "2026-09-28T00:02:13.000Z",
     "snippet": ""
+  },
+  {
+    "id": "914f14710638400c",
+    "title": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-28T00:00:00.000Z",
+    "snippet": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and proj"
+  },
+  {
+    "id": "bf0fe8cc388a3447",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-28T00:00:00.000Z",
+    "snippet": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
   },
   {
     "id": "c13468f9e2757c51",
@@ -6688,6 +7248,16 @@
     "category": "개발",
     "publishedAt": "2026-09-24T22:39:05.000Z",
     "snippet": "신체의 낮은 재생 능력은 단순한 결함이 아니라 암 위험을 억제하는 대가일 수 있음. 다만 이는 여러 예외와 제약이 있는 추측적 생물학 통합 가설임 간은 장에서 들어오는 독소와 병원체에 먼저 노출되고 해독 과정에서도 손상되므로, 암 위험을 감수하더라도 강한..."
+  },
+  {
+    "id": "478699e00b29a70a",
+    "title": "9월 25일 응에안 지역 날씨 예보: 소나기와 천둥번개가 산발적으로 내리겠으며, 간간이 햇볕이 비치겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVFBbXZfeGN5UjNiRGd5ZGxrVGNUSDFtZ1RiUVhtZnVWYzJSSG5yMUdjRTVzX2pGczk3ZEpPSUtueTYtSlFjM2c4ajVDekVveExDcmEwY0Z3T1hpQ2NEbGUxSzRRYWFTczBvaHFBLTNOUjZLZDZKa3pVN1hYbi1aZDJkTXpRdnhsVDQxVmtEODgxRGR0ay0tLXViOEQzWE5IaUlz?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-24T22:39:01.000Z",
+    "snippet": "9월 25일 응에안 지역 날씨 예보: 소나기와 천둥번개가 산발적으로 내리겠으며, 간간이 햇볕이 비치겠습니다. Vietnam.vn"
   },
   {
     "id": "313b328eb8cfae63",

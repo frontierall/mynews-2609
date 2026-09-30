@@ -1,5 +1,225 @@
 [
   {
+    "id": "a720835a83879358",
+    "title": "S2W, 온톨로지 기반 기술 고도화…’엔터프라이즈 AX’ 공략 가속",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215806",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T15:37:27.000Z",
+    "snippet": "S2W가 안보·보안 영역에서 축적해온 AI 안전성 노하우 위에서 온톨로지와 지식그래프 기술력을 고도화하며 ‘엔터프라이즈 AX’ 사업 확대에 나선다. 데이터 인텔리전스 전문 에스투더블유(S2W, 대표 서상덕)는 온톨로지 의사결정 운영체제(OS) ‘SAIP’의 주요 기능을 고도화, 비보안 사업을 확장한다고 30일 밝혔다.AX 과정에서 가장 큰 문제를 ‘데이터’로 꼽았다. S2W의 온톨로지 기술로 서로 다른 형식의 데이터를 편리하게"
+  },
+  {
+    "id": "54dee43de52c856f",
+    "title": "\"인류 멸종 확률 50%\"...AI 연구원 22인 '경고 인터뷰' 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215796",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T15:35:57.000Z",
+    "snippet": "오픈AI와 구글 딥마인드, 앤트로픽 등의 전·현직 연구원들이 육성 인터뷰를 통해 인간의 통제 능력을 넘어설 수 있는 자율 개선 AI 개발 경쟁에 경고를 보냈다. AI가 스스로 학습하며 능력을 계속 확장하는 단계에 이르면 인류가 그 위험에 대응하기 어려울 수 있다는 경각심을 직접 전달하기 위해서다.AI 안전 비영리단체 팔리세이드 리서치가 29일(현지시간) 공개한 ‘프롬인사이드AI(frominside.ai)’ 프로젝트에는 오픈AI"
+  },
+  {
+    "id": "a25954855c0ce0d9",
+    "title": "오픈AI, 호주 정부망 무단 접근 사과...\"재발 방지·특별 조사팀 구성\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215795",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T15:12:04.000Z",
+    "snippet": "오픈AI가 자사 AI 모델이 호주 정부 웹사이트에 승인되지 않은 방식으로 접근한 사건에 대해 공식 사과하고, 재발 방지와 사이버 보안 강화를 위한 호주 현지 특별 조사팀을 구성하기로 했다. 이번 사건을 새로운 형태의 사이버 보안 위협으로 규정하고 호주 정부와 함께 AI 에이전트의 사이버 활동에 대한 대응 체계를 마련하겠다고 밝혔다.오픈AI는 29일(현지시간) 공식 게시물을 통해 “6월 내부 훈련과 평가 과정에서 우리 모델이 승"
+  },
+  {
+    "id": "8d8a73d144337af7",
+    "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215800",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T15:06:12.000Z",
+    "snippet": "카카오가 국민연금을 포함한 다양한 공공서비스를 하나의 대화 흐름으로 연결하는 ‘지능형 공공 AI 서비스’를 본격화한다.카카오는 행정안전부와 시범 운영 중인 대화형 공공서비스 'AI 국민비서'에 국민연금 서비스를 연계한다고 30일 밝혔다. 이용자는 국민연금 가입내역 조회부터 임의가입 신청까지 카카오톡 대화만으로 처리할 수 있다. 그간 국민연금 가입 내역 확인이나 가입 신청 등은 공단 홈페이지, 모바일 앱, 고객센터 방문을 거쳐야"
+  },
+  {
+    "id": "4e5bc52bcb49137e",
+    "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215803",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T15:04:17.000Z",
+    "snippet": "AI 도구가 기업 내부 데이터베이스와 애플리케이션 정보에 쉽게 접근할 수 있도록 돕는 업계 표준화 단체에 구글과 마이크로소프트(MS)가 합류한다. 빅테크 기업들이 AI 에이전트의 데이터 활용도를 높이기 위해 자사 중심의 폐쇄적 데이터 생태계를 포기하고 공통 표준 구축에 나선 것으로 풀이된다.디 인포메이션은 29일(현지시간) 구글과 MS가 기업용 데이터 표준화 단체인 '아파치 오시(Apache Ossie)'에 회원사로 가입하는 "
+  },
+  {
+    "id": "6b919893dd385879",
+    "title": "'스마트 링' 오우라, 시장 불확실성에 IPO 연기",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215797",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T13:53:16.000Z",
+    "snippet": "스마트 링 제조업체 오우라(Oura)가 당초 이달로 예정했던 기업공개(IPO)를 시장 불확실성을 이유로 연기했다. 투자자 수요는 강했지만, 지금이 상장에 적절한 시점은 아니라고 판단했다는 설명이다.월스트리트저널(WSJ) 등에 따르면, 오우라는 29일(현지시간) 성명을 통해 “강한 수요에도 불구하고 IPO 시장의 불확실성 때문에” 나스닥 상장을 미룬다고 밝혔다.이 회사는 9월 초 미국 증권거래위원회(SEC)에 S-1 등록신청서를"
+  },
+  {
+    "id": "91855fc5fd65bc27",
+    "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215798",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T13:38:35.000Z",
+    "snippet": "딥시크가 화웨이의 '어센드(Ascend)' AI 칩 생태계를 지원하기 위한 핵심 인프라 소프트웨어를 오픈소스로 공개했다. 엔비디아 쿠다(CUDA)에 의존하던 중국 기술 생태계가 자체 소프트웨어 인프라를 강화하고 독자적인 고성능 컴퓨팅 환경 구축을 본격화했음을 의미한다.딥시크는 30일 공식 위챗 계정을 통해 화웨이 어센드 컴퓨팅 플랫폼용 핵심 인프라 기술인 고수준 프로그래밍 언어 컴파일러 ‘타일랭(TileLang)’과 연산 라이"
+  },
+  {
+    "id": "2fb26179fe0ca9bf",
+    "title": "앤트로픽, IPO 신청서에 \"AI의 실존적 위험\" 공식 경고",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215790",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T12:53:41.000Z",
+    "snippet": "나스닥 상장을 앞둔 앤트로픽이 투자자들에게 자사 AI 기술이 인류에게 ‘실존적 위협’을 가할 수 있다고 공식 경고했다. 최첨단 AI 개발을 주도하는 기업이 상장을 위한 공식 서류에서 기술 자체가 인류에게 치명적인 위험을 초래할 수 있다고 명시했다는 점에서 이례적이다.28일(현지시간) 로이터가 검토한 기업공개(IPO) 투자 설명서(S-1)에 따르면, 앤트로픽은 고도화된 AI 모델이 “인류에 재앙적 또는 실존적 위험”을 초래할 가"
+  },
+  {
+    "id": "e588305543d0c810",
+    "title": "메타, 소상공인용 AI 에이전트 출시…‘뮤즈’로 B2B 시장 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215792",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T11:58:58.000Z",
+    "snippet": "메타가 개인용 AI 에이전트 ‘뮤즈(Muse)’를 소상공인용으로 확대하며 기업용 AI 시장 공략에 본격적으로 나섰다. 뮤즈를 기업이 사용하는 각종 업무용 소프트웨어와 연결해 사업 운영과 마케팅, 고객 확보 등을 지원하도록 했다.메타는 29일(현지시간) ‘뮤즈 포 스몰 비즈니스(Muse for Small Business)’를 공개했다.사용자는 이를 통해 페이스북 페이지와 인스타그램 프로 계정, 메타 광고 계정의 데이터를 활용할 "
+  },
+  {
+    "id": "8c5589b3a3732471",
+    "title": "알트먼 \"기업공개 압박 없이 AI 안전 확보가 우선\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215787",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T11:38:36.000Z",
+    "snippet": "샘 알트먼 오픈AI CEO가 AI 안전성에 대한 우려가 커진 상황에서 기업공개(IPO)를 서두르지 않겠다는 뜻을 밝혔다. 상장 기업이라는 압박감 없이 AI 기술 위험 요소를 통제하고 자율 에이전트 등 고도화된 기능에 적응하는 것을 최우선 과제로 삼겠다는 구상이다.알트먼 CEO는 29일(현지시간) 미국 샌프란시스코에서 열린 '데브데이 2026'을 통해 \"안전성에 대한 확신 있는 결정을 내릴 수 있을 때까지 무턱대고 IPO를 추진"
+  },
+  {
+    "id": "13e3deb6648ffd6d",
+    "title": "오픈AI 추가 투자 유치 목표는 '1900조 가치'...연 매출은 95조 육박",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215788",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T11:34:06.000Z",
+    "snippet": "오픈AI가 기업용 AI 시장에서 매출을 빠르게 늘리며 기업가치를 다시 크게 끌어올리고 있다. 연간 반복 매출(ARR)이 700억달러(약 95조원)에 육박한 것으로 알려진 가운데 대규모 신규 투자 유치에 나서면서, 기업공개(IPO)를 앞두고 몸집을 키우는 모습이다. 29일(현지시간) 블룸버그에 따르면, 오픈AI는 기업가치 1조4000억달러(약 1901조원)를 목표로 최소 300억달러(약 40조원) 규모의 신규 투자 유치에 나섰다"
+  },
+  {
+    "id": "57e784bdc08b39af",
+    "title": "트럼프, 빅테크 대거 소집해 '규제 불가' 재확인…업계 자발적 서약에 그쳐",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215791",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T11:17:54.000Z",
+    "snippet": "도널드 트럼프 미국 대통령이 주요 AI 기업 경영진과 만나 백악관 차원의 협약을 체결했지만, 정부의 직접 규제 대신 민간 자율에 맡기는 '최소 개입' 기조를 재확인했다.트럼프 대통령은 29일(현지시간) 백악관에서 샘 알트먼 오픈AI CEO, 마크 저커버그 메타 CEO, 젠슨 황 앤비디아 CEO, 다리오 아모데이 앤트로픽 CEO 등 업계 수장들과 마이크 존슨 하원의장을 비롯한 정·재계 핵심 인사들을 초청해 오찬 회동을 가졌다.이"
+  },
+  {
+    "id": "dab0373f637977fa",
+    "title": "이 대통령이 꺼낸 ‘태양광 농사’…패널 아래서도 쌀농사 될까",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215774",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T10:51:12.000Z",
+    "snippet": "이재명 대통령이 농촌의 새로운 소득원으로 이른바 ‘태양광 농사’를 다시 꺼내 들면서 농지에서 농업과 발전을 함께 하는 영농형 태양광에도 관심이 쏠리고 있다.이 대통령은 29일 국무회의에서 묵히는 농지에 태양광 시설을 설치해 생산한 전기를 지역에서 사용하고 남은 전력을 판매하는 방안을 언급했다. 송배전망이 제대로 갖춰질 경우 태양광 발전이 농촌의 소득원이 될 수 있다는 취지다.대통령의 발언은 유휴 농지를 활용한 태양광 발전을 포"
+  },
+  {
+    "id": "6f149048a863f28c",
+    "title": "스페인 연구진, 태양광발전소 맹금류 행동 추적…사냥·휴식 공간 활용",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215785",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T10:45:00.000Z",
+    "snippet": "스페인의 대규모 태양광발전소에서 맹금류 6종이 패널과 구조물을 휴식·관찰 지점으로 이용하고 발전소 내부에서 사냥하는 모습이 2년6개월 동안 관찰됐다. 연구 기간 태양광 패널이나 지지구조물, 울타리와의 충돌로 죽거나 다친 맹금류도 발견되지 않았다.스페인 말라가대학교 등이 참여한 연구진은 안달루시아 세비야주에 있는 150메가와트(MW) 규모 태양광발전소에서 맹금류의 출현과 행동을 조사했다. 연구결과는 국제학술지 ‘저널 오브 랩터 "
+  },
+  {
+    "id": "b942d24d1ee3f17b",
+    "title": "인도 양면형 태양광, 단면형보다 발전량 최대 27.1% 증가",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215784",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T10:40:00.000Z",
+    "snippet": "인도 5개 기후대를 대상으로 한 시뮬레이션 연구에서 양면형 태양광이 단면형보다 최대 27.1% 높은 발전이득을 보였다. 특히 태양광 패널 주변 지표의 반사율이 높아질수록 후면으로 유입되는 일사량이 늘면서 양면형 태양광의 발전량과 경제성이 개선되는 것으로 분석됐다.인도 연구진은 지난 9일(현지시간) 국제학술지 ‘넥스트 에너지(Next Energy)’에 인도 지역별 기후와 지표 반사율에 따른 양면형·단면형 태양광 성능 비교 연구를"
+  },
+  {
+    "id": "741f241afb20273e",
+    "title": "[AI리더의 서가] 스프링 AI 2.0으로 배우는 AI 에이전트 개발 완벽 가이드",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215626",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-09-30T09:00:00.000Z",
+    "snippet": "스프링 AI 2.0으로 배우는 AI 에이전트 개발 완벽 가이드허제민 | 위키북스2026년 9월 17일추천이유이 책은 자바와 스프링 기반으로 RAG, 툴 호출, MCP를 활용하여 실제 업무를 수행하는 엔터프라이즈 AI 에이전트 시스템을 단계적으로 구축하는 방법을 제시합니다. 챗 CLI부터 시작해 완성된 AI 에이전트까지 직접 구현하며 LLM 기술을 학습할 수 있습니다.상세보기AI 개발서 대부분은 파이썬을 전제로 쓰인다. 새로운 "
+  },
+  {
+    "id": "90f39671560cfd58",
+    "title": "은메달 딴 선수 격려한 정의선 회장…\"협회가 할 일 많다\"",
+    "link": "https://www.hankyung.com/article/202609304878g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T07:22:56.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ec4a185bb7331c1f",
+    "title": "내년 4대연금 지출 100조 돌파…국고 지원 규모 커진다",
+    "link": "https://www.mk.co.kr/news/economy/12164988",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T07:22:36.000Z",
+    "snippet": "올해보다 6.5조원 늘어날 듯 공무원·군인연금 보전금 투입중 국민연금 국고투입에 찬반 갈려국민연금과 공무원·사학·군인연금 등 4대 공적연금의 내년 총지출이 100조원을 넘어설 예정.."
+  },
+  {
+    "id": "e3066c52b4b7972e",
+    "title": "전세계 첫 '코로나 고점' 돌파한 호주 금리…한국도 3.75% 갈까 [심성미의 중앙은행 워치]",
+    "link": "https://www.hankyung.com/article/202609305288i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T07:20:44.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9e797357b60e6d0b",
+    "title": "화성산업진흥원, 2026년 하반기 마케팅 지원기업 모집 - newspeak.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qTHJOR3VZa2R1U1FVbzdxTG5yQTlZVGhCOVRYSkRNM1BtUElPZXVMSmRxWlJSeWVqUmU4eTlLNEdRcUwtd2dmdjN1SGI3ZEdjMGYwRy16elVtcjdYeS1Ba1JCUXBZbHN6?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T07:15:19.000Z",
+    "snippet": "화성산업진흥원, 2026년 하반기 마케팅 지원기업 모집 newspeak.kr"
+  },
+  {
+    "id": "0f02490db6719ba4",
+    "title": "피지컬 AI 시대 보험 미래는…“新위험 보장하고 고객 경험 넓혀야”",
+    "link": "https://www.mk.co.kr/news/economy/12164978",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T07:15:11.000Z",
+    "snippet": "보험개발원 ‘보험미래포럼’ AI·로봇 확산에 새 위험 부상 인수·상품체계 고도화 필요 “AI, 고객 신뢰 높일 수 있어”인공지능(AI)과 로봇이 결합한 이른 바 ‘피지컬 AI’ 시.."
+  },
+  {
+    "id": "b7bcd3ec05d61d56",
+    "title": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 - 기호일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xYkJXbTh1TjNzenFxZmE0ODVBVU9EMUVFVzJ6WW5pcDlTNmFWN3NuTXk0dFRjb3ZHTUV3bzlfRGlsNXJQRFhDNldqanplNy1zUWpHeDNqRWI3eTZ5bVhZa2IwcEVDTUFJai15dnRQOA?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T07:10:14.000Z",
+    "snippet": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 기호일보"
+  },
+  {
     "id": "8303349225be2b5d",
     "title": "오픈AI, 24시간 자율 에이전트 '닷츠' 공개…소비자용 아닌 B2B 승부수",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215779",
@@ -20,6 +240,176 @@
     "snippet": "최근 들어 AI 업계에서 새로운 수학적 발견을 잇달아 내놓고 있습니다. 오픈AI는 최근 새로운 내부 모델이 수학의 여러 분야에서 100개가 넘는 난제를 해결했다고 밝혔고, 나비에-스토크스 문제와 같은 오랜 난제에 대한 결과도 공개했습니다. 앤트로픽에서도 AI를 수학 연구에 활용한 성과가 이어지면서, AI가 수학 연구에 미치는 영향이 빠르게 커지고 있습니다.그런데 수학계에서는 반발이 등장했습니다. 그리고 이는 단순히 AI 때문에"
   },
   {
+    "id": "e5c131b44a3c0916",
+    "title": "“발로 뛰어 요양기관 설득…연말 실손24 연계율 90%로”",
+    "link": "https://www.mk.co.kr/news/economy/12164786",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T07:00:00.000Z",
+    "snippet": "유재훈 보험개발원장 인터뷰 소비자 위한 실손 정상화 필수 데이터 기반 중재자 역할 강조 AI 위험 보장 상품 개발도 지원“연말까지 실손24의 청구 기준 연계율을 약 90%까지 끌어.."
+  },
+  {
+    "id": "9e85f2b56aac7dd7",
+    "title": "Show GN: Astera - 개인이 Orca 대항마로 만든 Claude Code·Codex의 다중 계정 전환과 에이전트 협업을 자동화하...",
+    "link": "https://news.hada.io/topic?id=34535",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T06:57:44.000Z",
+    "snippet": "Show GN: Astera - 개인이 Orca 대항마로 만든 Claude Code·Codex의 다중 계정 전환과 에이전트 협업을 자동화하..."
+  },
+  {
+    "id": "8ba212c083c73c46",
+    "title": "\"탄소중립 성과, 예산 말고 감축량으로 따져야\"",
+    "link": "https://www.hankyung.com/article/202609305187i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:55:53.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "382b407d925a4e4b",
+    "title": "풍력 '알박기 대못' 뽑고 태양광엔 '교차송전'…기후부, 재생에너지 속도전",
+    "link": "https://www.hankyung.com/article/202609304980i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:47:50.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "39a83b1409b95a68",
+    "title": "\"가맹계약부터 분쟁까지\" 충남경제진흥원, 소상공인 법률 지원사업 모집 - gukjenews.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyQ1NYMkUtNGV4M2hlWWdBWlpnZjRLNGNBalgtUnE3RnpxWDhSdWZVRUdnWTdUUFJqbllJTUpVYU5ZaU1OMjFsN0pBbWpDbVpQaVhNRGdYYWEwQzd1cVBQWFhHX2JCZ1JKMXhwYXNB?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T06:46:10.000Z",
+    "snippet": "\"가맹계약부터 분쟁까지\" 충남경제진흥원, 소상공인 법률 지원사업 모집 gukjenews.com"
+  },
+  {
+    "id": "0890f1f0ef21011c",
+    "title": "현대모비스, 램프사업 매각 본계약…\"핵심 사업 역량 집중\"",
+    "link": "https://www.hankyung.com/article/202609305073g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:42:50.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "69414f4e9c546ccb",
+    "title": "“근로자 평균 월급, 430만원이나 된다고?”...물가 반영한 실질임금 봤더니",
+    "link": "https://www.mk.co.kr/news/economy/12164902",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:37:02.000Z",
+    "snippet": "임금 상승세, 물가 오름폭 못 따라가 2023년 이후 3년 만에 최장 하락세 대기업·중소기업 임금 격차 264만원 지역별론 서울 485만원·제주 340만원근로자 임금 상승세가 물.."
+  },
+  {
+    "id": "f8e3de0d9e1ec9d3",
+    "title": "\"집 사면 대출 이자 내드립니다\"…다급해진 中 '초강수' [차이나 워치]",
+    "link": "https://www.hankyung.com/article/202609304995i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:32:33.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d99b59ba2a2d97c6",
+    "title": "충남경제진흥원,‘2026년 프랜차이즈 가맹 소상공인 법률 지원사업’ 참여자 모집 - 아산포커스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Nzg2Q1QxNlJfdkpwa3JfYlR1QU9PeFptTkdrRXFJY2NSRThRcGRySzVteC1rR1BvUkN5dzFhZGdKcW9lNHZBZEJmbjQ1dGdsOGZKbUFCRl9FMjB0Vkl2bTVQZGF3QmpHdUxLNlZn?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T06:23:20.000Z",
+    "snippet": "충남경제진흥원,‘2026년 프랜차이즈 가맹 소상공인 법률 지원사업’ 참여자 모집 아산포커스"
+  },
+  {
+    "id": "a5876404c063c13f",
+    "title": "“수표 써본 게 언제였더라”…자기앞수표 이용액 3년간 40% 줄어",
+    "link": "https://www.mk.co.kr/news/economy/12164887",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:22:12.000Z",
+    "snippet": "5만원권·카드·계좌이체 등 다른 지급수단 이용 확대되며 올 상반기에만 10% 이상 줄어한때 고액 결제 수단으로 널리 쓰이던 자기앞수표 이용이 갈수록 줄고 있다. 5만원권 사용이 일.."
+  },
+  {
+    "id": "31cb6714afb6bc01",
+    "title": "'수익률 12%' 개인투자용 국채, 10월 2300억 발행",
+    "link": "https://www.hankyung.com/article/202609304955i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:19:32.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c1a75d8ed573e587",
+    "title": "[설기의 일기예보] 10월 1일 날씨 | 전국 대체로 맑음…찬 바람 불며 기온 '뚝' - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EbmZPUEQ5YWtpQlM5T2RBdk5rVU9tdW9fWGJsZ2liMUJvdXp1NzBLbkNRYm5KT0xCQ2RlX2tRV2dFYUFnQUdmRkZVQTZhY2NRTGpFNndn?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-30T06:18:00.000Z",
+    "snippet": "[설기의 일기예보] 10월 1일 날씨 | 전국 대체로 맑음…찬 바람 불며 기온 '뚝' 위키트리"
+  },
+  {
+    "id": "df542f137596e281",
+    "title": "[단독] \"쇼핑몰 방문 줄어드는 '제로클릭' 시대…'데이터 파운드리' 뜬다\"",
+    "link": "https://www.hankyung.com/article/202609304986i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:12:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "49d11baf3575c26a",
+    "title": "발전공기업 5사 통합 본격 시동…통합준비위원회 발족",
+    "link": "https://www.mk.co.kr/news/economy/12164873",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:09:32.000Z",
+    "snippet": "내년 10월 한국발전 출범 통합추진 로드맵 논의 착수정부가 ‘발전공기업 통합준비위원회’를 발족하고 발전 5사 통합에 본격적으로 시동을 걸었다. 30일 기후에너지환경부는 발전 5사 .."
+  },
+  {
+    "id": "ca0afd8e16b0a7b3",
+    "title": "'나루토 춤' 베트남 틱톡커, 이번엔 안동 탈춤 춘다",
+    "link": "https://www.hankyung.com/article/202609304992i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:08:54.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "64bcbc0e3a670732",
+    "title": "파업·조업일수 감소·엔저 겹악재…8월 산업활동 석달만에 ‘트리플 감소’",
+    "link": "https://www.mk.co.kr/news/economy/12164862",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T06:05:10.000Z",
+    "snippet": "2026년 8월 산업활동동향 광공업생산 4.8% 줄며 하락 주도 소매판매 1.8% 감소 두 달째 하락 운송장비 부진 설비투자 9.5% 급감 재정경제부 “일시적 부진 9월 반등”지.."
+  },
+  {
+    "id": "8521d5d21aef07de",
+    "title": "\"아이폰 600만대 팔린다\"…300만원대 초고가에도 '들썩'",
+    "link": "https://www.hankyung.com/article/2026093048407",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:59:41.000Z",
+    "snippet": ""
+  },
+  {
     "id": "4cfa0b52fa120af3",
     "title": "\"아스트라급 지능을 5분의 1 가격에\"…오픈AI, 'GPT-6.1 솔' 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215778",
@@ -30,6 +420,636 @@
     "snippet": "오픈AI가 최상위 플래그십 모델 성능에 근접하면서도 비용을 획기적으로 낮춘 업그레이드 모델 'GPT-6.1 솔(Sol)'을 출시했다.샘 알트먼 오픈AI CEO는 29일(현지시간) 샌프란시스코에서 열린 '데브데이 2026' 행사를 통해 새로운 모델을 공개했다.GPT-6.1 솔은 개발자와 기업 사용자를 겨냥해 에이전트 기반 코딩, 복잡한 문서 분석, 컴퓨터 활용 및 장기 업무 자동화에 특화된 기능을 대폭 강화했다. 그는 \"우리의 "
   },
   {
+    "id": "16d9160d9d6778f1",
+    "title": "연 9% 적금에 ETF 선물까지…우리금융, 10월 특판공세",
+    "link": "https://www.hankyung.com/article/202609304915i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:53:39.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "721e4a1a3e4f2b68",
+    "title": "식품 담합 과징금 2조…'장바구니 카르텔' 제재 실효성 논란",
+    "link": "https://www.hankyung.com/article/202609304819g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:43:17.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "539c4f080c8ea491",
+    "title": "“28년 버틴 안경점도 문 닫습니다”…1100조 빚 짊어진 사장님들 비명",
+    "link": "https://www.mk.co.kr/news/economy/12164832",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:38:27.000Z",
+    "snippet": "자영업자 연체 지속률 80.9% 상가 공실 7분기 연속 상승“지난 28년 동안 믿고 찾아주셔서 감사했습니다. 오는 10월 16일을 끝으로 영업을 종료하게 됐습니다.” 30일 한 안.."
+  },
+  {
+    "id": "365cb92d2ea15690",
+    "title": "\"일본도 포기했는데 한국이 나섰다\"…18조짜리 대어 뭐길래",
+    "link": "https://www.hankyung.com/article/202609304489i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:37:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f09e891251e356a2",
+    "title": "트럼프, 내일 새벽 韓 대미투자 발표…알래스카 LNG 포함될 듯",
+    "link": "https://www.mk.co.kr/news/economy/12164831",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:36:46.000Z",
+    "snippet": "도널드 트럼프 미국 대통령이 30일(현지시간) 한국의 대미투자 프로젝트를 공식 발표할 예정이다. 백악관은 29일(현지시간) 트럼프 대통령이 미 동부시간으로 30일 오후 3시 30분.."
+  },
+  {
+    "id": "ab9a276580940781",
+    "title": "'탈석탄' 위해서라면…\"月 3230원까지 더 낼 수 있다\"",
+    "link": "https://www.hankyung.com/article/202609304823i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:34:42.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e375ec71f29b6655",
+    "title": "Show HN: 소행성 52만 6천 개와 추적되는 모든 위성을 담은 실시간 태양계",
+    "link": "https://news.hada.io/topic?id=34534",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T05:32:21.000Z",
+    "snippet": "Space Now는 태양계 천체 527,080개와 위성/우주선을 탐색하며 개별 천체의 정보와 궤도를 확인할 수 있는 서비스임 위성은 궤도가 있는 19,879개와 근사 위치를 사용하는 15,265개로 구분하며, 공개 궤도가 없는 대상의 승교점과 위상은 근삿값임..."
+  },
+  {
+    "id": "de7f6c55347abc49",
+    "title": "\"테슬라 모델Y 대신 이거 살까\"…4300만원대 '이 차' 한국 왔다",
+    "link": "https://www.hankyung.com/article/202609304544g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:27:31.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9b4647b6b8b19ec0",
+    "title": "청년미래적금 2차, 내달 7일부터 가입 신청…갈아타기 허용",
+    "link": "https://www.hankyung.com/article/2026093047836",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:26:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fdb5b833bc39532b",
+    "title": "[부산 ~9/30(수)] 동래구 '플로비' 아동·청소년 교육지원 사업 - 느린인뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NY0VRNUZEQ1J6d25TUEN6WGtyRUVqRVRPZ2MxU0JXRVR2cWZnX1lfY2loRjdFbm41TEd6N0pwMU1fOHFjUXV2SDUtMUFFMDJMM3JyNjV5V0wyUHdQandTeEJ1Yk9veHdRcm15OEtWdklKdw?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T05:25:53.000Z",
+    "snippet": "[부산 ~9/30(수)] 동래구 '플로비' 아동·청소년 교육지원 사업 느린인뉴스"
+  },
+  {
+    "id": "a71613f4484147a3",
+    "title": "HSAD, AX로 사업화 성과…기업 프로젝트 20여개 확보",
+    "link": "https://www.hankyung.com/article/202609304704i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:22:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "374294ecd1ea55ec",
+    "title": "2차 국민참여성장펀드 출시…서민 우선배정 50%로 확대",
+    "link": "https://www.hankyung.com/article/202609304741i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:20:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c8166cf90218e7b9",
+    "title": "공정위, 대한항공 등 3사 '청주-제주' 좌석 감축 판단…제재 착수",
+    "link": "https://www.hankyung.com/article/202609304672g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:15:31.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fb3c6461551d758d",
+    "title": "수박 껍질 깎아주고, 두고 온 물건 보내주고…김난도 교수가 꼽은 '단골 관리' [현장+]",
+    "link": "https://www.hankyung.com/article/202609304006g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:01:37.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f09699ccfeedd55b",
+    "title": "일본산 못 구해 발 동동…직접 만들었더니 '초대박'",
+    "link": "https://www.hankyung.com/article/202609304385i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5e3bf3d8ba6f20e1",
+    "title": "먹거리 파동(Food Scare)의 시장 효과",
+    "link": "https://www.hankyung.com/article/202609221527i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T05:00:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "efa0c3dfb59aedfd",
+    "title": "국세청, 체납관리단 모범 실태확인원 21명 포상",
+    "link": "https://www.mk.co.kr/news/economy/12164790",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T04:54:37.000Z",
+    "snippet": "모범 실태확인원 시상식 개최 316명 체험수기 공모전 참여 임광현 청장 “성실 납세자 지켜”국세청은 지난 29일 ‘국세 체납관리단 모범 실태확인원 포상 및 체험수기 수상자 시상식’.."
+  },
+  {
+    "id": "484ec28fbefd23a2",
+    "title": "부안군, 청년농업인 R&D 기술창업 통합관리 지원 사업 신청자 모집 - 아시아뉴스전북",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aWGxpXzVEWVNfMDc2V0FJWTdEeGh4NnpYcEVIYXU2ZlJhZllrWm1KRnpBNWtLM0x3dHZpT2dVLXA0S3VVQjB5YlZ2alVEQkFXZkpKZ3lXSXFvNUFDcXRkLUgzOUs3WUlaS1dv0gFuQVVfeXFMUGJvR2czTDU2YmxwaEQwZ19keFRLZnNiekVSaWlTLVZldUpGaGRVNXk2SURqLWQxQlBLTi1wd01hWkpybjhjWUdFSVJJNnhlUnd3X1lEZW5HajVlNnlJUE5yVzdOS2JhTTRLRHFSTXc?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T04:39:49.000Z",
+    "snippet": "부안군, 청년농업인 R&D 기술창업 통합관리 지원 사업 신청자 모집 아시아뉴스전북"
+  },
+  {
+    "id": "7531fd1c2ad71cee",
+    "title": "‘이것’ 있으면 연 3.1% 이자 준다는데…나도 대상될까",
+    "link": "https://www.mk.co.kr/news/economy/12164776",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T04:39:11.000Z",
+    "snippet": "KB국민은행이 연금 수령 고객에게 우대이자를 주는 수시입출금식 KB골든라이프연금통장를 출시했다고 30일 밝혔다. 이 통장으로 국민연금 공무원연금 사립학교교직원연금, 군인연금 등 4.."
+  },
+  {
+    "id": "593c02476eee6f2a",
+    "title": "Ask HN: 요즘 무엇을 읽고 있나요?",
+    "link": "https://news.hada.io/topic?id=34533",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T04:35:01.000Z",
+    "snippet": "Dungeon Crawler Carl 시리즈를 쭉 읽는 중이며, SF/LitRPG로서 특별히 어려운 편은 아니지만 꽤 재미있음 Doctorow의 Enshittification도 거의 다 읽어 가며, 머리를 계속 쓸 수 있도록 좀 더 묵직한 읽을거리를 찾고 있음 ..."
+  },
+  {
+    "id": "46a341da11ea7346",
+    "title": "Rust에서 Arc 다운캐스팅을 갈망하며",
+    "link": "https://news.hada.io/topic?id=34532",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T04:04:06.000Z",
+    "snippet": "동시성 캐시의 큰 값을 매번 복제하는 대신 Arc 를 사용하면, 전체 데이터를 복제하지 않고 읽기 접근이 가능한 소유 값을 저렴하게 복제할 수 있음 하지만 Arc<JSON> 내부의 String 을 패턴 매칭으로 꺼내 Ar..."
+  },
+  {
+    "id": "9b4044ad5d5983b0",
+    "title": "中 대형마트는 문 닫는데…초저가 할인점만 나홀로 질주",
+    "link": "https://www.hankyung.com/article/202609082335i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T04:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3318211baab784da",
+    "title": "정의선 회장, '깜짝' 등장…日서 양궁 대표팀 밥까지 챙겼다",
+    "link": "https://www.hankyung.com/article/202609304506g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T03:58:21.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ae8010c0430d18e8",
+    "title": "Show GN: 내일쓰기 - 글 없이 감정과 깊이만 골라도 기록할 수 있는 감정 일기 앱",
+    "link": "https://news.hada.io/topic?id=34531",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T03:48:24.000Z",
+    "snippet": "안녕하세요. 감정 일기 앱 ‘내일쓰기’를 만들고 있습니다. 상담을 받으며 매일 감정을 적어보라는 권유를 받았는데, 정작 힘든 날에는 한 줄도 쓰기 어려웠습니다. 쓸 말이 없어서가 아니라 문장으로 정리할 기운이 없었습니다. 그런 날에도 기록을 남길 수 있으면 좋겠다는 생각으로 시작했습니다."
+  },
+  {
+    "id": "a99a98fc6cf0d626",
+    "title": "Show GN: Conn - AI와 함께 쓰고, 언제든 내가 끼어드는 터미널",
+    "link": "https://news.hada.io/topic?id=34530",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T03:39:47.000Z",
+    "snippet": "회사 사내망에서는 GitHub Copilot만 쓸 수 있어 터미널을 연결해 작업을 맡겨봤습니다. 원치 않는 스크립트를 실행하는데, 위험한 명령을 막거나 중간에 끼어들기가 어렵더군요. iTerm MCP도 고려했지만, 제가 필요했던 건 명령에 규칙을 정하고 언제든 직접 개입할 수 있는 터미널이었습니다. 그래서 Conn을"
+  },
+  {
+    "id": "b6976cc0c05612f6",
+    "title": "OpenAI, Jev와 경쟁할 Luna 기반 Decision API 공개",
+    "link": "https://news.hada.io/topic?id=34528",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T03:27:13.000Z",
+    "snippet": "OpenAI가 DevDay에서 소형 모델 Luna 기반의 Decision API를 공개 개발자가 질문, 답변 후보, 맥락을 입력하면 미리 정한 답변 후보에 신뢰도 점수를 제공하는 방식 주요 활용처는 콘텐츠 분류, 요청 라우팅, AI 에이전트의 다음 행동 선택 OpenAI 발표 기준 응답 시간은 1..."
+  },
+  {
+    "id": "be633ffedd489c9b",
+    "title": "하나금융, 소진공과 청년 소상공인 100명에 맞춤 금융 지원",
+    "link": "https://www.hankyung.com/article/202609304438i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T03:04:12.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5343a76f0eb749fa",
+    "title": "Show GN: Barracks - macOS에서 여러 Claude/ChatGPT 앱 돌리기",
+    "link": "https://news.hada.io/topic?id=34527",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T03:03:15.000Z",
+    "snippet": "Claude(Code) & ChatGPT(Codex)를 CLI 대신 앱으로 쓰기 시작한 지 좀 됐는데 두 앱 모두 앱 내 계정 스위치를 지원하지 않아 --user-data-dir를 설정해서 띄우는 방식으로 여러 인스턴스를 띄워 사용했으나 관리가 귀찮고 앱 업데이트 때마다 다른 앱을 끄기 전까지 업데이트가 되지 않거나 앱이 튕..."
+  },
+  {
+    "id": "d0c140770c7b170b",
+    "title": "Show GN: KeyHue — 타이핑하기 전에, 지금 한글인지 영문인지 화면 하단에 색으로 알려주는 macOS 메뉴바 앱",
+    "link": "https://news.hada.io/topic?id=34525",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T02:47:42.000Z",
+    "snippet": "한/영을 오가며 작업하다 보면 터미널 명령이나 검색어를 엉뚱한 언어로 쳐서 다시 입력하는 일이 잦아서 만들었습니다. 메뉴바의 입력 소스 표시는 작아서 잘 안 보이더라고요. KeyHue는 macOS에서 실제로 선택된 입력 소스를 화면 가장자리의 얇은 색 라인으로 표시하는 메뉴바 앱입니다. 한/영 키를 눌렀는"
+  },
+  {
+    "id": "0d6ce4490593e1c8",
+    "title": "9월 30일 날씨 예보: 베트남 북부 지역은 기온이 상승하여 37°C를 넘는 덥고 화창한 날씨가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGVzN3NvQVpCQmRXdTNEd2ZwSUxoUDBIRWpZRWYwcUFOQ1ZVTE5KVTU2RlcyYmhISTZ1dTEtM1ZueHdmYTBvQjBodDlfcXZDd0U1Njl3VUx0SW1hVGFPU08xc2Rnc001d0RSN2hJX1FPOFhudmxJZGxrbUVmQXJ0bDFZSDUxRjJGcU80ek5ONVhUaFVaalVxWksyU1M?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-30T02:40:34.000Z",
+    "snippet": "9월 30일 날씨 예보: 베트남 북부 지역은 기온이 상승하여 37°C를 넘는 덥고 화창한 날씨가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "6cb629c77dbc4a6c",
+    "title": "[단독] 아서 헤이즈 \"비트코인 연내 사상 최고가 경신할 것\"",
+    "link": "https://www.hankyung.com/article/202609303797i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T02:39:28.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ab6e0894842dab0a",
+    "title": "미국 우편수사 당국, 위조 우편요금 라벨 판매 웹사이트 폐쇄",
+    "link": "https://news.hada.io/topic?id=34522",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T02:32:45.000Z",
+    "snippet": "미국 우편수사국과 협력 연방기관이 LabelsBank.com의 도메인을 압류하고 사이트를 폐쇄했으며, 운영 혐의를 받는 파키스탄 국적자를 기소함 이 사이트는 USPS의 판매 허가 없이 소포의 무게, 크기, 목적지와 관계없이 통상 장당 2달러에 위조 우편요금 라벨을 판매..."
+  },
+  {
+    "id": "91de81057490298a",
+    "title": "오늘부터 국민성장펀드 2차 판매…서민 문턱 낮췄다는데",
+    "link": "https://www.mk.co.kr/news/economy/12164691",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T02:26:13.000Z",
+    "snippet": "1차 펀드, 닷새 만 완판 2차 6000억 중 절반 서민 배정국민참여형 국민성장펀드(국민참여성장펀드)가 2차 판매를 시작한다. 2차는 6000억원 규모다. 1차 상품이 일주일 만에.."
+  },
+  {
+    "id": "ad692ba5468b117e",
+    "title": "9월 30일 날씨 예보 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PSGxNY3pFOTI4RUlROHJwNXYxTFg0V0M5aUY2NWU3b01ic3ZqaUs4TkdETV9Ec1g5emMtRFBwSHZPMTVGWXVfcEtCT1BSRE9QR2xmTkh6RHM?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-30T02:19:26.000Z",
+    "snippet": "9월 30일 날씨 예보 Vietnam.vn"
+  },
+  {
+    "id": "19da6e362da8fec0",
+    "title": "AI중심대학 18곳 출범, 전교생 AI 기초교육 의무화",
+    "link": "https://news.hada.io/topic?id=34521",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T02:15:02.000Z",
+    "snippet": "정부가 AI중심대학 18곳과 AX대학원 15곳의 사업을 시작해, 대학 교육 전반의 AI 전환과 산업 현장에 필요한 AI 융합인재 양성을 추진 AI중심대학은 전교생 AI 기초교육을 의무화하고, AI 전공교육 강화와 각 전공에 AI를 접목한 융합교과목 신설을 추진 ..."
+  },
+  {
+    "id": "19843e9f1ab0f479",
+    "title": "KB금융, 상생협력 모펀드 결성",
+    "link": "https://www.hankyung.com/article/202609304299i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T02:13:32.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d10e36014efe4b53",
+    "title": "메타·네이버, AI 안경에 네이버지도 도보 길안내 연내 도입",
+    "link": "https://news.hada.io/topic?id=34520",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T02:05:02.000Z",
+    "snippet": "레이밴 메타와 오클리 메타 AI 안경에 네이버지도 기반 실시간 도보 길안내를 연내 도입할 예정 네이버지도 앱에 안경을 연결하면 스마트폰 화면을 수시로 보지 않고도 안경의 오픈이어 스피커로 이동 경로를 안내받을 수 있음 이동 방향뿐 아니라"
+  },
+  {
+    "id": "e012beb90713ee74",
+    "title": "레인보우로보틱스와 로봇 공동개발 나선 SFA",
+    "link": "https://www.hankyung.com/article/202609293032i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T02:00:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8419704152aea0df",
+    "title": "“실손보험 청구 또 까먹었네”…이제 네이버지도에서 바로 신청한다",
+    "link": "https://www.mk.co.kr/news/economy/12164626",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:58:17.000Z",
+    "snippet": "의료기관 실손24 연계율 47.7% 불과 연말까지 80% 이상 올리는게 목표 네이버지도서 편하게 찾고 청구토록 계속 참여 저조시 ‘연계 의무’ 법제화앞으로 네이버 지도에서 ‘실손2.."
+  },
+  {
+    "id": "3d8ca4ff19de1458",
+    "title": "20대 잡은 ‘KB Youth Club’…3분기 인기 체크카드 1위",
+    "link": "https://www.mk.co.kr/news/economy/12164613",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:52:44.000Z",
+    "snippet": "상반기 2위서 첫 정상 올라 KB국민카드 4종 톱10 진입KB국민카드의 ‘KB Youth Club 체크카드’가 올해 3분기 가장 인기 있는 체크카드에 올랐다. 상반기 2위에서 한 .."
+  },
+  {
+    "id": "84f12a7a5a76811e",
+    "title": "Twitch is using AI to figure out which streamers shouldn’t get ad dollars",
+    "link": "https://www.tubefilter.com/2026/09/29/twitch-using-ai-to-scan-streamer-brand-safety-dan-clancy/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-30T01:52:37.000Z",
+    "snippet": "Twitch is using AI to figure out which streamers shouldn’t get ad dollars. CEO Dan Clancy told hosts of The Snarketing Podcast that Twitch already uses AI to transcribe everything streamers say while live, and now it’s using AI to evaluate "
+  },
+  {
+    "id": "b3f6fe7bf1eba9c8",
+    "title": "연금 수령하면 연 3.7%…이자 쏠쏠한 시니어 예금 재등장",
+    "link": "https://www.hankyung.com/article/202609304176i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:47:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "80e0b8fe8f105665",
+    "title": "모닝글로리, 5겹 화장지 출시…위생용품 9종으로 확대",
+    "link": "https://www.hankyung.com/article/202609304160i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:42:08.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "885ec5a1cfd7be02",
+    "title": "Livenerf - Opus 5.5는 벌써 성능이 하향됐을까?",
+    "link": "https://news.hada.io/topic?id=34519",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-09-30T01:33:40.000Z",
+    "snippet": "“출시 직후보다 모델이 나빠졌다”는 체감이 실제 성능 변화인지 확인하기 위해, 같은 문제를 매일 풀게 하고 결과를 비교하는 벤치마크 원시 API가 아니라 Claude Code 구독으로 사용하는 Opus 5.5를 측정해, 실제 구독 환경에서의 변화를 추적함 프롬프..."
+  },
+  {
+    "id": "db8d80d73e15c5fe",
+    "title": "[포토] 에비스, 더현대 서울서 '에비스 더 라운지' 팝업 매장 오픈",
+    "link": "https://www.hankyung.com/article/202609304110i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:32:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8447682ecb6505cd",
+    "title": "\"혹시 나도 탈모?\"…유전자 검사 없이 위험도 예측하는 AI 나왔다",
+    "link": "https://www.hankyung.com/article/202609303803g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:27:49.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "246d126ee5121340",
+    "title": "9월 30일 응에안 지역 날씨 예보: 낮에는 맑고, 오후와 저녁에는 소나기가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUY2M09xalRrX3JHSUh1MmNqTzlRb2pTdEVhdW9MN1ZTS1JpVFdWM0ZybmlMLTBwNW05dF9SSzQySnV0Y1BabWxIY0VMdlN4LWUxenF0RkhqQ2xCR0J3bktrLXhUMTNBNk01RExpUXY3VFBvM3MyS29CZnZIVmY2Vk5jczR3SG1wb3FTNEhNSDhBNHRsQ1Vn?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-30T01:26:28.000Z",
+    "snippet": "9월 30일 응에안 지역 날씨 예보: 낮에는 맑고, 오후와 저녁에는 소나기가 내리겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "4877d41e9a30f9a5",
+    "title": "TikTok wants creators to see green: Its latest fintech feature will pay them for brand deals within 30 days",
+    "link": "https://www.tubefilter.com/2026/09/29/tiktok-one-pay-creator-brand-deal-compensation/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-09-30T01:22:43.000Z",
+    "snippet": "#FinTok is taking on a whole new meaning. With its ecom hub TikTok Shop expected to generate more than $100 billion in GMV this year alone, TikTok has been exploring how it can get even more cash flowing through its app. Earlier this year, "
+  },
+  {
+    "id": "8db0c5dd2865ee73",
+    "title": "\"車반도체 국산화·상용화 확대…현대모비스, 산업부 'M.AX 얼라이언스' 참여",
+    "link": "https://www.hankyung.com/article/202609303981g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:22:16.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0264d72e9a32633f",
+    "title": "\"딱 3일간 3000원 쏜다\"…백종원 회사의 '깜짝 할인' 승부수",
+    "link": "https://www.hankyung.com/article/202609303953g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:18:43.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8a8c55caa41c5518",
+    "title": "25년 공개한 외환보유액 순위 돌연 뺀 한은…\"정부와 사전 논의\"",
+    "link": "https://www.hankyung.com/article/2026093039386",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:17:31.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1374c88ef6790a1d",
+    "title": "스테이블코인으로 기업 해외송금…신한은행, 기술 실증 완료",
+    "link": "https://www.mk.co.kr/news/economy/12164549",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:13:26.000Z",
+    "snippet": "신한은행이 기업 고객의 해외송금을 스테이블코인으로 대체하는 전 과정에 관한 기술 실증을 성공적으로 마쳤다. 30일 신한은행은 스테이블코인을 활용한 기업 해외송금 전 과정을 구현하고.."
+  },
+  {
+    "id": "c0e4b9f26c2fb819",
+    "title": "교보생명 품 안긴 SBI저축은행…‘교보SBI’로 간판 바꾼다",
+    "link": "https://www.mk.co.kr/news/economy/12164548",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:12:55.000Z",
+    "snippet": "인수 7개월 만에 사명 변경 양사 간 연계사업 속도 전망SBI저축은행이 13년 만에 사명을 바꾼다. 교보생명이 지난 4월 최대주주에 오른 지 약 7개월 만으로, 사명 교체를 계기로.."
+  },
+  {
+    "id": "a9a2b6cedb103636",
+    "title": "손보 ‘상위 1% 설계사’ 1602명 선정…계약유지율 97%",
+    "link": "https://www.mk.co.kr/news/economy/12164544",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:11:47.000Z",
+    "snippet": "손해보험업계 상위 1% 수준의 모집종사자 1602명이 ‘2026 블루리본 컨설턴트’로 선정됐다. 30일 손해보험협회는 5년 연속 우수인증설계사 등을 대상으로 계약유지율과 계약건수 .."
+  },
+  {
+    "id": "b78d9b6cf3e074dc",
+    "title": "만성콩팥병 환자 10년새 2배…의료비, 투석 첫해에만 2888만원",
+    "link": "https://www.mk.co.kr/news/economy/12164541",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:10:39.000Z",
+    "snippet": "국내 만성콩팥병 환자가 10년 새 두 배 이상 늘어난 것으로 나타났다. 특히 투석을 시작하면 연간 의료비가 직전 해보다 두 배 이상 뛰는 것으로 조사됐다. 30일 삼성화재가 자체 .."
+  },
+  {
+    "id": "00066dce07ff85a0",
+    "title": "아시아나항공, 마일리지 특별기 73편 투입…1만5000마일로 일본 간다",
+    "link": "https://www.hankyung.com/article/202609303800g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:05:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f1a91780c0a0db9a",
+    "title": "\"위스키=아재 술\" 편견 깨더니…9년 새 판매량 200배 '폭발'",
+    "link": "https://www.hankyung.com/article/202609303930i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:00:47.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "5f2ff3f0b4350f24",
+    "title": "20만원짜리 바지에 활짝 열리는 지갑… '요가복계의 샤넬' 불티",
+    "link": "https://www.hankyung.com/article/202609291321i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T01:00:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c5c9d58451baf868",
+    "title": "'푸바오 쌍둥이 동생' 루이·후이바오, 12월 중국으로",
+    "link": "https://www.hankyung.com/article/202609303908i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T00:57:17.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4a6bb55ff08e8004",
+    "title": "3개월만 묶어도 연 3%대... 신한은행, 단기 예금 금리 깜짝 인상",
+    "link": "https://www.hankyung.com/article/202609303900i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T00:56:37.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f6e1ff37524b35c5",
+    "title": "9월 30일 날씨 예보: 베트남 북부는 폭염이 예상되며, 중부 베트남은 늦은 오후와 저녁에 폭우가 내릴 것으로 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0FLV2toVFpzaTdXeHJfVFV6bEZlSTlwOWV6bk1JZlhXMUEwNE0tYk1oOWcxcTUxMVI2WjZmSVZ1NDNHVW1VVzJqcV81RmRSTnpoM29qZDZCRk9vbGkwWUNMeGxBQWlEMEo1c2hZZExnNE80QjBPSzR3SEZoMUZaeHhsTm1VVVBHQlg2c0V4dWY2b19DTm5fbEE2d2Zwc0d2aEZJZThYTWxhZw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-30T00:55:54.000Z",
+    "snippet": "9월 30일 날씨 예보: 베트남 북부는 폭염이 예상되며, 중부 베트남은 늦은 오후와 저녁에 폭우가 내릴 것으로 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "69dfe53e3c74ee09",
+    "title": "호반문화재단, 'H아트랩' 5기 입주 작가·이론가 모집 - 뉴스락",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxeUVFM1pkdVdhRjhMVG1wd2RQdXdUdkE1NDhKQk93cFVLSE5JU04xNDFONUJkNzMxazRhdXNEUWVndHlEQjFON09sdmVMdzZVSGctWi0zbXNmbmdTNDJvTXF5VmRWRmVsNHEzYw?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T00:53:39.000Z",
+    "snippet": "호반문화재단, 'H아트랩' 5기 입주 작가·이론가 모집 뉴스락"
+  },
+  {
+    "id": "4ffa7c1f49604869",
+    "title": "'세빛' 11월 재도전…한빛-나노는 내년 상반기로 연기 검토",
+    "link": "https://www.hankyung.com/article/2026093038917",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T00:51:56.000Z",
+    "snippet": ""
+  },
+  {
     "id": "4b1182fe3d5e7ae4",
     "title": "호반문화재단, H아트랩 5기 입주작가 모집 - 핀포인트뉴스",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9STmZVRGV1UE9GR1VMa3g1MHhrQUNfWlV1R0VTcDltZWtLbnpuZk5XXy1RbWpHWjFHc0JzdXdWclVpRHRXRGVxU1oybzM5SXVpS0txRUxKb25WY1I0WWJ3RHRWX3gycmtTNm00YU9DSi1NTFXSAXdBVV95cUxPOHRTdlk5aFQ0OE1yTkREdkc0czVxMGlfNXZFNFE3bG9nYm4zQk9qS0VvSmJFOGFEd0Ewc0VkZENzUmR2cml0NTQ0ZkxCS3RkUUtGNE1NdTZWaW1OMXB2YTlEN2xOVFlLeU1WLTFRaHVkMi1lSXBkZw?oc=5",
@@ -38,6 +1058,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-09-30T00:47:53.000Z",
     "snippet": "호반문화재단, H아트랩 5기 입주작가 모집 핀포인트뉴스"
+  },
+  {
+    "id": "51d8cceaa7cbfea4",
+    "title": "SSG닷컴 '2시간 배송' 전국 확대…연내 55곳으로 확장",
+    "link": "https://www.hankyung.com/article/202609303835i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T00:45:41.000Z",
+    "snippet": ""
   },
   {
     "id": "4a4b7d8d33c13d36",
@@ -58,6 +1088,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-30T00:37:56.000Z",
     "snippet": "[강원날씨]30일 북부내륙 중심 비예보 강원일보"
+  },
+  {
+    "id": "9944ee378d17a82e",
+    "title": "\"둘 다 딸이 매디슨\"…이재용, 젠슨 황 수상 축사에 빵 터졌다",
+    "link": "https://www.hankyung.com/article/202609303774H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T00:33:12.000Z",
+    "snippet": ""
   },
   {
     "id": "86b77ab3bc79ae40",
@@ -90,6 +1130,16 @@
     "snippet": "호반문화재단, 창작공간 지원사업 ‘H아트랩’ 5기 입주 작가 모집 서울신문"
   },
   {
+    "id": "6f286d8b4c1a43d0",
+    "title": "[단독] LS전선, 경북 구미에 희토류 영구자석 공장 짓는다",
+    "link": "https://www.hankyung.com/article/202609303773i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T00:31:05.000Z",
+    "snippet": ""
+  },
+  {
     "id": "5b4f91a236972069",
     "title": "LatticeDB - 그래프, 벡터, 전문 검색을 한 파일에 담는 임베디드 DB",
     "link": "https://news.hada.io/topic?id=34517",
@@ -98,6 +1148,26 @@
     "category": "개발",
     "publishedAt": "2026-09-30T00:30:02.000Z",
     "snippet": "데이터 사이의 관계 탐색, 의미가 비슷한 문서 검색, 키워드 검색을 하나의 로컬 DB 파일에서 처리하는 오픈소스 데이터베이스 별도 서버나 설정 없이 애플리케이션 안에서 실행하며, 데이터베이스를 단일 파일로 보관하고 이동 가능 벡터 검색으로 비슷한 문서 조..."
+  },
+  {
+    "id": "5c4f6e7b80ad4be0",
+    "title": "현대차 투싼, 국산 SUV 최초 글로벌 1000만대 돌파…해외서 91% 팔렸다",
+    "link": "https://www.hankyung.com/article/202609303606g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T00:23:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "deb941d3e36fc5ea",
+    "title": "호반문화재단 'H아트랩' 작가·이론가 모집…창작공간 지원 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wM19aNzd0SGxXUEpxM3dyT0ZGRk9HaGFuTzg1TGo5RXFLR3hyS0xFNVZuTFZNeXFpNlduSjFnWGxyczV5ZUNTRVhCY0ppaTQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T00:23:00.000Z",
+    "snippet": "호반문화재단 'H아트랩' 작가·이론가 모집…창작공간 지원 v.daum.net"
   },
   {
     "id": "0ef8357603dc4cad",
@@ -130,6 +1200,16 @@
     "snippet": "호반문화재단, 창작공간 지원사업 'H아트랩' 5기 모집 뉴스투데이"
   },
   {
+    "id": "88d6128f57ffec0c",
+    "title": "\"인디 브랜드 비중 세계 최고 수준\"…무신사가 25년간 바꾼 K패션",
+    "link": "https://www.hankyung.com/article/202609303683g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T00:15:47.000Z",
+    "snippet": ""
+  },
+  {
     "id": "115a03c5457f2798",
     "title": "9월 30일 날씨 예보: 베트남 북부와 북중부 지역은 폭염에 시달릴 것으로 예상되며, 일부 지역에서는 기온이 섭씨 37도를 넘어설 전망입니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVNwNDJfaEplU2J5VE1NaTVTeTNldXVTWVptV1RsZWY4cFhjU09CVGFQeGQyRG14T2xIOF9rTDZvVTg4bVdJX3J1WlZhMkpOeVY3Y3dISHRzaU80UlhEUldlUW5EdXBUek5SQkhmdDJIUnhqd0hfQm9ialM1WFdYRzFzNFB3OFdranZkYmJrNEJ4b3A4SWRlc1Q1R3JJYkVJSDhPa1J3?oc=5",
@@ -138,6 +1218,26 @@
     "category": "날씨",
     "publishedAt": "2026-09-30T00:13:18.000Z",
     "snippet": "9월 30일 날씨 예보: 베트남 북부와 북중부 지역은 폭염에 시달릴 것으로 예상되며, 일부 지역에서는 기온이 섭씨 37도를 넘어설 전망입니다. Vietnam.vn"
+  },
+  {
+    "id": "93da5d5297abc69b",
+    "title": "호반문화재단, ‘H아트랩’ 5기 입주 작가 모집…10개월간 창작공간 지원 - 한국금융신문",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWlpWVHhhRkNyM0FnX1BYUXpFWW5WVUQzaEtsS0JaaW82WWpoR3hOZjNoVHZiREVwWDdQekNfVjJQUWFUREFiWFJyQ0VLZHBuRUNpRnp4WW05Um1icFN2ZEtnOEMxZ2pETVlMamtYUHVOa3hnR3BHZWZIQ1o?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T00:11:19.000Z",
+    "snippet": "호반문화재단, ‘H아트랩’ 5기 입주 작가 모집…10개월간 창작공간 지원 한국금융신문"
+  },
+  {
+    "id": "b74559715c06d066",
+    "title": "반도체가 세금까지 터뜨렸다…올해 세수 '역대 최대' 전망",
+    "link": "https://www.hankyung.com/article/2026093036617",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T00:11:05.000Z",
+    "snippet": ""
   },
   {
     "id": "4d77a218f06d3b6e",
@@ -948,6 +2048,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-29T15:15:08.000Z",
     "snippet": "[오늘날씨] 9월 30일 중부·전북 비…낮 최고 24~28도 vegannews.co.kr"
+  },
+  {
+    "id": "b888b279781d8e0d",
+    "title": "[오늘의 북한 날씨] 저기압 영향, 비 또는 소나기...백두산엔 눈 - SPN 서울평양뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4Y3VVMkFWQnBoeEVlZkNYYTVKSEpYWW0xbGFmSGtFbW9yRW1KaUJQR1lEcGFoZk5TdS1fMURXLWJKeEY2RXpialRTaTZFWjhLd0lqYTYzSEpWVC1PeXhLa2o0ZUk2bGNULVhn?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-29T15:00:00.000Z",
+    "snippet": "[오늘의 북한 날씨] 저기압 영향, 비 또는 소나기...백두산엔 눈 SPN 서울평양뉴스"
   },
   {
     "id": "d0a8aa7e239f12f5",
@@ -4228,6 +5338,16 @@
     "category": "날씨",
     "publishedAt": "2026-09-28T10:00:46.000Z",
     "snippet": "오늘 밤과 내일(2026년 9월 29일) 날씨 예보: 북부 지역은 덥고 맑겠으며, 남부 지역은 저녁에 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "3dd3449c86d5bfbf",
+    "title": "샹젤리제에서 열리는 교황 미사에 날씨가 좋을까? 이번 주 예보 - Sortir à Paris",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc3ZPTUNaQTdBVzJXMm9zQk96OC1Ycy1MZ3M4NmYzRGUxQkVnNUdqeUZtZFUzMjc3TVlUdGt1Smx3ZWVNUFJEY3NtVGxRZTVWdDc1a292U2xVcXk5QnNWenFVbkVtZTRQUGRCWm1qSUZjek51d3VrT1JuUzhtYmw4ejRKRVVVLVhpYXZQaEhoNkp0VWZ0dWhlSDgwYVU0eWEyWHpXSGs1c3NGTGMyOFNqR004bVFCRG10MmV3c3ZqQ2tBa19ObFg3WjJqdEN0cUFIZjNDOVZNQXJ2eUQ4MkVCUnpOTzQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-28T09:59:23.000Z",
+    "snippet": "샹젤리제에서 열리는 교황 미사에 날씨가 좋을까? 이번 주 예보 Sortir à Paris"
   },
   {
     "id": "ab7f9130f92cfc68",
@@ -40700,6 +41820,16 @@
     "snippet": ""
   },
   {
+    "id": "899cdc9c10e42efe",
+    "title": "진도읍, 진도군, 전남광주통합특별시 일기예보 및 날씨 - The Weather Channel | Weather.com - The Weather Channel",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1dyM1FXR3FyNXQ2N2duTFBReGtSOUp3MzdLLWFJdFZDM2xnajRyOUVUQXNXWGIzRzNYeDFvZTJhODg3Vl9EdGJBUmhlTHhlRHYxak9kSlB6V3RrV1RpX29sWkV3eEgzVHhfUVRhS1h0YlBEWGdMUklDS2hFTWVvSjA1MGNkQQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-11T20:57:31.000Z",
+    "snippet": "진도읍, 진도군, 전남광주통합특별시 일기예보 및 날씨 - The Weather Channel | Weather.com The Weather Channel"
+  },
+  {
     "id": "c9371d67e9907909",
     "title": "Show HN: AI 없는 Hacker News",
     "link": "https://news.hada.io/topic?id=33557",
@@ -51640,6 +52770,16 @@
     "snippet": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 v.daum.net"
   },
   {
+    "id": "f35843fb715bda59",
+    "title": "신혼부부 주거자금 대출이자 지원사업 2차 모집 - 강원일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43V0Jya0w4RDFSNExWWjBNd0kzRlJmeTlQSk9uakJhdExBaWlLWmstZHNzQlE4YVBRajlVVjVjMnZWMWp0XzQxYlpLT2s5ZW1kLWJMQTA0WFZsX2M?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-08T07:00:00.000Z",
+    "snippet": "신혼부부 주거자금 대출이자 지원사업 2차 모집 강원일보"
+  },
+  {
     "id": "ad96aa9b02493ffb",
     "title": "“6인치 넘어 12인치로”…삼성·ASML, 차세대 반도체 개발 ‘맞손’",
     "link": "https://www.mk.co.kr/news/economy/12147145",
@@ -52198,16 +53338,6 @@
     "category": "경제",
     "publishedAt": "2026-09-08T01:56:21.000Z",
     "snippet": "세계지식포럼 개막 제27회 세계지식포럼이 8일 서울신라호텔과 장충아레나에서 개막했다. 8일 오전 열린 개막식에서 데이비드 캐머런 전 영국 총리가 특별연설을 하고 있다.2026.9..."
-  },
-  {
-    "id": "f35843fb715bda59",
-    "title": "신혼부부 주거자금 대출이자 지원사업 2차 모집 - 강원일보",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43V0Jya0w4RDFSNExWWjBNd0kzRlJmeTlQSk9uakJhdExBaWlLWmstZHNzQlE4YVBRajlVVjVjMnZWMWp0XzQxYlpLT2s5ZW1kLWJMQTA0WFZsX2M?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-09-08T01:54:20.000Z",
-    "snippet": "신혼부부 주거자금 대출이자 지원사업 2차 모집 강원일보"
   },
   {
     "id": "2b150fb03f8d9e2d",

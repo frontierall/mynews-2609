@@ -330,6 +330,16 @@
     "snippet": "미국의 추가 관세 발표를 앞두고 한국 통상당국이 미국 측으로부터 기존 한미 합의선인 15%를 넘지 않겠다는 입장을 확인했다고 밝혔다. 1일 통상 당국에 따르면, 김정관 산업통상부 .."
   },
   {
+    "id": "f015d620efe9e36b",
+    "title": "[오늘의 북한 날씨] 대부분 지역 맑음, 북부 지역 서리 - SPN 서울평양뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pVUsxSFJTb1UzNEhjU0ZkV09qa2hpWE1pb1IyUTRPOEF4N1hBTUdmeTgxZUFhOC1iVFUwaGhMbnpGZDJleThiVzVYU2h1Z1RZN1E2NmpRY1I3dFF5a0I4bjF6NTJtdGFNdEVB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-30T21:07:39.000Z",
+    "snippet": "[오늘의 북한 날씨] 대부분 지역 맑음, 북부 지역 서리 SPN 서울평양뉴스"
+  },
+  {
     "id": "1cf9391d04f1411a",
     "title": "\"5만원만 내면 집안 가전 34종 수리\"…'파격 서비스' 등장",
     "link": "https://www.hankyung.com/article/202609305279g",
@@ -1490,6 +1500,26 @@
     "snippet": "제24차 세계한상대회에서 장대환 매경미디어 회장이 공로패를 수상했다. 세계한상위원회는 지난 29일 인천 송도컨벤시아에서 열린 제24차 세계한상대회 개막식에서 2002년 제1차 세계.."
   },
   {
+    "id": "b421791b5f97ca6d",
+    "title": "\"로봇·K컬처기업 모십니다\"…인천시, 한상에 투자 러브콜",
+    "link": "https://www.mk.co.kr/news/columnists/12165182",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T08:39:30.000Z",
+    "snippet": "인천시가 세계 각국에서 활동하는 재외동포 경제인들을 대상으로 투자 유치전에 나섰다. 바이오와 반도체에 이어 미래형 모빌리티, 로봇, K컬처 등을 내세워 새로운 성장 동력으로 육성하.."
+  },
+  {
+    "id": "ea8761345e44e148",
+    "title": "한상과 만난 K중기 3억弗 수출상담…\"내년엔 경주서 만나요\"",
+    "link": "https://www.mk.co.kr/news/columnists/12165180",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-09-30T08:39:29.000Z",
+    "snippet": "제24차 세계한상대회 3일간 약 3억달러의 거래 상담이 오갔고, 그중 2400만달러어치 계약은 양해각서(MOU)가 체결되는 성과를 냈다. 30일 세계한상위원회와 재외동포청 등에 따.."
+  },
+  {
     "id": "ca19e161da4a32a5",
     "title": "[포토] W컨셉 “뉴욕 찍고 파리로”",
     "link": "https://www.hankyung.com/article/2026093055971",
@@ -2460,6 +2490,16 @@
     "snippet": "회사 사내망에서는 GitHub Copilot만 쓸 수 있어 터미널을 연결해 작업을 맡겨봤습니다. 원치 않는 스크립트를 실행하는데, 위험한 명령을 막거나 중간에 끼어들기가 어렵더군요. iTerm MCP도 고려했지만, 제가 필요했던 건 명령에 규칙을 정하고 언제든 직접 개입할 수 있는 터미널이었습니다. 그래서 Conn을"
   },
   {
+    "id": "7bf9aa8268f12ad4",
+    "title": "부안군, 청년농업인 R&D 기술창업 통합관리 지원 사업 신청자 모집 - 경남도민뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lcWZHbnNDeFlabWZFOHhpcU9Ta0d1UHhUUzNLclc1R0RHX2t6S1pBWmU4YW1GVnF5OC15SFFfX0ZwVGQ0YVJma2lJelkwRzhacks0UHBJcjNqdl92V3c5UlB1NA?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-30T03:30:16.000Z",
+    "snippet": "부안군, 청년농업인 R&D 기술창업 통합관리 지원 사업 신청자 모집 경남도민뉴스"
+  },
+  {
     "id": "b6976cc0c05612f6",
     "title": "OpenAI, Jev와 경쟁할 Luna 기반 Decision API 공개",
     "link": "https://news.hada.io/topic?id=34528",
@@ -2468,6 +2508,16 @@
     "category": "개발",
     "publishedAt": "2026-09-30T03:27:13.000Z",
     "snippet": "OpenAI가 DevDay에서 소형 모델 Luna 기반의 Decision API를 공개 개발자가 질문, 답변 후보, 맥락을 입력하면 미리 정한 답변 후보에 신뢰도 점수를 제공하는 방식 주요 활용처는 콘텐츠 분류, 요청 라우팅, AI 에이전트의 다음 행동 선택 OpenAI 발표 기준 응답 시간은 1..."
+  },
+  {
+    "id": "48de180b2bce69e4",
+    "title": "오늘(9월 30일) 날씨 예보: 북부 지역에 무더위가 확산되기 시작하며, 남부 지역에는 오후에 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmVkWFhpYV83YXZ3dVRQYUlJYlprUU5NQVpoVXNHdzJsOEk3SU01YTZyYzcyOGJrbUpPaS1pbkRoaEcxVy00c3ZDTm5VU1BFdjFVdDljQ0Z4RUZrNTJvMXlZRE4wVGlISWRIUy1ibFRfOTVKVjJLSUFQV3hyV1dUd0RROHB4c2x3d3RJSmtLZ3Y5b3pjRlV5TVpSQjhZWVBMc0hmMTZDcmRnQQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-09-30T03:10:12.000Z",
+    "snippet": "오늘(9월 30일) 날씨 예보: 북부 지역에 무더위가 확산되기 시작하며, 남부 지역에는 오후에 천둥번개가 예상됩니다. Vietnam.vn"
   },
   {
     "id": "be633ffedd489c9b",
@@ -9580,6 +9630,16 @@
     "snippet": "경북도, ‘청년애꿈 지원사업’ 참여자 모집 KBS 뉴스"
   },
   {
+    "id": "d9a1303b69c0103d",
+    "title": "경북도, ‘청년애꿈 지원사업’ 참여자 모집 - news.kbs.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92R1p6WDhPRE1Qb1QtTW5ONnhIbmpGVGFJZjV4SHJ3UURyMFFzSFNTa2hEeXRmejZlWThHczB2aE1lWXZGM0pCa3l1OFJoMXEtZ3MtU2xkbFY1Z2M?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-27T13:27:00.000Z",
+    "snippet": "경북도, ‘청년애꿈 지원사업’ 참여자 모집 news.kbs.co.kr"
+  },
+  {
     "id": "c9f3ad2ba166439c",
     "title": "Rust에서 살펴본 “검증하지 말고 파싱하라”",
     "link": "https://news.hada.io/topic?id=34362",
@@ -12418,6 +12478,16 @@
     "category": "경제",
     "publishedAt": "2026-09-25T15:33:42.000Z",
     "snippet": ""
+  },
+  {
+    "id": "1390bc8bdf027f64",
+    "title": "읽기 : 게시판 | 소통의 장 | 방산물자교역지원센터 - KOTRA 무역투자24",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcEFRRVNtVzJhU0lHeDFmLVk1MXprTU94N2F4alFjSGcwR1hFY3g5bUZzZjRGTVdySlVON1J2TGFWR2h2UGdUZDZQSkI3ME5sdnFocUYxSWpKcXhWUDNIYzlNdkJwenJncEhZU09JS1V6YmlLMDlDblZnZjlhQVlSNFl4ZWRqRFpkbXExTmhOc25GLUhZcHQtdjVNbkdiclkyb0doUGstZFRrcllNU1lvNWNuN28xY0REaUtlc29SLXJ5LTJwZjJWU3NlSkc1ek1H?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-09-25T15:27:34.000Z",
+    "snippet": "읽기 : 게시판 | 소통의 장 | 방산물자교역지원센터 KOTRA 무역투자24"
   },
   {
     "id": "b02c35f8e50ea61c",

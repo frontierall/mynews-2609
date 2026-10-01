@@ -1,0 +1,232 @@
+[
+  {
+    "id": "786284e5521b1d0d",
+    "title": "구글, '제미나이 4 아르곤' 공개…성능 1위 탈환에도 \"일반 사용 제한\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215821",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-01T06:23:26.000Z",
+    "snippet": "구글이 프런티어급 지능과 에이전트 작업 능력을 대폭 끌어올린 차세대 플래그십 모델 '제미나이 4 아르곤(Gemini 4 Argon)'을 공개했다. 핵심 경쟁 모델들을 제치고 벤치마크 선두를 탈환했음에도 불구하고, 대다수 개발자와 기업이 당장 사용할 수 없는 '제한적 출시'에 그쳤다. 구글은 30일(현지시간) 제미나이 4 아르곤을 소개하며 '페어윈드(Fairwind)' 프로그램을 통해 사전 검증된 사이버 보안 방어 파트너 및 미"
+  },
+  {
+    "id": "6b8183671d7bc6c5",
+    "title": "[단독] “전세사기로 떠안은 집은 예외”…생애최초 LTV 인정범위 구체화",
+    "link": "https://www.mk.co.kr/news/economy/12165693",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:53:48.000Z",
+    "snippet": "금융당국, 생애최초 예외 기준 유권해석 배포 전세사기 피해로 안은 주택 처분 조건 충족시 최초 인정 미등기·무허가주택이라도 HOMS에 이력 남으면 제외 여심위가 세부 기준.."
+  },
+  {
+    "id": "e0cfb35879770f69",
+    "title": "EDG C++ 프런트엔드 소스 공개",
+    "link": "https://news.hada.io/topic?id=34577",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-01T00:38:30.000Z",
+    "snippet": "EDG C++ 프런트엔드가 2026년 9월 30일 소스를 공개하고, 비영리 조직 The C++ Alliance를 새 운영 기반으로 삼음 이번 전환은 관리 주체와 자금 조달 방식의 변경이며, 기존 엔진과 구현 표준, 전문적인 유지보수는 그대로 이어짐 개발..."
+  },
+  {
+    "id": "a98331b1d916917a",
+    "title": "싱가포르 정부 데이팅 앱, Gale-Shapley 안정 결혼 알고리듬 사용",
+    "link": "https://news.hada.io/topic?id=34576",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-01T00:35:30.000Z",
+    "snippet": "싱가포르 정부의 데이팅 앱 FirstDate는 이용자의 선호와 수용 불가 조건으로 순위를 만들고, Gale-Shapley 알고리듬으로 상대를 매칭함 제안자는 가장 선호하는 상대에게 제안하고, 수신자는 최선의 제안만 보류하며 나머지를 거절하는 과정을 반복해 안정..."
+  },
+  {
+    "id": "1346a8f5aac2fb10",
+    "title": "\"스케줄 없을 땐 이것만 발라요\" 전도연이 밝힌 스킨케어 루틴",
+    "link": "https://www.hankyung.com/article/202610016704i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:33:00.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "11739ffb95743807",
+    "title": "하노이는 섭씨 36도까지 치솟는 폭염에 시달리고 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZNHRuTm5JQ3FPaXpFWkJDY1R3czlEWF9yUzd0TjZPQ2k2RW9WZTFUWmtmdG0xTXY0VDlMUkZvem5FdlpDaE5UZ0V4V09vZ3dwSTRKSThWMHdKbnVWOEV6U1RpaTc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-01T00:30:03.000Z",
+    "snippet": "하노이는 섭씨 36도까지 치솟는 폭염에 시달리고 있습니다. Vietnam.vn"
+  },
+  {
+    "id": "360d5b47f093ca55",
+    "title": "Traycer - 여러 코딩 에이전트의 문맥과 협업을 한곳에서 관리",
+    "link": "https://news.hada.io/topic?id=34575",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-01T00:30:02.000Z",
+    "snippet": "여러 코딩 에이전트를 병렬로 실행하고 모델과 제공자가 달라도 작업 문맥을 공유하는 오픈소스 오케스트레이션 앱 Claude Code, Codex, Cursor, OpenCode 등 기존에 사용하는 에이전트와 구독을 연결하거나 Traycer 자체 추론 서비스를 이용 같은 에이전..."
+  },
+  {
+    "id": "40d2628832f302fd",
+    "title": "\"집도 차도 안 산다\"…美 소비자 체감경기 12년 만에 최저",
+    "link": "https://www.hankyung.com/article/202610016559i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:25:38.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "359f07c7e3d7b84b",
+    "title": "에이지투웨니스, '스킨 퍼스트'로 새단장…성수서 브랜드 변신 알린다",
+    "link": "https://www.hankyung.com/article/202610016498g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:20:43.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "953c0e59ef19a792",
+    "title": "파리크라상 신임 대표, 강신봉 전 삼성전자 부사장 내정",
+    "link": "https://www.hankyung.com/article/202610016625g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:20:19.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f5eee9a62d477ee2",
+    "title": "홈플 익스프레스·NS홈쇼핑 만남 벌써 100일…백일떡 돌린다",
+    "link": "https://www.hankyung.com/article/202610016528g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:15:25.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e2287bce191b1fb7",
+    "title": "10월 1일 날씨 예보: 베트남 북부와 중부 지역은 덥고 화창한 날씨가 계속될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkZXaDFpaFlEMkVEWFhJRXFwMGpVSWQ3NHlGcmlKNHlRaGJUR1JtWUlKNDZBYUJ0NUxEeVNKSnIxSWxvVHBNT3hrbFc2R01wNmtVSUxJRnprNF9yN042QlpWVFJaRm5DQTBwc0lPS2pzYjhOTjBhQnVWOTVRU0Q2RTQtNUJYbW1yaE9z?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-01T00:13:49.000Z",
+    "snippet": "10월 1일 날씨 예보: 베트남 북부와 중부 지역은 덥고 화창한 날씨가 계속될 예정입니다. Vietnam.vn"
+  },
+  {
+    "id": "7237d12d999de2b1",
+    "title": "\"중국폰 살 돈이면 아이폰\"…불황 뚫은 애플, 3일 만에 '돌풍'",
+    "link": "https://www.hankyung.com/article/202610016514g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:10:24.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c626f8d3faccaf01",
+    "title": "LG전자, AI 냉각에 1500억 투자…美 버지니아에 칠러 공장 구축",
+    "link": "https://www.hankyung.com/article/202610016478g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:06:16.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f96a6244092912f1",
+    "title": "[속보] 한국 수출 첫 8000억달러 돌파…9월 역대 최대 1200억달러",
+    "link": "https://www.hankyung.com/article/2026100165757",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:06:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f871f97a575d82d9",
+    "title": "한미 전략투자 첫 공식 발표…텍사스 발전·미국 원전·알래스카 LNG 추진",
+    "link": "https://www.mk.co.kr/news/economy/12165590",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:05:52.000Z",
+    "snippet": "텍사스 발전소에 223억달러 투자 미국 원전 8기 건설 틀 합의 APR1400 미국 진출 길 열기로 알래스카 LNG는 경제성 검토 투자금 통합 관리해 회수 추진산업통상부는 1일 “.."
+  },
+  {
+    "id": "a1009e358fc959e1",
+    "title": "출동경비 넘어 AI 매장관리까지…ADT캡스, KCSI 무인경비 1위",
+    "link": "https://www.hankyung.com/article/202610016556i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:04:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c459b265ecc5eafa",
+    "title": "[속보] 9월 수출 1209억 달러 ‘사상 최대’…반도체 첫 600억 달러 돌파",
+    "link": "https://www.mk.co.kr/news/economy/12165586",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:03:50.000Z",
+    "snippet": "올해 9월 우리나라 수출이 1209억 달러로 역대 최대 기록을 경신했다. 산업통상부가 1일 발표한 ’2026년 9월 수출입동향’에 따르면 지난달 수출은 전년 동월 대비 83.5% .."
+  },
+  {
+    "id": "d2efe528bbbad2a5",
+    "title": "[속보] 9월 무역수지 498.5억달러 흑자…사상 첫 400억달러 상회",
+    "link": "https://www.hankyung.com/article/2026100165657",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:03:38.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "4cb01ee852050c5f",
+    "title": "뻐꾸기의 알",
+    "link": "https://news.hada.io/topic?id=34573",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-01T00:03:27.000Z",
+    "snippet": "Clifford Stoll의 1989년 논픽션으로, 연구소 컴퓨터 사용료의 75센트 오차에서 시작해 소련 KGB에 정보를 팔던 해커를 추적한 과정을 1인칭으로 기록함 침입자는 GNU Emacs의 movemail 취약점으로 연구소 시스템의 최고 관리자 권한을 얻었으며,..."
+  },
+  {
+    "id": "7b4e851f53516419",
+    "title": "IPO 대어 줄줄이 연기…월가 '가을 상장 잔치' 기대 식었다",
+    "link": "https://www.hankyung.com/article/202610016534i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:01:45.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "aa54ccf8e460b154",
+    "title": "[속보] 9월 반도체 수출 603억달러…사상 첫 600억달러 돌파",
+    "link": "https://www.hankyung.com/article/2026100165527",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:01:27.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "cfcbfcfda9f27f4c",
+    "title": "AI 솔루션기업 '올거나이즈' 日증시 입성",
+    "link": "https://www.hankyung.com/article/2026093055551",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-01T00:00:15.000Z",
+    "snippet": ""
+  }
+]

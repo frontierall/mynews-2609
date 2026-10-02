@@ -1,5 +1,205 @@
 [
   {
+    "id": "38b142f70353760d",
+    "title": "Tiny Brutalism",
+    "link": "https://news.hada.io/topic?id=34684",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T21:36:54.000Z",
+    "snippet": "브루탈리즘 건축에서 영감을 받은 자유형 건축 샌드박스 게임으로, 기묘한 기념물부터 콘크리트 탑과 거대한 벽까지 만들 수 있음 목표나 정해진 건축 방식이 없어 원하는 구조물을 자유롭게 만드는 데 집중함 클릭으로 건축하고 영역을 채우며, ..."
+  },
+  {
+    "id": "7b849a05e636111b",
+    "title": "Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
+    "link": "https://news.hada.io/topic?id=34683",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T21:33:54.000Z",
+    "snippet": "Greg Kroah-Hartman, LLM 시대의 보안 [영상]"
+  },
+  {
+    "id": "5bf64df40c3064a6",
+    "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
+    "link": "https://www.mk.co.kr/news/economy/12167675",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T21:30:49.000Z",
+    "snippet": "5대 은행 달러 대출 분석 고환율에 불어났던 달러 빚 원화 강세로 두달새 13%↓ 원화 매출비중 높은 기업 대출상환에 따른 효과 커원화 가치가 빠르게 오르면서 기업들이 달러 대출 .."
+  },
+  {
+    "id": "5e5bb7f065a23686",
+    "title": "[날씨] '찬공기 남하' 대체로 맑겠으나 밤엔 쌀쌀...연휴기간 예보는? - 헤드라인제주",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82UGlfamUxNzFvLVNvM01uWGE3Y0pzSjEtRTZDNzhvcjN1UkdvLXM2LXdIUTdHOVlQR0h6UFg3dHFleGR3enVRZWRVOEdqcTE2V0paZ3J4dHdNOE1pYllsVHhkWFdnTDZRY3RjeVpRal9VMTA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-02T21:10:00.000Z",
+    "snippet": "[날씨] '찬공기 남하' 대체로 맑겠으나 밤엔 쌀쌀...연휴기간 예보는? 헤드라인제주"
+  },
+  {
+    "id": "54d72689dc4ff93c",
+    "title": "日총리도 감탄…명동 빌딩 팔고 한옥 지은 60대의 15년 '땀방울' [권용훈의 직업불만족(族)]",
+    "link": "https://www.hankyung.com/article/202610029307i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T21:00:10.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "fa291c5f7015093f",
+    "title": "\"고양이 이빨 3개 뽑았는데\"…카드 결제내역 보고 '깜짝'",
+    "link": "https://www.hankyung.com/article/2026100209761",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T21:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "cadde35138dce92c",
+    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-10-02T20:45:00.000Z",
+    "snippet": "Federal Reserve Board announces approval of application by Fleur Capital Corporation"
+  },
+  {
+    "id": "94b23c09c94bc7f0",
+    "title": "Audionaut - 오픈소스 크로스플랫폼 멀티트랙 오디오 편집기",
+    "link": "https://news.hada.io/topic?id=34682",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T20:44:15.000Z",
+    "snippet": "Audionaut는 음악, 팟캐스트, 멀티트랙 녹음을 편집하고 녹음하는 무료 데스크톱 앱으로, 완전한 DAW의 무게와 복잡성 없이 정밀한 자르기, 트랙별 재생 목록, 다채널 지원과 내보내기를 제공함 MCP를 통해 Claude와 다른 AI 에이전트가 열린 프로젝트를 편집할 수..."
+  },
+  {
+    "id": "2d302aaa7ff0cd35",
+    "title": "ChatGPT의 Sites",
+    "link": "https://news.hada.io/topic?id=34681",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T20:41:15.000Z",
+    "snippet": "Sites는 일상적인 말로 웹사이트, 앱, 게임을 만들고 ChatGPT와 대화하며 수정한 뒤 호스팅하고 공유할 수 있는 기능임 인앱 브라우저에서 게시 전 사이트를 테스트할 수 있으며, 파일이나 시각적 참고 자료를 추가하거나 기존 Codex 프로젝트에서 시작할 수 있음..."
+  },
+  {
+    "id": "584f750b0a845209",
+    "title": "Apple Pass Designer",
+    "link": "https://news.hada.io/topic?id=34680",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T20:38:15.000Z",
+    "snippet": "Pass Designer는 기업이나 매장의 브랜드를 반영한 패스를 만들고 미리 볼 수 있는 도구로, Apple 제공 템플릿이나 자체 템플릿을 활용할 수 있음 편집 중 iPhone과 Apple Watch 미리보기가 실시간으로 갱신되며, iOS 및 watchOS와 동일한 렌더링을 사용해 고객 기..."
+  },
+  {
+    "id": "5009991d4a53bfc4",
+    "title": "Have you heard? MrBeast’s Shark Tank spot, Minecraft goes after Roblox, and a robo racoon gets us in the mood for spooky season",
+    "link": "https://www.tubefilter.com/2026/10/02/have-you-heard-mrbeast-shark-tank-magnus-carlsen-minecraft-mojang-creator-jobs-wicked-makers/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-02T20:01:45.000Z",
+    "snippet": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, a YouTube legend is ending a chapter of his career, two others are thinking about"
+  },
+  {
+    "id": "fe551cc7e923e4e8",
+    "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-10-02T20:00:00.000Z",
+    "snippet": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O"
+  },
+  {
+    "id": "034329e67492f388",
+    "title": "Show HN: Opus 5.5에 가상 회화 캔버스 제공하기",
+    "link": "https://news.hada.io/topic?id=34679",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T19:45:57.000Z",
+    "snippet": "stillwet은 AI 모델이 붓질을 코드로 작성하고, 리넨 위 유화 시뮬레이션이 이를 실행하는 회화 프로젝트로 이미지 생성 모델은 사용하지 않음 대부분의 모델은 Caspar David Friedrich의 작품 이미지를 보지 않고 문헌 조사만으로 그의 화풍을 따르며, 공개된 75점..."
+  },
+  {
+    "id": "f72e5005aa8a49bc",
+    "title": "FLUX 3 Image",
+    "link": "https://news.hada.io/topic?id=34678",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T19:42:57.000Z",
+    "snippet": "Black Forest Labs의 FLUX 3 Image는 요소별 경계 상자로 이미지 구도를 지정하고, 생성 후에도 상자 단위로 여러 부분을 편집할 수 있는 이미지 생성/편집 모델임 레이아웃 프롬프트는 전체 장면 설명과 요소별 ID, 좌표, 묘사로 구성되며, 직접 상자를 그리거나 ..."
+  },
+  {
+    "id": "58b2fc80918c6201",
+    "title": "[전국 날씨예보] 아침 쌀쌀·낮엔 포근…전국 일교차 15도 안팎 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OOHVZUjFQTzhDOXlYTDl6ZHlsS3BudGR4Sko3QWhaRjN3ci04UjdxZk9lTGxISXRMVDlHVDJFRlpuMUJWZUl4MUlsV0k4WW84MU1OZ2dTQzdqcGNWVGl6TFRMajE1SUxDVXpuRUMyNXbSAXRBVV95cUxOeUVHYmMwQW80MFJhSXhSaEU3TGtlanhLYWtTRmp4RGxpa25CRjZNeE9TSHFXUHZ0MDBhZE53bGx1N0Y2Z2VkVVFhYnZSVTkySE9VVzBuSGQ4bDJWQTdSZE1keTY3RnktUl9xQ2lhc2ZNQjJCXw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-02T19:30:00.000Z",
+    "snippet": "[전국 날씨예보] 아침 쌀쌀·낮엔 포근…전국 일교차 15도 안팎 thefairnews.co.kr"
+  },
+  {
+    "id": "f377f4f0d697fb0b",
+    "title": "[강원도 날씨예보] 아침 최저 3도…내륙·산지 서리·얼음 주의 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mZjlyZGhKUTZ6WElmVFB0SGJYNk1KRDhuUmxTOThxYjVSVWRqY0VDcXpLY2x2Z1g2TndLdDRZZ09vR1VaU2xpTnk2V2N2R0xQUG5WVGVjaGNWTm1acEZVU2IzUWpaX2VOUE00UkxBUUrSAXRBVV95cUxPaVVjZU94T19xNGFyNlp4Slk3cWZFaUxHV1ZEYnZ1Ui1DbnBDUEluZE5KYXVROEU3N1dUbFllY0NlVnRmeFJLR3cxUjdqdjRZYWF2bkp4U1Q4Z3BZQ284NmY0WnZ5c3hsblNJNDhkQW9fcjFVdg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-02T19:25:00.000Z",
+    "snippet": "[강원도 날씨예보] 아침 최저 3도…내륙·산지 서리·얼음 주의 thefairnews.co.kr"
+  },
+  {
+    "id": "8c898849bf313336",
+    "title": "ICC 판사가 말하는 미국 제재가 자신과 국제 법원에 미치는 영향",
+    "link": "https://news.hada.io/topic?id=34677",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T18:46:47.000Z",
+    "snippet": "국제형사재판소(ICC)의 캐나다인 판사 Kimberly Prost는 미국 제재 이후 신용카드가 취소되고 기술 서비스와 보험 이용이 제한되는 생활을 1년 넘게 이어가고 있음 제재 영향은 미국 기업에 그치지 않으며, 미국과 거래 관계가 있는 해외 기업의 과잉 준수로 금융과..."
+  },
+  {
+    "id": "b69f86e5e54fe771",
+    "title": "Supabase, Turso 인수 추진",
+    "link": "https://news.hada.io/topic?id=34676",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T18:43:46.000Z",
+    "snippet": "Supabase가 Turso를 인수해 AI 에이전트가 대규모로 생성하는 소프트웨어에 맞는 데이터베이스 인프라를 구축함 Supabase는 이미 매주 100만 개 이상의 데이터베이스를 생성하고 있으며, 에이전트의 소프트웨어 개발이 늘어나면 데이터베이스 수요가 현재 전 세계의..."
+  },
+  {
+    "id": "39582d448c7b9b26",
+    "title": "법원, EFF에 동의: 유타주 VPN 법은 기술적으로 불가능한 일을 요구함",
+    "link": "https://news.hada.io/topic?id=34675",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T18:40:46.000Z",
+    "snippet": "미국 연방법원이 유타주 연령 확인법 SB 73의 VPN 관련 조항 집행을 예비 금지명령으로 중단함. 법원은 이 조항이 유타주 밖의 기업과 사람들에게 상당한 부담을 지워 헌법에 위배될 가능성이 있다고 판단함 SB 73은 성인 웹사이트에 VPN 사용자 차단 또는 실제 위치 확인..."
+  },
+  {
+    "id": "1154b3d5b09ad288",
+    "title": "음식물처리기 지원사업, 주소지·인증 기준 확인 - 비건뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSakpkRXdCRnp2RmpWWlBaM2JIV3l2eTFBLTB4WnA3eVJsdmRyUVhLX25RVWRwNXdpcUVlbkJ1QmJxZ0h0RFJOV3luR0VqYVBMcjdoLV9wZWJhM0ludVlLMTZyZXZMUQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-02T18:33:01.000Z",
+    "snippet": "음식물처리기 지원사업, 주소지·인증 기준 확인 비건뉴스"
+  },
+  {
     "id": "228dd2b70629dabd",
     "title": "플리토, 첫 브랜드 ‘보글’로 글로벌 통역 시장 조준…\"매출 상승 이어갈 것\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215927",
@@ -50,6 +250,16 @@
     "snippet": "■ MS, 'MAI-트랜스크라이브-2-스트리밍' 및 'MAI-보이-2.1' 시리즈 공개마이크로소프트 AI가 실시간 음성 인식 모델(MAI-Transcribe-2-Streaming)과 음성 합성 모델(MAI-Voice-2.1), 고속 버전(MAI-Voice-2.1-Flash)을 선보였다. 이번 실시간 음성 인식 모델은 100밀리초(ms_ 수준의 초저지연을 달성해 화자의 말이 끝나기 전 첫 텍스트를 출력하며, 음성 합성 모델은 2"
   },
   {
+    "id": "3b7aa374b353f69c",
+    "title": "폰 노이만의 전설(1973) [PDF]",
+    "link": "https://news.hada.io/topic?id=34674",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T17:39:36.000Z",
+    "snippet": "John von Neumann은 집합론과 양자역학의 수학적 기초부터 연산자 이론, 게임 이론, 컴퓨터까지 폭넓게 기여했으며, 1940년 무렵을 경계로 연구의 중심을 순수수학에서 응용수학으로 옮김 힐베르트 공간과 연산자를 통해 양자역학을 엄밀하게 정식화했으며, 에르고..."
+  },
+  {
     "id": "b221f5afe2dbc661",
     "title": "구글 \"우주 데이터센터 실현 위해 스타십 최소 1800회 발사 필요\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215886",
@@ -68,6 +278,26 @@
     "category": "AI",
     "publishedAt": "2026-10-02T17:18:35.000Z",
     "snippet": "중국의 텐센트가 AI 개발을 가속하기 위해 미국 클라우드 기업 오라클로부터 고성능 AI 칩 10만개를 임대하기로 했다. 미국의 반도체 수출 규제가 강화되는 가운데 중국 기업들이 동남아시아 등 해외 데이터센터로 컴퓨팅 자원을 확보하는 움직임이 확대되고 있다.1일(현지시간) 파이낸셜타임스에 따르면, 텐센트는 올해 오라클과 동남아시아 여러 데이터센터를 대상으로 5년간 사용하는 대규모 임대 계약을 체결했다. 계약 규모는 70억달러(약"
+  },
+  {
+    "id": "2a4e13e227f739ac",
+    "title": "The last thing creators add, the first thing viewers notice: Why Adobe is introducing music, speech, and sound effect generation to Firefly",
+    "link": "https://www.tubefilter.com/2026/10/02/adobe-firefly-ai-sound-features/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-02T17:17:57.000Z",
+    "snippet": "In 2023, Photoshop developer Adobe jumped into generative AI with its launch of Firefly. Firefly has since evolved into an all-in-one creative AI studio, where users can create, edit, and enhance images, video, and audio with professional t"
+  },
+  {
+    "id": "b50b92d4d92d881e",
+    "title": "최악 9월 끝 10월부터 랠리?…AI에이전트 시대 투자 방향은?[월가 백브리핑]",
+    "link": "https://www.hankyung.com/article/202610031364i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T17:12:41.000Z",
+    "snippet": ""
   },
   {
     "id": "ae0dc3c80afa10f4",
@@ -118,6 +348,16 @@
     "category": "AI",
     "publishedAt": "2026-10-02T16:50:39.000Z",
     "snippet": "에스티엔인포텍(STNinfotech)은 최근 고속연결 솔루션을 전문으로 하는 미국 반도체 기업 크레도(Credo Technology Group Holding Ltd., 이하 \"Credo\")와 국내 시장 총판 계약을 체결했다고 발표했다.크레도는 AI 및 클라우드 데이터센터를 위한 고속 연결 솔루션을 제공하는 글로벌 기업으로, 차세대 고속 데이터 전송 기술인 AEC(Active Electrical Cable, 능동형 전기 케이블)"
+  },
+  {
+    "id": "e597650bcf4639f8",
+    "title": "엔비디아와 월가, GPU 담보가치에 기싸움[박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202610031370i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T16:44:24.000Z",
+    "snippet": ""
   },
   {
     "id": "6625da5350fece99",
@@ -2128,6 +2368,16 @@
     "category": "개발",
     "publishedAt": "2026-10-02T00:05:23.000Z",
     "snippet": "IANA는 example.com의 변경 이유를 묻는 이메일에, 사이트를 수시로 수정하는 목적은 대체로 대역폭 사용량 감소 또는 유용성 개선이라고 답함 이번 주에는 페이지를 기본 콘텐츠와 별도 JavaScript 파일로 나눴으며, 추가 콘텐츠는 JavaScript 파..."
+  },
+  {
+    "id": "a97398f76ee518bf",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "link": "https://openai.com/index/chatham-financial",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-10-02T00:00:00.000Z",
+    "snippet": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
   },
   {
     "id": "58570588fd45900a",
@@ -4747,256 +4997,6 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-01T02:16:30.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "481d5175fbf15a07",
-    "title": "금감원, 신한은행 ‘정보유출’ 긴급 현장조사",
-    "link": "https://www.mk.co.kr/news/economy/12165829",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T02:14:36.000Z",
-    "snippet": "금융감독원이 신한은행에서 정보 유출 사고가 발생해 긴급 현장조사 중인 것으로 파악됐다. 1일 금융권에 따르면 금감원은 전날부터 대출 모집 정보가 유출된 신한은행을 상대로 현장조사 .."
-  },
-  {
-    "id": "e3a3649108f5e91a",
-    "title": "바이브 코딩한 웹사이트를 디자이너가 만든 것처럼 보이게 한 방법",
-    "link": "https://news.hada.io/topic?id=34580",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-01T02:10:57.000Z",
-    "snippet": "Railcode 웹사이트는 코딩 에이전트가 만든 여러 시안에서 아이디어를 골라 반복적으로 다듬는 과정을 거쳐 완성됨. 디자이너를 대체하기보다, 비디자이너도 자신이 좋아하는 디자인을 실제로 구현할 수 있었던 사례임 ‘코드를 레일 위에 올린다’는 제품 개념과 사용하는 재미를 결..."
-  },
-  {
-    "id": "47300b323923ec03",
-    "title": "기획처, 방치된 지방 국고보조시설 전수조사…내년 개선안 마련",
-    "link": "https://www.mk.co.kr/news/economy/12165815",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T02:06:30.000Z",
-    "snippet": "최근 10년 건립 시설 대상 지방공공시설 2년 새 398→532개기획예산처가 국고보조금으로 지어 지방정부가 운영 중인 공공시설에 대해 종합 실태 진단에 나선다. 기획예산처는 1일 .."
-  },
-  {
-    "id": "3ca14bac6380064d",
-    "title": "우정소프트웨어, 중소 제조기업용 ‘정부 지원사업 추천’ 무료 공개… 고른 이유와 공고 원문까지 함께 - 뉴스와이어",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBybHNEUE92OElrbzB2MGthTkNDd1RtalpuSks5NHNNUmtSdmQxWXBua2oydjlvQ2lOTU9RcmN3cUJ3RFd4bDN6cW9YSm5WN2FLTWRVVEVpYWVXOUdLWFhR?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-01T02:01:15.000Z",
-    "snippet": "우정소프트웨어, 중소 제조기업용 ‘정부 지원사업 추천’ 무료 공개… 고른 이유와 공고 원문까지 함께 뉴스와이어"
-  },
-  {
-    "id": "e49db3884800fdf7",
-    "title": "[영상] 2026년 10월 1일 날씨 예보: 베트남 북부와 중부 지역에 고온 현상 집중 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakdRd2xjWXR3OWdyZkNISmJPcW9Cd1Z1V2VnOGt2MmhYTnJkU0JrUmFqcU9YaVJieF8xdzZuT09Mb3FteWFEaHlxU1N5dmpWeEZOdjhkb0I1TXlkbG0zd0pFWW9BdzN0UUdlNDlDTGVsejYwdnJXSE5HeHRldXNVUG1kd00yUmtkNDVyRDVwSldvZ2VHSzBHT2s3Y2pkSDV6R09pazdncE9QZw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-01T01:59:11.000Z",
-    "snippet": "[영상] 2026년 10월 1일 날씨 예보: 베트남 북부와 중부 지역에 고온 현상 집중 Vietnam.vn"
-  },
-  {
-    "id": "486165b605193f54",
-    "title": "“딱딱한 금융교육은 그만”…우리카드, 업계 최초 ‘샌드아트 금융교육’",
-    "link": "https://www.mk.co.kr/news/economy/12165807",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:58:51.000Z",
-    "snippet": "어린이 눈높이 맞춤 교육 샌드아트에 이야기 접목해 금융 개념 쉽고 재미있게 전달우리카드가 샌드아트와 스토리텔링을 접목한 어린이 금융교육을 선보였다. 강의 위주의 금융교육에서 벗어나.."
-  },
-  {
-    "id": "57b74574d8fbd274",
-    "title": "9월 수출 1200억달러 '초유의 기록'…'반도체·AI' 수퍼 사이클",
-    "link": "https://www.hankyung.com/article/202610017091i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:58:04.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "a65545428f7cf3ed",
-    "title": "TV서 온종일 나오는 보험광고…금감원, 심의기준 손질 나서",
-    "link": "https://www.mk.co.kr/news/economy/12165804",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:57:10.000Z",
-    "snippet": "보험 방송광고 하루평균 1121회 불완전판매비율도 3배 높아 협회 심의기준·내부통제 강화금융감독원이 반복 송출되는 보험상품 방송 광고에 제동을 건다. 지나치게 자극적인 광고가 빈.."
-  },
-  {
-    "id": "7fa885259a05443c",
-    "title": "오늘(10월 1일) 날씨 예보: 베트남 북부 지역은 대체로 덥고 맑겠으며, 남부 지역에는 오후에 폭우가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUk1bjVCbnI3TTg5SXM4STJHV2JvNGJmVHJKTU44c2pTc2NETEk0YzZpaGJ1a0VkRTVnamk5cHk1bnJrd1YzSGp4THhGdlJLWUFjQTlUc0d4UVA4andaTGRCMlQ5d0M5TkpWV3EwdTJna1dUdGttMmNrelBXaUFXTmJzRHU2SkR5SzA2Zks1QlgzZlVjZ05KZUVDUjd1Zw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-01T01:48:53.000Z",
-    "snippet": "오늘(10월 1일) 날씨 예보: 베트남 북부 지역은 대체로 덥고 맑겠으며, 남부 지역에는 오후에 폭우가 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "5afbbd9d638bced8",
-    "title": "TLA+가 검증할 수 있는 것과 없는 것",
-    "link": "https://news.hada.io/topic?id=34579",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-01T01:35:03.000Z",
-    "snippet": "TLA+ 는 복잡한 동시성 시스템의 불변식과 활성 속성을 검증하는 데 유용하지만, 에이전트 기반 소프트웨어 개발의 모든 문제를 해결하지는 못함 검증하려면 원하는 속성을 논리식으로 표현할 수 있어야 하며, 올바른 설계가 자동으로 올바른 코드로 이어지는 것도..."
-  },
-  {
-    "id": "4aa5572f09333ae8",
-    "title": "'반도체 광풍' 일본도 들썩이더니…한물간 공장 팔아치웠다",
-    "link": "https://www.hankyung.com/article/202610016836g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:28:58.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "f416cf4f4c29d39d",
-    "title": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mMVdicE5majNyTEZfMjFGZ1JIbnJIS2VsM1l5MVdyNmxjeXJEMGo3UkRhN0RhdHFKb3BtakpuZmhWbFBQbTBmWExaUTljM0hFZkR6UDZybm5OYlhr?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-01T01:28:00.000Z",
-    "snippet": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 뉴스핌"
-  },
-  {
-    "id": "ddae1ecb234205b0",
-    "title": "한국앤컴퍼니그룹, 사회복지시설 대상 '차량나눔' 공모",
-    "link": "https://www.hankyung.com/article/202610016966g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:17:33.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "5aef9501c7c492ed",
-    "title": "이억원 \"금융환경 전환기…불안 시 시장안정조치 적기 시행\"",
-    "link": "https://www.hankyung.com/article/2026100169396",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:14:37.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "bcb25dc33832115e",
-    "title": "Noel Miller on why TMG Studios is breaking into fictional podcasts–and why it won’t touch gen AI",
-    "link": "https://www.tubefilter.com/2026/09/30/tmg-studios-noel-miller-superior-exotics-ii-fictional-podcasts/",
-    "source": "Tubefilter",
-    "sourceId": "tubefilter",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-10-01T01:12:44.000Z",
-    "snippet": "“If we’re the last human-led media channel and everything else is prompted and generated in a data center, well then so be it.” That’s Noel Miller, the Viner-turned-podcaster-turned-podcast-company-owner who launched TMG Studios in 2021. Fi"
-  },
-  {
-    "id": "7b712f2501d2b1cc",
-    "title": "10월 1일 오늘 호치민시의 날씨 예보입니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42Tm9fbHdSb2tHLUlOZGRVbTNELWUwb1pUbUd0THluWm1BM2hIUDlZT1kxZnVsNjV1clZlVXV2eEM5ODNMMWM4S0JEbmxlYVpwbHpaQS1Qb0hXNWtpRFd4SENVaFlNZw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-01T01:11:49.000Z",
-    "snippet": "10월 1일 오늘 호치민시의 날씨 예보입니다. Vietnam.vn"
-  },
-  {
-    "id": "776a87679989c1c8",
-    "title": "10월 1일 날씨 예보: 베트남 북부와 중부는 맑음, 남부는 천둥번개 예상. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanp3emFzYThNRnAybHV5NzBTeWxtZzF1Y2h3eDd3NXlQdmdKRkp0NEtGZlJjTHJZR095bENzVFhpTXpxN3lxQWplNG93VWt3TVVUSmhTMnpyUU9rdHVFVzM4NGVDVzdpZ29TYXNiNFpDNWlJZzlpbmVQM0JDS2U1MGJxZHlOZ1ZiUnB1WVI4TVpzZ2FaZkRJNg?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-01T01:10:50.000Z",
-    "snippet": "10월 1일 날씨 예보: 베트남 북부와 중부는 맑음, 남부는 천둥번개 예상. Vietnam.vn"
-  },
-  {
-    "id": "4265634023938897",
-    "title": "중기부 산하 홈쇼핑, 사용중단 요구 받고도…'종가' 상표 김치 판매",
-    "link": "https://www.hankyung.com/article/202610016387g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:08:04.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "bd2299465f016b46",
-    "title": "2026년 10월 1일 오늘 응에안 지역 날씨 예보: 무더운 날씨가 이어지다가 점차 뇌우가 증가하겠습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXRFdHM2LWNHS1lSY0UwZWpPblU1TVJzUG1VYzlJOUdVdEhTY1E1SUN3NnhlcW9kczVWR3NNeWxsdW42Y0JmVlBRQzNNS0JCTzRJdWsydUY4dC02aTNzaVlpakFOYXpyOXNyd2FBdzJ2cHo0R21wWlBKRk9LU2hibjJkT0gwQVdvcHd2YmFHcDZMcFR1SndmaGpFRVRWQnF3SXNFS3F2WlZmdw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-01T01:07:05.000Z",
-    "snippet": "2026년 10월 1일 오늘 응에안 지역 날씨 예보: 무더운 날씨가 이어지다가 점차 뇌우가 증가하겠습니다. Vietnam.vn"
-  },
-  {
-    "id": "6ad70aa6bed17616",
-    "title": "\"중국 없인 모노폴리도 못 만든다\"…'제조업 부활' 외친 미국의 민낯",
-    "link": "https://www.hankyung.com/article/202610016914i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:06:47.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "43edf07b88d5bb2e",
-    "title": "한국타이어 후원, WRC '이탈리아 사르데냐 랠리' 개최",
-    "link": "https://www.hankyung.com/article/202610016874g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:06:16.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "93e791ea5f95c205",
-    "title": "한복 입은 김희영 포착…최태원 재산분할 판결 후 첫 동반행보 [영상]",
-    "link": "https://www.hankyung.com/article/202610016767H",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:03:10.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "d0762c37030f08be",
-    "title": "\"석 달 만에 187조 번다\"…삼전닉스 '역대급 잭팟' 예고에 '들썩' [분석+]",
-    "link": "https://www.hankyung.com/article/202610016205g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T01:02:30.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "090d828be2678e59",
-    "title": "페퍼저축은행 노사갈등 재점화…‘고용 안정’ 합의안 부결돼",
-    "link": "https://www.mk.co.kr/news/economy/12165724",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T00:58:59.000Z",
-    "snippet": "정리해고 대신 4.5일제 도입안 임금 조정 등 문제에 통과 못해페퍼저축은행 노사가 정리해고 대신 근로시간·임금을 줄이기로 한 합의안이 조합원 투표에서 부결됐다. 고용 유지 방안이 .."
-  },
-  {
-    "id": "330a2e0c5bed5d2e",
-    "title": "\"고기 구우면서 다 마셨는데\"…9만t 풀린 '섬뜩한 정체' 알고보니",
-    "link": "https://www.hankyung.com/article/2026100168117",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-01T00:55:47.000Z",
     "snippet": ""
   }
 ]

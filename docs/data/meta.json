@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T10:11:26.594Z",
+  "lastUpdated": "2026-10-02T17:08:06.749Z",
   "feeds": [
     {
       "id": "aitimes",
@@ -11,7 +11,7 @@
       "id": "openai",
       "name": "OpenAI",
       "ok": true,
-      "count": 1243
+      "count": 1244
     },
     {
       "id": "mit-tech-review-ai",
@@ -34,8 +34,8 @@
     {
       "id": "fed-press",
       "name": "미 연준 보도자료",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "count": 20
     },
     {
       "id": "platum",

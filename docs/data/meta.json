@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T03:21:40.809Z",
+  "lastUpdated": "2026-10-02T10:11:26.594Z",
   "feeds": [
     {
       "id": "aitimes",
@@ -34,8 +34,8 @@
     {
       "id": "fed-press",
       "name": "미 연준 보도자료",
-      "ok": true,
-      "count": 20
+      "ok": false,
+      "error": "HTTP 404"
     },
     {
       "id": "platum",

@@ -1,5 +1,235 @@
 [
   {
+    "id": "bf198b67cb30bcc6",
+    "title": "[10월2일] \"뜻밖의 주인공은 로그인과 플러그인\"…알트먼이 보여준 챗GPT의 다음 무대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215882",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-03T07:00:00.000Z",
+    "snippet": "오픈AI는 29일(현지시간) 열린 ‘데브데이 2026’에서 챗GPT의 새로운 방향을 보여주는 기능으로 ‘로그인’과 ‘플러그인’을 내놓았습니다. 샘 알트먼 CEO는 2일 X에서 \"챗GPT/플러그인 확장 기능을 이용한 로그인에 우리가 생각하는 것보다 훨씬 더 큰 잠재력이 있다고 생각한다\"라고 따로 언급했습니다.겉으로 보면 단순히 로그인 기능을 추가하고 플러그인의 활용 범위를 넓힌 것처럼 보이지만, 내용을 들여다보면 챗GPT를 다른"
+  },
+  {
+    "id": "691499724c28ddfa",
+    "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
+    "link": "https://www.mk.co.kr/news/economy/12167722",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-03T00:41:46.000Z",
+    "snippet": "통신요금 기저효과 사라져 상승률 둔화 항공료·여행비 상승 지속 전자제품 등 내구재 4.9% 올라 중동전쟁·비용 부담 변수한국은행이 10월에도 소비자물가 상승률이 3% 안팎에 이를 .."
+  },
+  {
+    "id": "20c158a2c99fbd7f",
+    "title": "[속보] 트럼프 “韓 알래스카 투자 안한대도 괜찮다…돈 더 청구하면 돼”",
+    "link": "https://www.mk.co.kr/news/economy/12167720",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-03T00:35:28.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "591b8b6bbae9c0f9",
+    "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
+    "link": "https://news.hada.io/topic?id=34694",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T00:30:02.000Z",
+    "snippet": "채팅, 기기 이벤트, 작업 이력과 에이전트 대화를 순서대로 저장하고 실시간으로 전달하는 스트림 서버 읽던 위치부터 이어받거나 과거 기록을 다시 읽을 수 있어 실시간 구독과 이벤트 이력 보관에 활용 모든 레코드와 쓰기 복구 로그인 WAL을 S3 호환..."
+  },
+  {
+    "id": "065265914ff486ff",
+    "title": "Waterfox 6.7.5, 내장 피드 리더 추가",
+    "link": "https://news.hada.io/topic?id=34693",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T00:07:15.000Z",
+    "snippet": "피드 관리자와 내장 리더가 추가되어 Live Bookmarks의 게시물을 한곳에 모아 탐색하고, 지원되는 피드 콘텐츠를 브라우저 안에서 읽을 수 있음 전체 피드, 북마크 폴더, 개별 구독별로 게시물을 살펴보고 검색과 읽지 않은 글 필터, 목록/격자 보기로 정리할 수 있..."
+  },
+  {
+    "id": "c7962149b233d1f7",
+    "title": "실제 RFC 1149 패킷이 경매에 출품됨",
+    "link": "https://news.hada.io/topic?id=34692",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T00:04:15.000Z",
+    "snippet": "2001년 전서구로 실제 전송한 IP/ICMP ‘ping’ 패킷 인쇄물 한 점이 Christie’s 경매에 출품됨 RFC 1149는 David Waitzman이 1990년 만우절에 작성한 문서로, 비둘기로 인터넷 패킷을 전송하는 방법을 진지한 기술 문체로 기술함 노르웨이 Berg..."
+  },
+  {
+    "id": "158fab5128cccc9b",
+    "title": "돼지는 적자 닭은 방어…원스식품 실적 바닥 통과하나",
+    "link": "https://www.hankyung.com/article/202609120339i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-03T00:00:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1bb724e54b7945a2",
+    "title": "“보험금 다툼 끊이질 않네”…민원·분쟁신청 꾸준한데 5세대 실손 앞날은",
+    "link": "https://www.mk.co.kr/news/economy/12167710",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T23:58:11.000Z",
+    "snippet": "올해 국감서도 5세대 실손보험 안건 실손 비롯해 보장성 보험 민원 꾸준 약관해석과 보험금 지급 사유 때문다음 주부터 국정감사가 시작되는 가운데, 올해 보험 부문은 5세대 실손보험 .."
+  },
+  {
+    "id": "1c6ee0003da29998",
+    "title": "정보 대부분이 숨겨진 게임 Stratego, 이제야 AI가 벽을 넘었다",
+    "link": "https://news.hada.io/topic?id=34690",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T23:52:28.000Z",
+    "snippet": "Ataraxos가 역대 최고 Stratego 선수로 꼽히는 Pim Niemeijer를 상대로 15승 1패 4무를 기록함 상대 기물의 정체를 추정하는 별도 신경망인 믿음 모델(belief model) 을 도입해, 가능한 배치 일부를 표본으로 뽑고 수를 미리 탐색할 수 있게 함..."
+  },
+  {
+    "id": "086a079a4d2573e4",
+    "title": "별과 그 주위를 도는 네 행성을 12년에 걸쳐 촬영한 망원경 연속 이미지",
+    "link": "https://news.hada.io/topic?id=34689",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T23:49:28.000Z",
+    "snippet": "실제 망원경 이미지를 시간 순서로 이어 별과 그 주위를 공전하는 네 행성의 움직임을 보여줌 촬영 대상인 별은 133광년 떨어져 있음 연속 이미지에는 12년간의 관측이 담겨 있음 외계행성 네 개가 별 주위를..."
+  },
+  {
+    "id": "581c3718278fed66",
+    "title": "Zig v0.17.0",
+    "link": "https://news.hada.io/topic?id=34688",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T23:46:28.000Z",
+    "snippet": "빌드 시스템을 재설계해 빌드 구성과 실행을 별도 프로세스로 분리하고, IDE 등 외부 도구가 빌드 그래프를 조회하고 제어하는 Build Server Protocol을 도입함 증분 컴파일과 새 ELF 링커 개선으로 대부분의 x86_64-linux 프로젝트..."
+  },
+  {
+    "id": "86b83fc18e6fb008",
+    "title": "2026년 10월 3일 일기예보: 베트남 북부는 한랭전선이 도착하기 전까지 덥고 습한 날씨를 보이겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDVwN1V0dVU3d0RVMnZuVUl0LWZ2bll3d2xoeEU4RWdQVC1MMjFEeTR4SmtVZHRZTi02LUdBOVZCSDhNSXoyOFVtWTBrVUNOakJFWEZBUWFNTndPVVM0M2xKZENrVzdLcG5iUTB0b3plMWVPQnRuOUZ5dGdkRXQweHBrZ2ZmYnRjSkhTZUxlRms0OWd5MUZtZmE2Ykx6OUVDaGVnNTUxTFI3RnM?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-02T23:33:33.000Z",
+    "snippet": "2026년 10월 3일 일기예보: 베트남 북부는 한랭전선이 도착하기 전까지 덥고 습한 날씨를 보이겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "053569ed66e28351",
+    "title": "오늘 날씨(10월 3일): 많은 지역에서 덥고 화창한 날씨가 계속됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUQwVkZIenhRdmdiRW1wS0ZpSXY0dXU0bnFnQTFZVWV3WlY5QU5RNmNWTkZsalA4VlhpYnJqdGlwVTZwS1FpdGN5aUdIeVpGNHA3d25OWjc2aUY2b2FQSmxDVGtwYTl2aFk2TzU0VGZ5ZVdqbXB5Y19rY1NFZy0xY0tadGZxVU5YSF93VnR5TQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-02T23:29:04.000Z",
+    "snippet": "오늘 날씨(10월 3일): 많은 지역에서 덥고 화창한 날씨가 계속됩니다. Vietnam.vn"
+  },
+  {
+    "id": "9efaa58c9333d8ac",
+    "title": "[오늘 전국 날씨예보] 기상청 날씨누리, “3일 ‘개천절’ 내일 경상권동해안, 모레 오전 전국 대부분 비” - 한국강사신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxS3FjdWkyUHNoWjRvUWlVNkU0STlnd0drY0pDSVJjeUY3UFk2OU9LcFV3OEV3ckNxT0d6UlVqbUVnZmdsSmlXSWJ0dlNiWWEwQ3NSQ0hXcENvMXl4SFlVN3VoWHl4bnhOWGRZNllYcTk?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-02T23:01:29.000Z",
+    "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “3일 ‘개천절’ 내일 경상권동해안, 모레 오전 전국 대부분 비” 한국강사신문"
+  },
+  {
+    "id": "d7795ebc0e1e36cf",
+    "title": "2026년 10월 3일 날씨 예보: 찬 공기 덩어리는 언제 북베트남에 도착할까요? - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXhMZjB1OXdhb3l5QW5RTkpOTnl6d1RaTmhMamU3VzVoeW9ycmFTRTZBMVBfNVZYWjlsVUVXQlV1Unh0SlVDVVdwNHItUUgzZkN2anB0RVlfdExnSWc5clhaa0F2dDM4blkySEhMbVo2cUlwRVRkZzZPZWx3N05QN1BESWozT3lLMWJYejJNaXlDOE1zb200?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-02T22:46:13.000Z",
+    "snippet": "2026년 10월 3일 날씨 예보: 찬 공기 덩어리는 언제 북베트남에 도착할까요? Vietnam.vn"
+  },
+  {
+    "id": "9d8f1aa1b541437e",
+    "title": "세포 정체성 상실이 인간 노화를 이끈다: 새로운 논문 두 편",
+    "link": "https://news.hada.io/topic?id=34687",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T22:40:13.000Z",
+    "snippet": "Nature와 Cell의 두 논문은 세포가 고유한 정체성을 잃는 과정으로 노화를 설명함. 기존의 손상 축적 모델을 보완하지만, 두 과정의 상대적 기여도와 상호의존성은 아직 알 수 없음 세포 정체성은 3단계 조절 체계로 유지되며, 염색질 구조에 의존하는 느린 층이 정..."
+  },
+  {
+    "id": "13be2d9ad4812f2b",
+    "title": "마이크 톰린이 12년에 걸쳐 건설한 Minecraft 도시",
+    "link": "https://news.hada.io/topic?id=34686",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T22:37:12.000Z",
+    "snippet": "마이크 톰린이 12년에 걸쳐 건설한 Minecraft 도시"
+  },
+  {
+    "id": "344ce468b01225f1",
+    "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
+    "link": "https://www.hankyung.com/article/2026100314707",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T22:33:20.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "474883258e3a604a",
+    "title": "10월 3일 응에안 지역 날씨 예보: 흐리고 소나기와 천둥번개가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQm1fd09YeXYyYWVCVDFaQy1wdVhlQmh5ZEZCWlhzeVVvZlFkSDE3Sm5uYi1ETmF5SWY3Tk0wUnphM3oyTmpsdkNjT3dEYjVoR1ExU1pCcmtfYXRBdGhUUGFMRTA3b2xYUE02WWg3bXRwblhxUmFYSXBwVDcxaktkREgxZzBSaUgyOVE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-02T22:25:59.000Z",
+    "snippet": "10월 3일 응에안 지역 날씨 예보: 흐리고 소나기와 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "67c225f9dee5bced",
+    "title": "\"계좌 안 보여요\"…대형 증권사 전산사고에 피해자만 2만명",
+    "link": "https://www.hankyung.com/article/2026100314527",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T22:10:37.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "51fd552111b4b7b6",
+    "title": "2026년 10월 3일 오늘 응에안 지역 날씨 예보: 한랭 전선이 다가오기 전까지 덥고 맑겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHBoSldnMUxmY2R4NklaWEVULVNkWk1jTGxHYmh5anpWTzZZZk96UHBaY2lrRnNxYTRjSDUxa1Zub3IwN0tSVndNVzM1dFZBbUJYblA3dzJ1LVBMSm9sVTkxSzhHTVFCWDRIUUhZUVEzbXFIZWZtRWRobjFmM0xxOUFIeEd3V1IxV2UzOF9WSUZOQUFuMS0yN09fTHU?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-02T22:09:57.000Z",
+    "snippet": "2026년 10월 3일 오늘 응에안 지역 날씨 예보: 한랭 전선이 다가오기 전까지 덥고 맑겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "ff7b1e36becb3059",
+    "title": "\"나흘간 2900명\"…뉴욕 뒤흔든 'K뷰티 자판기' 정체 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202610021316i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T22:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b7fb1a8f3656dca7",
+    "title": "돈 빌려주고 월급에서 까달라던 직원…퇴직 날 '뒤통수' [사장님 고충백서]",
+    "link": "https://www.hankyung.com/article/202610021347i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-02T22:00:02.000Z",
+    "snippet": ""
+  },
+  {
     "id": "38b142f70353760d",
     "title": "Tiny Brutalism",
     "link": "https://news.hada.io/topic?id=34684",
@@ -1880,6 +2110,16 @@
     "snippet": "하반기 영농부산물 안전처리 지원사업 참여자 모집 중도일보"
   },
   {
+    "id": "7c419166a80404fe",
+    "title": "하반기 영농부산물 안전처리 지원사업 참여자 모집 - 중도일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PZmZqbktKLUhVd1N0SlR2Nk9tZ0Y4NlpfY0xTeW9tdlNfQXZQdi1tRU0tTmdxRExmTklSTDZIbERjdGNWd0NRU2lLMmx4RTRCSndMWjVHMk5DTnRKZDNEQUdrWUg?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-02T04:32:12.000Z",
+    "snippet": "하반기 영농부산물 안전처리 지원사업 참여자 모집 중도일보"
+  },
+  {
     "id": "84a4f978bd587fa1",
     "title": "2026년 10월 4일 저녁부터 시작되는 북동 계절풍 예보: 베트남 북부 지역은 기온이 낮아지고 광범위한 폭우가 예상됩니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaEtiLUE2Tk9vXzNSYXpFZnpvWWp3S1JDMzhTWGhtZTZDSmdvNlhhbm9kT2tLbFdldHdkVDlEZThia0cxbVc1b0ZsRmRibkZVcklKRVRyYjhHeExZRC1ORFlUMlQwWk5LSDNHa1VGSkJtRThXN1FpLWVPNlNmRVJLc0tVMTNXOGljM1JGazNkcVduYmR1YTEyWnpZRTlnNHVTajBYNV9HejZBT1hmNmc?oc=5",
@@ -3493,6 +3733,16 @@
     "id": "b3d11d0c51501ff3",
     "title": "밀양시, 청년 창업공간 조성 지원사업 참여자 모집 - 파이낸스투데이",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlZWVuSXluTkpkc1FGZUg5NG5pa09LV0RPSWhRd1oyMHVNalZMWEJpdkFocWhRcTJtTnVYbkVDcWVyWlRmYS1Ia2xkWWowTEFjNUVrQ0E5X1NZeFdRRVYzLWt3S2tZUjl2ZGhoNw?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-01T11:43:34.000Z",
+    "snippet": "밀양시, 청년 창업공간 조성 지원사업 참여자 모집 파이낸스투데이"
+  },
+  {
+    "id": "5d946fc56c86eed6",
+    "title": "밀양시, 청년 창업공간 조성 지원사업 참여자 모집 - 파이낸스투데이",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazBFcW5wUkF1ZnEwcjFJaFZDb0t1a2c0SmlORmJ4OWhaUl9YajhERUxZcHd3YnI3cFg3dlM5ZUJIQThMQzM0MW1LQ0pMOVFDaEd6b2twQnpRSk5WdmkzcEJaSjl5V3JfQmpwSzZXWHNjd0VmYWFkc2lucXBrNnFpb3pfeURkS3NVZFNaS1NkNlFRTFh1?oc=5",
     "source": "정부지원정책",
     "sourceId": "gov-support",
     "category": "정부지원정책",

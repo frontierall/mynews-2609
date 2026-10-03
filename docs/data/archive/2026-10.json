@@ -20,6 +20,36 @@
     "snippet": "빅테크 기업들이 AI에 대한 대중의 거부감과 불안감을 해소하기 위해 귀여운 마스코트를 잇달아 내세우는 마케팅 전환을 시도하고 있다. AI가 가져올 일자리 감소나 인류에 대한 실존적 위협이라는 중대한 과제를 가벼운 이미지 뒤로 가리려는 시도라는 분석이다. 이러한 전략의 최전선에는 메타가 9월 선보인 AI 개인 비서 앱 '뮤즈(Muse)'와 이를 지휘한 Z세대 알렉산드르 왕 최고 AI책임자(CAIO)가 있다.월스트리트저널(WSJ)"
   },
   {
+    "id": "d297577c28c63e86",
+    "title": "GrapheneOS, Android 17 QPR1 커널 성능 저하 문제 수정",
+    "link": "https://news.hada.io/topic?id=34726",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T19:45:04.000Z",
+    "snippet": "GrapheneOS가 Android 17 QPR1의 Pixel 커널 드라이버 트리에서 발생한 성능 저하 문제를 수정해 자체 릴리스에 반영함 이 문제는 메모리 압박 상황에서 끊김, 지연, 완전한 멈춤을 일으키며, 작업 정체로 프로세스가 종료될 정도로 심각함 GrapheneOS는 ..."
+  },
+  {
+    "id": "0527568bcf37c1bf",
+    "title": "에티오피아 전쟁의 격화",
+    "link": "https://news.hada.io/topic?id=34725",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T19:42:04.000Z",
+    "snippet": "에티오피아 북부에서 TPLF와 암하라 파노 민병대가 연방정부 및 정부와 연대한 티그라이 세력과 대규모 교전을 재개함. 정부 전복을 목표로 한 반군 연합의 공세가 2022년 평화협정 이후의 질서를 흔들고 있음 전쟁의 원인은 Abiy Ahmed 개인을 넘어선 구조적 문제..."
+  },
+  {
+    "id": "3c4bca8fe6bf6a5c",
+    "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
+    "link": "https://news.hada.io/topic?id=34724",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T19:33:55.000Z",
+    "snippet": "알리에서 약 5달러에 산 시계에 Claude·Codex 사용량을 띄워봤습니다. 책상에 두니 생각보다 귀엽네요. 코드 ·"
+  },
+  {
     "id": "4f3bb1e9b9e4f56c",
     "title": "[AI 이슈트렌드] 계속된 DMZ 논란 속 트럼프 LNG 협박·청주 흉기 성폭행 화제",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215940",
@@ -28,6 +58,16 @@
     "category": "AI",
     "publishedAt": "2026-10-03T19:05:59.000Z",
     "snippet": "AI타임스와 이스트에이드의 10월 첫째 주(9월24일~10월1일) 이슈 분석 결과, 청주 10대 흉기 성폭행과 DMZ 폭발 관련 소식이 상위권을 차지했다.이번 주 검색량 1위를 기록한 '청주 10대 흉기 성폭행(9.71%)'은 충북 청주의 한 골목에서 일면식 없는 20대 여성을 흉기로 찌르고 성폭행을 시도한 10대가 경찰에 붙잡혀 구속된 사건이다.이 외에도 추석 연휴 동안 '추석 가정폭력 급증(2.25%)' '옥천 일가족 3명"
+  },
+  {
+    "id": "eeadd6bf8f2bfdef",
+    "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
+    "link": "https://news.hada.io/topic?id=34723",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T18:32:50.000Z",
+    "snippet": "ldraw-nova는 사용자가 모델 아이디어를 주고 제작을 안내하면 AI 에이전트가 실제 LDraw 부품으로 LEGO 모델을 설계하는 오픈소스 프로젝트임 에이전트가 직접 기하 계산을 수행하기보다 설계 계획과 Python 생성 스크립트를 만들고, 이를 실행해 LDraw 소스를 생..."
   },
   {
     "id": "30e87ec8563b8eae",
@@ -198,6 +238,16 @@
     "category": "AI",
     "publishedAt": "2026-10-03T13:01:41.000Z",
     "snippet": "앤트로픽이 기업의 AI 도입을 이끌 전방 배치 엔지니어(FDE)를 직접 육성하기 위해 1억달러(약 1347억원)를 투자한다. 기업 현장에서 AI 기술을 실제 업무에 적용할 수 있는 전문 인력이 부족한 상황을 해소하기 위해, 오는 2027년 말까지 1만명의 전문 엔지니어를 양성한다는 계획이다.앤트로픽은 2일(현지시간) ‘클로드 프론티어 아카데미(Claude Frontier Academy)’를 출범하고, 자사의 엔지니어들이 받는 "
+  },
+  {
+    "id": "7f2cd8c5e9bc301d",
+    "title": "내일 4.10 전국 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0dtZWVVRDM2MmJwbFdELVVfN3dtUDAxeHJXRVh5MGZxNGJ5dFNQcWxya2hxd2wwV1J6b01RM3RncENXeERISTEwMlBfSmVfSm1tc2UyZ1oxMEVrZmpJTUdZMWhMMjBURDlsQm5fcXliQ24ycURiNGpLNk1HdE9LbHY2RnVrNVB1bnRMRU1fVWE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-03T13:00:00.000Z",
+    "snippet": "내일 4.10 전국 날씨 예보 Laodong.vn"
   },
   {
     "id": "6315c9ff1e1296e2",

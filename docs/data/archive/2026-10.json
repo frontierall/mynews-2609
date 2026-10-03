@@ -1,5 +1,15 @@
 [
   {
+    "id": "4ef05107ce389722",
+    "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215942",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-03T21:55:05.000Z",
+    "snippet": "실리콘밸리가 부풀려 놓은 AI 기업들의 몸값에 대해 월스트리트가 잇달아 제동을 걸고 나섰다. 천문학적인 인프라 투자 비용 대비 실질적 수익성에 대한 회의론이 월가를 압도하면서, AI 거품 붕괴 시 미국과 세계 경제 전반에 시스템적 위험을 초래할 수 있다는 경고가 전면에 등장하고 있다. 철도 붐이나 닷컴 버블을 뛰어넘는 자금이 유입되고 있으나, 이를 뒷받침할 구체적인 성과는 턱없이 부족하다는 지적이다.특히 앤트로픽의 기업공개(I"
+  },
+  {
     "id": "f3089a4fb41393b6",
     "title": "'AI 반감' 가리는 귀여운 캐릭터…메타 '뮤즈' 흥행 이끈 알렉산드르 왕",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215941",
@@ -20,6 +30,86 @@
     "snippet": "AI타임스와 이스트에이드의 10월 첫째 주(9월24일~10월1일) 이슈 분석 결과, 청주 10대 흉기 성폭행과 DMZ 폭발 관련 소식이 상위권을 차지했다.이번 주 검색량 1위를 기록한 '청주 10대 흉기 성폭행(9.71%)'은 충북 청주의 한 골목에서 일면식 없는 20대 여성을 흉기로 찌르고 성폭행을 시도한 10대가 경찰에 붙잡혀 구속된 사건이다.이 외에도 추석 연휴 동안 '추석 가정폭력 급증(2.25%)' '옥천 일가족 3명"
   },
   {
+    "id": "30e87ec8563b8eae",
+    "title": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
+    "link": "https://news.hada.io/topic?id=34722",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T17:37:06.000Z",
+    "snippet": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와"
+  },
+  {
+    "id": "e3aa926f3f3c3c2a",
+    "title": "Linux 및 Windows용 Orion 개발 현황 안내",
+    "link": "https://news.hada.io/topic?id=34721",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T17:34:06.000Z",
+    "snippet": "Kagi가 Linux 및 Windows용 Orion의 직접 개발을 종료하고, 커뮤니티가 이어갈 수 있도록 두 버전의 소스 코드를 공개할 예정임 소수 개발자로 구성되고 전적으로 Kagi 사용자들의 자금으로 운영되는 팀의 역량을 macOS 및 iOS용 Orion에 집중하기로 함 오..."
+  },
+  {
+    "id": "0081c27afc906a1b",
+    "title": "tmux를 OS로 만들자",
+    "link": "https://news.hada.io/topic?id=34720",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T17:13:02.000Z",
+    "snippet": "tmux의 스크롤, 세션 유지, 분리, 작업 중심 경험을 일반 사용자도 쓸 수 있는 데스크톱으로 확장하는 구상임. 완성된 제품이 아니라 Linux에서 실험 중인 설계임 기존 창 관리는 반복되는 모니터 전환, 서로 다른 창 배치 습관, 브라우저 탭과 앱에 흩어진 작업 맥..."
+  },
+  {
+    "id": "f6bb3a4e942fa922",
+    "title": "Cloudflare OHTTP 게이트웨이",
+    "link": "https://news.hada.io/topic?id=34719",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T17:10:02.000Z",
+    "snippet": "Cloudflare가 사용자 IP를 앱 서버에 노출하지 않는 OHTTP를 쉽게 도입하도록 관리형 OHTTP Gateway의 비공개 베타를 시작함. 가을에 zone의 유료 부가 기능으로 출시할 예정임 OHTTP는 독립 운영되는 릴레이와 게이트웨이로 신뢰를 분리해, 한 주체가 클라이언트 ..."
+  },
+  {
+    "id": "b3940237ba754098",
+    "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
+    "link": "https://news.hada.io/topic?id=34718",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T17:07:02.000Z",
+    "snippet": "SaaS 기업의 핵심 업무가 선제적으로 움직이는 백그라운드 에이전트로 옮겨가면, 기업 자체가 모델에 맥락, 도구, 권한, 검토 체계를 제공하는 하네스가 될 것이라는 전망임 전환은 사람이 에이전트를 사용하는 단계에서 여러 에이전트를 지휘하는 단계로, 다시"
+  },
+  {
+    "id": "af996ab1a45442af",
+    "title": "베네치아의 콘스탄티노폴리스 원정 실패가 최초의 채권시장으로 이어지다",
+    "link": "https://news.hada.io/topic?id=34717",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T17:04:02.000Z",
+    "snippet": "베네치아는 콘스탄티노폴리스에 맞설 함대를 마련하려고 시민에게 강제 차입했으나, 원정 실패로 원금을 갚지 못하면서 긴급 대출이 사실상 영구적인 국가부채가 됨 차입 증서인 prestiti는 다른 사람에게 매각할 수 있었고, 정부는 원금을 상환하지 못해도"
+  },
+  {
+    "id": "6ae0049f77806116",
+    "title": "Kolibri 출시: 주권형 오픈웨이트 모델",
+    "link": "https://news.hada.io/topic?id=34716",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T17:01:02.000Z",
+    "snippet": "Aleph Alpha가 영어와 독일어를 지원하는 Kolibri의 전체 가중치를 Apache 2.0으로 공개함. 총 780억 개 중 약 30억 개 파라미터를 활성화하는 MoE Transformer로, 최대 100만 토큰 문맥을 지원함 공공행정, 산업, 항공우주처럼 규제가 적용되는 핵심 업무를 겨냥하..."
+  },
+  {
+    "id": "4ca9201d0d31898e",
+    "title": "Show HN: 독일의 새로운 소버린 AI 모델 Kolibri",
+    "link": "https://news.hada.io/topic?id=34715",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T15:37:47.000Z",
+    "snippet": "Aleph Alpha가 독일어와 영어용 오픈 웨이트 모델 Kolibri를 공개함. 독일과 핀란드의 인프라에서 처음부터 학습했으며, 조직이 자체 서버에서 데이터와 모델 운영을 통제할 수 있음 전문가 혼합(MoE) 구조로 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화..."
+  },
+  {
     "id": "a152fdc5c94fdd09",
     "title": "버블쉐어, AI 검색 성과 분석 솔루션 공개…”단순 노출보다 정확한 인용이 핵심”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215693",
@@ -28,6 +118,16 @@
     "category": "AI",
     "publishedAt": "2026-10-03T15:03:13.000Z",
     "snippet": "AI 검색 결과가 질문자, 시장, 언어, 플랫폼에 따라 다양하게 나타나면서 브랜드의 AI 검색 성과를 단순 평균 노출률로 판단하기가 어려워지고 있다. 이에 AI 검색 가시성을 단순히 '얼마나 많이 보이는가'보다 '중요한 질문에서 얼마나 정확히 설명되고 인용되는가'로 재정의하고, 고객의 질문 의도와 구매 여정에 맞춘 다단계 측정 및 실질적인 콘텐츠 보완 대책이 새로운 해법으로 제시됐다.글로벌 콘텐츠 마케팅 전문 버블쉐어(대표 이"
+  },
+  {
+    "id": "05f9bd858de8db61",
+    "title": "GLM 5.3 Flash로 한 달간 코딩하기",
+    "link": "https://news.hada.io/topic?id=34714",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T14:34:43.000Z",
+    "snippet": "GLM 5.3 Flash만으로 한 달간 개발하는 실험에서 Wagtail과 웹사이트 개발, UI 작업, 문서 작성 등을 수행했으며, 해당 모델 사용 비용은 68달러였음 100만 토큰 컨텍스트와 이미지 이해로 긴 코딩 작업과 스크린샷 기반 개발을 처리했지만, 서비..."
   },
   {
     "id": "86efdc48e613bcd1",
@@ -40,6 +140,16 @@
     "snippet": "앤트로픽이 ‘클로드 코드’에 사용자 맞춤형 기능을 구현할 수 있는 ‘모드(Mods)’를 선보였다. 기존 AI 도구들의 천편일률적인 인터페이스와 단조로운 작동 방식을 벗어나, 개발자 개개인의 워크플로우에 최적화된 맞춤형 환경을 제공하기 위한 것이다.앤트로픽은 2일(현지시간) 클로드 코드의 외형과 작동 방식을 사용자가 원하는 대로 바꿀 수 있는 모드 기능을 공개했다.보리스 체르니 클로드 코드 책임자는 \"사람마다 업무 방식이 다르니"
   },
   {
+    "id": "b90eb28b791eca7b",
+    "title": "에이전트 코딩의 묵시록 4기사",
+    "link": "https://news.hada.io/topic?id=34713",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T14:03:28.000Z",
+    "snippet": "에이전트 코딩은 매우 유용하지만, 슬롭, 소외, 숙련도 저하, 팀 관계 약화라는 네 가지 문제를 낳으며 개발자의 호기심, 장인정신, 사회적 연결에 큰 대가를 요구함 LLM 생성 코드 특유의 스타일은 사람이 코드베이스를 읽고 익숙해지기 어렵게 만들며, 에이전트가..."
+  },
+  {
     "id": "2fb65f7eeea9c602",
     "title": "딥시크, 슈퍼 앱 형태 데스크톱 앱 '딥시크 하네스' 출시...\"챗·코딩·문서 통합\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215933",
@@ -50,6 +160,16 @@
     "snippet": "딥시크가 AI를 활용한 문서 작업과 개발을 하나의 공간에서 처리할 수 있는 데스크톱 앱을 내놓으며 채팅과 코딩, 문서 작업을 한데 모은 일종의 ‘슈퍼 앱’ 형태의 ‘AI 작업 공간’ 경쟁에 뛰어들었다.딥시크는 지난달 29일 맥OS와 윈도우용 ‘딥시크 하네스(DeepSeek Harness)’ v0.2 프리뷰를 출시했다.오픈AI나 앤트로픽처럼 대화와 코드 작성, 다양한 업무를 단일 인터페이스로 집약해 문서와 스프레드시트, PDF를"
   },
   {
+    "id": "4baee1aff29dfc90",
+    "title": "암을 유발한다는 것들",
+    "link": "https://news.hada.io/topic?id=34712",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T13:36:14.000Z",
+    "snippet": "원전 인근 거주와 암을 연결한 Harvard 연구 방법을 다른 시설에 적용하자, Costco와 대학, 스포츠 경기장에서도 암 사망과 양의 연관성이 나옴. 재현 분석은 이를 원전의 발암 효과가 아니라 방법론의 문제로 해석함 연구는 시설과의 거리로 만든 근접도 점수를 노..."
+  },
+  {
     "id": "2f2d47d85b624948",
     "title": "메타, 오픈소스 '뮤즈 가젯' 공개...AI 에이전트 하드웨어 이식 본격화",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215936",
@@ -58,6 +178,16 @@
     "category": "AI",
     "publishedAt": "2026-10-03T13:34:46.000Z",
     "snippet": "AI 에이전트 ‘뮤즈(Muse)’의 인기가 급증하는 가운데, 메타가 이를 실제 하드웨어와 연결하는 오픈소스 플랫폼을 공개했다. 개발자와 기술 애호가들이 직접 만든 장치에 뮤즈를 연결하고, 스마트홈 기기와 주변 장치를 AI로 제어할 수 있도록 지원하기 위한 것이다.메타는 2일(현지시간) ‘뮤즈 가젯(Muse Gadgets)’을 공개하고, 자체 제작한 스마트홈 연결 장치 ‘뮤즈 홈 링크(Muse Home Link)’도 선보였다.뮤"
+  },
+  {
+    "id": "d74e6d9b60c35c72",
+    "title": "30분 단축? 점심에 은행창구 더 몰릴텐데…저녁·주말 금융서비스는 어디에",
+    "link": "https://www.mk.co.kr/news/economy/12167852",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-03T13:24:24.000Z",
+    "snippet": "금융노사가 내년 4월부터 은행 점포 영업시간을 30분 단축하기로 잠정 합의하면서 일반 창구 운영시간 외 이용할 수 있는 금융서비스가 주목받고 있다. 일부 은행은 저녁까지 운영하는 .."
   },
   {
     "id": "b5f9db323c91de49",
@@ -590,6 +720,16 @@
     "snippet": "서울 주택구입부담지수 185.3 3년 6개월 내 최고치 전국 평균 지수 61.8 3분기 연속 올라서울에서 중간 가격의 주택을 구입하면 가계 소득의 절반을 주택담보대출 원리금 갚는.."
   },
   {
+    "id": "04e091129e3082a7",
+    "title": "10월 3일 날씨 예보: 북부 지역은 덥고 맑겠고, 남부 지역은 늦은 오후와 저녁에 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFVfYkw0TVBNbmhyc2czRWt4bHZpdk5YQmpUOGlBSWJqekpZenBmMV95OHV1bWVEX0d2d1JuUS0ycVo3NGNCanNpdmFSM3MwRlJyeGxTUkNMR3ZYNHNlaHVNM2VSSVBJanU0NjhhNGpFSTNyVzNIYUYwRHBaM04yWTNzZ3pSdW1JektKb0V0RTlzcjZmRjZpdmxJeUg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-03T00:51:59.000Z",
+    "snippet": "10월 3일 날씨 예보: 북부 지역은 덥고 맑겠고, 남부 지역은 늦은 오후와 저녁에 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
     "id": "b5db04aeb10f6b6a",
     "title": "[내일(4일) 날씨예보] 아침 최저 8도 뚝…일교차 15도속 수도권 밤부터 비 - thefairnews.co.kr",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WQ2cwYnhVTnlHcXkyZ0lUTjl4SkNnX3V5NmtYTzBjUGY5ZDFDLV8yR2oyWF9xWnRjVWMydFRfeWdlYTk4MjN1bi1DSXJqaTRReGxoUjF2c1prNzNGcU9JS3pHdVZYQnlNblJJZFY3UmrSAXRBVV95cUxPYkFZY1hYaE1Ha1oyY1NKTzFrbFpTYkJRTWVHbTJ5QXU3b2ZGLS0yQXRGQTFPWTRIU2hLdUJWUHFEQUFuS2xkem1SRVdtSk9nQmJxRkkycFFIXy1ZTVo4aFN0a3NiVDJkQy1sQmpsR2FXOFNJYg?oc=5",
@@ -608,6 +748,16 @@
     "category": "경제",
     "publishedAt": "2026-10-03T00:41:46.000Z",
     "snippet": "통신요금 기저효과 사라져 상승률 둔화 항공료·여행비 상승 지속 전자제품 등 내구재 4.9% 올라 중동전쟁·비용 부담 변수한국은행이 10월에도 소비자물가 상승률이 3% 안팎에 이를 .."
+  },
+  {
+    "id": "a600c07738b98518",
+    "title": "Show GN: Piano: Soloist - 악보 파일(MusicXML)을 올리면 악보와 건반으로 재생해 주는 웹 피아노 비주얼라이저",
+    "link": "https://news.hada.io/topic?id=34695",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-03T00:41:41.000Z",
+    "snippet": "피아노 비주얼라이저 웹 앱입니다. MusicXML 악보(.mxl, .musicxml)를 끌어다 놓으면 악보, 떨어지는 노트, 건반이 한 화면에서 같이 재생됩니다. 설치와 가입이 없고 무료입니다. 대표적인 특징은 세 가지입니다. 악보가 같이 나옵니다. 떨어지는 노트만 보여 주는 것이 아니라, 위쪽 악보가 연주 위치"
   },
   {
     "id": "20c158a2c99fbd7f",
@@ -798,6 +948,16 @@
     "category": "날씨",
     "publishedAt": "2026-10-02T22:25:59.000Z",
     "snippet": "10월 3일 응에안 지역 날씨 예보: 흐리고 소나기와 천둥번개가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "53ce567332dfd52b",
+    "title": "Show GN: LibreDB Studio - 드라이버 18개로 엔진 46개에 붙는 셀프호스팅 브라우저 DB IDE",
+    "link": "https://news.hada.io/topic?id=34685",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-02T22:15:09.000Z",
+    "snippet": "브라우저에서 도는 셀프호스팅 SQL IDE입니다. 드라이버 18개로 이름 있는 엔진 46개에 연결됩니다. PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB, Redis, ClickHouse를 한 화면에서 다루고, 0.17.0에서 Prometheus와 Apache Kafka가 들어왔습니다. 18개 중 5개는 읽기 전용입니다. 다른 DB 클라이"
   },
   {
     "id": "67c225f9dee5bced",

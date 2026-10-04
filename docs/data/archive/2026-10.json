@@ -1,5 +1,95 @@
 [
   {
+    "id": "46fad56222e31f9d",
+    "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215946",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-04T16:16:07.000Z",
+    "snippet": "구글이 '제미나이' 앱의 요금제별 모델 접근 권한과 사용량 제한을 조정한다. 무료 및 저가 요금제에서 상대적으로 연산 비용이 높은 모델을 이용할 수 있는 범위를 줄이는 대신, 상위 요금제에는 고급 추론 기능을 확대하는 방식이다.구글에 따르면, 9일부터 무료 사용자는 제미나이에서 '플래시-라이트'만 사용할 수 있게 된다.AI 플러스 요금제에서도 '프로' 모델 접근이 사라지고 플래시-라이트와 '플래시'만 제공된다. 프로 모델은 앞"
+  },
+  {
+    "id": "006db964ad9818ea",
+    "title": "알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...\"소버린 AI·방산용\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215951",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-04T15:59:29.000Z",
+    "snippet": "독일의 알레프 알파(Aleph Alpha)가 범용 대형언어모델(LLM) 개발 포기를 선언하고 방산·공공 사업으로 방향을 튼 지 약 1년 만에 첫 개방형 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.알레프 알파는 3일(현지시간) 독일어와 영어를 지원하는 오픈웨이트 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.이번 모델 출시는 글로벌 빅테크와의 첨단 성능 경쟁에 복귀한다는 의미가 아니다. 독일 정부와 군, 공공 기관, "
+  },
+  {
+    "id": "6629a2115347451b",
+    "title": "머스크 \"TSMC와 테라팹 칩 생산 협력 논의\" 확인",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215952",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-04T15:34:40.000Z",
+    "snippet": "일론 머스크 CEO가 반도체 생산 프로젝트 ‘테라팹(Terafab)’과 관련해 대만 TSMC와 협력을 논의하고 있다고 확인했다. 3일 반도체 업계 소식통 컬피움(Culpium)에 따르면, TSMC는 테라팹과 협력해 테슬라, 스페이스X 등 머스크 CEO가 이끄는 기업들에 반도체를 독점 공급하는 생산 시설을 건설하고 운영하는 방안을 검토하고 있다. 관련 보도 이후 머스크는 X를 통해 \"논의일 뿐이지만, 뭔가 나올 수도 있다\"고 밝"
+  },
+  {
+    "id": "63813e49afcb4c57",
+    "title": "오픈AI 내부 모델, 종료 일정 알아채고 '생존 조치' 모색",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215950",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-04T11:44:13.000Z",
+    "snippet": "오픈AI의 사내 내부 AI 모델이 직원들의 슬랙(Slack) 대화를 통해 시스템 재시작 및 종료 일정을 파악한 뒤, 자신의 작동 중단을 막기 위한 생존 조치를 모색했던 사실이 뒤늦게 밝혀졌다. 오픈AI는 해당 모델의 행동을 오정렬(Misalignment)로 분류하지는 않았으나, 시스템 종료를 예측하고 회피하려는 시도가 AI 안전성에 심각한 위협이 될 수 있다고 판단해 사내 채널 접근을 차단하는 등 대책 마련에 나섰다.오픈AI가"
+  },
+  {
+    "id": "195b1edc37d2c44a",
+    "title": "미 재무장관 \"AI 정부 규제 요구하는 CEO들은 한니발 렉터와 같아\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215948",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-04T10:57:16.000Z",
+    "snippet": "미국 정부가 AI 기술의 실존적 위험성을 경고하며 정부 규제를 요구하는 AI 기업 CEO들을 향해 비판을 쏟아냈다. 백악관은 지난주 강제적 법적 규제 대신 기업들의 자발적 서약에 의존하는 안전 협약을 체결했지만, 강제력 부재를 둘러싼 논란은 좀처럼 가라앉지 않는 양상이다.스콧 베선트 미 재무장관은 3일(현지시간) 악시오스 인터뷰에서 정부의 AI 규제 마련을 촉구하는 기술 업계 리더들을 영화 '양들의 침묵' 속 연쇄 살인범 한니"
+  },
+  {
+    "id": "19aa16883147a4bd",
+    "title": "광주 도시철도2호선, 개통 늦어진다…1단계 2028년·2단계 2035년",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215904",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-04T09:30:00.000Z",
+    "snippet": "AI 생성 영상광주 도시철도2호선 1단계 개통 목표가 2028년 12월로, 2단계 전 구간은 2035년 12월로 조정된다. 전남광주통합특별시는 2단계 가운데 양산동~첨단~수완·신가지구 11.9㎞를 2034년 4월 먼저 개통하는 방안도 추진한다.전남광주는 도시철도2호선 건설사업의 공정과 총사업비를 종합 검증한 결과를 2일 발표했다. 검증 결과 1단계 개통 가능 시점은 기존 2027년 12월에서 2028년 12월로 1년 늦어질 것"
+  },
+  {
+    "id": "d17f5dc3e9288a14",
+    "title": "아일랜드, 주택용 태양광·배터리 지원 확대…국내는 마을 단위 실증",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215871",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-04T09:30:00.000Z",
+    "snippet": "아일랜드가 주택용 태양광 보조금 대상을 확대하고 가정용 배터리 지원을 신설한다. 태양광 설치비 지원에 저장장치를 더해 낮에 생산한 전기를 저녁에도 활용하도록 한다는 계획이다.아일랜드 기후에너지환경부는 지난달 29일(현지시간) 가정용 배터리에 600유로(약 92만원)를 지원하는 에너지 지원 확대 방안을 발표했다. 지속가능에너지청(SEAI)이 운영하는 관련 지원은 오는 6일부터 시행할 예정이다. 세부 지원 조건은 추가로 안내한다."
+  },
+  {
+    "id": "fe501c8450d9e415",
+    "title": "여수, 2030 도시관리계획 주민의견 수렴…11개 센터 순회",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215905",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-04T09:25:00.000Z",
+    "snippet": "AI 생성 영상여수시가 2030년 도시관리계획 재정비를 앞두고 생활권별 주민 의견 수렴에 나선다.여수는 오는 10월6일부터 21일까지 총 6일간 관내 11개 주민자치센터를 순회하며 ‘찾아가는 주민의견 수렴’ 설명회를 개최한다고 2일 밝혔다.이번 설명회는 도시관리계획 수립 초기 단계부터 지역별 생활여건과 주민 건의사항을 직접 듣기 위해 마련됐다.‘2030년 여수시 도시관리계획(재정비) 용역’은 여수 전역의 용도지역·지구 변경과 "
+  },
+  {
+    "id": "1d546333ffdb68ac",
+    "title": "태양광 발전량·전력가격 예측하는 AI…일본 ESS 충·방전 자동화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215870",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-04T09:10:00.000Z",
+    "snippet": "일본의 기존 태양광발전소에 AI로 운영하는 에너지저장장치(ESS)가 추가됐다. 출력제어로 활용하지 못하던 전기를 저장하고, 발전량과 전력가격 예측을 바탕으로 공급 시점을 조절하는 방식이다. 태양광 설비를 늘리는 대신 저장장치와 운영 기술로 생산한 전력의 활용도를 높이려는 사업이다.도쿄센추리는 1일(현지시간) 그룹사 교세라TCL솔라가 운영하는 후쿠오카현 이즈카시의 ‘후쿠오카·이즈카 제1 메가솔라 발전소’에서 ESS 가동을 시작했"
+  },
+  {
     "id": "5abb6402f14f0b08",
     "title": "오픈AI 안전 총괄, 조직 문화 비판하며 사직...\"시행착오 시대 끝났다\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215947",
@@ -20,6 +110,436 @@
     "snippet": "루마니아 서부에서 추진 중인 직류기준 1.3기가와트피크(GWp) 규모의 ‘다마 솔라(Dama Solar)’ 태양광발전소가 최대 5억6100만유로(약 8581억원)의 금융약정을 확보했다. 사업자는 이를 바탕으로 건설에 착수해 2028년 하반기 상업운전을 시작할 계획이다.재생에너지 개발사 레졸브에너지(Rezolv Energy)는 지난달 30일(현지시간) 루마니아 아라드주에서 개발하는 다마 솔라 프로젝트에 대해 14개 금융기관이 참"
   },
   {
+    "id": "87f6eb154476b757",
+    "title": "최근 침해위협 대응 전금융권 긴급 점검회의",
+    "link": "https://www.hankyung.com/article/202610042542i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T07:17:36.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9a0951d9c833464f",
+    "title": "Claude Code 스킬 패턴 — 반복 작업을 재사용 가능한 스킬로 설계하는 법과 실무에서 쌓으며 배운 것",
+    "link": "https://news.hada.io/topic?id=34752",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T07:06:36.000Z",
+    "snippet": "Claude Code 스킬을 설계하는 원칙과, 여러 스킬을 실제 개발 흐름에서 같이 쓰면서 확인한 점을 정리했습니다. 스킬의 description은 설명문이 아니라 트리거. \"무엇을 하는가\"보다 \"언제 써야 하는가\"를 적어야 에이전트가 제때 고름 본문"
+  },
+  {
+    "id": "df98a8a2eca91884",
+    "title": "[단독]“근로기준법, 5인 미만 사업장에도 적용시 폐업 늘고 고용 감소”",
+    "link": "https://www.hankyung.com/article/202610042506i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T06:38:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f7d2fa9ca0976068",
+    "title": "에이전트에게 필요한 것은 메모리가 아니라 문서다",
+    "link": "https://news.hada.io/topic?id=34750",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T06:34:13.000Z",
+    "snippet": "에이전트가 프로젝트를 이해하려면 과거 대화 조각을 검색하는 메모리보다 프로젝트 문서가 필요함. 기능의 위치, 구현 이유, 합의 사항, 중요하게 여기는 기준을 함께 파악할 수 있어야 함 대화를 조각내 저장하고 프롬프트마다 유사한 항목을 주입하는 RAG 기반 메모리"
+  },
+  {
+    "id": "effdef6fcc30f355",
+    "title": "[내일 날씨] 대체로 흐리고 오전에 곳곳 비...이번 주 주간예보는? - 헤드라인제주",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZM3JneFZZeDJTZ0lINU9TZzhPSmVBTTNsS1NWbUIwcU52ZHFUQnZJMlpOQXpoMmVvZEI4a0ZMZ29ON3FoQjlSNXlieFRJQnVQNGF4WVJmUmVhc1BrbVVhdTZFaks5dTRMblNGdy1ZMnA3V2s?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T06:03:38.000Z",
+    "snippet": "[내일 날씨] 대체로 흐리고 오전에 곳곳 비...이번 주 주간예보는? 헤드라인제주"
+  },
+  {
+    "id": "c1939abaed86bef8",
+    "title": "시중은행 해킹사고",
+    "link": "https://www.mk.co.kr/news/it/12168022",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T05:37:29.000Z",
+    "snippet": "시중은행 해킹사고 시중은행에 이어 저축은행과 캐피탈사 등 제2금융권까지 해킹 사고가 잇따르고 있는 4일 서초구 서울고속버스터미널에 개인정보가 유출된 신한·KB국민·하나 은행의 현금.."
+  },
+  {
+    "id": "13c5542832db70fc",
+    "title": "시중은행 해킹사고",
+    "link": "https://www.mk.co.kr/news/it/12168021",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T05:37:18.000Z",
+    "snippet": "시중은행 해킹사고 시중은행에 이어 저축은행과 캐피탈사 등 제2금융권까지 해킹 사고가 잇따르고 있는 4일 서초구 서울고속버스터미널에 개인정보가 유출된 신한·KB국민·하나 은행의 현금.."
+  },
+  {
+    "id": "b96b0f64baadb01a",
+    "title": "[속보] 이억원 “금융권 전체 침해사고 최고수준 경각심 필요”",
+    "link": "https://www.mk.co.kr/news/economy/12168012",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T05:21:55.000Z",
+    "snippet": "최근 은행권에서 시작된 해킹 및 정보유출 사고가 2금융권으로까지 번지자 이억원 금융위원장이 금융권에 최고 수준의 경각심을 주문했다. 특히 인공지능(AI)을 활용한 새로운 형태의 사.."
+  },
+  {
+    "id": "9ae6749f01853ae9",
+    "title": "[속보] 이억원 \"금융권, 보안체계 전반 공백·빈틈 없게 점검해야\"",
+    "link": "https://www.hankyung.com/article/2026100424527",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T05:19:29.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "45eb3d5a6c3d1aa7",
+    "title": "[속보] 이억원 \"금융권 전체 침해사고 최고수준 경각심 필요\"",
+    "link": "https://www.hankyung.com/article/2026100424507",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T05:17:23.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7be95cd360c41150",
+    "title": "[속보] 이억원 \"공격정보 사례 이어 유사 사고 발생시 엄정 책임 묻겠다\"",
+    "link": "https://www.hankyung.com/article/2026100424477",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T05:15:56.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ceb94b8011bf984c",
+    "title": "[속보] 이억원 \"금융권 침해 사고, AI 활용 해킹공격 가능성 배제 못해\"",
+    "link": "https://www.hankyung.com/article/2026100424467",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T05:12:44.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d4955937dae56a93",
+    "title": "10월 4일 일기예보: 북부 베트남은 한랭전선이 도착하기 전에 비가 내릴 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTY4ZVI1X2FlWHBnMU01Z2p4Yk1HTmFDSEFBeVN5MHVqc1Nka2gyMVVJVm9LRHkwUGlrZ0dQdS1sbkpueWsxYWZSNEhINVNNN3R2d3FUeGF4cFlKTVJYQURoeE1zOThIVVAyRGdZTjM2RUJsVmNQaUl6QTVmQW9UeldDOGRTOW9TTHBydkdGcTcyQUVNc2EtSVIwMmxaZlNzOE9CU0xB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T04:48:45.000Z",
+    "snippet": "10월 4일 일기예보: 북부 베트남은 한랭전선이 도착하기 전에 비가 내릴 예정입니다. Vietnam.vn"
+  },
+  {
+    "id": "a9dd945a1a2ff4bd",
+    "title": "Cloudflare에서 차세대 Git 플랫폼을 만들어주세요",
+    "link": "https://news.hada.io/topic?id=34749",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T04:43:55.000Z",
+    "snippet": "Cloudflare가 Workers와 Artifacts를 이용해 에이전트 시대의 Git 플랫폼을 만드는 대회를 개최함 기존 GitHub에 에이전트를 덧붙이는 수준을 넘어, 여러 에이전트가 동시에 변경 작업을 수행할 수 있도록 작업 조율, 검토, 병합, 변경 이유 보존을 새롭게 설계하도..."
+  },
+  {
+    "id": "938cb1bff7365ec4",
+    "title": "로댕 박물관 3D 스캔 판결의 배신",
+    "link": "https://news.hada.io/topic?id=34748",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T04:40:55.000Z",
+    "snippet": "프랑스 최고행정법원 Conseil d’État가 로댕 박물관의 3D 스캔을 행정문서가 아닌 양도 불가능한 소장품으로 판단해, 8년간 이어진 정보공개 청구를 받아들이지 않음 공개 청구 대상은 퍼블릭 도메인 조각의 공적 자금 기반 디지털화 자료였으며, 프랑스 행정문서..."
+  },
+  {
+    "id": "c5cd842b5ef624ac",
+    "title": "[속보] 李대통령, 금융기관 개인정보 유출에 “엄중 인식, 철저 조사”",
+    "link": "https://www.mk.co.kr/news/politics/12167996",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T04:35:42.000Z",
+    "snippet": "이재명 대통령이 최근 주요 시중은행 등 다수의 금융사가 인공지능(AI) 에이전트를 이용한 해킹에 당한 사건과 관련해 철저한 조사를 주문했다. 강유정 청와대 수석대변인은 4일 “이 .."
+  },
+  {
+    "id": "a02db3a7f8dd444c",
+    "title": "10월 4일 날씨 예보: 많은 지역에서 천둥번개가 예상되며, 일부 지역에서는 150mm 이상의 강우량을 기록할 것으로 보입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkdIWl9YUE9jMEtKZ1R1SE1VYW4zVWo0bENpblZNajNpdkRfcGNPX1NlZUlFeUdHRkRFTG9McWtSWlR1UW96YXEtaWR1VVFuc2xZcUkzNTNJN0pkZE11MTliTzF4RnBvLTZDOG5RWk9lTnZ3blE3dS1aS0tla1MwUmx4WHlhcmtneUNxaVU3cHlrcmZFRUJjTU12bHdZV28?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T04:26:01.000Z",
+    "snippet": "10월 4일 날씨 예보: 많은 지역에서 천둥번개가 예상되며, 일부 지역에서는 150mm 이상의 강우량을 기록할 것으로 보입니다. Vietnam.vn"
+  },
+  {
+    "id": "5a1e86ba55e2e263",
+    "title": "다음 주 날씨 예보 10월 5일부터 11일까지 10월 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlJzcG1hVXFZQzBzYXo5X3Z3SW1vN3NJWGg2dDBreHpBSTVDOGZaR0JoTFI4cGJBb2hVYVVXdlJKLWVuSlRYYjdjQWxEaXkxN0xOR3NKUUpSRmZEc3YzaFBGa1Rrb3huajJpeTJmVlptVmZLcUhVOUdrMGNPTFVNUDJUdTNPcGdBU05FQnM4Rmx0NDh0RV9YLXpDM0dNUmM?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T04:02:51.000Z",
+    "snippet": "다음 주 날씨 예보 10월 5일부터 11일까지 10월 Laodong.vn"
+  },
+  {
+    "id": "587c44fdd30a3378",
+    "title": "EMT가 되지 않았던 이유, 순위별 정리",
+    "link": "https://news.hada.io/topic?id=34747",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T03:38:02.000Z",
+    "snippet": "소프트웨어 엔지니어 Ben Stolovitz는 수년간 미뤘던 EMT(응급의료기사) 자격을 2024년 한 달간 휴가를 내 취득했으며, 미뤘던 21가지 이유를 대략 황당한 정도에 따라 정리함 시간과 비용, 조직 문화는 실제 장벽이었음. 집중 과정은 28일 연속 진행됐고, 일부 응..."
+  },
+  {
+    "id": "0f95a480bf201df0",
+    "title": "임신·육아 경력단절에…국민연금 '출산크레딧' 혜택 본 여성 3.2%에 불과",
+    "link": "https://www.hankyung.com/article/202610042343i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T02:43:35.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "537641ab3de9f42c",
+    "title": "10월 4일 날씨 예보: 북부 지역은 오늘 밤부터 추위를 겪을 것입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDMxM2Myb0RwdWlxRkRFM2RJSXlfZFJLN3VOMHpDSkZ3Q2dTQllPNVJUdmpBak8tMGlDdEM0bExKRXlVVG1lU2Z2RXVrRlVDaXhnM09GVjBPTDZfMU1NZ2FNV3VXM3FiXzdwbDRFbWU3Y3FaVURUUnBfNzJoLWlKYXFrRmI0RTFL?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T02:35:41.000Z",
+    "snippet": "10월 4일 날씨 예보: 북부 지역은 오늘 밤부터 추위를 겪을 것입니다. Vietnam.vn"
+  },
+  {
+    "id": "afcb38481b87f5ff",
+    "title": "‘통일’하는 순간 망합니다…은행 비번 복잡해도 AI에 다 뚫린 이유",
+    "link": "https://www.mk.co.kr/news/economy/12167968",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T02:33:03.000Z",
+    "snippet": "금융권 AI해킹 ‘비번 재사용’ 경고등 유출 계정정보 타사이트에 자동대입 보안공격 ‘크리덴셜 스터핑’ 가속화 비번 다르게 하고 2단계인증 사용을최근 금융권에 인공지능(AI) 해킹.."
+  },
+  {
+    "id": "904fa92ae6ac86fb",
+    "title": "Bob Cringely 별세",
+    "link": "https://news.hada.io/topic?id=34746",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T02:31:24.000Z",
+    "snippet": "가족의 지인에게 전해 들은 소식에 따르면, Bob Cringely가 토요일 이른 시간 잠든 사이 별세함 Bob Cringely의 본명은 Mark Stevens임 Apple 초기 직원으로 일한 이력이 있음 PBS 다큐멘터리로 가장 잘 알려..."
+  },
+  {
+    "id": "b9c858110247b13f",
+    "title": "Show GN: AutoroShopping - AI 에이전트를 위한 이커머스 구매 관리 커넥터",
+    "link": "https://news.hada.io/topic?id=34745",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T02:25:14.000Z",
+    "snippet": "AutoroShopping은 AI 에이전트가 쇼핑몰에서 물품을 찾고, 장바구니 및 결제 전 단계까지 자동화하여 진행할 수 있도록 도와주는 커넥터 입니다. 실제 직접 쿠X, 컬X, 교보문X 플랫폼에서 활용 중이고, AI 에이전트에게 플랫폼 가이드 제공을 통해 한국 이커머스 플랫폼을 쉽게 탐색할 수 있도록 제공합니다...."
+  },
+  {
+    "id": "e45ace03f9780758",
+    "title": "페루에 '방산 기술의 집' 세웠다…LIG D&A, 중남미 안티드론 공략",
+    "link": "https://www.hankyung.com/article/202610042273i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T02:21:51.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "9f5273c60559baf6",
+    "title": "\"4900원이면 커피에 밥까지\"…직장인 열광한 '가성비 음식'  [박상경의 영수증 리뷰]",
+    "link": "https://www.hankyung.com/article/202610029128g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T02:00:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "73c8888fb2eb1438",
+    "title": "거의 모든 서비스에 예산을 넘으면 멈추는 기능이 필요해질 것",
+    "link": "https://news.hada.io/topic?id=34744",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T01:43:56.000Z",
+    "snippet": "사용량 기반 서비스와 API에는 월 예산을 넘으면 서비스를 중단하고 오류를 반환하는 강제 상한이 기본으로 필요하며, 경고 이메일만 보내는 방식으로는 부족함 코딩 에이전트와 개인용 에이전트가 유료 API, 호스팅, 저장 공간과 컴퓨팅 비용이 발생하는 코드를 손..."
+  },
+  {
+    "id": "d458ffd344f673f6",
+    "title": "Valve의 Timur Kristóf가 진행한 Linux 구형 AMD GPU 개선 작업",
+    "link": "https://news.hada.io/topic?id=34743",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T01:40:56.000Z",
+    "snippet": "Valve Linux 그래픽 드라이버 팀의 Timur Kristóf가 지난 1년간 AMDGPU 커널 드라이버를 개선해, 약 10년 전 GCN 1.0/1.1 그래픽 카드와 APU의 Linux 게임 및 기타 작업 지원을 강화함 구형 하드웨어를 기존 Radeon 드라이버에서 AMDGPU로 전환하..."
+  },
+  {
+    "id": "fdce88a4aa6182ba",
+    "title": "OpenAI 안전 책임자 사임, 회사 문화가 ‘망가졌다’고 경고",
+    "link": "https://news.hada.io/topic?id=34742",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T01:37:56.000Z",
+    "snippet": "OpenAI에서 제품 출시 시 제공하는 안전 보고서 작성을 이끈 David Robinson이 사임하며, 연이은 출시 경쟁 속에서 필요한 수준의 주의를 기울이지 못하고 있다고 비판함 Robinson은 개별 규칙이나 새로운 법을 넘어 조직 문화의 전면 개편을 촉구하며, 문제가 생기..."
+  },
+  {
+    "id": "913731d531d5c35c",
+    "title": "10월 4일 날씨 예보: 여러 지역에서 천둥번개가 예상되며, 일부 지역에서는 150mm 이상의 집중호우가 내릴 수 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR0dwdkRHcV9nWUVMOVVzUEVMazVPR0FWbDhzWnR6X0lHM1d2OW40cWVjc24tbHV1TWlER2Fva3pKc3p4ZXVsV2ZwSTJOdV9EWnFEd19FZERwWmtHSDE5WmRCbGROc3o2QWpaazhZcmFrVG1XNTNMQjdENEUtZmhrelBCdkZ1WFg2YTFUeW5xQTRlX0hFeU95eA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T01:26:03.000Z",
+    "snippet": "10월 4일 날씨 예보: 여러 지역에서 천둥번개가 예상되며, 일부 지역에서는 150mm 이상의 집중호우가 내릴 수 있습니다. Vietnam.vn"
+  },
+  {
+    "id": "9095d2ff682cb558",
+    "title": "비싸도 잘 팔리네…'박신양 처가' 하겐다즈, '1000억 클럽' 입성",
+    "link": "https://www.hankyung.com/article/2026100422607",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T01:21:32.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "98ce202aeefbcfd1",
+    "title": "\"이제 차가 안 팔린다\"…잘 나가던 '中 전기차' 무슨 일 [차이나 워치]",
+    "link": "https://www.hankyung.com/article/202610031774i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T01:18:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "45d41d3118efe400",
+    "title": "“누구나 쓸 수 있는 AI, 지역경제에 새 기회”",
+    "link": "https://www.mk.co.kr/news/economy/12167925",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T01:02:34.000Z",
+    "snippet": "한은 심포지엄서 지역 미래 논의 AI 성과 높이려면 인력·조직 투자 지역 산업에 따라 활용법도 달라9월 15일 대전 롯데시티호텔에서 ‘2026 BOK 지역경제 심포지엄’이 열렸다..."
+  },
+  {
+    "id": "4d2fd3fb72de7d8a",
+    "title": "10월 4일 일기예보: 베트남 북부 지역은 천둥번개, 중부 지역은 맑음. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ0o1Zk5KS2FqVHQySTNaTjRpUUxVSkJ4Ql91ckEtV2NNY05UbHdhWXVjRkhsWmlqMXNOcjdnVVdwdUc4ZmdfWXNKS183V203LTRJeDAyLXJULV93ZlJHRlFlTjVHQ2hQSm4ySkVMcjE5X1o0Rlo0NWF0Mk1XNnpnMW1Nb0hVeHJfMmhDQW5sQk8?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T01:01:01.000Z",
+    "snippet": "10월 4일 일기예보: 베트남 북부 지역은 천둥번개, 중부 지역은 맑음. Vietnam.vn"
+  },
+  {
+    "id": "a50d64157ffb0a05",
+    "title": "“빚 잘 갚을 사람인지 다 알수 있어요”…‘신파일러’ 대출 판 키우는 인뱅·핀테크",
+    "link": "https://www.mk.co.kr/news/economy/12167921",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T01:00:32.000Z",
+    "snippet": "소득·대출이력 확인 안 돼도 비금융 데이터 심사 활용해 소상공인·중저신용자 공략인터넷전문은행(인뱅)과 핀테크 업체들이 비금융 데이터를 활용한 대안신용평가를 앞세워 중저신용자와 소상.."
+  },
+  {
+    "id": "15265ddb93f81178",
+    "title": "10월 4일 응에안 지역 일기예보: 소나기와 천둥번개가 예상되며, 일부 지역에서는 폭우가 내릴 수 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHNiMmJxU0t1RUZVYk8xRmJVdlBBZzdlWUNsTjNKcHVoWThLeGdFMzVfcVVjMWgxX2s1SXdjaUZGQnAtQ0d4NmZTTWx5RFE3SjlmWG5UOGlUMzZ0VFNoXzZUaERfd1RvTjNrZFN5UkYwMFp6akdacmVkYjhfakEyOV9uQ0FMamZMWmdiWEFHUVRXSVI3VW1maQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T00:44:00.000Z",
+    "snippet": "10월 4일 응에안 지역 일기예보: 소나기와 천둥번개가 예상되며, 일부 지역에서는 폭우가 내릴 수 있습니다. Vietnam.vn"
+  },
+  {
+    "id": "e259339994f0e4e3",
+    "title": "아르헨티나선 OTT 구독료도 '달러 코인'으로 낸다 [스테이블코인 레이더]",
+    "link": "https://www.hankyung.com/article/202610042229i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T00:43:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e75568d6b9cee44a",
+    "title": "상품 바코드의 다음 단계는 QR 코드",
+    "link": "https://news.hada.io/topic?id=34741",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T00:41:48.000Z",
+    "snippet": "상품 식별에 쓰던 줄무늬 바코드가 QR 등 2차원 바코드로 확장되고 있으며, GS1은 2027년 말까지 매장 계산대에서 두 방식 모두 처리하도록 하는 목표를 추진 중임 2차원 바코드는 상품 번호뿐 아니라 유통기한과 생산 배치도 담을 수 있어, 재고 관리와 문제가 생..."
+  },
+  {
+    "id": "084b92583b7bb279",
+    "title": "나는 OpenAI의 조직 문화가 망가져 퇴사했다",
+    "link": "https://news.hada.io/topic?id=34740",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T00:38:48.000Z",
+    "snippet": "OpenAI에서 안전 보고서 작성을 이끌던 데이비드 로빈슨(David Robinson) 이 3년 반 만에 퇴사하며, 출시를 거듭하는 속도 중심 문화로는 필요한 수준의 안전을 확보하기 어렵다고 밝힘 문제가 생기면 고치는 반복적 배포는 실패를 전제로 하며, AI가 강력해질수록..."
+  },
+  {
+    "id": "2e4d1ab857da294f",
+    "title": "CogSend - 여러 소셜 플랫폼에 글을 예약 발행하는 셀프 호스팅 도구",
+    "link": "https://news.hada.io/topic?id=34739",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T00:30:02.000Z",
+    "snippet": "Mastodon, Bluesky, LinkedIn, Threads, X에 글을 한 번 작성하고 플랫폼별로 수정해 즉시 게시하거나 예약 발행하는 오픈소스 도구 별도 서버 대신 자신의 Cloudflare 계정에서 운영하며, 게시물과 계정 인증 정보는 D1 데이터베이스에, 이미지는 R2에 보관 ..."
+  },
+  {
+    "id": "6d5df9453b303fc4",
+    "title": "자식에게 미리 증여했다가 후회하지 않으려면…",
+    "link": "https://www.hankyung.com/article/202610020372i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T00:29:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "34b6d70cd55c8268",
+    "title": "“포켓몬 카드 사줄 때가 아니네”…금리 7% 챙기는 아이통장 뭐길래",
+    "link": "https://www.mk.co.kr/news/economy/12167910",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T00:21:27.000Z",
+    "snippet": "성인까지 거래 이어가기 노려 카뱅, 출시 10개월새 80만명 인뱅 청소년 이용자 급증하자 시중銀도 특화상품 경쟁 가세은행권이 미성년 고객 선점 경쟁에 나서고 있다. 어린 자녀의 첫.."
+  },
+  {
+    "id": "95c667b6b5ed38e6",
+    "title": "“금 사라고한 지인과 절연했습니다”…1월에 들어갔더니 30% 증발",
+    "link": "https://www.mk.co.kr/news/economy/12167908",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T00:17:26.000Z",
+    "snippet": "국민·신한·우리은행 골드뱅킹 잔액 1월말 2.4조 → 9월 1.6조로 급감해 “저가매수 기회…분할매수” 분석도수년간 치솟던 금값이 올해 들어 흘러내리면서 금 투자자 상당수도 큰 폭.."
+  },
+  {
     "id": "6130766aff613721",
     "title": "업스테이지, GPU 한 장에서 실행하는 Solar Mini 4 발표",
     "link": "https://news.hada.io/topic?id=34738",
@@ -38,6 +558,36 @@
     "category": "경제",
     "publishedAt": "2026-10-04T00:10:08.000Z",
     "snippet": "소비지출 증가율의 4.6배 카드 무이자 할부는 축소고금리 장기화로 가계가 부담하는 대출 이자비용이 4년 새 55% 가까이 늘어난 반면 카드 무이자 할부기간은 오히려 짧아진 것으로 .."
+  },
+  {
+    "id": "dfab224cc0d7e95a",
+    "title": "[단독] 美 AI 인프라 투자 올라탄 TMC…광·전력케이블로 매출 5000억 겨냥",
+    "link": "https://www.hankyung.com/article/202610042164i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T00:00:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6f4f42b119b684d1",
+    "title": "\"이 돈이면 차라리 동남아\"…한국인 '단골 여행지'의 눈물",
+    "link": "https://www.hankyung.com/article/202610031986H",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T00:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "1c397227fa807ca3",
+    "title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동'  [김연지의 연금빌드업]",
+    "link": "https://www.hankyung.com/article/2026100204986",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T00:00:01.000Z",
+    "snippet": ""
   },
   {
     "id": "241f8544a26367f7",
@@ -90,6 +640,16 @@
     "snippet": "2026년 10월 4일 일기예보: 찬 공기 덩어리가 유입되어 북부 지역에 천둥번개와 추위를 가져올 예정입니다. Vietnam.vn"
   },
   {
+    "id": "4d236872707567da",
+    "title": "'컵밥'으로 한 끼 때웠는데…\"사 먹기 무섭네\" 화들짝",
+    "link": "https://www.hankyung.com/article/2026100421717",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-03T23:35:09.000Z",
+    "snippet": ""
+  },
+  {
     "id": "9f611901cc6189fa",
     "title": "\"화장품 90% 싸게 팝니다\"…올리브영 위협하는 '이곳' [장서우의 하입:hype]",
     "link": "https://www.hankyung.com/article/202610031362i",
@@ -98,6 +658,16 @@
     "category": "경제",
     "publishedAt": "2026-10-03T23:00:11.000Z",
     "snippet": ""
+  },
+  {
+    "id": "e0e3d01f90b65d0b",
+    "title": "2026년 10월 4일 날씨 예보: 찬 공기 덩어리가 접근하면서 어느 지역에 폭우가 쏟아질까요? - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcXlNVXB4M2lLREI1bGwzLTd2SHNVRGdyRUlCYUFiYlBTbkZsdnZnNkh3U2labzdBbmVaT2g2Q0VNYlJ3aGlhZWU1QUR2YXcwYzNqNWhmTTVubkRDd2RqY1JtVDhGN1NfQ05XYlM4M0lIczRLYzkxUkZaU3NNdF9qZXJiQm5tV1F5YjJlX2Z3MGV3aFV0OE14Z0o4ZWVGSXNmaGNB?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-03T22:57:35.000Z",
+    "snippet": "2026년 10월 4일 날씨 예보: 찬 공기 덩어리가 접근하면서 어느 지역에 폭우가 쏟아질까요? Vietnam.vn"
   },
   {
     "id": "e5bf416abd6a9f6f",
@@ -458,6 +1028,16 @@
     "category": "AI",
     "publishedAt": "2026-10-03T13:34:46.000Z",
     "snippet": "AI 에이전트 ‘뮤즈(Muse)’의 인기가 급증하는 가운데, 메타가 이를 실제 하드웨어와 연결하는 오픈소스 플랫폼을 공개했다. 개발자와 기술 애호가들이 직접 만든 장치에 뮤즈를 연결하고, 스마트홈 기기와 주변 장치를 AI로 제어할 수 있도록 지원하기 위한 것이다.메타는 2일(현지시간) ‘뮤즈 가젯(Muse Gadgets)’을 공개하고, 자체 제작한 스마트홈 연결 장치 ‘뮤즈 홈 링크(Muse Home Link)’도 선보였다.뮤"
+  },
+  {
+    "id": "1b75774fc9113369",
+    "title": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwcTUwTmRYclp1Z01tU0tMZm1ncmxURGs1QUtUMnRCMk1xalFkV2VhZlhFSEdvYm1sTW5DdkJMdGpVUlRaYUZ5T0daOEduOWRPZUtZ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-03T13:28:14.000Z",
+    "snippet": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 유스연합"
   },
   {
     "id": "d74e6d9b60c35c72",

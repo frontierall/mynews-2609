@@ -1,5 +1,265 @@
 [
   {
+    "id": "9d4cd2f150b94071",
+    "title": "\"AI가 인류 위협\" 경고한 제이콥 콕슨, 뉴욕시의회 청문회 선다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215959",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-05T09:09:23.000Z",
+    "snippet": "뉴욕시의회가 빅테크 기업의 인공지능 위험성을 규제하기 위한 청문회를 개최한 가운데, 전직 AI 연구원들과 주요 기업 대표들이 대거 증언대에 선다.블룸버그는 5일(현지시간) 전 앤트로픽 연구원 제이콥 콕슨이 이날 열리는 뉴욕시의회 청문회에 출석해 증언할 예정이라고 보도했다. 콕슨은 오픈AI와 앤트로픽에서 3년간 사전 훈련 연구를 담당했던 인물로, 지난달 8일 앤트로픽을 떠나며 작성한 X 게시물이 1억7000만회 이상의 조회수를 "
+  },
+  {
+    "id": "f3c493d1936601ae",
+    "title": "머스크, '스페이스XSI'로 리브랜딩 시사…트럼프 'SI' 발언 동조",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215954",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-05T08:49:24.000Z",
+    "snippet": "일론 머스크 CEO가 자사의 AI 사업부인 ‘스페이스XAI’의 명칭을 ‘스페이스XSI’로 변경할 가능성을 내비쳤다. 도널드 트럼프 미국 대통령이 ‘AI’ 대신 ‘초지능(SI)’이라는 용어를 사용해야 한다고 언급한 데 따른 반응이다.머스크 CEO는 4일(현지시간) X에서 회사 이름을 스페이스XSI로 변경할 의향이 있느냐는 한 사용자의 질문에 \"그렇다, 그렇게 할 것\"이라고 답했다.이는 지난달 유엔 총회 연설에서 나온 트럼프 대통"
+  },
+  {
+    "id": "9c90facc5ce29fef",
+    "title": "트럼프, ‘슈퍼 인텔리전스 부대’ 출범…국가정보국장, 백악관 AI 차르 겸임",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215953",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-05T08:28:07.000Z",
+    "snippet": "도널드 트럼프 미국 대통령이 연방 정부의 AI 정책을 총괄할 전담 기구인 ‘슈퍼 인텔리전스 부대(SIF)’를 공식 출범시켰다. 조직의 수장으로는 제이 클레이튼 국가정보국장(DNI)이 임명, 미국 정보기관 총괄과 행정부의 AI 총괄 책임자(AI 차르) 역할을 동시에 수행하게 된다. 트럼프 대통령은 4일(현지시간) 트루스 소셜을 통해 SIF가 미국이 초지능 분야에서 세계를 계속 선도하도록 연방 정부의 노력을 조율하는 임무를 맡고 "
+  },
+  {
+    "id": "4dd7ad844d431778",
+    "title": "과업이 곧 일의 목적은 아니다",
+    "link": "https://news.hada.io/topic?id=34789",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-05T00:03:04.000Z",
+    "snippet": "코딩 에이전트가 구현 속도를 높여도 무엇을 만들 가치가 있는지 판단하는 능력까지 같은 비율로 좋아지지는 않음. 구현에 들던 시간이 줄면서 어려운 의사결정에 더 빨리 도달하게 됨 발표용 배경음악이 필요하면 완성된 곡을 받으면 되지만, 직접 음악을 만들고 싶다면 창..."
+  },
+  {
+    "id": "a3a7933980bb68f5",
+    "title": "Rust의 derive는 종종 inline을 암묵적으로 포함함",
+    "link": "https://news.hada.io/topic?id=34788",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-05T00:01:59.000Z",
+    "snippet": "Rust는 현재 #[derive(...)]로 생성하는 구현에 #[inline]을 추가함. 보장된 동작은 아닌 것으로 보이지만, 레퍼런스 예제와 매크로 확장에서 확인할 수 있음 #[inline]은 힌트일 뿐이며, 자동 생성한 Debug,..."
+  },
+  {
+    "id": "9a88ffd3b7d8acf2",
+    "title": "영국 정부 기구, 극단주의 대응 정책 비판자들의 온라인 게시물 수집",
+    "link": "https://news.hada.io/topic?id=34787",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T23:31:50.000Z",
+    "snippet": "영국 내무부 연계 기구 Prevent Standards and Compliance Unit(StaCU) 이 정부의 극단주의 대응 프로그램인 Prevent를 온라인에서 비판한 사람들에 관한 기록을 수집하고 보관함 2024년 3월부터 2025년 2월까지 77건의 관찰 기록을 작성했으며, 대부분 X에서 수집..."
+  },
+  {
+    "id": "85b2b734e66f5da4",
+    "title": "[오늘 전국 날씨예보] 기상청 날씨누리, “5일 ‘개천절 대체공휴일’ 내일까지 바람 강하고 기온 낮아 쌀쌀” - 한국강사신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13TFhldjdNb1BYWThaNUtHa0IxQnpSaTdxRmY3LXRXbE55TUJkN3c5eTZ6WkNGUjA5V3phYThzVzltVXZWRzhsbVFyWWpHMFQxZzBVZmNneGxOeHVtRnpiMGJKamJFYXhMOThaejRKMEI?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T23:22:41.000Z",
+    "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “5일 ‘개천절 대체공휴일’ 내일까지 바람 강하고 기온 낮아 쌀쌀” 한국강사신문"
+  },
+  {
+    "id": "9c83fc46bc9d6227",
+    "title": "미국 살인범의 형량, 법정에서 상영된 피해자 AI 영상 때문에 파기",
+    "link": "https://news.hada.io/topic?id=34786",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T22:49:19.000Z",
+    "snippet": "미국 애리조나주 항소법원이 숨진 피해자를 재현한 AI 영상의 법정 상영이 부적절했다고 판단해, 징역 10년을 선고받은 Gabriel Paul Horcasitas의 형량을 다시 정하도록 함 항소법원은 영상이 실제 사건이나 특정 순간의 기록이 아니라, 피해자 자매의 상상으로 만든 피해자..."
+  },
+  {
+    "id": "9caa6f76dac77560",
+    "title": "GitHub의 새 대시보드가 이제 기본 화면으로 적용됨",
+    "link": "https://news.hada.io/topic?id=34785",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T22:46:19.000Z",
+    "snippet": "기능 미리보기로 제공하던 새 대시보드가 모든 사용자의 기본 화면으로 전환됨 활성 에이전트 세션, 이슈, 풀 리퀘스트를 한곳에서 확인하고, 필터로 각 영역에 표시할 항목을 선택할 수 있음 업데이트를 확인하는 Feed 탭을 별도로 두어..."
+  },
+  {
+    "id": "4e6b586539a76de4",
+    "title": "Vx - 하나의 언어로 모든 칩을",
+    "link": "https://news.hada.io/topic?id=34784",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T22:43:19.000Z",
+    "snippet": "CPU, GPU, NPU 등 서로 다른 칩을 하나의 언어로 프로그래밍하는 시스템 언어로, 데이터 위치와 칩 사이의 연결 구조를 타입 시스템에 포함 CPU 메모리와 GPU 메모리에 있는 데이터를 서로 다른 타입으로 구분하며, 다른 메모리 영역으로 옮길 때는 transfer..."
+  },
+  {
+    "id": "500712dbe8e59b6a",
+    "title": "Offrun - 모든 코딩 에이전트를 하나의 작업 공간에서 관리",
+    "link": "https://news.hada.io/topic?id=34783",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T22:40:19.000Z",
+    "snippet": "기존 구독과 계정으로 Claude Code, Codex, Antigravity, Grok Build를 한 작업 공간에서 병렬 실행하는 Mac용 앱 에이전트마다 별도의 Git worktree와 브랜치를 만들어, 같은 저장소에서 리팩터링과 버그 수정 등을 서로 독립적으로 진행 다른 에..."
+  },
+  {
+    "id": "b4fe44bd79e14589",
+    "title": "10월 5일 응에안 지역 일기예보: 흐리고 소나기와 천둥번개가 예상되며, 동풍에서 북동풍이 3단계로 불겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPci16NnpiQ0xPTk1xMFY3UlNIMktYZk1RVE01WG9LQU03WGE0ZDlwcURrU211N0haenpHMXRyVHMtX0M2NHhqczA5djQtRk1nOXJuQk5SS0FiV08yM1dOY3JhUFFtNWNHazRFUElZWkk1bFdYYzktWi1zTWNTWkdiU0VkMjY2RnQ2bTZpM2Y3NXpSV2hqZ1BBMWJPX1NVb0hWbUZvaW50TlFrSTgxYnkw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T22:28:18.000Z",
+    "snippet": "10월 5일 응에안 지역 일기예보: 흐리고 소나기와 천둥번개가 예상되며, 동풍에서 북동풍이 3단계로 불겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "a5ff5a96e4cc08c6",
+    "title": "2026년 10월 5일 오늘 응에안 지역 날씨: 찬 공기 덩어리가 유입되고, 몬순 바람으로 인해 초겨울 같은 날씨가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcEF3ZEkwX3I5MmZhVUhtWTRHZlppcndTVkgxRmFxbEM2OXA5MWZtcHRjSjNRelNKMGtpMlRTdFJXSU9xX3RCYVN4QjVTTTExc0hlZUI0YzZPTGVWSWpienJaM0JLNzNiOW9vZzdITXhmV1lzWFM5TFh3dVpXdWdNbkdfMkNudFRaUzg2Wk95RzBJY2lwNmJrbm1FRm1RRVRIdWZHdmN1bnJWd3p5aEM1dXhJWFFQVXc?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T22:21:38.000Z",
+    "snippet": "2026년 10월 5일 오늘 응에안 지역 날씨: 찬 공기 덩어리가 유입되고, 몬순 바람으로 인해 초겨울 같은 날씨가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "a9937c363d412af8",
+    "title": "\"아직 미성년자인데 통장에 10억?\"…52명이나 있었다",
+    "link": "https://www.hankyung.com/article/2026100529637",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T22:14:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "c8cb77b5752cea3d",
+    "title": "[단독] 세계 1위 보일러 설계사 품은 미코…다음 승부처는 美 AI 전력시장",
+    "link": "https://www.hankyung.com/article/202610020790i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T22:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "cf7adba23d48020c",
+    "title": "소화기까지 숨기는 Apple의 ‘깔끔한 디자인’은 어리석은 짓이다",
+    "link": "https://news.hada.io/topic?id=34782",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T21:46:47.000Z",
+    "snippet": "소화기를 표시 없는 벽면 패널 뒤에 숨기는 설계는 비상시에 장비를 찾기 어렵게 만드는 기능적 실패이며, 안전 규정에 어긋날 수 있음 Apple 매장이나 사무실의 설치 사례로 알려진 이미지가 유통되고 있지만, 구체적인 사실을 확인할 공식 발표, 건축 문서, 검증..."
+  },
+  {
+    "id": "2d650373b1fd1f35",
+    "title": "뉴욕시는 새로운 나무를 정밀 측정해야 한다",
+    "link": "https://news.hada.io/topic?id=34781",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T21:43:47.000Z",
+    "snippet": "Wikipedia에 따르면 뉴욕시에서 정밀 측정된 가장 높은 나무는 Queens Giant이지만, 인용된 측정 기록은 20년도 더 지난 2004년의 것임 뉴욕시에서 가장 높은 나무의 다른 후보를 찾기 위해 항공 LiDAR 데이터로 몇 그루를 추려 공원 당국의 현장..."
+  },
+  {
+    "id": "f02654d6270710ca",
+    "title": "부실한 가림 처리로 Google 데이터센터의 물과 전력 사용량 드러나",
+    "link": "https://news.hada.io/topic?id=34780",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T21:40:47.000Z",
+    "snippet": "Google이 영업비밀로 가린 데이터센터 보고서에서 해당 영역을 선택해 다른 문서에 복사해 붙여넣자, 물과 전력 사용 수치가 그대로 드러남 Google의 네브래스카주 링컨 데이터센터는 최대 전력 수요가 52.65MW이며, 지난 1년간 물 1,329만 9,000..."
+  },
+  {
+    "id": "f44362aa09a694f6",
+    "title": "macOS 27에서 Apple Intelligence를 끄고 디스크 공간 되찾기",
+    "link": "https://news.hada.io/topic?id=34779",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T21:37:47.000Z",
+    "snippet": "RemoveMacAI는 macOS 27의 Apple Intelligence 기능을 끄고, 다운로드된 모델을 제거하며 재다운로드를 차단하는 도구로, 모든 변경을 되돌릴 수 있음 구성 프로파일로 기능을 제한하고 Apple의 자산 서비스를 통해 모델을 제거하며, 시스템 무결성 보호를 유지하고..."
+  },
+  {
+    "id": "4ddb8d3943f8250d",
+    "title": "'왕조현이 20년 만에 돌아왔다'…드라마 43만편 쏟아진 中 [차이나 워치]",
+    "link": "https://www.hankyung.com/article/202610042500i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T21:18:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ea71f246d3866783",
+    "title": "“안 털린 은행이 없네, 내 정보 어디로”…정보유출에 흔들리는 금융권",
+    "link": "https://www.mk.co.kr/news/economy/12168245",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T21:05:23.000Z",
+    "snippet": "시중은행 정보유출서 AI 침투도구 흔적 AI 에이전트 해킹 현실화되나 제로트러스트 보안 도입 의견도은행들에서 잇따라 발생한 해킹 공격으로 고객정보 유출사고가 발생하면서 금융권 개인.."
+  },
+  {
+    "id": "de94792133480be1",
+    "title": "'암살자(들)' 보지 말라더니 더 몰렸다…11일 만에 200만 돌파 [어떻게 생각하십니까]",
+    "link": "https://www.hankyung.com/article/202610042817i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-04T21:00:06.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3bf18ebcaa4954ca",
+    "title": "Thoreau BASIC - BASIC이 유행에서 밀려나지 않았다면?",
+    "link": "https://news.hada.io/topic?id=34778",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T20:57:07.000Z",
+    "snippet": "GW-BASIC의 줄 번호와 PRINT, FOR, NEXT 문법을 유지하면서 현대적인 그래픽·네트워크·사운드 기능을 더한 무료 64비트 BASIC 인터프리터 Windows 프로그램으로 실행하거나 운영체제 없이 PC에서 직접 부팅해 사용할 수 있..."
+  },
+  {
+    "id": "a521f9618d411055",
+    "title": "Big Balls, 이제 최소 6개 주에서 중대한 형사 기소 가능성에 직면",
+    "link": "https://news.hada.io/topic?id=34777",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T20:54:07.000Z",
+    "snippet": "DOGE 출신 Edward Coristine, 일명 Big Balls가 DOGE의 3억 명 이상 사회보장 기록 복사 의혹을 다룬 내부고발에 실명으로 등장함. 기록을 기관 보안 감시 밖의 클라우드로 옮긴 프로젝트에 참여하고 서버에 접근할 예정이었다는 자료를 토대로 주법상 기소 가능성이 거론됨..."
+  },
+  {
+    "id": "fb1473d7c4f02065",
+    "title": "전직 SR-71 엔지니어가 말하는 NASA의 Blackbird 부활 프로그램",
+    "link": "https://news.hada.io/topic?id=34776",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T20:51:07.000Z",
+    "snippet": "NASA의 SR-71 Tail 844가 전시 장소에서 사라진 가운데, 과거 추진계통 책임자 Tim Conners는 기체 육안 검사가 끝났으며 곧 외부 전원을 연결하는 시험에 들어간다고 전함 Conners는 복원 목적이 고속 엔진 시험 플랫폼일 가능성에 무게를 둠. 공기역학은 전산 모..."
+  },
+  {
+    "id": "bd5f4baa9fcb9815",
+    "title": "VGHF 디지털 아카이브, 잡지 5,000권 돌파와 향후 계획",
+    "link": "https://news.hada.io/topic?id=34775",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-04T20:48:07.000Z",
+    "snippet": "Video Game History Foundation의 디지털 아카이브가 잡지 5,000권을 넘어섰으며, 연구용으로 무료 열람하고 본문을 검색할 수 있는 컬렉션이 출시 당시보다 3배 이상 커짐 현재 컬렉션은 1981~2026년의 46년을 아우르는 약 60만 페이지로, 지금까지 목록화한 실물..."
+  },
+  {
     "id": "9834c414e580b6a3",
     "title": "[제주도 날씨예보] 새벽~오전 약한 비, 오후부터 찬바람 체감온도 ‘뚝’ - thefairnews.co.kr",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WVGJfOWE3VjBPenRWY0wwcndaU25mbXBDQzhISVZHQXUxcWtVTjg4SUh4anlpRG5mZ09JMHZMdm40YWk4R2FsY2RFX01RdmZLZVN3U3FRb3dfZjdvYjJ0czVCbEVqUVpUWDFiekl4bzPSAXRBVV95cUxOVHN1TnpxRDFudWlLWmtWUEhHNUdRRWFCb1ZLajVORUlEZFA3SmZORW1hWXNhYmNJUG5sQTJ4b3RTZlNqYWdqcWpEQzBMb2NpV2E1RFl6WlNTbWQxTEprUXYwUThDLVdlUU9oZXJhbm9GSjg2Xw?oc=5",
@@ -210,6 +470,16 @@
     "snippet": "안녕하세요. 안 쓰던 Android 태블릿에 ChatGPT Dots가 사는 작은 픽셀 공간, Dots Room을 만들었습니다. 처음에는 작업 중 답변을 놓치지 않도록, 새 메시지가 오면 태블릿 화면을 켜서 보여주는 용도로 만들었습니다. 꺼진 화면이 켜지며 Dots가 말을 거는 경험이 좋아서, 쉬고 책을 읽고"
   },
   {
+    "id": "1ba313ff925ce682",
+    "title": "[이번 주 날씨] 월요일 곳곳 비 뒤 맑음…아침 최저 5도 - 비건뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VMFRQbVZEMkNuWndFMTNnZDNtN3MxeWYyVHpobFNoUVRTbFNOUVhkZENXS2NULXlwdDdzak9MaEtYV09SMFhscnVHRVFQbzJ6WFV1cmh4YlJoa0FOSDRXc0FfRC1Qdw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T16:20:48.000Z",
+    "snippet": "[이번 주 날씨] 월요일 곳곳 비 뒤 맑음…아침 최저 5도 비건뉴스"
+  },
+  {
     "id": "46fad56222e31f9d",
     "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215946",
@@ -408,6 +678,16 @@
     "category": "경제",
     "publishedAt": "2026-10-04T10:41:30.000Z",
     "snippet": ""
+  },
+  {
+    "id": "c34beb87c989b4ce",
+    "title": "오늘 밤과 내일(2026년 10월 5일) 날씨 예보: 베트남 북부는 추운 날씨를 보일 것이며, 남부는 강한 뇌우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOendCSDRwS2JUY1JfdnpFS0V6SkdVbHMwdExhdWR3M3AwWTJhNzN1Q0Fwd1BLelB3QnM5MWl6MHNGU3puMl9CdHo5elA3Vkkyc3FJdzZjZjRMTGtjcWplS1g2R09JdVhRTWsySUJHQTc5Qk5KNkp1UWp3bXFMTzZsNlU1ZFo0a1FaLVpocHgtTnBVMWRFd0dHUnBoUEpWUlJ6V2MwLWV3VmZZdWp3ZFM3ZA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T10:18:33.000Z",
+    "snippet": "오늘 밤과 내일(2026년 10월 5일) 날씨 예보: 베트남 북부는 추운 날씨를 보일 것이며, 남부는 강한 뇌우가 예상됩니다. Vietnam.vn"
   },
   {
     "id": "43d7ceb15439e153",
@@ -4718,285 +4998,5 @@
     "category": "경제",
     "publishedAt": "2026-10-02T02:01:25.000Z",
     "snippet": "전국 각지 찾아 전문가가 교육금융감독원이 2일 노인의 날을 맞아 이달부터 두달간 금융권과 함께 고령층 대상 집중 교육기간을 운영한다. 금감원은 17개 은행과 금융투자협회, 디지털자.."
-  },
-  {
-    "id": "f73cb95b4f128c8f",
-    "title": "매진되면 '돈방석' 앉는 줄 알았는데…5만석 공연장 '놀라운 현실'",
-    "link": "https://www.hankyung.com/article/202610029642g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:54:27.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "6cec95a2d373c631",
-    "title": "신한은행 고객정보, 중국AI가 다 털어갔나…해킹 서버서 ‘中 AI 침투도구’ 흔적",
-    "link": "https://www.mk.co.kr/news/economy/12166969",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:46:43.000Z",
-    "snippet": "신한은행 고객정보 유출 사고와 관련해 사이버 공격에 이용된 것으로 추정되는 서버에서 중국어 기반 인공지능(AI) 침투테스트 도구의 흔적이 발견됐다. 2일 보안업계에 따르면 신한은행.."
-  },
-  {
-    "id": "2776ee7186a9cb6c",
-    "title": "오늘(10월 2일) 날씨 예보: 베트남 북부는 일조량이 줄고 기온이 낮아지겠으며, 베트남 남부에는 오후에 비가 내리겠습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGxsdkhORmNzY3Q1eDF2aS1jQTZWd2VxNFVnY3F1aHp4T3ByVkNYcDJCb3RnTlBSdFhyZGxaVzZuX0plOVU5RnZSVjBDdXJocF9aX01GUTBSckJ3NEZaMm91S0lsS18xalhKWkkxM3pyT0xoUVlxQWpoRC1UcGZ1NXNFNVplSmUzZGtGdmpnZHAzY2RnOHc?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-02T01:37:26.000Z",
-    "snippet": "오늘(10월 2일) 날씨 예보: 베트남 북부는 일조량이 줄고 기온이 낮아지겠으며, 베트남 남부에는 오후에 비가 내리겠습니다. Vietnam.vn"
-  },
-  {
-    "id": "7a8782bb4177a078",
-    "title": "네파, '에어써밋' 라인업 확대…초경량부터 방풍 다운까지",
-    "link": "https://www.hankyung.com/article/202610029774i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:36:51.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "ce134d6567234cc4",
-    "title": "2026년 10월 2일 날씨 예보 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FbVUzV3FFbW1Kc1h5VUJpelFXVjZob3E2dWl6ck5fUk1Cdk5NdEp2dklZZlA3cVlrRjg3R2VHaDgyWi1XdXJvN0VIVGI2TDl2ejhJNlNocjVoS3plVUNDa29tTkZ4YmY0?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-02T01:31:54.000Z",
-    "snippet": "2026년 10월 2일 날씨 예보 Vietnam.vn"
-  },
-  {
-    "id": "1925a9245d88d3a1",
-    "title": "쇼핑 천조국 미국…소비로 성장하는 경제 [박신영의 월가 아나토미]",
-    "link": "https://www.hankyung.com/article/202610029519i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:31:06.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "1ce10d2ffde92917",
-    "title": "“한글로 표현한 버거는 이런 맛?”...롯데리아, 한글날 맞아 ‘맛깔리아’ 팝업 연다",
-    "link": "https://www.mk.co.kr/news/economy/12166919",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:22:36.000Z",
-    "snippet": "롯데리아가 한글날 제정 100주년을 맞아 순우리말로 버거의 맛을 풀어낸 팝업을 연다. 2일 롯데리아 운영사 롯데GRS에 따르면 롯데리아는 오는 11일까지 홍대점, 잠실롯데월드몰B1.."
-  },
-  {
-    "id": "fab5a1f9ead6ed54",
-    "title": "오늘(10월 2일) 날씨 예보: 베트남 북부 지역은 이른 아침에 소나기가 내릴 것으로 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeXRLYWI3WlBwMTBwTmViYTMwbWdOQmNzbUM0bHBLZG01SVpMOHN1ZnRjMGZxTVJtRk1jZ2dHZTVYc2tLcHNJSkJXZjBZRHdpMTl2Qnc0VlpPUXFXRVFpUVdXcWNwbzEtRV90aWFyUVpuSEc5cFZSdzgySEZPSlJBZGp3RFVmdw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-02T01:22:03.000Z",
-    "snippet": "오늘(10월 2일) 날씨 예보: 베트남 북부 지역은 이른 아침에 소나기가 내릴 것으로 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "b5797b21bcd261bf",
-    "title": "Live Nation is capitalizing on the creator economy with a new firm",
-    "link": "https://www.tubefilter.com/2026/10/01/live-nation-creator-nation-live-events-firm-alexis-scott-fisher/",
-    "source": "Tubefilter",
-    "sourceId": "tubefilter",
-    "category": "크리에이터 이코노미",
-    "publishedAt": "2026-10-02T01:21:26.000Z",
-    "snippet": "Ticketmaster parent Live Nation is getting into the creator biz. The publicly traded multinational corp, which bills itself as “the largest live entertainment company in the world,” is funding a new firm called Creator Nation that will prim"
-  },
-  {
-    "id": "8a3daa6a141dd4f4",
-    "title": "워시 대신 Fed 주요 인사 잇따라 '등판'… \"10월보다 12월 인상\" 시사 [심성미의 중앙은행 워치]",
-    "link": "https://www.hankyung.com/article/202610029575i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:16:48.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "38659caf4db1ac8f",
-    "title": "[단독] 참이슬 안방 파고드는 '찰랑'…물량 90% 수도권에 푼다",
-    "link": "https://www.hankyung.com/article/202610029047i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:13:10.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "ea526b103598155c",
-    "title": "카카오뱅크, 개인사업자 대출 4조원 돌파",
-    "link": "https://www.hankyung.com/article/202610029660i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:09:09.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "4992f455675dd867",
-    "title": "아이 한 명에 지갑 더 연다…CJ온스타일, 월 990원 유아동 멤버십 선봬",
-    "link": "https://www.hankyung.com/article/202610029517g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:08:08.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "5299a49d5d06e3b4",
-    "title": "[포토] 파스쿠찌, 여주쌀·고구마 활용 상생제품 4종 출시",
-    "link": "https://www.hankyung.com/article/202610029607i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T01:05:45.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "75a7929acde08862",
-    "title": "동복댐 뒤편에 15m 신설…'가스관 없는 아파트' 내년 도입",
-    "link": "https://www.hankyung.com/article/202610029486i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T00:59:50.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "186435473497438f",
-    "title": "인천국제공항, CAPA '올해의 아시아 대형공항상' 수상",
-    "link": "https://www.hankyung.com/article/202610029566g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T00:59:23.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "884d1f39ab65ec30",
-    "title": "Show GN: oh-my-jev - Jev-Style 판단 모델을 벤치마크하고 테스트하고 직접 파인튜닝까지 가능한 오픈소스 도구",
-    "link": "https://news.hada.io/topic?id=34649",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-02T00:56:22.000Z",
-    "snippet": "소개 판단 모델이란 \"어느 팀으로 보낼까\", \"규정 위반인가\" 같은 정해진 질문에 문장 대신 선택지별 확률로 답하는 모델임. TypeSafe의 Jev가 대표적이고, 공개 이후 오픈 복제 모델이 빠르게 늘어남 oh-my-jev는 이런 모델을 한곳에서 서빙, 비교, 학습하는 CLI와 웹 UI"
-  },
-  {
-    "id": "f3a1e9f77f229da2",
-    "title": "금산군, 영농부산물 안전처리 지원사업 참여자 모집 - newsfun.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGWlFmTV96RHBrYVU4ZUFqdXA5Y19PNXp3d2dBUllHVnVvQ0o2WVZ3bDBWTHNvcVRrWWl4UkNmNUR0SS1wVWc4MTN1Zlk0ZW03OWpUeVRBNnp4YkplbmVzUGNsWjZkYTdE?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-02T00:56:00.000Z",
-    "snippet": "금산군, 영농부산물 안전처리 지원사업 참여자 모집 newsfun.kr"
-  },
-  {
-    "id": "ca801f929f55ae27",
-    "title": "주말에도 1시간 안에…英로이즈, USDC로 비자에 정산대금 보냈다 [스테이블코인 레이더]",
-    "link": "https://www.hankyung.com/article/202610029546i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T00:53:22.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "ced30487fdf831f4",
-    "title": "베트남 북부 지역은 늦은 오후와 저녁에 천둥번개를 동반한 소나기가 내릴 것으로 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84RkVxbExxeEIwMHZzSzRzXzU3SjE5bkxIcHlldWluRU51cEcwUUNiNVV4SjlYamRudEh2SmZKb1pXZGtQc3B3aEhsUlM2b1pHZGF3MjZkUWp5YkRRSjZiNWxsTFJ3LWxZMXhyTkVUY1dSTDhEZDhFUFdqNkU?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-02T00:50:46.000Z",
-    "snippet": "베트남 북부 지역은 늦은 오후와 저녁에 천둥번개를 동반한 소나기가 내릴 것으로 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "51cc89adf936d940",
-    "title": "10월 2일 날씨 예보: 베트남 북부 지역은 기온이 떨어지겠지만, 탄화에서 후에까지는 35°C 이상을 기록할 것으로 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTRoS3V1dUxHY3ZoYTVZSUVvai14RDJOODdkakpSSWFYUWtDVGtoMFRMQWk1VURwb3NYRTZoUmhkVUZFTU1jV3JwLXNwQXpXa0VtLVJfSmRJNUdDQ3p5ckJIUEFKRGFJakdNNkhuN3pYTHJtZHBtUHpOSW1XVW9RNWdKU3N6c1Q3WHJFaFNDVVVrZ3pRdkw3MGhkT2pqSm5wbHhkVkFmall1VEk?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-02T00:50:46.000Z",
-    "snippet": "10월 2일 날씨 예보: 베트남 북부 지역은 기온이 떨어지겠지만, 탄화에서 후에까지는 35°C 이상을 기록할 것으로 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "09e1cf2736ebc503",
-    "title": "[날씨] 개천절 연휴 광주 ‘맑고 쌀쌀’···5일엔 비 예보 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DUFJHN29LZDN6a3ViQUtkak5NYVBvSUZGSVdnMUhXRVdCSDRNeFpySDVUYU1FdWlfeHU5ZE91bExDUkdTNnFLbjFybnBOa2s?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-02T00:48:53.000Z",
-    "snippet": "[날씨] 개천절 연휴 광주 ‘맑고 쌀쌀’···5일엔 비 예보 v.daum.net"
-  },
-  {
-    "id": "69e1e0b089228eba",
-    "title": "“이거 누가 다 갚나”…개인정보유출 과징금 704억인데 보험금은 13억, 왜?",
-    "link": "https://www.mk.co.kr/news/economy/12166877",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T00:42:01.000Z",
-    "snippet": "개인정보유출 배상책임보험, 과징금 부과액의 0.19% “제재는 국가가 챙기고, 피해는 국민이 떠안는 구조”최근 신한은행 등 개인정보 유출 사고가 잇따르고 있는 가운데 기업이 가입한.."
-  },
-  {
-    "id": "30d72731cb81752e",
-    "title": "금산군, 하반기 영농부산물 안전처리 지원사업 참여자 모집 - mediatoday.asia",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tenJzZFpxSGRFSkx3N21kOXRmZU1ZSnNJRHFkRm84ZjNOeXpuS1lpZ2ZlTUFhRkdLYzVYSlhHV2I0VWk3aERWWGxn?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-02T00:42:00.000Z",
-    "snippet": "금산군, 하반기 영농부산물 안전처리 지원사업 참여자 모집 mediatoday.asia"
-  },
-  {
-    "id": "5e0cca8cc906b283",
-    "title": "RacketCon이 토요일에 열림",
-    "link": "https://news.hada.io/topic?id=34648",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-02T00:41:54.000Z",
-    "snippet": "제16회 RacketCon이 2026년 10월 3~4일 미국 캘리포니아주 Oakland에서 열리며, Racket에 관심 있는 누구나 참여할 수 있음 등록이 시작됐으며 9월 13일 이전에는 조기 등록 할인을 받을 수 있음 토요일에는 타입 추론, 저수준 프로그래밍, 매크로..."
-  },
-  {
-    "id": "721b456c5b94a71a",
-    "title": "안성시, 1인 가구 지원사업 '생활꿀팁 바구니' 청년 참여자 모집 - 메트로신문",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uVDlQbzNXdHpiUEdUd1RXWi1LQVJKRkp0ZHdDZEc4c0FyaHhjeWl4cFJrZ2ZNSDdrWk9SX1hzX2FsZ08wRW85NEs0T2ZJN3VhWnFHMDNoeHF6MFpEY1I5LQ?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-02T00:39:15.000Z",
-    "snippet": "안성시, 1인 가구 지원사업 '생활꿀팁 바구니' 청년 참여자 모집 메트로신문"
-  },
-  {
-    "id": "9ece572892a0810b",
-    "title": "웹 개발 교육의 죽음",
-    "link": "https://news.hada.io/topic?id=34647",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-02T00:38:54.000Z",
-    "snippet": "생성형 AI로 학습 수요가 이동하면서 웹 개발 강좌, 전자책, 튜토리얼로 생계를 이어온 독립 교육자들이 매출 급감과 사업 중단을 겪고 있음 교육 콘텐츠의 수익 기반이 무너져 Axel Rauschmayer의 도서 판매 수입은 0으로 떨어졌고, Josh W. Comeau와 동료 강좌 제..."
-  },
-  {
-    "id": "54099d43b508d636",
-    "title": "비츠로셀 북미 시추기업 피닉스와 495억 공급계약…\"고온전지 시장 1위 노린다\"",
-    "link": "https://www.hankyung.com/article/202610029503i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-02T00:38:09.000Z",
-    "snippet": ""
   }
 ]

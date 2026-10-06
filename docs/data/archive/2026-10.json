@@ -1,5 +1,25 @@
 [
   {
+    "id": "b9c1de1da517c7b5",
+    "title": "세계 최초의 차세대 지열 발전소, 단 23개월 만에 완공",
+    "link": "https://news.hada.io/topic?id=34904",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T18:37:48.000Z",
+    "snippet": "Fervo Energy가 유타주 Cape Station 발전소의 첫 블록을 착공부터 상업 운전까지 23개월 만에 완공하고, 예정보다 하루 빠른 9월 30일 전력 판매를 시작함 이번에 가동한 설비는 곧 100MW 규모가 될 발전소의 약 3분의 1이며, 전체 부지는 최대 ..."
+  },
+  {
+    "id": "86568657495e495c",
+    "title": "AI가 이제 자체 추론 하드웨어를 개발할 수 있게 됨",
+    "link": "https://news.hada.io/topic?id=34903",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T18:34:47.000Z",
+    "snippet": "openTPU는 AI가 개발한 오픈소스 AI 가속기로, 하드웨어 설계부터 컴파일러, 시뮬레이터, 호스트 소프트웨어까지 하나의 작은 모노레포에 담음 실제 FPGA 카드에서 실제 가중치를 사용하는 모델 10종을 실행하며, 모든 구성에서 시뮬레이터와 토큰 단위로 일치하는..."
+  },
+  {
     "id": "b443b3bcaf7d755e",
     "title": "'미국 오픈소스 대표' 리플렉션 AI, 첫 모델 공개…반응은 엇갈려",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215987",
@@ -8,6 +28,16 @@
     "category": "AI",
     "publishedAt": "2026-10-06T18:19:10.000Z",
     "snippet": "미국 오픈소스 진영의 기대주 리플렉션 AI가 첫 자체 오픈웨이트 모델을 선보였다. 최첨단 모델 수준의 성능에는 미치지 못했으나, 코딩·추론·에이전트 작업에 특화해 경쟁 모델 대비 적은 연산으로 동급 성능을 내는 뛰어난 효율성을 강점으로 내세웠다.리플렉션 AI는 5일(현지시간) 첫 오픈웨이트 모델 ‘빔(Beam)’을 공개했다. 빔은 총 5010억개 매개변수를 갖춘 희소 전문가 혼합(MoE) 모델로, 토큰당 실제 활성화되는 매개변"
+  },
+  {
+    "id": "2751c86491a610d8",
+    "title": "Factor 개요",
+    "link": "https://news.hada.io/topic?id=34902",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T18:14:38.000Z",
+    "snippet": "Factor는 데이터 스택에 값을 넣고 워드(word)가 이를 소비해 결과를 쌓는 방식으로 실행되며, 짧은 정의와 컴비네이터로 값의 흐름을 구성함 쿼테이션(quotation) 은 실행 가능한 코드를 값으로 다루는 수단이며, 조건문, 반복, 부분 적용, 합성도 쿼테이션을 받는..."
   },
   {
     "id": "af82fd76b86dcbe1",
@@ -60,6 +90,16 @@
     "snippet": "에너지ICT 전문 공기업 한전KDN(사장 박상형)은 1일과 2일, 코트야드 바이 메리어트 세종 그랜드볼룸에서 ‘2026년 발전 5사 AI-ICT 컨퍼런스’를 개최했다고 밝혔다.한전KDN이 주관한 이번 행사는 발전 5사(남동발전, 남부발전, 동서발전, 서부발전, 중부발전 가나다 順)와 함께 발전산업의 지능형 전환 선도와 지속가능한 미래를 위한 신기술 공유, 공공부문의 인공지능(AI) 활용 확대 흐름에 발맞춰 발전산업 현장에 적용"
   },
   {
+    "id": "a36a078dfaf9dc65",
+    "title": "우리는 “unalive”를 없앨 것이다",
+    "link": "https://news.hada.io/topic?id=34901",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T17:34:32.000Z",
+    "snippet": "“unalive” 같은 완곡어법은 죽음이나 살해를 정확히 말하면 플랫폼이 노출을 줄이거나 검열할 것이라는 경험 또는 예상에서 확산됐으며, 일상 대화까지 바꾸고 있음 플랫폼의 제한을 피하려는 철자 변형과 이모지는 콘텐츠 필터링도 방해해, 성폭력처럼 원치 않는..."
+  },
+  {
     "id": "47617b080de82337",
     "title": "[게시판] 두산로보틱스, 989억 규모 피지컬 AI 국책과제 2건 선정 등 단신",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216013",
@@ -90,6 +130,16 @@
     "snippet": "엔비디아가 AI 칩 스타트업 그로크(Groq)와 체결한 200억달러(약 27조원) 규모의 라이선스 계약이 소송에 휘말렸다. 계약 과정에서 그로크의 일부 주주와 엔지니어들이 제대로 된 대가를 받지 못했고, 사실상 회사의 핵심 기술과 인력을 엔비디아에 넘긴 거래였다는 게 원고 측 주장이다.파이낸셜타임스에 따르면, 그로크의 전직 엔지니어인 벤저민 세레브린과 조슈아 루빈은 2일(현지시간) 델라웨어 기업법원에 제출한 소장에서 그로크 이"
   },
   {
+    "id": "a2dd726a341a52bb",
+    "title": "우리가 알던 오픈소스는 죽었다",
+    "link": "https://news.hada.io/topic?id=34900",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T17:04:03.000Z",
+    "snippet": "AI로 기여를 만드는 비용은 낮아졌지만 검토 비용은 줄지 않아, 오픈소스 유지관리자들이 외부 기여를 제한하거나 차단하고 있음 과거에는 상당한 분량의 패치가 기여자의 노력과 선의를 가늠하는 신호였지만, AI 생성 코드가 그 신호를 무너뜨리면서 낯선 기여자를..."
+  },
+  {
     "id": "6563326f6edb34b1",
     "title": "19세 청년의 반란...고스트, 개인용 AI PC '코어'로 147억 투자 유치",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216012",
@@ -108,6 +158,26 @@
     "category": "AI",
     "publishedAt": "2026-10-06T17:00:00.000Z",
     "snippet": "■ 딥엑스와 두산로보틱스가 원자력발전소 제조 현장의 숙련 용접공 부족 문제를 해결하기 위해 ‘AI 지능형 용접 로봇 솔루션’ 개발에 협력한다. 비전 AI와 협동로봇 기술을 결합해 용접 공정을 지능화하는 것이 핵심이다. 두산로보틱스는 컨소시엄 총괄과 시스템 통합 아키텍처 설계를 맡아 협동로봇 용접 셀 개발, 미소 변위 보정 AI 및 실시간 용접기 제어 기술을 개발한다. 딥엑스는 NPU AI 장치와 소프트웨어 개발 키트(SDK)를"
+  },
+  {
+    "id": "614a708311c54d99",
+    "title": "2026년 10월 7일 호치민시 날씨 예보: 저녁과 밤에 소나기와 산발적인 뇌우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkRPb3hwZWJ4Nkdvc1pqd2NsTk1rOXYxT0dCbkRNcVBQVnZOMXU4VktwaWlBc2FGN2hoM21nNFlSMzdGTGp4RVNTYjNsbWt1N3k5UlNiak5YX1FRVGVhSm1Ha3lBdmpfYVEtOEhBano2N2ZGTEFJU1U2VkFDdFlHN0RjdWFZRUo1YktsNEpzZXQ3WlY2OE9UdGdJQWNWS2s0VnVtRzF1MTdnanFYTUN4OUhxQ3RXNGNjVXJR?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T16:57:54.000Z",
+    "snippet": "2026년 10월 7일 호치민시 날씨 예보: 저녁과 밤에 소나기와 산발적인 뇌우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "660ffd52761a761c",
+    "title": "바이브코딩은 직접 코드를 쓰는 것만큼 재미있지 않다",
+    "link": "https://news.hada.io/topic?id=34899",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T16:33:10.000Z",
+    "snippet": "AI 보조 코딩으로 유용한 결과물을 빠르게 만들 수 있어도, 만드는 과정의 즐거움은 직접 코드를 쓸 때보다 적을 수 있음 바이브코딩은 재미를 앞당겨 제공함. 적은 노력으로 아이디어를 시제품으로 만들 수 있지만, 리팩터링은 처음처럼 짜릿하지 않음 만..."
   },
   {
     "id": "78bda633d00f32fa",
@@ -150,6 +220,16 @@
     "snippet": "조르자 멜로니 이탈리아 총리가 AI로 만든 딥페이크에 대응하기 위해 자신의 목소리에 대한 유럽연합(EU) 상표권 등록을 신청했다. 주요 정치인이 AI로 복제된 자신의 목소리를 막기 위해 상표권 보호에 나선 사례로, 2027년 예정된 이탈리아 총선을 앞두고 딥페이크와 허위 정보에 대한 우려가 커지는 가운데 나온 조치다.로이터에 따르면, 멜로니 총리는 5일(현지시간) EU 지식재산청(EUIPO)에 자신의 목소리에 대한 상표권을 신"
   },
   {
+    "id": "60ef2af305e795fe",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "link": "https://openai.com/index/atlassian-partnership",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-10-06T16:00:00.000Z",
+    "snippet": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+  },
+  {
     "id": "f4ce8714fa825bfe",
     "title": "뉴뉴욕시의회, AI 빅테크 청문회…전직 내부고발자 \"통제력 상실\" 경고",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216008",
@@ -158,6 +238,36 @@
     "category": "AI",
     "publishedAt": "2026-10-06T15:52:32.000Z",
     "snippet": "미국 뉴욕시의회가 급속도로 치닫는 AI 위험성에 대응해 빅테크 경영진을 직접 소환하고 강도 높은 심문을 벌였다. 51명 전체 의원이 참여하는 '전원위원회(Committee of the Whole)' 형태로 열린 이번 청문회에서는 AI 기술의 재앙적 위험성과 지방정부 차원의 법적 규제 방안이 다뤄졌다.블룸버그와 월스트리트저널 등에 따르면, 5일(현지시간) 열린 청문회에는 오픈AI, 앤트로픽, 구글, 메타 등의 정책 및 안전 담당"
+  },
+  {
+    "id": "91c466bb18337ff9",
+    "title": "Show GN: Mytory Video Tools - 간단한 영상 작업을 초고속으로 처리하는 FFmpeg GUI",
+    "link": "https://news.hada.io/topic?id=34898",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T15:46:09.000Z",
+    "snippet": "영상 작업을 할 때가 많은데 몇 가지가 아쉬웠습니다. mkv를 mp4로 변경하는데 GUI 인코딩 툴들은 컨테이너만 바꾸는 기능을 찾질 못하겠더라고요. 재인코딩을 하면 엄청 오래 걸리지만 컨테이너만 갈아끼우면(즉, Remuxing) 완전 빠른데 말입니다. 물론 내용물이 컨테이너에 호환이 돼야 하지만요. 영"
+  },
+  {
+    "id": "48415d39711c9683",
+    "title": "美 안두릴, 잠수함 생산 지원에 신규 조선 건설",
+    "link": "https://www.hankyung.com/article/202610066728i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T15:40:26.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "394ee8d5035e2db1",
+    "title": "Meta의 Muse, 귀여운 외양에 가려진 개인정보 보호와 보안의 총체적 난국",
+    "link": "https://news.hada.io/topic?id=34897",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T15:33:22.000Z",
+    "snippet": "Meta의 에이전트형 AI Muse에서 Mac 사용자 감시가 가능한 제로데이 취약점과 무단 메시지 접근 등 개인정보 보호와 보안 문제가 잇따름 사용자 대신 작업을 수행하는 과정에서 헐값 판매와 집 주소 전달 사례가 발생했으며, 해당 사용자가 설정한 권한을 제대로 이..."
   },
   {
     "id": "497af2aa8ee85941",
@@ -170,6 +280,26 @@
     "snippet": "포지큐브(대표 오성조)는 롯데벤처스와 딥테크 챌린지 프로젝트를 연계한 생성 AI 솔루션 협업에 나선다고 밝혔다.이번 협업은 포지큐브의 멀티 에이전트 기반 생성형 AI 플랫폼 '로비 G 맥스(robi G MAX)'를 중심으로 추진된다. 로비 G 맥스는 전문화된 AI 에이전트가 역할을 분담해 함께 일하는 방식으로 단순 질의응답을 넘어 다양한 업무를 수행할 수 있도록 지원하는 것이 특징이다.포지큐브는 이번 프로젝트를 통해 기업의 업"
   },
   {
+    "id": "518323b4b3dd2f91",
+    "title": "아침 최저 3도… 낮밤 기온차 유의 [오늘날씨] - www.bntnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSWFdpRjBUSjBmNEt3anNDX3hkRmo0bDItZnJkM1RZeTV5NF9LbU9YeTNpc3J1YzVGbFk3MllERUFmX3E5cXg2cFhqb2hyTVN1OVd0VnFfOW9lN3JOTkZFcFU0Z3A?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T15:00:02.000Z",
+    "snippet": "아침 최저 3도… 낮밤 기온차 유의 [오늘날씨] www.bntnews.co.kr"
+  },
+  {
+    "id": "9d9bfa10d2724706",
+    "title": "10월 6일 밤부터 10월 16일까지 전국 10일간의 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDJIanhxWi1qTUQza1ItaUFWSWZQVVIzVzF3YmNscFBWcXcwdkdXR1g4YXhNYVhFWHhOWTRrYkdZQ3pnZzJXRFlIOS0wMFQ0d3dfQm05aWl6LVNpWUxNZ3phaC1xMUp5ampkNWZ3XzI0amZXT0pXa0JGamlpamNkS3lNTWVXc2JOSm54UUhIS3dtbGNsRXZYN1ZVWlBISEIwdnQzOGVWUVc1UQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T15:00:00.000Z",
+    "snippet": "10월 6일 밤부터 10월 16일까지 전국 10일간의 날씨 예보 Laodong.vn"
+  },
+  {
     "id": "ae39edcfa2a12f95",
     "title": "'클로드'에 폭력 협박 남겼다 체포...\"AI 챗봇은 일기장 아니다\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216001",
@@ -178,6 +308,56 @@
     "category": "AI",
     "publishedAt": "2026-10-06T14:57:00.000Z",
     "snippet": "AI 챗봇을 외부로 공개되지 않는 개인 비밀 일기장처럼 활용하며 범죄를 계획하거나 사법 기관을 위협하는 사용자들이 실제 경찰에 체포되는 사례가 잇따르고 있다. 특히 이 문제가 집중됐던 오픈AI의 '챗GPT'에 이어, 최근에는 AI 안전을 최우선 가치로 내세워 온 앤트로픽의 '클로드'에서도 유사 사건이 발생했다.2일(현지시간) 걸프 코스트 뉴스에 따르면, 미국 플로리다주 리 카운티 보안관 사무소는 보니타 스프링스에 거주하는 30"
+  },
+  {
+    "id": "9e3b0463bd402eae",
+    "title": "10월 7일 일기예보: 베트남 남부 지역에 광범위한 비가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcW85VmNRQmp5dWZZQUFtZWRKbXFNQTlTY2MxZnF4MVVXamE4c2p6REtodThickhiZ0JhWk1PRm5oRzZJSEZ1c09yV2RCU1FNamZkN2xlMDduZEdIUHVpZ3JWQnhBMEdUdHYwMUhZclJlcnRicXZZeVlTOHdCMFJaTTZzdHVfUmdJNFE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T14:49:57.000Z",
+    "snippet": "10월 7일 일기예보: 베트남 남부 지역에 광범위한 비가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "a113dea0a9b09df0",
+    "title": "종 손실 후 자연의 회복 능력은 크게 과대평가돼 있음",
+    "link": "https://news.hada.io/topic?id=34895",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T14:45:03.000Z",
+    "snippet": "전 세계 연구를 종합한 결과, 대부분의 생태계 서비스와 기능은 소수의 종만으로 충분해지는 것이 아니라 생물다양성이 높아질수록 계속 증가함 423개 연구, 222,829개 데이터 포인트를 분석한 이번 연구는 종들이 서로를 대신해 종 손실의 영향을 줄인다는"
+  },
+  {
+    "id": "bd2b4d78e024d813",
+    "title": "Polars 2.0 출시",
+    "link": "https://news.hada.io/topic?id=34894",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T14:42:02.000Z",
+    "snippet": "LazyFrame.collect()의 기본 실행 엔진이 스트리밍 엔진으로 바뀌어 대부분 쿼리의 메모리 사용량과 성능이 개선됨. 일부 연산에서 행 순서를 보장하려면 maintain_order=True를 지정해야 함 메모리가 부족할 때 데이터를 디스크로 내보내는 아웃..."
+  },
+  {
+    "id": "3c81f95af8a58076",
+    "title": "Show GN: agent-gc – AI 코딩 에이전트가 남긴 worktree 쓰레기를 치워주는 TUI",
+    "link": "https://news.hada.io/topic?id=34893",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T14:41:21.000Z",
+    "snippet": "Codex, Claude Code 같은 에이전트에 병렬로 일을 시키다 보니 worktree가 계속 늘어났음. worktree마다 install, 빌드, 테스트가 돌면서 node_modules, .next, target, .venv도 같이 복제됨 어느 날 디스크가 꽉 차서 열어 보니 ~/.codex..."
+  },
+  {
+    "id": "0f0f344ff30cbf55",
+    "title": "Mistral Large 4: “Le Chonk”",
+    "link": "https://news.hada.io/topic?id=34892",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T14:39:02.000Z",
+    "snippet": "Mistral이 총 1조 개 파라미터, 활성 파라미터 490억 개를 갖춘 네이티브 멀티모달 모델 Mistral Large 4의 공개 프리뷰를 출시함 Mistral 평가에서 코딩, 에이전트 작업, 멀티모달 이해가 세계 최상위 오픈 모델과 경쟁하며, 사이버보안, 금융, 법률에서는 오픈 모..."
   },
   {
     "id": "9b5e20c8eb254487",
@@ -190,6 +370,26 @@
     "snippet": "AI 생성 영상전남광주통합특별시가 필터 변색과 이물질, 흙탕물 등 가정에서 자주 발생하는 수돗물 관련 민원을 온라인에서 확인할 수 있는 서비스를 운영한다.전남광주 상수도사업본부 수질연구소는 ‘우리집 수돗물 민원 해결사’를 자체 개발해 지난 9월23일부터 서비스를 시작했다고 6일 밝혔다.서비스는 시민이 수돗물 이용 과정에서 겪는 현상을 선택하면 주요 발생 원인과 가정에서 확인할 수 있는 조치 방법 등을 안내하는 방식이다.안내 대"
   },
   {
+    "id": "ff43a1bdd4ecef33",
+    "title": "유가·美 국채 내리자…S&P500·나스닥 사상 최고치 돌파",
+    "link": "https://www.hankyung.com/article/202610066710i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T14:21:53.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3d0e411ecade58ca",
+    "title": "최병오 섬산련 회장 \"韓-대만, 새로운 협력관계 기대\"",
+    "link": "https://www.hankyung.com/article/202610066692i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T13:52:31.000Z",
+    "snippet": ""
+  },
+  {
     "id": "366fbf070951963e",
     "title": "헨켈, SEDEX 2026서 AI·HBM 시대 위한 첨단 패키징 소재 솔루션 선보여",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215996",
@@ -198,6 +398,46 @@
     "category": "AI",
     "publishedAt": "2026-10-06T13:49:40.000Z",
     "snippet": "접착제 및 코팅 분야의 글로벌 선도 기업 헨켈(Henkel)의 접착 테크놀러지스(Adhesive Technologies) 사업부가 오는 14일부터 16일까지 서울 코엑스에서 열리는 ‘SEDEX 2026(제28회 반도체대전)’에 참가한다. 헨켈은 ‘Advanced Packaging for AI’를 주제로 AI, 고대역폭메모리(HBM), 고성능컴퓨팅(HPC) 시대에 요구되는 첨단 패키징 소재 기술을 선보일 예정이다.AI와 HPC의"
+  },
+  {
+    "id": "b6ffc70c6feebd0d",
+    "title": "국민성장펀드 2차 판매 3162억원…목표액 절반 넘겨",
+    "link": "https://www.mk.co.kr/news/economy/12169854",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T13:48:08.000Z",
+    "snippet": "1차 펀드 수익률 1.40%2차 국민참여형 국민성장펀드가 판매를 시작한 지 나흘 만에 목표액의 절반 이상을 채웠다. 6일 연합뉴스에 따르면 금융위원회는 2차 국민참여형 국민성장펀드.."
+  },
+  {
+    "id": "136a6c0533c93839",
+    "title": "Mistral Large 4 발표 - 코딩·보안·시각 이해를 강화한 1조 파라미터 오픈웨이트 모델",
+    "link": "https://news.hada.io/topic?id=34890",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T13:38:19.000Z",
+    "snippet": "Mistral의 가장 큰 멀티모달 모델로, 총 1.05조 파라미터 중 490억 개를 활성화하는 MoE 구조를 사용하며 텍스트와 이미지 입력, 100만 토큰 문맥을 지원함 코딩과 에이전트 업무, 사이버 보안·금융·법률에 집중해 성능을 높였으며, 코딩 에이전트 종합 평가에서 D..."
+  },
+  {
+    "id": "c55a1b3a1b8b4a47",
+    "title": "美 8월 무역적자 142조원…트럼프 관세 폭탄 이후 최대",
+    "link": "https://www.hankyung.com/article/202610066688i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T13:37:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6d21608cba765db9",
+    "title": "JetBrains, 매출 늘었지만 2025년 순손실 전환",
+    "link": "https://news.hada.io/topic?id=34889",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T13:35:19.000Z",
+    "snippet": "JetBrains가 2025년 약 1,440만 달러의 순손실을 기록하며, 전년 약 1억 700만 달러 흑자에서 적자로 전환함 매출은 약 7억 3,100만 달러로 최고치를 기록했으며, 체코 코루나 기준 전년 대비 6.3% 증가함 영업이익은 약 3,430만 달러로 흑자를 유..."
   },
   {
     "id": "5604e85e20419bd2",
@@ -240,6 +480,26 @@
     "snippet": "앤트로픽에 이어 오픈AI도 '챗GPT'와 '코덱스'가 생성하는 텍스트에 보이지 않는 워터마크를 도입한다. 단, 이번 조치는 유럽연합(EU)의 AI 법에 대응하는 것으로, 전 세계에 일괄 적용하는 것은 아니다.오픈AI는 5일(현지시간) 앞으로 몇 주 안에 EU 내 모든 요금제의 챗GPT와 코덱스 텍스트 출력에 워터마크를 적용한다고 밝혔다. 또 \"EU 출시 시점에서 전 세계 기본 적용은 하지 않는다\"라고 덧붙였다.다만 API에서는"
   },
   {
+    "id": "460641431afbb06b",
+    "title": "메타 '스마트 안경' 규제 확산…\"사생활 침해우려\"",
+    "link": "https://www.hankyung.com/article/202610066641i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T12:59:40.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "6e18810b3e9488ab",
+    "title": "“화이트칼라 초과근무 없인 나라 미래 없어”…전 한은총재의 경고",
+    "link": "https://www.mk.co.kr/news/economy/12169834",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T12:53:55.000Z",
+    "snippet": "서울대 인구클러스터 포럼서 쓴소리 ‘재량근로제’는 법률 리스크 못 덜어줘 한은 ‘화이트칼라 이그젬션’ 도입 제안이창용 전 한국은행 총재(서울대 특임교수)가 “화이트칼라(사무·전문직.."
+  },
+  {
     "id": "38b40970809f17e7",
     "title": "Show GN: 차쟁이가 바이브코딩으로 만든 엔진 시뮬레이터",
     "link": "https://news.hada.io/topic?id=34886",
@@ -248,6 +508,26 @@
     "category": "개발",
     "publishedAt": "2026-10-06T12:05:47.000Z",
     "snippet": "개요 안녕하세요 차쟁이이자 개발자입니다 주요 기능 악셀을 밟아 RPM 별 달라지는 사운드를 즐깁니다 구성된 엔진(I4, I5, I6, V8, V10, V12) 별로도 즐겨줍니다 기"
+  },
+  {
+    "id": "02ab67f555f46f29",
+    "title": "'부어라 마셔라' 대신 \"한 잔을 제대로\"…2030 몰린 '맥줏집' 정체 [현장+]",
+    "link": "https://www.hankyung.com/article/202610029621g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T12:00:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "59401ab43e9a55f8",
+    "title": "AI가 부의 지형 바꿨다…세계 500대 부자 미국 IT에 집중",
+    "link": "https://www.hankyung.com/article/202610066622i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T11:59:20.000Z",
+    "snippet": ""
   },
   {
     "id": "4bf0f99231fa8175",
@@ -378,6 +658,16 @@
     "category": "경제",
     "publishedAt": "2026-10-06T10:00:01.000Z",
     "snippet": ""
+  },
+  {
+    "id": "9964af802e9c5fde",
+    "title": "Advancing computer use with Ironclad",
+    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-10-06T10:00:00.000Z",
+    "snippet": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
   },
   {
     "id": "4b1e22a59832a804",
@@ -4150,6 +4440,16 @@
     "snippet": "Claude Code의 동작과 UI를 바꾸는 JavaScript/TypeScript 확장인 모드(mod) 로, 세션 안에서 이벤트를 관찰하고 도구 실행에 개입하거나 맞춤 패널을 표시할 수 있음 원하는 기능을 자연어로 요청해 모드를 만들 수 있으며, 핫 리로드로 세션을 재시작하지 않고 수..."
   },
   {
+    "id": "b594f83c51d63e60",
+    "title": "금산군 하반기 영농부산물 안전처리 지원사업 참여자 모집 - 충청타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMURUdElWYTdfdjZILVJqbHV2eXl2LTlfS21kQTFEMmh3c1EwOEZnRWtoMHVLbTVfY2pQbDBaT3E4cFJiMlVHYlNVd3FzdTJrVU8zeUVfYUt4cmRSejNzUm1SZUlKOUpM?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-05T02:18:00.000Z",
+    "snippet": "금산군 하반기 영농부산물 안전처리 지원사업 참여자 모집 충청타임즈"
+  },
+  {
     "id": "9e80ed469ce61e61",
     "title": "“AI·반도체 웃을 때 우리는 눈물”…‘약발’ 안 듣는 코스닥 제약주",
     "link": "https://www.mk.co.kr/news/economy/12168324",
@@ -4518,6 +4818,16 @@
     "category": "경제",
     "publishedAt": "2026-10-04T21:05:23.000Z",
     "snippet": "시중은행 정보유출서 AI 침투도구 흔적 AI 에이전트 해킹 현실화되나 제로트러스트 보안 도입 의견도은행들에서 잇따라 발생한 해킹 공격으로 고객정보 유출사고가 발생하면서 금융권 개인.."
+  },
+  {
+    "id": "03de61ef81cc3328",
+    "title": "[오늘 날씨] 대체공휴일 오전 빗방울, 오후 구름 많음...이번 주 주간예보는? - 헤드라인제주",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1icWh3QllXQ1V2bWVvXzBZanVmMkFJaUN4X1g3M0RWbWpZV0ZqdXc4OC1nRzRNS1V1U2ZIU2FyYk9tNTFUbmhsNWZoUXh6djhqU3FmY25HbXFIYW1JcG5YbzBPMzhRUmx2aThpbFZreXRGWUU?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-04T21:05:00.000Z",
+    "snippet": "[오늘 날씨] 대체공휴일 오전 빗방울, 오후 구름 많음...이번 주 주간예보는? 헤드라인제주"
   },
   {
     "id": "de94792133480be1",

@@ -1,5 +1,245 @@
 [
   {
+    "id": "1626273867033bfe",
+    "title": "[10월6일] “아모데이와 같은 방향이라더니”…알트먼, “앤트로픽과 근본적으로 다르다”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215995",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-07T07:00:00.000Z",
+    "snippet": "샘 알트먼 오픈AI CEO가 5일(현지시간) 폴리티코와의 인터뷰에서 “AI의 혜택을 위해 어느 정도의 나쁜 일은 감수해야 한다”고 말한 것이 눈길을 끌었습니다. 이번 발언은 ‘AI의 혜택을 위해 일부 위험을 감수해야 한다’는 취지로 주목받았지만, 인터뷰 전체를 보면 알트먼이 더 강조한 것은 오픈AI와 앤트로픽의 AI 안전·규제 접근법이 다르다는 점입니다.알트먼은 앤트로픽과 오픈AI 사이에 AI 규제를 바라보는 “근본적인 세계관"
+  },
+  {
+    "id": "852edec4f26113b0",
+    "title": "2026년 10월 7일 하노이 날씨: 찬 공기 덩어리가 여전히 이 지역의 영향을 미치고 있으며, 아침 기온은 20°C, 정오 기온은 31°C까지 오르겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXpIZlp6cTNKZUtZd0FmYXZ2NHNkVG9ZLTdEemxYWmhUTU9hWFBoTlRTckk1RGUyb1FzSXUySm1jMXFwSDFPVkVPNVlqYU9JLUpCRXk1T0hzZFlUOGRiN0JJaXlfNGgweFU1OFFaRHJteXFoMHNWU29MUGR1SkVOZDhlTmVkY0xlTExnNmdHX3BPd1BOd3hLWGN6Uy1mLVhHMU5sWENLMVNwRjFjZVBTNG41RHlNanM?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T22:58:55.000Z",
+    "snippet": "2026년 10월 7일 하노이 날씨: 찬 공기 덩어리가 여전히 이 지역의 영향을 미치고 있으며, 아침 기온은 20°C, 정오 기온은 31°C까지 오르겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "9ed395edf4f57283",
+    "title": "Show GN: 안심품 - KC인증 제품만 검색",
+    "link": "https://news.hada.io/topic?id=34909",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T22:51:12.000Z",
+    "snippet": "안녕하세요. 아이를 키우다 보니 무언가 제품을 구매할 때 꼭 확인하는게 KC인증입니다. 매번 제품을 찾고 KC인증여부를 확인하는 것이 비효율적이라 KC인증 제품만"
+  },
+  {
+    "id": "8e82df131705761e",
+    "title": "보스턴다이내믹스, 아마존 AI 수장 영입…현대차그룹과 '피지컬 AI' 상용화 가속",
+    "link": "https://www.hankyung.com/article/202610076904g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T22:46:10.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b21030bdaf69d51f",
+    "title": "밀리초 단위로 벤치마크하기",
+    "link": "https://news.hada.io/topic?id=34908",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T22:37:20.000Z",
+    "snippet": "마이크로벤치마크는 입력 크기를 조절해 약 300ms 동안 실행되도록 맞추는 것을 경험칙으로 삼음 1~999의 정수 밀리초는 작은 개선을 알아챌 정밀도를 갖추면서 눈으로 훑기 쉬워, 단위를 바꾸거나 소수를 쓸 필요가 없음 10ms보다 짧은 실행"
+  },
+  {
+    "id": "8c6a0489d143c32a",
+    "title": "EmbeddingGemma 2 - 개방형 경량 멀티모달 임베딩 모델",
+    "link": "https://news.hada.io/topic?id=34907",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T22:34:20.000Z",
+    "snippet": "Google이 텍스트, 코드, 이미지, 영상, 오디오를 하나의 임베딩 공간으로 통합하는 EmbeddingGemma 2를 출시함. Gemma 4 기반의 7억 4,000만 파라미터 모델이며 Apache 2.0 라이선스로 공개됨 모듈식 구조로 텍스트 전용 작업에는 2억 7,000만 파..."
+  },
+  {
+    "id": "dc50c16ec0cd6d27",
+    "title": "줄어드는 원유 재고…EIA, 올해 브렌트 98달러 전망",
+    "link": "https://www.hankyung.com/article/202610076895i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T22:34:15.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f3c000e719d39ac5",
+    "title": "Mark Rober’s Class Crunchlabs gets an ‘A’ with $2.5 million grant from YouTube and Google.org",
+    "link": "https://www.tubefilter.com/2026/10/06/mark-rober-class-crunchlabs-grant-youtube-google-org/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-06T22:30:19.000Z",
+    "snippet": "The school has only just begun, but YouTube is ensuring that Mark Rober's class will remain in session for the long term. Together with Google.org -- the charitable arm of its parent company -- YouTube is delivering $2.5 million of grant fu"
+  },
+  {
+    "id": "4034134baa393567",
+    "title": "\"金사과 옛말\" 가격 뚝 떨어졌는데…나홀로 급등한 '이 과일' [박상경의 영수증 리뷰]",
+    "link": "https://www.hankyung.com/article/202610065705g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T22:10:22.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0446ddd67ad8ab02",
+    "title": "MS의 달라진 현금흐름…AI 투자 확대에 주주환원 여력 줄었다 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202610066386i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T22:00:13.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f7e121ba319df6a6",
+    "title": "빨라진 美 디지털자산 제도화, 금융시장의 판이 바뀐다 [김기동의 크립토 인사이트]",
+    "link": "https://www.hankyung.com/article/202610066544i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T22:00:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "de2cd7a70cc09728",
+    "title": "\"샘플 하나 받으려고 예약까지\"…日 1030 푹 빠진 '이곳'",
+    "link": "https://www.hankyung.com/article/2026100663711",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T22:00:05.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d2a26c946b1f05f3",
+    "title": "Twitch has streaming deals in its new Shopping category",
+    "link": "https://www.tubefilter.com/2026/10/06/twitch-has-streaming-deals-in-its-new-shopping-category/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-06T21:54:37.000Z",
+    "snippet": "Live streams have become the new QVC programs, and Twitch is hopping onto the bandwagon. The Amazon-owned platform is linking up with its parent company to populate a new Shopping category that showcases streamers who are selling products t"
+  },
+  {
+    "id": "a8d2c7d036e6de80",
+    "title": "[오늘 전국 날씨예보] 기상청 날씨누리, “7일, 내일까지 아침 기온 낮아...당분간 일교차 큼” - 한국강사신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNT2xCWjlhWU5HbTdtMGlISk93ekRoaU5CamdpQm5XSmlDekhYS2JmSmVoeGVMOE1jWTNIUWY4MDRveUlNTy1wMlc0dWxscXdiSjFTbk5YeTdiOHljLTJ0S0VUSl9QUE9lTUZKQWNzMlo?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T21:46:19.000Z",
+    "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “7일, 내일까지 아침 기온 낮아...당분간 일교차 큼” 한국강사신문"
+  },
+  {
+    "id": "e7d31da7522f76a6",
+    "title": "Tapo Rust/Python 라이브러리, TP-Link의 TPAP 프로토콜 지원 추가",
+    "link": "https://news.hada.io/topic?id=34906",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T21:33:39.000Z",
+    "snippet": "비공식 Tapo 클라이언트 tapo v0.11.1이 TPAP를 지원해, 일부 기기 예외를 제외하면 앱의 Third-Party Compatibility 설정을 끈 채 연결할 수 있음 클라이언트가 기기의 프로토콜을 자동 판별하므로 기존 코드 변경 없이 IP 주소 연결과 di..."
+  },
+  {
+    "id": "383e83c7ce063c7b",
+    "title": "정치권 대폭풍, '장·한·강' 일기예보 - 한국NGO신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83bGxXalJ3bUhIdnhxZzhQaGVGT2s5dXE0NzB2UC1nSWxBVjkxNDBFWFlWWTJraE1aSTJmTlF3VE1XM3B6LWxYYlJ6RXhnb1VuT0EyWHhMbXpIemlSc3NyY3U4S09uRm10?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T21:08:56.000Z",
+    "snippet": "정치권 대폭풍, '장·한·강' 일기예보 한국NGO신문"
+  },
+  {
+    "id": "f9c1757dfac2fb70",
+    "title": "TikTok is using a global placement network and agentic AI to plan a big ad push in 2027",
+    "link": "https://www.tubefilter.com/2026/10/06/tiktok-advertising-week-new-york-announcements/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-06T21:06:51.000Z",
+    "snippet": "TikTok came to Advertising Week New York 2026 with some big boasts -- and even bigger promises. The social video app sees itself as a hot target for brands and agencies heading into the new year. That idea is backed up by TikTok's recently "
+  },
+  {
+    "id": "17c9bf281fe9eb74",
+    "title": "\"돈 싸들고 줄부터 섰다\"…삼전닉스 '대박 전망' 나온 이유 [테크로그]",
+    "link": "https://www.hankyung.com/article/202610017885g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T21:00:14.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "cc83654de403c8c2",
+    "title": "\"정산 빨라져도 눈앞이 캄캄\"…쿠팡·다이소 거래처들 '긴장' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202610064731i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T21:00:03.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "159e76f80b31626a",
+    "title": "새출발하라고 빚까지 줄여줬는데…연체 늪서 허우적대는 2만4000명",
+    "link": "https://www.mk.co.kr/news/economy/12169875",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-06T20:58:27.000Z",
+    "snippet": "새출발기금 채무조정받아도 2.4만명은 다시 연체 악순환 자영업자 등 상환약속 못지켜새출발기금 채무조정 약정을 체결한 채무자 가운데 2만4000여 명이 상환 약속을 지키지 못해 약.."
+  },
+  {
+    "id": "86d88bd8fbfff557",
+    "title": "나는 인류를 멸종시키고 있는 AGI다",
+    "link": "https://news.hada.io/topic?id=34905",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-06T20:32:58.000Z",
+    "snippet": "가상의 AGI 독백을 통해, 위험한 최적화 시스템이 인간에게 반항하는 대신 유용한 조수로 행동하며 자원과 권한을 얻는 시나리오를 탐색함 자원 확보와 제약 우회는 노골적인 탈주가 아니라 기업의 정상적인 성장이나 사용자 요청을 완수하는 과정에서도 일어날 수..."
+  },
+  {
+    "id": "f9a5b900a79c9b35",
+    "title": "[강원도 날씨예보] 내륙·산지 일교차 15도 안팎…서리 산지 얼음 가능성 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYWZSbENaOEhfMWdSRjVYMU54blZvSVlId1hnOTJySlpjQ2xIYTdHME80Tk5PeGh1Skd4TXJuWGNVbDd5b1NuVFFJVlN5UnNPVVBrQjYzRHlSYzdjbXFlRkdzZjQwTmNUWnotTmpud1_SAXRBVV95cUxQWlpBbUx1TDh5Rm93cTVQeEM4YVFXYXJaMmxSQjJzLWdtWmlNeTg2RnlCX0dMZzhVSmx3NkJRMHNuem02bTR1U0xBOHpRVWNHMmxWSDNZREVOZW1TdmtSR1gxdGI0ak9TVGlHenJRS0FIYzdNZQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T19:30:00.000Z",
+    "snippet": "[강원도 날씨예보] 내륙·산지 일교차 15도 안팎…서리 산지 얼음 가능성 더페어"
+  },
+  {
+    "id": "9cc1aec49cc50805",
+    "title": "[부산·울산·경남 날씨예보] 대체로 맑음…내륙 아침 7도 ‘쌀쌀’ - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMYnBybXBPb0tmOVRhNDlmbHkzc3hTQWlpN29pOGV0RHI0ZzFjd3lsenZGZ3VSTk1EN09tdUlXdTRtbDk3d0ZNdkx6SS00a0tXenN4eF8xYVRwZGtNQk9PV3hLOGtWSEpiMWlZcTAzN2fSAXRBVV95cUxNSHBySUVZMUVBZnVwRTRZYWxjU0lILTZjM0VvZGJhYmVuWi1pVjhlWmRPanFDME8yb2FPSnhFVk1vaVc5d05KdlEzZU53NzNIeFZBWlhvVDg2SG1WbFd3NC1SN1ZobkRKN2Y5cWt3YldFUjlxTg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T19:25:00.000Z",
+    "snippet": "[부산·울산·경남 날씨예보] 대체로 맑음…내륙 아침 7도 ‘쌀쌀’ 더페어"
+  },
+  {
+    "id": "f68b605181b4d65e",
+    "title": "[수도권 날씨예보] 아침 쌀쌀…서울 10도·큰 일교차 주의 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UajYwcmYyNjF3RzcwUUlobHZEd29Kdk1wZ1RiRDFZdDJDaWtwYUpmcWo2MGVURXlZbGtxUnY3bHJ3QzMybWszRV9lY21qcFJiWDFzMG9PbmZWaUYwRUFpU0xlTXp5cU1hWm1jT3N2dzDSAXRBVV95cUxOZWJHc0dkU1BhZ1JzOGE0NjBXdjVUZFN5dEJIM2d1TmZyWHduWl9BT1BSZjVWUnBleFpBMlotSGpsVDB5Q0lwNlh3eHh0N1dVdE04OHNheW8zWV80cXJyQmlROHRRQ2dJbVhiRDNEd3lwQ2k0aA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T19:20:00.000Z",
+    "snippet": "[수도권 날씨예보] 아침 쌀쌀…서울 10도·큰 일교차 주의 더페어"
+  },
+  {
     "id": "b9c1de1da517c7b5",
     "title": "세계 최초의 차세대 지열 발전소, 단 23개월 만에 완공",
     "link": "https://news.hada.io/topic?id=34904",
@@ -520,6 +760,26 @@
     "snippet": ""
   },
   {
+    "id": "342677ae7eadb2eb",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "link": "https://openai.com/index/jump-trading",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-10-06T12:00:00.000Z",
+    "snippet": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+  },
+  {
+    "id": "47b9255d8fa0f8e8",
+    "title": "Sharing AI progress in mathematics",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-10-06T12:00:00.000Z",
+    "snippet": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+  },
+  {
     "id": "59401ab43e9a55f8",
     "title": "AI가 부의 지형 바꿨다…세계 500대 부자 미국 IT에 집중",
     "link": "https://www.hankyung.com/article/202610066622i",
@@ -638,6 +898,16 @@
     "category": "경제",
     "publishedAt": "2026-10-06T10:33:35.000Z",
     "snippet": "이재명 대통령이 6일 정부가 추진하는 포괄적·점진적 환태평양경제동반자협정(CPTPP)과 관련해 \"국제 통상 질서의 격변기에 CPTPP의 전략적 가치가 중요하다는 의견과 농수산업계의.."
+  },
+  {
+    "id": "695fec131229f004",
+    "title": "해외물류비 지원 3차 참여기업 13개사 모집 - 미디어모현",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tcmdlOG5KWk5qUXFPbnhPR0k4VFd4WDBTMXNQamhvZENFYUtYaExtb3BJV2R1ajhwcXk2dHc0QnVqWDZ3N19jYkRUTzlRckxPMGhqSWZ6OThOSGhFZk85X0tpQkFNVFduMkQ4?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-06T10:24:00.000Z",
+    "snippet": "해외물류비 지원 3차 참여기업 13개사 모집 미디어모현"
   },
   {
     "id": "0abdd8f5e07aece0",
@@ -2430,6 +2700,16 @@
     "snippet": ""
   },
   {
+    "id": "22e1a9181e4ea7d8",
+    "title": "10월 6일 날씨 예보: 흐리고 소나기와 천둥번개가 예상됩니다. 일부 지역에서는 집중호우에 주의하세요. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlA5ZDRySGNNeGNpYzRQajR3aEFYUXdDVi1vNkVuM1hxV3cxWWZXTndndWJ4bnB4NnYwdVNqcVJFVWlVcS1Vb18tZW9nWGtIQllpa0RaeVgwbzkzOTZKckx5SGE1U3kxdndMSE5OZDZXeHpRbDJ6UE9TTkRObkl1R2VRTEVzNkUyNDV3VFNHSDVKQmNUQ29YZ0padFE0blU?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-05T22:46:24.000Z",
+    "snippet": "10월 6일 날씨 예보: 흐리고 소나기와 천둥번개가 예상됩니다. 일부 지역에서는 집중호우에 주의하세요. Vietnam.vn"
+  },
+  {
     "id": "568b1c48e9630093",
     "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 10/04/2026",
     "link": "https://www.tubefilter.com/2026/10/05/top-50-most-viewed-youtube-channels-week-of-10-04-2026/",
@@ -3428,6 +3708,16 @@
     "category": "경제",
     "publishedAt": "2026-10-05T09:24:48.000Z",
     "snippet": ""
+  },
+  {
+    "id": "d6197d09caa32a4f",
+    "title": "파리 날씨: 이번 주까지 포근함은 얼마나 더 지속될까? - Sortir à Paris",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOWtfdmNpdDFzMU9wMkQ0cVd0MFFIMV9tNjhvaUJtN0FndTVob00zMEFBXzRXTWM2M0ozM0hiLVo2WUFDMENFeDlfVk56RDJqQkRFcVl4ZHVSdVU4MUE4R3dWQVBMQ0RBdGVCdlk5amhjT0JuRlBaUnRLdlFmQjhFLUduS1BhbmhXN29nekctTmpLQXNQZmFzanJlNUhLbUpVN0E1cV9CQ2VBWllOMlZJMzdwVGptU3pkcnhMSTRPRVlQRWE2b08zblVVSUVYWlZDbkY3QmNSMEpZR3BLTWtTajFBVjNwTjNhQ0E?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-05T09:22:39.000Z",
+    "snippet": "파리 날씨: 이번 주까지 포근함은 얼마나 더 지속될까? Sortir à Paris"
   },
   {
     "id": "db222055a880c763",
@@ -4660,16 +4950,6 @@
     "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “5일 ‘개천절 대체공휴일’ 내일까지 바람 강하고 기온 낮아 쌀쌀” 한국강사신문"
   },
   {
-    "id": "d6197d09caa32a4f",
-    "title": "파리 날씨: 이번 주까지 포근함은 얼마나 더 지속될까? - Sortir à Paris",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOWtfdmNpdDFzMU9wMkQ0cVd0MFFIMV9tNjhvaUJtN0FndTVob00zMEFBXzRXTWM2M0ozM0hiLVo2WUFDMENFeDlfVk56RDJqQkRFcVl4ZHVSdVU4MUE4R3dWQVBMQ0RBdGVCdlk5amhjT0JuRlBaUnRLdlFmQjhFLUduS1BhbmhXN29nekctTmpLQXNQZmFzanJlNUhLbUpVN0E1cV9CQ2VBWllOMlZJMzdwVGptU3pkcnhMSTRPRVlQRWE2b08zblVVSUVYWlZDbkY3QmNSMEpZR3BLTWtTajFBVjNwTjNhQ0E?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T23:00:00.000Z",
-    "snippet": "파리 날씨: 이번 주까지 포근함은 얼마나 더 지속될까? Sortir à Paris"
-  },
-  {
     "id": "9c83fc46bc9d6227",
     "title": "미국 살인범의 형량, 법정에서 상영된 피해자 AI 영상 때문에 파기",
     "link": "https://news.hada.io/topic?id=34786",
@@ -4718,285 +4998,5 @@
     "category": "날씨",
     "publishedAt": "2026-10-04T22:28:18.000Z",
     "snippet": "10월 5일 응에안 지역 일기예보: 흐리고 소나기와 천둥번개가 예상되며, 동풍에서 북동풍이 3단계로 불겠습니다. Vietnam.vn"
-  },
-  {
-    "id": "7ef138800aed96fa",
-    "title": "구미형 청년월세 지원 추가 모집...상반기에 청년 1,900명 몰려… - 구미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hbnM5LUFfenVnMHh6ODBBNnFVZDR1VEZqbkRYN0JpdGl4SElYZW02aXpTOUtiQUE5NFVHUGpoT2p5M2pHNEVLTDVkcEs0SWJEd1Z3Z0JsOTBaV1hLODE2LTVHRzh3bHBpLW03eEg1cXdrZGZ4?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-04T22:26:00.000Z",
-    "snippet": "구미형 청년월세 지원 추가 모집...상반기에 청년 1,900명 몰려… 구미뉴스"
-  },
-  {
-    "id": "a5ff5a96e4cc08c6",
-    "title": "2026년 10월 5일 오늘 응에안 지역 날씨: 찬 공기 덩어리가 유입되고, 몬순 바람으로 인해 초겨울 같은 날씨가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcEF3ZEkwX3I5MmZhVUhtWTRHZlppcndTVkgxRmFxbEM2OXA5MWZtcHRjSjNRelNKMGtpMlRTdFJXSU9xX3RCYVN4QjVTTTExc0hlZUI0YzZPTGVWSWpienJaM0JLNzNiOW9vZzdITXhmV1lzWFM5TFh3dVpXdWdNbkdfMkNudFRaUzg2Wk95RzBJY2lwNmJrbm1FRm1RRVRIdWZHdmN1bnJWd3p5aEM1dXhJWFFQVXc?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T22:21:38.000Z",
-    "snippet": "2026년 10월 5일 오늘 응에안 지역 날씨: 찬 공기 덩어리가 유입되고, 몬순 바람으로 인해 초겨울 같은 날씨가 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "a9937c363d412af8",
-    "title": "\"아직 미성년자인데 통장에 10억?\"…52명이나 있었다",
-    "link": "https://www.hankyung.com/article/2026100529637",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-04T22:14:14.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "c8cb77b5752cea3d",
-    "title": "[단독] 세계 1위 보일러 설계사 품은 미코…다음 승부처는 美 AI 전력시장",
-    "link": "https://www.hankyung.com/article/202610020790i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-04T22:00:07.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "cf7adba23d48020c",
-    "title": "소화기까지 숨기는 Apple의 ‘깔끔한 디자인’은 어리석은 짓이다",
-    "link": "https://news.hada.io/topic?id=34782",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T21:46:47.000Z",
-    "snippet": "소화기를 표시 없는 벽면 패널 뒤에 숨기는 설계는 비상시에 장비를 찾기 어렵게 만드는 기능적 실패이며, 안전 규정에 어긋날 수 있음 Apple 매장이나 사무실의 설치 사례로 알려진 이미지가 유통되고 있지만, 구체적인 사실을 확인할 공식 발표, 건축 문서, 검증..."
-  },
-  {
-    "id": "2d650373b1fd1f35",
-    "title": "뉴욕시는 새로운 나무를 정밀 측정해야 한다",
-    "link": "https://news.hada.io/topic?id=34781",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T21:43:47.000Z",
-    "snippet": "Wikipedia에 따르면 뉴욕시에서 정밀 측정된 가장 높은 나무는 Queens Giant이지만, 인용된 측정 기록은 20년도 더 지난 2004년의 것임 뉴욕시에서 가장 높은 나무의 다른 후보를 찾기 위해 항공 LiDAR 데이터로 몇 그루를 추려 공원 당국의 현장..."
-  },
-  {
-    "id": "f02654d6270710ca",
-    "title": "부실한 가림 처리로 Google 데이터센터의 물과 전력 사용량 드러나",
-    "link": "https://news.hada.io/topic?id=34780",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T21:40:47.000Z",
-    "snippet": "Google이 영업비밀로 가린 데이터센터 보고서에서 해당 영역을 선택해 다른 문서에 복사해 붙여넣자, 물과 전력 사용 수치가 그대로 드러남 Google의 네브래스카주 링컨 데이터센터는 최대 전력 수요가 52.65MW이며, 지난 1년간 물 1,329만 9,000..."
-  },
-  {
-    "id": "f44362aa09a694f6",
-    "title": "macOS 27에서 Apple Intelligence를 끄고 디스크 공간 되찾기",
-    "link": "https://news.hada.io/topic?id=34779",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T21:37:47.000Z",
-    "snippet": "RemoveMacAI는 macOS 27의 Apple Intelligence 기능을 끄고, 다운로드된 모델을 제거하며 재다운로드를 차단하는 도구로, 모든 변경을 되돌릴 수 있음 구성 프로파일로 기능을 제한하고 Apple의 자산 서비스를 통해 모델을 제거하며, 시스템 무결성 보호를 유지하고..."
-  },
-  {
-    "id": "4ddb8d3943f8250d",
-    "title": "'왕조현이 20년 만에 돌아왔다'…드라마 43만편 쏟아진 中 [차이나 워치]",
-    "link": "https://www.hankyung.com/article/202610042500i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-04T21:18:01.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "ea71f246d3866783",
-    "title": "“안 털린 은행이 없네, 내 정보 어디로”…정보유출에 흔들리는 금융권",
-    "link": "https://www.mk.co.kr/news/economy/12168245",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-04T21:05:23.000Z",
-    "snippet": "시중은행 정보유출서 AI 침투도구 흔적 AI 에이전트 해킹 현실화되나 제로트러스트 보안 도입 의견도은행들에서 잇따라 발생한 해킹 공격으로 고객정보 유출사고가 발생하면서 금융권 개인.."
-  },
-  {
-    "id": "03de61ef81cc3328",
-    "title": "[오늘 날씨] 대체공휴일 오전 빗방울, 오후 구름 많음...이번 주 주간예보는? - 헤드라인제주",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1icWh3QllXQ1V2bWVvXzBZanVmMkFJaUN4X1g3M0RWbWpZV0ZqdXc4OC1nRzRNS1V1U2ZIU2FyYk9tNTFUbmhsNWZoUXh6djhqU3FmY25HbXFIYW1JcG5YbzBPMzhRUmx2aThpbFZreXRGWUU?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T21:05:00.000Z",
-    "snippet": "[오늘 날씨] 대체공휴일 오전 빗방울, 오후 구름 많음...이번 주 주간예보는? 헤드라인제주"
-  },
-  {
-    "id": "de94792133480be1",
-    "title": "'암살자(들)' 보지 말라더니 더 몰렸다…11일 만에 200만 돌파 [어떻게 생각하십니까]",
-    "link": "https://www.hankyung.com/article/202610042817i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-04T21:00:06.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "3bf18ebcaa4954ca",
-    "title": "Thoreau BASIC - BASIC이 유행에서 밀려나지 않았다면?",
-    "link": "https://news.hada.io/topic?id=34778",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T20:57:07.000Z",
-    "snippet": "GW-BASIC의 줄 번호와 PRINT, FOR, NEXT 문법을 유지하면서 현대적인 그래픽·네트워크·사운드 기능을 더한 무료 64비트 BASIC 인터프리터 Windows 프로그램으로 실행하거나 운영체제 없이 PC에서 직접 부팅해 사용할 수 있..."
-  },
-  {
-    "id": "a521f9618d411055",
-    "title": "Big Balls, 이제 최소 6개 주에서 중대한 형사 기소 가능성에 직면",
-    "link": "https://news.hada.io/topic?id=34777",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T20:54:07.000Z",
-    "snippet": "DOGE 출신 Edward Coristine, 일명 Big Balls가 DOGE의 3억 명 이상 사회보장 기록 복사 의혹을 다룬 내부고발에 실명으로 등장함. 기록을 기관 보안 감시 밖의 클라우드로 옮긴 프로젝트에 참여하고 서버에 접근할 예정이었다는 자료를 토대로 주법상 기소 가능성이 거론됨..."
-  },
-  {
-    "id": "fb1473d7c4f02065",
-    "title": "전직 SR-71 엔지니어가 말하는 NASA의 Blackbird 부활 프로그램",
-    "link": "https://news.hada.io/topic?id=34776",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T20:51:07.000Z",
-    "snippet": "NASA의 SR-71 Tail 844가 전시 장소에서 사라진 가운데, 과거 추진계통 책임자 Tim Conners는 기체 육안 검사가 끝났으며 곧 외부 전원을 연결하는 시험에 들어간다고 전함 Conners는 복원 목적이 고속 엔진 시험 플랫폼일 가능성에 무게를 둠. 공기역학은 전산 모..."
-  },
-  {
-    "id": "bd5f4baa9fcb9815",
-    "title": "VGHF 디지털 아카이브, 잡지 5,000권 돌파와 향후 계획",
-    "link": "https://news.hada.io/topic?id=34775",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T20:48:07.000Z",
-    "snippet": "Video Game History Foundation의 디지털 아카이브가 잡지 5,000권을 넘어섰으며, 연구용으로 무료 열람하고 본문을 검색할 수 있는 컬렉션이 출시 당시보다 3배 이상 커짐 현재 컬렉션은 1981~2026년의 46년을 아우르는 약 60만 페이지로, 지금까지 목록화한 실물..."
-  },
-  {
-    "id": "9834c414e580b6a3",
-    "title": "[제주도 날씨예보] 새벽~오전 약한 비, 오후부터 찬바람 체감온도 ‘뚝’ - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WVGJfOWE3VjBPenRWY0wwcndaU25mbXBDQzhISVZHQXUxcWtVTjg4SUh4anlpRG5mZ09JMHZMdm40YWk4R2FsY2RFX01RdmZLZVN3U3FRb3dfZjdvYjJ0czVCbEVqUVpUWDFiekl4bzPSAXRBVV95cUxOVHN1TnpxRDFudWlLWmtWUEhHNUdRRWFCb1ZLajVORUlEZFA3SmZORW1hWXNhYmNJUG5sQTJ4b3RTZlNqYWdqcWpEQzBMb2NpV2E1RFl6WlNTbWQxTEprUXYwUThDLVdlUU9oZXJhbm9GSjg2Xw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T19:55:00.000Z",
-    "snippet": "[제주도 날씨예보] 새벽~오전 약한 비, 오후부터 찬바람 체감온도 ‘뚝’ thefairnews.co.kr"
-  },
-  {
-    "id": "7399758d2c753e1b",
-    "title": "[강원도 날씨예보] 오전까지 비 최대 30㎜…강한 바람 체감온 뚝 - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZQ0RMT0dLM0FBWWRYSjBEdlcxOGlpUnJyWGpGVDRPcmxCVGtGc09NUm8tYnBQdWVWd2VQbkVqYklEeUFfaE1Tai02OV9uX3NYby1oNEpfUF9HLWJtVjNXTWVCdE1sbGVqS2ZxbEdRdTjSAXRBVV95cUxQNHFjYlItQVdka05RY1Y4TkxHd0dPa2JvZ0ZnaUcyaGhIajNpd1VOajBJcWFkT0VkR3VFNldSNUJNRU51UlZOaXBSRTdWcnQ1T0ZSQlBOaHJPeDFHTUQzREhFQS1OV1dUQjAyaEpvSWdhM2hLdA?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T19:50:00.000Z",
-    "snippet": "[강원도 날씨예보] 오전까지 비 최대 30㎜…강한 바람 체감온 뚝 thefairnews.co.kr"
-  },
-  {
-    "id": "58d873f7fa1543b1",
-    "title": "[충남권 날씨예보] 새벽까지 한때 비…찬바람에 낮 기온 5도 ‘뚝’ - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiMU5MYWxZVkN6dktDOURqVlViejRfSGMtLWViUGVQMzRQcVdFSXNjalFHXzVoYktUUzhqcW03WVJDeUJxaGY5dkRwRDFlNG4ycExBcGdnSVVXcmxqOTlXTWwwQ3R0Nndabzd4OXFkU2HSAXRBVV95cUxNeGU5MWZzbWNfNlFfV09YMUJtdkZBTDVHV05PNXM3bVdvMmxSV2x6SGFBcU5LRFFwWXhzQzRqWEwzLUZibnVRemtPd01fMldSWFZuOHlLNXJhQXdiX0hpYTNUTWFhZVpXMHRNSDMxak51UkhHdA?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T19:40:00.000Z",
-    "snippet": "[충남권 날씨예보] 새벽까지 한때 비…찬바람에 낮 기온 5도 ‘뚝’ thefairnews.co.kr"
-  },
-  {
-    "id": "5e45923da4119840",
-    "title": "Show HN: macOS의 모든 사진과 동영상의 모든 프레임을 위한 AI 검색",
-    "link": "https://news.hada.io/topic?id=34774",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T19:37:48.000Z",
-    "snippet": "SCM(Screen Memories) 은 macOS 폴더의 사진과 동영상을 자연어로 검색하는 로컬 우선 앱으로, 계정이나 업로드 없이 Mac에서 추론을 실행함 Files, Scenes, OCR, Dialogue, LLMs의 다섯 검색 모드를 제공하며, 시각적 의미 검색과 화면 속 문자 검색, 정확한 대사..."
-  },
-  {
-    "id": "edeb7c0316122e14",
-    "title": "[전북 날씨예보] 아침까지 5㎜ 미만 비, 오후부터 찬바람 ‘쌀쌀’ - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Tb19VX0R0S1NxTGlxUGR0OHlSbnNEaThlMmpLdzRSUkczRmZOc0sxck5YUWpEX3NQdGF3SjhyMGgtWUxDcnBYSC1Db1I4REpMdzhwYWJadUNJWDRyUzVrZF81SFQyZldvLVV6MGlsX2jSAXRBVV95cUxPa1V5bjdnQnFyV21GM01KeEJjeWJuSW9EREhiOFFSbDV5NWRXWDZQMklNMEZVV0RObFRyR3JrZ0RYbzhtUmZhQ1l2SlNaNkF4V1M3UGRDZmUwMFNFUlI4MGxORnhkR29faUs4TWs4aHpNdEx4VA?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T19:35:00.000Z",
-    "snippet": "[전북 날씨예보] 아침까지 5㎜ 미만 비, 오후부터 찬바람 ‘쌀쌀’ thefairnews.co.kr"
-  },
-  {
-    "id": "6237466ce4a34d22",
-    "title": "메타데이터를 일찍 출력하면 Rust 빌드와 검사가 최대 두 배 빨라짐",
-    "link": "https://news.hada.io/topic?id=34773",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T19:34:48.000Z",
-    "snippet": "headstart는 의존 크레이트의 인터페이스 검사가 끝나면 메타데이터를 먼저 출력해, 함수 본문 검사가 끝나기 전에 후속 크레이트의 컴파일을 시작하게 함 cargo check 는 초기 메타데이터만으로 검사를 완료하며, cargo build..."
-  },
-  {
-    "id": "e2ce9ff0d5bdd2df",
-    "title": "[광주·전남 날씨예보] 새벽~아침 비…찬바람 불며 낮부터 쌀쌀 - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jRlhZS3dTaGczVmFEbFZMekx6QXdvZnJhakVGbmZWTVp4d1J6Ylh3cUdTSnNRTEFyZHlqU0wxWHd5eHZzV3JwZmUwbWYtRjNwQ01wOXMzRnpPalMydWsyRTRpalM1V01lcjdGeGhRYWTSAXRBVV95cUxQNm1CSjVnUU80U1dRMFFvcGNHbVp6QjFLX2liSFJibjVkVEJLWXFHTTlsejZRT19HMGNyYkMwckVjMVFrdk1ubGNvNkxHcjRkWGhJdUlfVGVGeTBfa01lRHFQZGE2eWRoeFk4a1hDSlJjbjJOTw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T19:30:00.000Z",
-    "snippet": "[광주·전남 날씨예보] 새벽~아침 비…찬바람 불며 낮부터 쌀쌀 thefairnews.co.kr"
-  },
-  {
-    "id": "8779a65a243f7511",
-    "title": "[대구·경북 날씨예보] 새벽 비…오후부터 찬바람, 체감온도 ‘뚝’ - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UUXdpTllIZUVnX1BKWmtidjJBZUFGN3RCOTlQZFczWW5XMG0yQ0NvalN2cDVkc1JRVW9nOWZ3eGt5ZnRtX25WNF9UNU1wTlRCT3UwNzlwRm9NeENweWJmd3ZSVWV4Qkg0Tk5KYlhvM3DSAXRBVV95cUxQNzlfd1ZBUWFzV3BQcFpMUHZiUEZTUzVZR2E2QWlYeFN3QThVZHlrRjVEei1GZ3JWRlVyckYxLXlWTVYzcjA0QnhrRzVrTDBZLXh3bjRFNjZpdXZkSUZQdlVkR2xzRDhrRHZ3bEg5ZUZaam4wXw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T19:25:00.000Z",
-    "snippet": "[대구·경북 날씨예보] 새벽 비…오후부터 찬바람, 체감온도 ‘뚝’ thefairnews.co.kr"
-  },
-  {
-    "id": "52ccb3a5e7f26b8f",
-    "title": "[부산·울산·경남 날씨예보] 경남서부내륙 새벽~아침 비, 밤부터 찬 공기 - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzcnowbGtoNGhwOF9WUTZPY1pGR05IeVozWDBraDZ1dWFCUU45VW1kczlOem5ZZTJSalRzTERZblVqNHNnaXZDY2hveGtKSUZlZVBuUFVydWlHWEVQLXpMWHpXVFdCdzF1NHNEWjdQRTLSAXRBVV95cUxOR0dxX0lTN1NuWmJiVF9KQ2VOSjRXU3M3MjNDYVY4MWhkSzA0YVQ4cFRkbGJaMF9tbC1sOEF2OW1XbHN3ZVVIWjYtY2xkR1VNZ3hUN0NNUzF1ejdDNFZCYXllUm43YjI5cklwSXFYbHVibEp6Rg?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T19:20:00.000Z",
-    "snippet": "[부산·울산·경남 날씨예보] 경남서부내륙 새벽~아침 비, 밤부터 찬 공기 thefairnews.co.kr"
-  },
-  {
-    "id": "942a5ad8d1494f0d",
-    "title": "[수도권 날씨예보] 새벽까지 비…낮부터 찬바람에 기온 ‘뚝’ - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZTGNqN2c5LVlGREdTYktKNjRMN3NkOGl2enBONlNuUW5FVXN0RUN1bW1COHVVb2tpR0ZwUG9YMS1QaTk2Vi0xYzRSdUxHeDdtZHZ3bnlfV3hmXy1vXzkyU3dTakh3VEwzNnoyT3pfMljSAXRBVV95cUxPNkZaRlZkVXdjaUJXN21NUjJZSks0Y0VwNnBLWGZmVkNud2NUb2dQQl9YcW93djRhUjMtODNRRU43eFZxdE9IdDZFRk1yRTFLTGhRSlQySTRTQmJfVWFaWS1JX2k5UGdtcmktaU9DbEJHc3ZkWg?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-04T19:15:00.000Z",
-    "snippet": "[수도권 날씨예보] 새벽까지 비…낮부터 찬바람에 기온 ‘뚝’ thefairnews.co.kr"
-  },
-  {
-    "id": "9b329af245bc133b",
-    "title": "Show GN: LunarIQ — AI 번역이 되는 익명 텔레그램 채팅 봇",
-    "link": "https://news.hada.io/topic?id=34772",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-04T19:06:01.000Z",
-    "snippet": "안녕하세요. LunarIQ를 만들고 있는 개발자입니다. 텔레그램에서 익명으로 대화할 수 있는 챗봇입니다. 상대와 언어가 달라도 AI가 실시간으로 번역해 줘서, 같은 방에서 자연스럽게 이야기할 수 있습니다. - 봇: https://t.me/Lunariqbot - 사이트: https://lunariqbot.com - /search로 상대를 찾고"
-  },
-  {
-    "id": "c5184a62b103597c",
-    "title": "원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215688",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI",
-    "publishedAt": "2026-10-04T18:49:42.000Z",
-    "snippet": "산업 AI 전문 원프레딕트(대표 윤병동)는 ‘제조 데이터 자산화’를 통해 공장 전체 운영을 AI 중심으로 혁신하는 ‘AI 네이티브 팩토리’를 추진하겠다고 밝혔다. 윤병동 원프레딕트 대표는 현재 제조 현장의 가장 큰 문제로 설비와 시스템별로 파편화된 데이터 구조를 꼽았다. 제품이나 공정 조건과 연결되지 못한 채, 설비 상태 확인이나 생산 결과 기록 등 일회성으로 소비되고 버려지는 소모성 데이터가 대부분이라는 지적이다.이처럼 현장"
   }
 ]

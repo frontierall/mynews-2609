@@ -10,6 +10,16 @@
     "snippet": "구글이 이미지 생성 모델 ‘나노 바나나’의 성능과 비용 효율을 동시에 끌어올렸다. 고해상도 이미지의 사실감과 편집 정확도를 높이고 여러 참조 이미지와 캐릭터를 일관되게 처리하면서도 생성 비용은 크게 낮췄다. 구글은 6일(현지시간) 이미지 생성·편집 모델 ‘나노 바나나 2.1(Nano Banana 2.1)’을 공개했다.‘제미나이 3.6 플래시’를 기반으로 개발된 이번 모델은 이전 버전보다 이미지 이해와 생성 품질을 높이는 동시에"
   },
   {
+    "id": "eeb8f6b78f019079",
+    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-10-07T18:00:00.000Z",
+    "snippet": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
+  },
+  {
     "id": "4a62c123f4610656",
     "title": "\"AI가 대신 전화 건다\"…구글 제미나이, 개인 통화 대행 정황 포착",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216041",
@@ -38,6 +48,16 @@
     "category": "AI",
     "publishedAt": "2026-10-07T17:35:00.000Z",
     "snippet": "AI를 인간의 목표에 맞추는 '정렬(Alignment)'이 사실상 불가능할 수도 있다는 경고가 나왔다. 세계적인 AI 분야 석학이자 대표 교과서 '인공지능: 현대적 접근방식'의 공동 저자인 스튜어트 러셀 캘리포니아대학교 버클리캠퍼스(UC 버클리) 컴퓨터과학과 교수가 현재 방식의 LLM 정렬 연구가 근본적인 한계에 부딪혔으며, 인간의 목표에 AI를 완벽히 일치시키는 것은 구조적으로 불가능할 수 있다고 밝혔다.러셀 교수는 5일(현"
+  },
+  {
+    "id": "c66f3105d9000289",
+    "title": "Visa, Mastercard와 주요 은행들, ‘반경쟁적’ 수수료로 새로운 소송에 직면",
+    "link": "https://news.hada.io/topic?id=34956",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T17:32:22.000Z",
+    "snippet": "Visa, Mastercard와 주요 은행들, ‘반경쟁적’ 수수료로 새로운 소송에 직면"
   },
   {
     "id": "4e189b6f47b1028f",
@@ -110,6 +130,26 @@
     "snippet": "오픈AI와 앤트로픽이 AI 에이전트의 데이터 침해 사고를 의무적으로 신고하도록 하는 호주 정부의 규제 도입을 지지한다고 밝혔다. AI 에이전트가 웹사이트와 외부 시스템에 직접 접근하는 사례가 늘면서 기업 자율 판단에 맡겨져 있던 사고 공개 기준을 법으로 명확히 해야 한다는 입장이다.로이터와 블룸버그 등에 따르면, 제이슨 권 오픈AI 최고 전략책임자(CSO)는 6일(현지시간) 시드니에서 열린 호주 의회 AI 청문회에서 “의무적 "
   },
   {
+    "id": "3a2411fbe31f01c5",
+    "title": "해커들, Google과 다른 대형 서비스의 위조 TLS 인증서 확보",
+    "link": "https://news.hada.io/topic?id=34955",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T16:37:56.000Z",
+    "snippet": "공격자들이 국가 코드 최상위 도메인(ccTLD) 3개를 장악하고 DNS 레코드를 조작해 Google과 여러 대형 온라인 서비스의 TLS 인증서를 무단 발급받음 권한 DNS 레코드와 네임서버 위임을 변경해 자동화된 도메인 통제권 검증을 통과했으며, 피해 도메인 소유자의 인..."
+  },
+  {
+    "id": "aa940b691742819e",
+    "title": "GitHub의 Git 작업, Pull Requests, Actions 장애",
+    "link": "https://news.hada.io/topic?id=34954",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T16:34:56.000Z",
+    "snippet": "GitHub 서비스에서 2026년 10월 7일 15:06~15:16 UTC 사이 광범위한 장애가 발생했으며, 이후 서비스별 복구와 안정성 확인이 진행됨 영향 범위는 Git Operations, Pull Requests, Actions뿐 아니라 Webhooks와 Issues까지 포함됨 Git Operations..."
+  },
+  {
     "id": "0ca3a18870712102",
     "title": "아모데이 지난해 보수 240억...'대형 기술 기업 CEO 중 중간 수준'",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216034",
@@ -118,6 +158,16 @@
     "category": "AI",
     "publishedAt": "2026-10-07T16:10:58.000Z",
     "snippet": "다리오 아모데이 앤트로픽 CEO가 지난해 1800만달러(약 250억원)의 보수를 받은 것으로 나타났다. 주요 대형 기술 기업 CEO 가운데 중간 수준이지만, IPO를 앞둔 회사의 기업가치와 개인 지분까지 고려하면 실제 자산 규모는 훨씬 클 것으로 보인다.로이터가 최근 입수한 앤트로픽 기업공개(IPO) 서류에 따르면, 아모데이는 2025년 급여와 주식 보상 등을 합쳐 1800만달러를 받았다. 이는 구글과 아마존 CEO보다는 많고"
+  },
+  {
+    "id": "66a0f4c1318a946a",
+    "title": "Show GN: Boxdawn - 에이전트 트레이스 파일 하나 올리면 멀티에이전트가 같은 일을 두 번 한 지점을 찾습니다",
+    "link": "https://news.hada.io/topic?id=34953",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T15:58:10.000Z",
+    "snippet": "멀티에이전트를 돌리면 에이전트 A가 읽은 파일을 B가 또 읽고 C가 또 읽습니다. 각자는 자기 할 일을 정상적으로 한 것이라 개별 로그로는 아무 문제가 없어 보입니다. 비용은 그 사이에서 나옵니다. 그 지점을 찾는 오픈소스를 만들고 있습니다. 왜 만들었나 트레이스를 눈으로 훑다가 같은 파"
   },
   {
     "id": "f01e0327ed5909da",
@@ -130,6 +180,66 @@
     "snippet": "오픈AI가 AI 에이전트의 수행 행위를 보조 에이전트가 실시간 검토·차단하는 ‘오토리뷰(Auto-review)’ 기능을 모든 챗GPT 로그인 사용자 대상 무료 서비스로 전환했다. 장시간 작업을 맡겼을 때 사용자가 일일이 승인 단계를 거치지 않아도 위험하거나 목적에 벗어난 명령을 차단할 수 있도록 안전장치를 표준화한 조치다.티보 소티오 오픈AI 제품 담당 책임자는 6일(현지시간) X를 통해 챗GPT 계정 로그인 사용자라면 누구나"
   },
   {
+    "id": "185a71819658333c",
+    "title": "Codemode란 무엇인가",
+    "link": "https://news.hada.io/topic?id=34952",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T15:46:47.000Z",
+    "snippet": "Codemode는 LLM이 코드로 도구 호출을 조합하고 복잡한 작업을 조율하는 방식으로, bash가 실행되는 환경이 아니라 하네스 내부에서 동작함 Pi는 JavaScript를 실행하는 별도 샌드박스를 통해 병렬 호출, 반복 처리, 호출 간 상태 보존을 지원하며, 중간 결과를 모..."
+  },
+  {
+    "id": "defec359537148a3",
+    "title": "\"폭락 예측말고 대비하라\"…'블랙스완'탈레브 美증시 경고",
+    "link": "https://www.hankyung.com/article/202610089559i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-07T15:45:34.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "ccc2ca0fd40232f6",
+    "title": "유타주, 사람의 감독 없이 AI가 환자를 진찰하고 약물을 처방하도록 허용 예정",
+    "link": "https://news.hada.io/topic?id=34951",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T15:43:47.000Z",
+    "snippet": "유타주에서 Nolla Health의 AI 진찰/처방 프로그램이 시작됨. 직접적인 사람의 감독 없이 진료하는 방식으로 전환할 예정이지만, 현재는 1년간 경증~중등도 여드름 환자만 대상으로 함 환자가 월 4.99달러 앱으로 얼굴을 스캔하고 병력과 개인정보..."
+  },
+  {
+    "id": "17f540386e0f548f",
+    "title": "캘리포니아, 몬태나 번호판을 이용한 세금 회피 허점 차단",
+    "link": "https://news.hada.io/topic?id=34950",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T15:40:47.000Z",
+    "snippet": "캘리포니아가 SB 1406을 2026년 9월 30일 법률로 확정해, 타주 유령회사 명의로 차량을 등록하고 캘리포니아 세금을 피하는 수법을 차단함 기존에도 캘리포니아 거주자가 주 안으로 반입한 차량은 등록지와 무관하게 과세 대상이었지만, 사업체 명의 차량에는 별도..."
+  },
+  {
+    "id": "2c71dbbec6f4d76f",
+    "title": "Show GN: 바로화장실 - 주변 공공화장실 검색과 운영시간·편의시설 확인",
+    "link": "https://news.hada.io/topic?id=34949",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T15:19:27.000Z",
+    "snippet": "안녕하세요. 바로화장실을 만든 Toris입니다. 현재 위치나 지역을 기준으로 주변 공공화장실을 찾는 Android 앱입니다. 지도 탐색과 주소·운영시간·편의시설 확인 카카오맵·Google 지도 등 외부 길찾기 연결 로그인 없이 기기에 즐겨찾기 저장 이메일 로그인 후 정보"
+  },
+  {
+    "id": "5ad36bf68cb0d97b",
+    "title": "Show GN: SymvaCAS – CAS, 그래프, 통계, 확률, Python을 한곳에 넣은 오픈소스 공학용 계산기",
+    "link": "https://news.hada.io/topic?id=34948",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T15:04:14.000Z",
+    "snippet": "SymvaCAS는 Android와 웹에서 사용할 수 있는 오픈소스 계산기입니다. Python/SymPy 기반이며 계산은 로컬에서 처리합니다. 주요 기능은 다음과 같습니다. 수치 계산 + CAS 심볼릭 연산 미분, 적분, 극한, 급수, 방정식/연립방정식 함수, 음함수, 매개변수,"
+  },
+  {
     "id": "7e9e80edea4c5841",
     "title": "전남광주, 여수서 9~11일 ‘세계 김밥&소금 페스티벌’",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216028",
@@ -138,6 +248,36 @@
     "category": "AI",
     "publishedAt": "2026-10-07T14:50:00.000Z",
     "snippet": "AI 생성 영상전남광주통합특별시가 김과 천일염을 활용한 먹거리와 체험, 공연을 한자리에서 선보이는 축제를 여수에서 연다.전남광주는 오는 10월9일부터 11일까지 여수엑스포컨벤션센터에서 ‘2026 전남광주 세계 김밥&소금 페스티벌’을 개최한다고 7일 밝혔다.이번 행사는 지역 대표 수산물인 김과 천일염을 김밥 등 K-푸드와 연결해 생산 과정과 식품적 가치, 다양한 활용법을 알리기 위해 마련됐다.행사장은 김밥존과 천일염존, 공연존,"
+  },
+  {
+    "id": "6c5ea3313af4f356",
+    "title": "월가분석가 \"마이크론 PER19배 간다\"…4배인 삼전·SK하이닉스는?",
+    "link": "https://www.hankyung.com/article/202610079546i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-07T14:46:16.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7fb1e448218d3586",
+    "title": "고금리 누가 이길까…메타 '골든크로스'에 마이크론 목표가 3000달러 [박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202610079548i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-07T14:36:37.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "d4541c41113b6c77",
+    "title": "2026년 노벨 화학상, Henri B. Kagan과 Kenso Soai 수상",
+    "link": "https://news.hada.io/topic?id=34947",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T14:32:10.000Z",
+    "snippet": "Henri B. Kagan과 Kenso Soai가 비대칭 유기 합성의 비선형 효과와 자기촉매 작용을 발견한 공로로 2026년 노벨 화학상 수상자로 선정됨 두 사람의 발견은 거울상 관계인 두 분자 중 한쪽만 존재하는 단일 손잡이성(homochirality) 이 어떻게 자발적으로 나타날 수..."
   },
   {
     "id": "97703442747a00f0",
@@ -180,6 +320,36 @@
     "snippet": "프랑스의 미스트랄 AI가 내부 별칭 '르 총크(Le Chonk)'로 불리는 차세대 플래그십 AI 모델을 공개했다. '뚱뚱한 고양이'를 뜻하는 이 별칭은 1조개가 넘는 매개변수를 가진 거대 모델의 규모감을 위트 있게 표현한 것이다.미스트랄은 6일(현지시간) 오픈웨이트 모델 '미스트랄 라지 4(ML4·Mistral Large 4)'를 공개했다.현재는 API를 통한 공개 프리뷰 단계로, 개발자와 사이버 보안 전문가, 정부 당국 등을"
   },
   {
+    "id": "c4df8483c2ff874c",
+    "title": "Chrome에 JPEG XL 지원 도입",
+    "link": "https://news.hada.io/topic?id=34946",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T13:42:53.000Z",
+    "snippet": "Chrome 155부터 JPEG XL(.jxl) 이미지 디코딩을 지원함. JPEG 대비 30~50% 더 나은 압축률과 무손실 압축, 내장 HDR 지원, JPEG 무손실 트랜스코딩을 제공함 AVIF와 JPEG XL을 모두 시험해 최적의 결과를 선택할 것을 권장함. JPEG XL은 특히 사진의 ..."
+  },
+  {
+    "id": "8deb4608265a9259",
+    "title": "美 10년물 국채 5.35%로 또 24년 만에 최고…인플레·재정우려에 국채 투매",
+    "link": "https://www.hankyung.com/article/202610079499i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-07T13:11:48.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "f0f045e0896e5499",
+    "title": "Brut - Unix 도구를 위한 Brutal Router",
+    "link": "https://news.hada.io/topic?id=34945",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T13:05:47.000Z",
+    "snippet": "Brut은 약 120줄의 단일 POSIX 셸 스크립트로, 실행 파일 이름과 명령 인자를 바탕으로 개별 실행 파일에 작업을 전달하는 Git CLI 스타일의 명령행 프런트엔드임 POSIX.1-2024 기본 유틸리티 외에는 자체 런타임 의존성이 없으며, 큰 셸 프로그램을 독립적으로 테..."
+  },
+  {
     "id": "5346e27cb09f229e",
     "title": "앤트로픽, '프로젝트 글래스윙' 개편...첨단 모델 접근 대폭 확대",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216023",
@@ -188,6 +358,56 @@
     "category": "AI",
     "publishedAt": "2026-10-07T12:58:30.000Z",
     "snippet": "앤트로픽이 더 많은 사이버 보안 전문가가 최신 '클로드' 모델을 활용해 사이버 위협에 대응할 수 있도록 '프로젝트 글래스윙(Project Glasswing)' 프로그램을 확대·개편했다.앤트로픽은 6일(현지시간) 사이버 보안팀의 업무와 위험 수준에 따라 AI 모델 접근 권한을 차등 제공하는 새로운 체계를 발표했다.기존 사이버 검증 프로그램(CVP)과 프로젝트 글래스윙을 통합하고 ▲방어(Defense) ▲레드팀(Red Team) "
+  },
+  {
+    "id": "f5b85c5c0f39fa01",
+    "title": "Norm Macdonald 관련 게시물 때문에 2년간 55차례 스와팅을 당한 부부",
+    "link": "https://news.hada.io/topic?id=34944",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T12:44:02.000Z",
+    "snippet": "Milwaukee의 Patrick Tomlinson과 Niki Robinson 부부가 허위 강력범죄 신고로 무장 경찰이 반복 출동한 사건과 관련해 시로부터 미화 57만 5,000달러의 합의금을 받게 됨 Tomlinson에 따르면, Norm Macdonald가 웃기지 않다는 2018년 게시물 이후 온라인 괴롭힘이 이어졌으며, 결국..."
+  },
+  {
+    "id": "a23f1830d3952565",
+    "title": "ESP32-C3 광고 차단기",
+    "link": "https://news.hada.io/topic?id=34943",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T12:41:02.000Z",
+    "snippet": "2달러 ESP32-C3에서 PSRAM 없이 동작하는 Pi-hole 방식의 DNS 광고 차단기로, 차단 목록을 RAM 대신 플래시에 저장해 RAM 사용량을 약 50KB로 줄임 도메인을 정렬된 40비트 해시로 저장하고 이진 탐색함으로써, 14만 개 이상의 도메인을 약 0.7MB에 담고 WiFi 왕복..."
+  },
+  {
+    "id": "efe96b978f30d26b",
+    "title": "클래식 Commodore 64 키캡 사진으로 재현한 폰트",
+    "link": "https://news.hada.io/topic?id=34942",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-07T12:38:02.000Z",
+    "snippet": "C64 Keyboard는 클래식 Commodore 64 키캡 사진을 바탕으로 글자 형태를 다듬고 비례를 일관되게 맞춘 폰트임 화면의 비트맵 폰트가 아니라 키캡에 인쇄된 문자와 기호를 재현하며, 소문자를 입력해도 대문자로 표시함 대문자, 숫자, 문장부호, 화살표, £..."
+  },
+  {
+    "id": "ad4e14640e358f44",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-10-07T12:00:00.000Z",
+    "snippet": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+  },
+  {
+    "id": "a977b5ed32c8d43d",
+    "title": "\"엔비디아칩 사려고 54조원 빚낸다\"…스페이스X, 400억달러 조달 추진",
+    "link": "https://www.hankyung.com/article/202610079441i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-07T11:47:20.000Z",
+    "snippet": ""
   },
   {
     "id": "5ea3ba3d923c7b5f",
@@ -200,6 +420,26 @@
     "snippet": "메타가 미국 텍사스에서 144메가와트(MW) 규모 ‘스타링 솔라(Starling Solar)’ 프로젝트를 대상으로 개발사 에이펙스 클린에너지(Apex Clean Energy)와 전력구매계약(PPA)을 체결했다. 에이펙스와 맺은 일곱 번째 계약으로, 양사가 함께 추진한 재생에너지 설비 규모는 약 1.2기가와트(GW)로 늘어난다.에이펙스는 지난 9월16일(현지시간) 메타와 텍사스 곤잘레스 카운티에 들어서는 ‘스타링 솔라(Starl"
   },
   {
+    "id": "1ccec78351f030ea",
+    "title": "2026년 10월 7일부터 2026년 10월 17일까지 10일간의 날씨 예보: 베트남 중부 지역에 광범위한 폭우가 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2MzbUREZ0VRa2lURTIzY2hrMElLeEtENWU3Wjl1TWFzd1ROck4tQjAzT0NfTVN0MHlMbDZYRXBBVGNtQ2RBQVotV0NRcm0xN2hCQTVzb2dMVVJQdUQtd0lzczQ3cFM3eHdrRnNEX3g4M2JMVEdvbHB3SEhkOXFqM2tHanlEMk5obUduQkRwQXZEY1ZPOUpOdi1TVkpZb0JrLXloZWhDVHVpcmM?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-07T11:33:47.000Z",
+    "snippet": "2026년 10월 7일부터 2026년 10월 17일까지 10일간의 날씨 예보: 베트남 중부 지역에 광범위한 폭우가 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "2538873ac400ee6b",
+    "title": "대구 남구, 내달 12일까지 청년창업 지원 참여자 모집 - 경북도민일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82YWpMWUNadTB1eTdkMmNsRFJFX1MyZ0pwUThtcjdMRTV4NTZheTBwcnhURUM5ZXZHRFN4T3E3YS1kemlzLTJRYVhjVF81YnNNQjg3Sk1wekNMeE56SDRkWkpYVjNSNmhxYnc?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-07T11:33:21.000Z",
+    "snippet": "대구 남구, 내달 12일까지 청년창업 지원 참여자 모집 경북도민일보"
+  },
+  {
     "id": "7898a1ea3ebe0045",
     "title": "미국, 신규 주택용 태양광 10곳 중 4곳 배터리 결합…캘리포니아는 74%",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216021",
@@ -210,6 +450,16 @@
     "snippet": "미국에서 새로 설치된 주택용 태양광 설비 가운데 배터리를 함께 설치한 비율이 2025년 37%까지 높아졌다. 전년보다 12%포인트 상승한 수치로, 캘리포니아에서는 신규 주택용 태양광의 74%가 배터리와 함께 설치됐다.미국 로렌스버클리국립연구소(LBNL)가 최근 공개한 ‘미국 분산형 태양광·에너지저장장치 2026 데이터 업데이트’에 따르면 미국 신규 주택용 태양광의 배터리 결합률은 2024년 25%에서 2025년 37%로 상승했"
   },
   {
+    "id": "04fa0983ff1b177b",
+    "title": "정은경 “내년 노인 하위 45%, 기초연금 물가인상분 소급 지급”",
+    "link": "https://www.mk.co.kr/news/economy/12170902",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-07T11:29:02.000Z",
+    "snippet": "내년 4월 기초연금 개편 시행 1~3월 35만원 동결 논란에 “차질없이 반영되도록 최선”정은경 보건복지부 장관이 소득 하위 45% 노인에게 내년 1분기 기초연금 물가연동 인상분을 .."
+  },
+  {
     "id": "82711eec37be71c3",
     "title": "태양광 패널 아래 가젤 키운다…사우디 250MW 발전소서 번식 추진",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216019",
@@ -218,6 +468,46 @@
     "category": "AI",
     "publishedAt": "2026-10-07T11:20:00.000Z",
     "snippet": "사우디아라비아의 무함마드 빈 살만 왕립보호구역이 250메가와트(MW) 규모 태양광발전소를 취약종 모래가젤(Sand Gazelle)의 번식 공간으로 활용하고 있다. 발전소 안에 암컷 33마리와 수컷 5마리 등 38마리를 들여와 개체군을 늘린 뒤 왕립보호구역의 더 넓은 자연 서식지에 재도입하는 방식이다.사우디 국영통신 SPA와 무함마드 빈 살만 왕립보호구역에 따르면 보호구역은 지난 5일 250MW 태양광발전소에서 모래가젤 번식 프"
+  },
+  {
+    "id": "08363cddf6b4f403",
+    "title": "2026년 10월 7일부터 2026년 10월 17일까지의 날씨 예보: 베트남 중부 지역에 매우 많은 비가 내리고, 북부 산간 지역은 춥겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzB2MFFXNXdQb0RXQWJ0UjJkdmJla2V5ZHM4WlozZTJxRjJPVnhJSkEwc3JfMUZoUmppSVdnWTNTckItOFNwcXN0R1hNX3IwYmhtMHBaWHRJZFhYUG93c0I0X2JIMzQ4aVBhcmpaM2hxbDFtYlljWWpRajBxYm9sSnRnNXFjZ2o5ejBoOWVtY3NuMW8wa3ZQOGJ3Sm5valZxYUFJU1ZRUDEzY2Q0MHN3MlR4eUdEZEZtTFE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-07T11:15:44.000Z",
+    "snippet": "2026년 10월 7일부터 2026년 10월 17일까지의 날씨 예보: 베트남 중부 지역에 매우 많은 비가 내리고, 북부 산간 지역은 춥겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "1699f43e2a7732e0",
+    "title": "\"삼성전자, 중국산에 추월당할 수도\"…그야말로 '비상'",
+    "link": "https://www.hankyung.com/article/202610077420g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-07T11:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e00723a077db7a17",
+    "title": "BGF, 자회사로 KNW 편입…반도체 소재에 힘준다",
+    "link": "https://www.hankyung.com/article/2026100794091",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-07T10:53:36.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "049b686b669acc89",
+    "title": "EU, 중국산 하이브리드차 수입 급증에 '세이프가드' 검토",
+    "link": "https://www.hankyung.com/article/202610079369i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-07T10:36:09.000Z",
+    "snippet": ""
   },
   {
     "id": "79331bb74d5484a0",
@@ -268,6 +558,16 @@
     "category": "개발",
     "publishedAt": "2026-10-07T10:06:34.000Z",
     "snippet": "IT 부서 재정비 중 새로 주문한 MacBook의 재고가 맞지 않는 사실을 발견했고, 조사 끝에 계약직 직원이 약 1년간 노트북 30대 이상을 훔친 사실이 드러남 계약직 직원은 누락된 기기를 초기 불량으로 수리 보냈다고 했지만, Apple 수리 기록과 배송 정보를 확인하..."
+  },
+  {
+    "id": "8e1d7e262e4d46ff",
+    "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고 - 인천광역시",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlFJWlpsNGRUUU9BazlsTVZtWmV2WkdWbmJHU3JDd2RGTzVFNy1JekRHdXBVRS1GQlo2cm92N1dUVHhDa0w0T21wY0s5ZnU0Sk85dk1Qd1NtOGh3VzZkOHA1YlZEb19LM2xxUzFNclFnTTk1b0hCX2hBS0RKLWxWY0JsLWF6VlVVMVZGVGFMSQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-07T10:05:24.000Z",
+    "snippet": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고 인천광역시"
   },
   {
     "id": "66981a707f0fa919",
@@ -800,6 +1100,16 @@
     "snippet": ""
   },
   {
+    "id": "ff96bc9a51d7b5a6",
+    "title": "무안군, 음식점 경사로 지원사업 참여업소 추가 모집 - 대한뉴스통신",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OG0tNVZaaUZGcEJDejlJeHRBejhoTXU5Vy13aV96MkdzWDZKanAtT1EtSW84ckV5Qk5sQzFKT3FTUFktZ0QxQk1xYXozbW95UTExVmpXdw?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-07T08:30:00.000Z",
+    "snippet": "무안군, 음식점 경사로 지원사업 참여업소 추가 모집 대한뉴스통신"
+  },
+  {
     "id": "4c60933d993d9ef2",
     "title": "개인 간 중고 거래도 신용카드로 결제 가능해진다",
     "link": "https://www.mk.co.kr/news/economy/12170660",
@@ -990,6 +1300,16 @@
     "snippet": "샘 알트먼 오픈AI CEO가 5일(현지시간) 폴리티코와의 인터뷰에서 “AI의 혜택을 위해 어느 정도의 나쁜 일은 감수해야 한다”고 말한 것이 눈길을 끌었습니다. 이번 발언은 ‘AI의 혜택을 위해 일부 위험을 감수해야 한다’는 취지로 주목받았지만, 인터뷰 전체를 보면 알트먼이 더 강조한 것은 오픈AI와 앤트로픽의 AI 안전·규제 접근법이 다르다는 점입니다.알트먼은 앤트로픽과 오픈AI 사이에 AI 규제를 바라보는 “근본적인 세계관"
   },
   {
+    "id": "04e9dc3828b5420c",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "link": "https://openai.com/index/radisson",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-10-07T07:00:00.000Z",
+    "snippet": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+  },
+  {
     "id": "6953614659c92c18",
     "title": "[포토] 경제6단체장 만난 이형일 경제부총리",
     "link": "https://www.hankyung.com/article/202610078741i",
@@ -1048,6 +1368,16 @@
     "category": "개발",
     "publishedAt": "2026-10-07T06:32:25.000Z",
     "snippet": "Penguin Mail은 Gmail, Microsoft, IMAP/POP3 계정의 이메일과 캘린더, 연락처를 사용자 컴퓨터의 한 앱에서 관리하는 Linux용 클라이언트임 통합 받은편지함과 계정별 보기를 지원하며, 시스템 트레이에서도 동기화를 유지하고 읽지 않은 메일 수와 조작 가능한 알..."
+  },
+  {
+    "id": "6798b463907d3e1d",
+    "title": "파주도시공사, ‘무장애 관광 민간시설 접근성 개선 지원사업’ 참여업체 모집 - 뉴스피크",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZNUxPWDdyTTM5R0xQaHN1WEJKZDRldjlNMVBWRGUwRXl5emJIVC03bmxpdHNiZ3BpT0RkOGFieHFXQTduMUx1bVhIRTJ3V0RaWDQ1VDRtbFVTWGJ1NHpLQ3BJbkpLa3dv?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-07T06:30:33.000Z",
+    "snippet": "파주도시공사, ‘무장애 관광 민간시설 접근성 개선 지원사업’ 참여업체 모집 뉴스피크"
   },
   {
     "id": "dd2db822a22b9c7a",
@@ -2000,6 +2330,16 @@
     "snippet": "파주시, 발달재활서비스 이용권 지원사업 제공기관 모집 경기in"
   },
   {
+    "id": "ef4890cc1d1caa83",
+    "title": "파주시, 발달재활서비스 이용권 지원사업 제공기관 모집 - 경기평화신문",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4MmZqUmF6OE1fd2YxcnBoUEllMF9od1BxSUJYT0xlRjNqaUY0cDA3Z3F0REpzMWhUVFpLVUJtTE56T3diNUIyZG93?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-06T23:45:00.000Z",
+    "snippet": "파주시, 발달재활서비스 이용권 지원사업 제공기관 모집 경기평화신문"
+  },
+  {
     "id": "b9ae581677500883",
     "title": "질량으로 따지면 지구에서 가장 우세한 종은 무엇일까?",
     "link": "https://news.hada.io/topic?id=34912",
@@ -2178,6 +2518,16 @@
     "category": "경제",
     "publishedAt": "2026-10-06T22:34:15.000Z",
     "snippet": ""
+  },
+  {
+    "id": "1d9f85f0a4276976",
+    "title": "충남도, 청년 주택임차보증금 이자 지원 대상자 모집 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMWWlkVEdGbUlTaGZFOGo4OVA0eVpKRGNnbmo2NlVWQVJWOE9Sc0xyejhLWDZWYlpXa1B1ZlFNWlFkdklEaVBFZDYyNUxPQ2V4YmN2YUNDcFRPTGZZVnB0Vg?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-06T22:32:32.000Z",
+    "snippet": "충남도, 청년 주택임차보증금 이자 지원 대상자 모집 뉴스1"
   },
   {
     "id": "f3c000e719d39ac5",
@@ -6730,6 +7080,16 @@
     "snippet": "Alpine-Code 가 뭐냐? 폴더를 열고 하고 싶은 걸 말하면 파일을 읽고, 고치고, 제대로 되는지 확인까지 하는 오픈소스(MIT) AI 코딩 에이전트를 만들었습니다. 코딩을 잘 몰라도 쓸 수 있게 만들어봤어요. 앱이 한국어로"
   },
   {
+    "id": "624feffb25279d85",
+    "title": "상반기에 청년 1,900명 몰려…구미형 청년월세 지원 추가 모집 - 시사일보",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFeDZWMXdyal8xREFVaGVJcWVpeEtaVWdJY2dVamxVZ3E0OTQyc3NrQVdkczU2VmNudS1oN0V0WTg0azBvMnN2RHV6Y0I?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-05T04:28:00.000Z",
+    "snippet": "상반기에 청년 1,900명 몰려…구미형 청년월세 지원 추가 모집 시사일보"
+  },
+  {
     "id": "f3f5025d2f7c0618",
     "title": "올해 75만원 재산세, 2030년엔 133만원...노도강이 강남보다 더 오른다",
     "link": "https://www.mk.co.kr/news/economy/12168360",
@@ -9098,6 +9458,16 @@
     "category": "정부지원정책",
     "publishedAt": "2026-10-03T13:28:14.000Z",
     "snippet": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 유스연합"
+  },
+  {
+    "id": "b9b0e4c7414fad39",
+    "title": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 - 한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiVF9tT2hQU2tBeGRBbEtKaTJzOHJJRTRLZW1oOXg0SG9uMzBZRnpyLWx5SndBZWlMRnRWaHF0Nm5tak0?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-03T13:28:13.000Z",
+    "snippet": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 한국공공정책신문"
   },
   {
     "id": "d74e6d9b60c35c72",
@@ -14678,6 +15048,16 @@
     "category": "경제",
     "publishedAt": "2026-10-01T05:58:12.000Z",
     "snippet": ""
+  },
+  {
+    "id": "b389e525ca8f1ddd",
+    "title": "밀양시, ‘2026년 청년 창업공간 조성 지원사업’ 참여자 모집 - 시사일보",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXS05TVTRuci1BeTFKdkVERUFfcjFFOEtjS3ZXc0VUVVQtZFBmX0NfcnBoWlNDOXFOeDZKcXFvOXI2dVNHMzB0OTFxMUI?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-01T05:58:00.000Z",
+    "snippet": "밀양시, ‘2026년 청년 창업공간 조성 지원사업’ 참여자 모집 시사일보"
   },
   {
     "id": "43cca9336fd51d9c",

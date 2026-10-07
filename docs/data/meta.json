@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T10:44:05.686Z",
+  "lastUpdated": "2026-10-07T18:11:59.840Z",
   "feeds": [
     {
       "id": "aitimes",
@@ -11,7 +11,7 @@
       "id": "openai",
       "name": "OpenAI",
       "ok": true,
-      "count": 1251
+      "count": 1253
     },
     {
       "id": "mit-tech-review-ai",

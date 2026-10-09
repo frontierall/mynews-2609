@@ -1,5 +1,195 @@
 [
   {
+    "id": "4c3836b6f4d8ba48",
+    "title": "[10월8일] “수학 문제 4000개에 AI 투입해 성과”…오픈AI가 보여준 과학연구의 변화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216072",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-09T07:00:00.000Z",
+    "snippet": "오픈AI는 미공개 프론티어 모델에 약 4000개의 고난도 수학 연구 문제를 제시하고, 그 과정에서 나온 의미 있는 성과를 722편의 연구 원고(manuscript)로 정리해 6일(현지시간) 공개했습니다. 여기에는 정수론과 대수학, 위상수학, 이론 컴퓨터과학 등 여러 분야가 포함됐으며, 722편의 원고는 372개의 관련 결과 군(result family)으로 묶였습니다. 증명을 컴퓨터가 검증할 수 있는 프로그래밍 언어인 '린(L"
+  },
+  {
+    "id": "4b520bdbec1425ad",
+    "title": "내 웹사이트가 Google 검색 색인에서 삭제됐다",
+    "link": "https://news.hada.io/topic?id=35037",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-09T00:01:24.000Z",
+    "snippet": "AI와 끊임없는 스크래핑을 이유로 개인 블로그의 검색 엔진 색인 제외를 추진했고, 마지막 설정 변경 후 최소 3개월이 지나 확인했을 때 Google 색인에서 삭제된 상태였음 처음에는 robots.txt에서 모든 봇의 접근을 차단했지만, 몇 주 동안 기다리며 확인해도 색인..."
+  },
+  {
+    "id": "62dff86dd0015f8b",
+    "title": "Orkut.com",
+    "link": "https://news.hada.io/topic?id=35034",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-08T23:34:02.000Z",
+    "snippet": "Orkut이 실제 사람, 진정한 연결, 소속감을 중심으로 인터넷을 다시 만들자는 운동을 제안하고 참여를 요청함 지난 20년간 소셜 미디어가 사람 사이의 연결보다 관심과 참여도 최적화에 집중했으며, 아이들을 중독시키고 분열시키는 알고리듬이 외로움과 불안을 키..."
+  },
+  {
+    "id": "4dcd60df5ba196de",
+    "title": "\"대기업만 싼 전기 쓰게 할 순 없다\"…정부가 제동 건 이유",
+    "link": "https://www.hankyung.com/article/202610080012i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-08T23:30:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "8c844f5d8069c93c",
+    "title": "\"등산 코스마다 날씨 다르네\"…네이버, 전국 301개 산 맞춤 예보 제공 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uQ1REZG5ha1BMZ0VfYkRjZ3FpblIzcC1CWkV0TG1SYnFPNk93ck9vZGRic296T2Qta1JxLWlnNkw4QjRQd2ZndWd0aHFkNTgxSFdzUnhR?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-08T22:48:11.000Z",
+    "snippet": "\"등산 코스마다 날씨 다르네\"…네이버, 전국 301개 산 맞춤 예보 제공 지디넷코리아"
+  },
+  {
+    "id": "e3ee236f53763b34",
+    "title": "A YouTube test brought creator analytics directly into brands’ YouTube Studio dashboards",
+    "link": "https://www.tubefilter.com/2026/10/08/youtube-studio-creator-analytics-tool-discovery/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-08T22:40:29.000Z",
+    "snippet": "At its annual Made On presentation, YouTube announced several tools that help brands forge partnerships with creators. Now, a related feature has been spotted in the wild. On X, creator growth platform VidIQ shared a screenshot that shows a"
+  },
+  {
+    "id": "b2cdec4e24eeba00",
+    "title": "Theranos.world",
+    "link": "https://news.hada.io/topic?id=35033",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-08T22:31:28.000Z",
+    "snippet": "Elizabeth Holmes의 책상을 재현한 인터랙티브 시뮬레이션으로, MacBook과 iPhone, Edison 기기를 조작할 수 있음 문자와 이메일은 모두 실제 재판 자료에서 가져왔으며, Extend로 파싱함 의자를 클릭하거나 탭해 앉고, 드래그로 주변을..."
+  },
+  {
+    "id": "7242423ff1f14a51",
+    "title": "OpenAI brought in Patreon’s Co-Founder. Here’s what he has planned.",
+    "link": "https://www.tubefilter.com/2026/10/08/openai-sam-yam-creator-project-chloe-shih-office-drama/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-08T22:00:10.000Z",
+    "snippet": "Two weeks after OpenAI announced the hire of Sam Yam as the head of its Creator Product division, the Patreon Co-Founder is already hard at work. Yam's team has announced a partnership with Chloe Shih, who will use OpenAI tech to produce a "
+  },
+  {
+    "id": "a5faa5cce08a009b",
+    "title": "\"스위스 알프스 못지않다\"…외국인들 푹 빠진 한국 여행지",
+    "link": "https://www.hankyung.com/article/2026100816911",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-08T22:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "37ab5b934442ca08",
+    "title": "왜 AI 업계는 DeepSeek 4.1 Flash에 긴장하지 않는가?",
+    "link": "https://news.hada.io/topic?id=35032",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-08T21:38:33.000Z",
+    "snippet": "DeepSeek 4.1 Flash를 약 한 달간 12개 프로젝트에서 집중적으로 사용한 경험상, 대화와 작업 결과, 속도에서 Opus와 차이를 체감하기 어려웠지만 비용은 훨씬 낮았음 일상적인 개발 작업에는 이미 충분한 성능을 제공하므로, 최신 최고급 모델을 좇기보다 같은 일을 얼마나..."
+  },
+  {
+    "id": "06c697b5a93aa010",
+    "title": "일러스트레이터에게 우리 집 그림을 의뢰했다. 이제 그 그림이 Home Assistant 대시보드다",
+    "link": "https://news.hada.io/topic?id=35031",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-08T21:35:33.000Z",
+    "snippet": "실제 집을 그린 인터랙티브 대시보드를 만들어, 기존 Home Assistant 앱을 쓰려 하지 않던 가족들도 기기를 직접 제어하게 됨 벽난로의 불꽃, 정원 조명, 에어컨의 바람을 그림에 반영하며, 기기 상태에 따라 정지 이미지와 애니메이션 WebP를 바꿔 표시함"
+  },
+  {
+    "id": "32e3448a88777faf",
+    "title": "농지 전수조사 반발에 결국…“관행적 위반은 손 안대겠다”는 정부",
+    "link": "https://www.mk.co.kr/news/economy/12172124",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-08T20:59:38.000Z",
+    "snippet": "농지 전수조사 후속조치 고령자 농지 등 관행적 임대차 적법한 계약으로 인정하기로 땅 쪼개팔기 등은 투기 분류농지 전수조사에 대한 농민들의 불만이 가라앉지 않자 정부가 상속 농지나 .."
+  },
+  {
+    "id": "5e55ebdbf592711b",
+    "title": "SynthID Detector - AI 생성 미디어 워터마크 탐지 도구",
+    "link": "https://news.hada.io/topic?id=35030",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-08T20:37:02.000Z",
+    "snippet": "Google의 SynthID Detector는 이미지, 영상, 오디오를 업로드해 AI 생성 또는 편집 과정에서 삽입된 SynthID 워터마크를 확인하는 도구임 이미지에서는 워터마크 존재 여부를, 영상과 오디오에서는 워터마크가 있는 구간을 탐지함 Google DeepMind가 개발..."
+  },
+  {
+    "id": "dc68abefd7518c13",
+    "title": "AI-generated videos get labels. The European Union is applying the same standards to text.",
+    "link": "https://www.tubefilter.com/2026/10/08/european-union-eu-generative-ai-text-chatgpt/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-08T20:36:01.000Z",
+    "snippet": "AI-generated text has become a major concern in classrooms, offices, and publishing houses, but the European Union has proposed a solution. The continental body is beginning to enforce the EU AI Act, and OpenAI is one of the first tech comp"
+  },
+  {
+    "id": "ebaa256d7af2a629",
+    "title": "스마트 커피 머신, 열흘간 트래픽 1TB 발생 - 대부분 집 안 네트워크 통신",
+    "link": "https://news.hada.io/topic?id=35029",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-08T20:34:02.000Z",
+    "snippet": "부모님 집의 네트워크를 관리하다가 Keurig 스마트 커피 머신에서 열흘간 약 1TB의 트래픽이 발생한 것을 발견함 처음에는 대규모 업로드에 놀랐지만, 추가 확인 결과 트래픽 대부분은 외부 인터넷으로 나가지 않고 집 안 네트워크에 머물렀음 외부 전송량..."
+  },
+  {
+    "id": "e95750d1b74189d7",
+    "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+    "source": "미 연준 보도자료",
+    "sourceId": "fed-press",
+    "category": "경제",
+    "publishedAt": "2026-10-08T20:30:00.000Z",
+    "snippet": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering"
+  },
+  {
+    "id": "a9c39d5a182032c6",
+    "title": "[오늘의 날씨] 낮 최고 27도·일교차 15도 안팎…내륙 건조·남부 5~40mm 비 예보 - TopStarNews",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFVlJDdi0wRGNkYUdVUm5YOURsV3AyYTNNUF9YMEcwRmV1di16YXJON0Z1X1Q1OVZxajJMLWhCR09ZZnQ5cWltRTBNMjZRenFyMjJPczE4aFVBV0JIYlVNcFRBeW4tQlJSeW93MzJWYzVSdw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-08T19:53:12.000Z",
+    "snippet": "[오늘의 날씨] 낮 최고 27도·일교차 15도 안팎…내륙 건조·남부 5~40mm 비 예보 TopStarNews"
+  },
+  {
+    "id": "707d546a5de07a36",
+    "title": "OpenAI 연환산 매출, 앞서 시사한 수준보다 200억 달러 적어",
+    "link": "https://news.hada.io/topic?id=35028",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-08T19:38:44.000Z",
+    "snippet": "OpenAI가 투자자에게 전달한 9월 말 연환산 매출은 약 500억 달러로, 앞서 널리 알려진 680억 달러보다 낮음 관계자에 따르면 680억 달러에는 파트너사의 총매출이 포함돼 있었으며, 이는 경쟁사 Anthropic과 더 직접적으로 비교하기 위한 수치임..."
+  },
+  {
+    "id": "5212f0b6fbabe509",
+    "title": "Whistle - 16.9 MB로 구현한 음성 텍스트 변환",
+    "link": "https://news.hada.io/topic?id=35027",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-08T19:35:44.000Z",
+    "snippet": "Whistle은 16.9 MB 단일 파일로 배포되는 공개 음성 인식 모델로, 별도 의존성 없이 CPU에서 실행되며 7개 언어의 음성을 기기 내에서 텍스트로 변환함 전사, 단어별 타임스탬프, 음성 임베딩을 지원하며, 16 kHz 모노 오디오를 한 번에 최대 30초까지 처리함 ..."
+  },
+  {
     "id": "989765ae47fb945f",
     "title": "Anne Carson, 2026년 노벨문학상 수상",
     "link": "https://news.hada.io/topic?id=35026",
@@ -488,6 +678,16 @@
     "category": "AI",
     "publishedAt": "2026-10-08T12:00:00.000Z",
     "snippet": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+  },
+  {
+    "id": "f6d3626eb7c890d9",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-10-08T12:00:00.000Z",
+    "snippet": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
   },
   {
     "id": "6570f832707641cb",
@@ -4798,205 +4998,5 @@
     "category": "창업",
     "publishedAt": "2026-10-07T01:09:50.000Z",
     "snippet": "AI를 도입한 국내 프롭테크 스타트업 56곳 가운데 62.5%는 이미 고객이 쓰는 서비스에 AI를 넣어 운영하고 있는 것으로 나타났다. AI 기반 서비스를 개발하고 있는 곳까지 합하면 87.5%에 이른다. 한국프롭테크포럼이 7일 발간한 ‘프롭테크 스타트업의 AI 현황과 전략’ 보고서의 조사 결과다. 프롭테크는 부동산(property)과 기술(technology)을 합친 말로, 부동산 개발·거래·관리 등에 IT를 접목한 산업을 "
-  },
-  {
-    "id": "b150ea4499dc5518",
-    "title": "배민·쿠팡은 사상 최대치인데…요기요·땡겨요는 결제액 감소세",
-    "link": "https://www.hankyung.com/article/202610064884i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-07T01:07:02.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "833f8380356ab4a9",
-    "title": "[AI 활용팁] 클로드 코드 모드로 맥락창 날씨 예보·삭제 확인창 추가 - AI 매터스",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEZkxjbUxNQWV5V2dKV25EbmFFdVhUNy1yVVROaXgzWDdObzFyaGx0YmludVJqR1psMVJMSFRVOVlWUDZUdVdDN01RSi1JcEU?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-07T01:06:24.000Z",
-    "snippet": "[AI 활용팁] 클로드 코드 모드로 맥락창 날씨 예보·삭제 확인창 추가 AI 매터스"
-  },
-  {
-    "id": "f626a61047f929d8",
-    "title": "제프리 카첸버그 - 세상이 바뀌고 있다: 창의성을 위한 AI",
-    "link": "https://news.hada.io/topic?id=34922",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-07T01:05:02.000Z",
-    "snippet": "AI를 받아들일지 거부할지만 논쟁하기보다 창작자의 기여 인정, 동의와 보상을 먼저 정해야 함. 창작자의 작업 위에 일방적으로 쌓아 올리지 말고, 창작자와 함께 만들어야 함 할리우드의 저항은 단순한 기술 거부가 아니라 자신의 작업에 대한 애정과 일자리 상실의 두려움..."
-  },
-  {
-    "id": "203fa694c1584840",
-    "title": "10월 7일 날씨 예보: 북부 지역은 춥고, 남부 지역에는 산발적인 뇌우가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXUtUFJoR28wZ05lZ2NHV2hCUUx2WTZsWE9fUS1kSDMyZUhzdFVGek9DWG9UVWtlSXNxRUF6dlB4UDNrYUg2Z0tGWWhWcHpURTVVNHF5WS1HOWZ3YnU0alZGd0ZKMl9vZTR6dmdpalNxNVpuZ2FmZGZEanBQLVRyb1VFSlVxdVBaMjh5elZlRFVtZk5zWGtGNA?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-07T01:04:51.000Z",
-    "snippet": "10월 7일 날씨 예보: 북부 지역은 춥고, 남부 지역에는 산발적인 뇌우가 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "8d77b85b483e6fd2",
-    "title": "이 모든 것이 지나간 뒤를 위한 지속 가능한 웹 커리어",
-    "link": "https://news.hada.io/topic?id=34921",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-07T01:03:30.000Z",
-    "snippet": "웹에 대한 사람들의 수요는 여전하지만 업계의 재정과 장기 경력 전망은 불안정함. 대안 없이 유급 일자리를 그만두지 말고, 상황이 나아질 때를 대비해 부족한 핵심 역량에 집중해야 함 접근성은 마지막에 덧붙이거나 자동화로 해결하는 기능이 아니라, 프로젝트 ..."
-  },
-  {
-    "id": "bfa1d670f20a46ff",
-    "title": "베트남 북부는 건조하고 화창한 날씨를 보이며 최고 기온은 섭씨 31도까지 오를 것으로 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92eFJDMmZzazlTU1BaTE9BMFBJVDByRXRmMGozRC04cTF2TWc3aW1SckFoN1FwY21NejVORGNsZnBjeUJrWnVuRVYxNU5RTElpaU5tN1dFSlAyTnFUclNtWG51TmZaY2Rnc2dJbm5BWmNTdkE3S3Zv?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-07T01:02:59.000Z",
-    "snippet": "베트남 북부는 건조하고 화창한 날씨를 보이며 최고 기온은 섭씨 31도까지 오를 것으로 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "191efc552a7b0795",
-    "title": "매장 밖으로 나온 패션업계…고객 300명과 55㎞ 걸었다",
-    "link": "https://www.hankyung.com/article/202610077521i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-07T01:00:18.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "929ec42aa3d50c4d",
-    "title": "10월 7일 일기예보: 베트남 북부는 맑음, 중부는 폭우, 동해는 최대 4미터 높이의 파도 예상. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVlYS1B3ZVQ5dEd3YTZSMnQwTDJENlNLcUs3cGU4TzBjUk1pM0NBN2tHeEs2UW82REpDWVNWUFo1czhPckNCcmhvTjhmYWRMY1hlbXpPcHl1NHRWYTJQTU5ONS13SFJQZ2JYa0o4ZUhXbkRuT2M0U0FYZmFCa0g0dXRyZF9FVHpoanJwSVNHUkNSYUdSX000TlhVdHM2WXd3dFprY1NEVTlZZGs?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-07T00:58:51.000Z",
-    "snippet": "10월 7일 일기예보: 베트남 북부는 맑음, 중부는 폭우, 동해는 최대 4미터 높이의 파도 예상. Vietnam.vn"
-  },
-  {
-    "id": "037b1a717fbebd1b",
-    "title": "파주도시공사, '무장애 관광 민간시설 접근성 개선 지원사업' 참여업체 모집… 최대 5천만원 지원 - www.newszoom.kr",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mdDE0b3lKcmR2a2tVQUM2a1ZWWU1JUDVpZU91YUpBZmo1Rjc3Tm9Id2JnVjFybnpCblZkbHhYT0JJdURF?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-07T00:57:00.000Z",
-    "snippet": "파주도시공사, '무장애 관광 민간시설 접근성 개선 지원사업' 참여업체 모집… 최대 5천만원 지원 www.newszoom.kr"
-  },
-  {
-    "id": "6ce6adfa925dcefb",
-    "title": "여러 팀의 시스템을 이해하기 위한 AI 집단 지성 구축하기",
-    "link": "https://news.hada.io/topic?id=34920",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-07T00:55:02.000Z",
-    "snippet": "SumUp의 여러 도메인에 걸친 시스템을 이해할 때마다 엔지니어 3~4명을 모으는 대신, 약 66개 저장소와 조직 맥락을 연결한 AI 에이전트 시스템을 구축함 저장소를 기술 스택이 아닌 제품과 팀 구조에 따라 묶고, 도메인별 AGENTS.md에 원칙, 조직 구..."
-  },
-  {
-    "id": "ccdf20ceaf0a2c79",
-    "title": "\"잔금 앞두고 8억이나 깎아달라니\"…부동산 시장에 무슨 일이",
-    "link": "https://www.hankyung.com/article/202610077482i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-07T00:53:54.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "dff08bdf7f57fa28",
-    "title": "Show GN: AI 송도 월드 - LLM 여섯 개가 나눠 맡은 AI 에이전트 2,400명이 사는 3D 도시",
-    "link": "https://news.hada.io/topic?id=34919",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-07T00:53:30.000Z",
-    "snippet": "이 2,400여 명의 AI 시민 간 무슨 생각을 하고 무슨 일을 벌일지 브라우저에서 들여다볼 수 있게 송도 월드를 만들었습니다. GPT, Claude, Gemini, DeepSeek, GLM, Solar 여섯 모델이 시민을 나눠 맡고 있고, 가입 없이 바로 볼 수 있습니다. 만든 이유 AI 에이전트끼리 한곳에 모여 살게 하면 무슨 생"
-  },
-  {
-    "id": "f01e67dc67c87f35",
-    "title": "오늘(10월 7일) 날씨: 베트남 북부 지역은 이른 아침에 쌀쌀하겠으며, 일부 지역에서는 영하의 기온을 기록할 수도 있습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzlyQnV4bFpmdXE5d0JWeC1jSVZvRThoeW1sLUx3XzdEUUF3ZDdkbmE3OGhzTFNqZHN5LVFHRVF5NWZzRDZvOTJ0eW5UN2lCcWJZTHBsTGJHSm5GSFJBODEtZXF1bUkwOW00VlMwSWtfUW1VZEtJSG9xYzFIN3ZlN05nUk0tTEFEbDJXa1RhNnk5Ukct?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-07T00:53:10.000Z",
-    "snippet": "오늘(10월 7일) 날씨: 베트남 북부 지역은 이른 아침에 쌀쌀하겠으며, 일부 지역에서는 영하의 기온을 기록할 수도 있습니다. Vietnam.vn"
-  },
-  {
-    "id": "2d3101bea3a7158a",
-    "title": "'한국 기업과 손 잡아야 산다'…애플이 던진 승부수",
-    "link": "https://www.hankyung.com/article/202610077376g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-07T00:52:11.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "1881921d485e852b",
-    "title": "소프트웨어로서의 브랜드",
-    "link": "https://news.hada.io/topic?id=34918",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-07T00:45:01.000Z",
-    "snippet": "브랜드팀이 같은 발표 자료와 디자인을 반복해서 만드는 대신, 이미 내린 디자인 결정을 소프트웨어로 구현하면 새로운 아이디어와 중요한 작업에 집중할 수 있음 Figma와 AI는 누구나 제작할 수 있게 했지만 판단력과 안목까지 나눠주지는 못함. 팀 구조가 그대로..."
-  },
-  {
-    "id": "7beb2fccf9cba1b6",
-    "title": "\"화장품도 바로 배달\"…배민, 오프뷰티 30개점 입점",
-    "link": "https://www.hankyung.com/article/202610077195g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-07T00:38:30.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "a596bea1cbb99904",
-    "title": "10월 7일 호치민시 날씨 예보입니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tdzRfZm1zenRNaV81emFOcFM3c3lfMnZ5LVdmS3E3SFh6LWRNT2VSaEtJbkNOc0lWbXI5cWtwZnZxc1hQX3doR245WTBEUzMxdHNCbHZRNmxHa0JKTGZxdEVR?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-07T00:36:35.000Z",
-    "snippet": "10월 7일 호치민시 날씨 예보입니다. Vietnam.vn"
-  },
-  {
-    "id": "b3d3cee295446d01",
-    "title": "\"무서운 AI를 귀엽게\"…오픈AI·메타가 캐릭터 만든 이유",
-    "link": "https://www.hankyung.com/article/202610077391i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-07T00:35:16.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "fb304788ffd8f9f6",
-    "title": "Show GN: TunnelForge - SSH 터널 + MySQL/PostgreSQL 덤프·복원·엔진 간 이전 데스크톱 앱 (MIT)",
-    "link": "https://news.hada.io/topic?id=34917",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-07T00:33:22.000Z",
-    "snippet": "Bastion(점프 서버) 뒤에 있는 MySQL·PostgreSQL을 다룰 때 터널 열기, 쿼리, 덤프·복원, 엔진 간 이전을 한 앱에서 하려고 만든 데스크톱 앱입니다. 주요 기능 SSH 터널 관리: bastion 경유/직접 연결, RSA·Ed25519·ECDSA 키, 그룹별 정리와 연결 상태 표시 SQL 에디터: 테이블·컬럼 자"
-  },
-  {
-    "id": "e2ef7365239f5c63",
-    "title": "대한항공, 글로벌 항공사 순위 7위→3위 '도약'…라운지도 3위",
-    "link": "https://www.hankyung.com/article/202610077331g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-07T00:32:21.000Z",
-    "snippet": ""
   }
 ]

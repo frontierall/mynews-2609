@@ -100,6 +100,56 @@
     "snippet": "HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health."
   },
   {
+    "id": "8de566fd077c6341",
+    "title": "Personalize ChatGPT with custom instructions",
+    "link": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2025-05-12T00:00:00.000Z",
+    "snippet": "See how custom instructions help personalize ChatGPT for your role, preferences, and work."
+  },
+  {
+    "id": "040145814426707b",
+    "title": "Collaborate and write with GPT-4o",
+    "link": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2025-05-08T00:00:00.000Z",
+    "snippet": "Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine, and adjust tone faster."
+  },
+  {
+    "id": "f34c5ee9a7e5b6bf",
+    "title": "Create on-brand visuals with image generation",
+    "link": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2025-05-08T00:00:00.000Z",
+    "snippet": "See how ChatGPT image generation helps create branded visuals and product mockups from prompts, sketches, or uploaded images."
+  },
+  {
+    "id": "6acc7b35957a68a0",
+    "title": "Automate complex workflows with OpenAI o3",
+    "link": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2025-05-08T00:00:00.000Z",
+    "snippet": "See how OpenAI o3 can reason through complex tasks and help automate multi-step workflows."
+  },
+  {
+    "id": "833d355880d31c09",
+    "title": "Connect internal knowledge from Google Drive",
+    "link": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2025-05-08T00:00:00.000Z",
+    "snippet": "See how ChatGPT can connect to Google Drive to use internal knowledge and answer questions with relevant context."
+  },
+  {
     "id": "223cbb76c9bbafde",
     "title": "OpenAI Expands Leadership with Fidji Simo",
     "link": "https://openai.com/index/leadership-expansion-with-fidji-simo",

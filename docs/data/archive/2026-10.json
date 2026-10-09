@@ -1,5 +1,15 @@
 [
   {
+    "id": "8555ad329efb518c",
+    "title": "매경이 전하는 세상의 지식 (매-세-지, 10월 10일)",
+    "link": "https://www.mk.co.kr/news/economy/12172424",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-09T22:00:00.000Z",
+    "snippet": "1. 최태원 SK그룹 회장이 9일 곽노정 SK하이닉스 사장 등 경영진과 함께 호남권 반도체 클러스터가 들어설 전남광주통합특별시 군공항 부지를 찾았습니다. 이 자리에서 최 회장은 광.."
+  },
+  {
     "id": "f925bb1c50de3120",
     "title": "앤트로픽 '클로드 사이언스', 인류 최초 자외선 전체 하늘 지도 완성",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216106",
@@ -8,6 +18,26 @@
     "category": "AI",
     "publishedAt": "2026-10-09T21:36:50.000Z",
     "snippet": "앤트로픽이 '클로드 사이언스(Claude Science)'를 활용해 그동안 관측 공백으로 남아있던 우주의 자외선 영역을 모두 채운 최초의 완벽한 자외선 전천(All-Sky) 지도를 8일(현지시간) 공개했다. 존스홉킨스대학교 천체물리학자이자 앤트로픽 연구원인 브리스 메나르 교수가 이끈 이번 프로젝트는 대규모 과학 데이터를 자율 처리하는 연구용 AI 에이전트 시스템의 가능성을 입증한 대표적 사례로 평가받는다.자외선은 지구 대기의 "
+  },
+  {
+    "id": "bbf35ed2f0e4f49f",
+    "title": "Hollywood’s creator obsession continues as Sony hires YouTube exec to lead horror label",
+    "link": "https://www.tubefilter.com/2026/10/09/fede-goldenberg-sony-screen-gems-hire-youtube-exec/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-09T21:25:48.000Z",
+    "snippet": "As major film studios seek deals with directors whose careers began on social media, Sony Pictures Entertainment is taking a slightly different approach: It's bringing the business side of YouTube to Hollywood. Sony has announced the hire o"
+  },
+  {
+    "id": "b7e9e8cf48237f4b",
+    "title": "[임다연의 요즘 CEO 경영법] \"저 친구 퇴사할거 같은데요\"…AI가 먼저 알려준다",
+    "link": "https://www.hankyung.com/article/202610081389i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-09T21:00:01.000Z",
+    "snippet": ""
   },
   {
     "id": "cb93d8bc731c52ef",
@@ -20,6 +50,56 @@
     "snippet": "오픈AI가 최근 안전 분야 연구원 3명을 해고한 조치에 대해 내부 반발이나 보복성 인사가 아닌 명확한 보안 정책 위반 때문이라는 공식 입장을 밝혔다. 해고된 연구진이 회사 측 조치의 부당함을 지적하는 공개서한을 내며 내부 분위기가 경색되자, 직접 진화에 나선 모습이다.오픈AI는 9일(현지시간) X를 통해 공식 성명을 내고 해명에 나섰다. \"이번 결정은 안전 문제 제기나 발언에 대한 반발 때문이 아니었다\"며 \"철저한 조사 결과 "
   },
   {
+    "id": "4e9a13e97529734f",
+    "title": "[부산·울산·경남 날씨예보] 경남내륙 10일 5~10㎜...11일 5~20㎜ 비 예보 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DWTJhXzZsZzhZVk1pbjFpM2NwemFROU5sMlFTZG5RUmJ1NURhS0dSZGZ3dTBUQVpfdjYwS3JtdHFXZG5QdUFzQnJSU25Zc1pSb3hUNXQ2d1VyVnVjYjZSc2lma3NJZk90VU1sSFhONzPSAXRBVV95cUxOUVp5NHllU3huM2xjcjJxRkd6aEVGV2JYbld6VEZiZlZnUVRnblF2elBrT1ppXzdFcW5vSlNicXVXWXhtYU02RTVTTzk5SE1FRE10SnB0SmNIRkdGTEpwcVVILVNxNGtXOWVvMktjak51NUlCTw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-09T20:55:56.000Z",
+    "snippet": "[부산·울산·경남 날씨예보] 경남내륙 10일 5~10㎜...11일 5~20㎜ 비 예보 더페어"
+  },
+  {
+    "id": "5de0309db186efb2",
+    "title": "[대구·경북 날씨예보] 중남부 오전부터 오후 사이 5~10mm 비 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdWd4MjM4RVVXT3lRRlhRTEV3cVNEdjZCTnhPeUM4R3BXLUZDRExtN01lYjFOQ19jWGIzdGJORWhvbEIzSlV5ZE9ValdRQ1p0bjljQzdnajgtNFY1ckRrRURoU3pGUVdZLVRGSmtZT3XSAXRBVV95cUxNMHFOSm1CeGJmdks4dU93d3lVSDJTYloxNWJURmtZNXFia3BJY0F2QXh2TTdYamRTcTM3LXctUFNIcWg1Y0RLekY2RUhfQlA4OU54TXJtVEdtMzhkUDJlR2pqZnVidnQ0V2dCdWNIZU5la2pzTw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-09T20:52:21.000Z",
+    "snippet": "[대구·경북 날씨예보] 중남부 오전부터 오후 사이 5~10mm 비 더페어"
+  },
+  {
+    "id": "4e3ecd182d005cab",
+    "title": "[전북 날씨예보] 전북내륙 5~10㎜ 안팎 비…12일 전북 전역으로 확대 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45QUJkWVE4Mms4alAyMHN6dFplbzZzNW5zYTJKTkZCR2NWc2ZRclBCM3VCX1JmX2JCbUtwUkJuaXVlTDJIejgyS2tpVGxKUGl6YUZRQUhvQmF5ZGp1VXVGejFtMVpFUnI1aHk1Sl9rOEXSAXRBVV95cUxONnBuMFRzcnE0TkJVbVBnU0ZrcG1ZYVN3ZURrb096OGQ1cVZaVHJ2dmRZVzJ6R2E0RTNsQTc4T3hnQWlqSTlJa1dBZ0ZmVEFVWk9zOHloQUpQUGlmRVpSNTFiTVpHdEg5OFVBMzBkNmxKeG9lZg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-09T20:48:58.000Z",
+    "snippet": "[전북 날씨예보] 전북내륙 5~10㎜ 안팎 비…12일 전북 전역으로 확대 더페어"
+  },
+  {
+    "id": "a701b5e84011fa58",
+    "title": "[광주·전남 날씨예보] 예상 강수량 5~10㎜…12일 최대 20㎜ - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JaHlUcWM2UW14bGJmRzNaeU1RSkVPVGhDQmp5Y1l3TjhyNUREUGx3Y2REZ19YZUNiZGM5RUhTcThrSzBRbnBMeFB4YnlEeFRJelJpdUVZUXV5bTc2RERURXBqZU5tUTdlTW5fSHR0WGfSAXRBVV95cUxOZTM3a3lMUl96SHpQM0xHUGd2ZkdVSkQzX0VPUWdzM3hyZVBTN3VrMkw1Zk5GOVRSMlZ6WTlzYUdBU0FpNzZBMmphSEthX1kxazUwdTFCX1N0dEVZbi14WUlfd0hkU25QekVEVkNsX0lENHN3ZA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-09T20:46:14.000Z",
+    "snippet": "[광주·전남 날씨예보] 예상 강수량 5~10㎜…12일 최대 20㎜ 더페어"
+  },
+  {
+    "id": "c90bbfbaa2aacbf8",
+    "title": "[제주도 날씨예보] 오전부터 곳곳 비…최대 50㎜·남쪽 먼바다 풍랑 주의 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBeWVmT2tvbUcydlFhRUhDTzBvSExISDh2Z3ZwNDJkcWVDYlFhYkhYaGJ6R1FqaUx2OVdGVjJ2UUE5V0ZKS1NNajZrSmtwTXp2aHVXQnJSUlRHeTVBT2Q1Qm5lQ2ZKMy1ENFo4ZXN0VTbSAXRBVV95cUxPR25aV3JmX3hnd3poWVloM2psVHIzdHFMSG1oYkRvZllqYm9SZHNERmxkcEIyVUlacDJSaThOX3U0bVZMVXpwQ0NnaW42UDRVSmdEbXFpbFRqLUJZdWtXendIN05LcFA2TkNWS3djamtRc0J1RA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-09T20:43:06.000Z",
+    "snippet": "[제주도 날씨예보] 오전부터 곳곳 비…최대 50㎜·남쪽 먼바다 풍랑 주의 더페어"
+  },
+  {
     "id": "45606d87af7a5943",
     "title": "스페이스X, 무선 통신 진출…미·유럽 통신주 '직격탄'",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216104",
@@ -30,6 +110,26 @@
     "snippet": "스페이스X가 대규모 주파수 확보에 나서며 전통적인 지상 이동통신 시장에 도전장을 던졌다. 위성 인터넷 스타링크에 이어 저궤도 위성과 지상 인프라를 결합한 모바일 네트워크 구축을 가속, 글로벌 통신 시장의 판도 변화와 함께 수익 다각화에 속도를 내는 양상이다.스페이스X는 8일(현지시간) 사모펀드 운용사 그레인 매니지먼트(Grain Management)로부터 미국 전역의 800메가헤르츠(MHz) 대역 무선 주파수 사용권 인수 계약"
   },
   {
+    "id": "f494e98a89fe46fa",
+    "title": "투자 지식의 복리효과 … 매경플러스 200% 활용법",
+    "link": "https://www.mk.co.kr/news/economy/12172392",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-09T20:00:00.000Z",
+    "snippet": "매경플러스 내비게이션“처음엔 뭐부터 눌러야 할지 몰라 메인 화면만 훑고 나갔습니다. 그런데 순서를 정해놓고 읽으니 같은 시간을 써도 남는 것이 완전히 달라지더군요.” 매경플러스 연.."
+  },
+  {
+    "id": "2acddef942eef3ce",
+    "title": "[주간 기상 예보] 주말 오늘날씨 서울 낮 25도 남부 5~20mm 비...11일 남부 제주·13일 중부 비 - 퍼블릭타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80T25YckhNQWE4bTUxV0d4dXRYalpCMThfN25nTVEtbHc2TVB6bjJFdWJVUHR0bnhVX2FiVGI3NUVWX0tGNG5DOWd6ODN3dGdESWNPRW92T0NTLUVsYnkydXd0aGo5dXRxSXfSAW5BVV95cUxQZWhBd2NYdUxEd1BVaWhQVkNaRGF3VUgwQ2l3cmJuYkNwdUZNVzJaQVpqSjlOLW1SZEJ2UmxfUzhUYXJiaGw5WTJERHhWa3c1UEVLdmpPcHIyS2NxRzRCdjhmcGlNTFIzanROcGtTUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-09T20:00:00.000Z",
+    "snippet": "[주간 기상 예보] 주말 오늘날씨 서울 낮 25도 남부 5~20mm 비...11일 남부 제주·13일 중부 비 퍼블릭타임스"
+  },
+  {
     "id": "35bf4771b3e8bbe2",
     "title": "데이터센터 전문 퍼머스, 호주 IPO 철회…'엔비디아 후광'도 안 통했다",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216103",
@@ -38,6 +138,16 @@
     "category": "AI",
     "publishedAt": "2026-10-09T19:28:38.000Z",
     "snippet": "엔비디아의 지원을 받으며 초대형 상장으로 주목받았던 데이터센터 전문 퍼머스(Firmus)가 50억달러(약 6조7000억원) 규모의 호주 증시 기업공개(IPO)를 철회했다. 수요예측 과정에서 고평가 논란과 부채 우려가 불거지자 공모 절차를 전면 취소한 것으로, 이번 사례는 초대형 AI 인프라 기업에 대한 공모 시장의 첫 검증이자 AI 기업 가치 평가에 경고등이 켜진 상징적 사건이라는 점에서 시장의 비상한 관심을 받고 있다.9일 "
+  },
+  {
+    "id": "f2875a3c3e5a68f6",
+    "title": "YouTube eclipses TV to become the top news source in the U.S.",
+    "link": "https://www.tubefilter.com/2026/10/09/syracuse-university-center-creatory-economy-report-us-news-youtube/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-09T19:19:31.000Z",
+    "snippet": "Syracuse University's Center for the Creator Economy has published a report that will make traditional news outlets quake in their boots. In its first-ever Industry Flash Report, Syracuse surveyed 1,001 Americans and found that YouTube is r"
   },
   {
     "id": "45822daf83b2a5ad",
@@ -58,6 +168,16 @@
     "category": "AI",
     "publishedAt": "2026-10-09T17:49:39.000Z",
     "snippet": "애플이 첫 터치스크린 맥북과 OLED(유기발광다이오드) 디스플레이를 탑재한 새로운 아이패드 미니를 10월 말 공개할 전망이다. 'M6' 칩을 탑재한 맥북 프로와 아이맥도 함께 선보일 것으로 알려졌다.블룸버그는 8일(현지시간) 정통한 소식통을 인용, 애플이 오는 27일경 맥과 아이패드 신제품 공개 행사를 개최할 예정이라고 보도했다.행사는 온라인 영상 발표와 언론 대상 오프라인 행사로 구성되며, 영상 제작과 사진 편집, 음악 작업"
+  },
+  {
+    "id": "fc2004dad6108e68",
+    "title": "오픈AI發 버블 논쟁…다가오는 실적 시즌[월가 백브리핑]",
+    "link": "https://www.hankyung.com/article/202610103126i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-09T17:17:12.000Z",
+    "snippet": ""
   },
   {
     "id": "befe293793d0fa65",
@@ -888,6 +1008,16 @@
     "category": "AI",
     "publishedAt": "2026-10-09T07:00:00.000Z",
     "snippet": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+  },
+  {
+    "id": "90995f7dbc9c2674",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-10-09T07:00:00.000Z",
+    "snippet": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
   },
   {
     "id": "b78ddc4aba730ab3",
@@ -2708,6 +2838,16 @@
     "category": "AI",
     "publishedAt": "2026-10-08T07:00:00.000Z",
     "snippet": "그동안 앤트로픽의 '클로드'는 오픈AI보다 상대적으로 비싸다는 평가를 받아왔지만, 실제 사용량을 따져보면 오히려 더 높은 가치를 제공한다는 분석이 나왔습니다. AI 분석 전문 세미애널리시스(semianalysis)가 6일(현지시간) 주요 AI 구독 서비스의 사용 한도를 직접 측정한 결과, 같은 월 200달러 요금제에서 '클로드 오퍼스 5.5'의 API 환산 사용 가치는 오픈AI 'GPT-6.1 솔'보다 5배 이상 높은 것으로 "
+  },
+  {
+    "id": "d5e088ad0cf61d7c",
+    "title": "10월 8일 날씨 예보: 북부 지역은 낮과 밤 모두 추운 날씨가 예상되며, 남부 일부 지역에는 폭우가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc05JM1BqMzYzTFBaaHExQ0VBam16S2V2S0NjSEF2SVpKN0ZrbUpWd2ozUGJYVmJGZWdEbW5kdlR4TV9peEZtdnc3RXdfcFV5LXNaRGFKU2JiZ09MM0xFaVhkcEg5VGY5NHhoZnRGanF1dU9Rd285MGgwclNmWlJvM0Z5SFJ3YmcxMGVCaTFSTXUtWGllZFZzWXozX3NaaXNkVUFKUw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-08T07:00:00.000Z",
+    "snippet": "10월 8일 날씨 예보: 북부 지역은 낮과 밤 모두 추운 날씨가 예상되며, 남부 일부 지역에는 폭우가 내리겠습니다. Vietnam.vn"
   },
   {
     "id": "6c5f7b6d8d1ce9ce",

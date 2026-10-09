@@ -10,6 +10,16 @@
     "snippet": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future"
   },
   {
+    "id": "e2374a9eee5eb1e2",
+    "title": "Fine-tuning GPT-4o webinar",
+    "link": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2024-08-26T00:00:00.000Z",
+    "snippet": "Fine-Tuning GPT-4o Webinar"
+  },
+  {
     "id": "62323fc1a4d03753",
     "title": "OpenAI partners with Condé Nast",
     "link": "https://openai.com/index/conde-nast",
@@ -98,6 +108,16 @@
     "category": "AI",
     "publishedAt": "2024-08-08T00:00:00.000Z",
     "snippet": ""
+  },
+  {
+    "id": "39f1b2cb7d48b1e0",
+    "title": "Enabling a data-driven workforce",
+    "link": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2024-08-08T00:00:00.000Z",
+    "snippet": "In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights."
   },
   {
     "id": "5c2ecde556bc6dc1",

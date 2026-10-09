@@ -20,6 +20,16 @@
     "snippet": "Promega's top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing"
   },
   {
+    "id": "11385929cf5b0c0b",
+    "title": "Put AI to work for marketing teams",
+    "link": "https://openai.com/business/put-ai-to-work-for-marketing-teams",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2024-10-31T00:00:00.000Z",
+    "snippet": "Put AI to Work for Marketing Teams"
+  },
+  {
     "id": "080a790521a93ae8",
     "title": "Introducing SimpleQA",
     "link": "https://openai.com/index/introducing-simpleqa",
@@ -58,6 +68,16 @@
     "category": "AI",
     "publishedAt": "2024-10-22T06:05:00.000Z",
     "snippet": "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program"
+  },
+  {
+    "id": "b3ad379499a5bee3",
+    "title": "Solving complex problems with OpenAI o1 models",
+    "link": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2024-10-17T00:00:00.000Z",
+    "snippet": "In this video, we share how the o1 reasoning models can help in domains like coding, strategy, and research."
   },
   {
     "id": "3d70566d39d9ab2a",

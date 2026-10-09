@@ -80,6 +80,16 @@
     "snippet": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new insights, and resha"
   },
   {
+    "id": "c4b5927104698aa9",
+    "title": "Using Codex across the software development lifecycle",
+    "link": "https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2025-11-20T00:00:00.000Z",
+    "snippet": "Watch a webinar on using Codex across the software development lifecycle."
+  },
+  {
     "id": "622e7b650fdd2137",
     "title": "Strengthening our safety ecosystem with external testing",
     "link": "https://openai.com/index/strengthening-safety-with-external-testing",
@@ -158,6 +168,16 @@
     "category": "AI",
     "publishedAt": "2025-11-18T05:00:00.000Z",
     "snippet": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools."
+  },
+  {
+    "id": "ed84f4b6a776c3ee",
+    "title": "How OpenAI uses ChatGPT Atlas at work",
+    "link": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2025-11-18T00:00:00.000Z",
+    "snippet": "Watch a webinar on how OpenAI uses ChatGPT Atlas at work."
   },
   {
     "id": "862429ef7fc559ed",

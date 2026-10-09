@@ -1,5 +1,15 @@
 [
   {
+    "id": "bd87c27ebb0ff857",
+    "title": "Put AI to work: Automate and scale financial operations",
+    "link": "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2024-09-30T00:00:00.000Z",
+    "snippet": "Put AI to work: Automate and Scale Financial Operations"
+  },
+  {
     "id": "abb8fd1e143df4cd",
     "title": "Upgrading the Moderation API with our new multimodal moderation model",
     "link": "https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model",
@@ -148,6 +158,16 @@
     "category": "AI",
     "publishedAt": "2024-09-12T00:00:00.000Z",
     "snippet": "Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions."
+  },
+  {
+    "id": "cea40bbbc6df6a77",
+    "title": "Put AI to work: Lessons from hundreds of successful deployments",
+    "link": "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2024-09-10T00:00:00.000Z",
+    "snippet": "Put AI to Work: Lessons from Hundreds of Successful Deployments"
   },
   {
     "id": "308aee57d8dc1bc7",

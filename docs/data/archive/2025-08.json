@@ -230,6 +230,16 @@
     "snippet": "Learn how Amgen uses GPT-5."
   },
   {
+    "id": "7b431c4620f17592",
+    "title": "GPT-5: Our best model for work",
+    "link": "https://openai.com/business/learn/gpt-5-our-best-model-for-work",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2025-08-07T00:00:00.000Z",
+    "snippet": "Watch a GPT-5 demo for work showing how the model can analyze feedback, create a product plan and prototype, and summarize next steps."
+  },
+  {
     "id": "62a1b8ad0947fbe4",
     "title": "Providing ChatGPT to the Entire U.S. Federal Workforce",
     "link": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce",
@@ -238,6 +248,16 @@
     "category": "AI",
     "publishedAt": "2025-08-06T00:00:00.000Z",
     "snippet": "Today, OpenAI for Government is announcing a new partnership with the U.S. General Services Administration (GSA) to launch a transformative initiative. For the next year, ChatGPT Enterprise will be available to the entire federal executive "
+  },
+  {
+    "id": "94c0ed69a0be1472",
+    "title": "Delegate work to ChatGPT agent",
+    "link": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2025-08-06T00:00:00.000Z",
+    "snippet": "Watch a ChatGPT agent demo showing how it can research, code, and take action online to complete a business plan in minutes."
   },
   {
     "id": "b6151d8b4eef5c0f",

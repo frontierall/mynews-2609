@@ -5551,13 +5551,13 @@
   },
   {
     "id": "45214d80a3ec905f",
-    "title": "태양광·풍력 발전 위한 날씨예보, 고해상도로 닷새 뒤까지 본다 - v.daum.net",
+    "title": "태양광·풍력 발전 위한 날씨예보, 고해상도로 닷새 뒤까지 본다 - Daum",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gb0NFY3g1ZjRGTU8tNUl6VV9sTEFmZUJYM3pkT0JZN1lxTXR0eTNlNlZDaUNBMVFuRGRvSEd3UmJuaTJ2NVVteU1yUVd0SjdxZDNuQQ?oc=5",
     "source": "날씨 뉴스",
     "sourceId": "weather-news",
     "category": "날씨",
-    "publishedAt": "2026-09-29T02:02:00.000Z",
-    "snippet": "태양광·풍력 발전 위한 날씨예보, 고해상도로 닷새 뒤까지 본다 v.daum.net"
+    "publishedAt": "2026-09-29T02:02:05.000Z",
+    "snippet": "태양광·풍력 발전 위한 날씨예보, 고해상도로 닷새 뒤까지 본다 Daum"
   },
   {
     "id": "74b068bd6f7656e6",
@@ -12858,6 +12858,16 @@
     "category": "경제",
     "publishedAt": "2026-09-25T07:08:29.000Z",
     "snippet": ""
+  },
+  {
+    "id": "e340960976580f86",
+    "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+    "link": "https://openai.com/index/lowes",
+    "source": "OpenAI",
+    "sourceId": "openai",
+    "category": "AI",
+    "publishedAt": "2026-09-25T07:00:00.000Z",
+    "snippet": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward."
   },
   {
     "id": "05c83853202b2f16",

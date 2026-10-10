@@ -1,5 +1,15 @@
 [
   {
+    "id": "943ada843075c568",
+    "title": "Eurydice로 Rust를 읽기 쉬운 C로 컴파일하기",
+    "link": "https://news.hada.io/topic?id=35135",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T20:37:10.000Z",
+    "snippet": "Eurydice는 Rust 코드의 전체 구조를 유지하면서 C로 변환하는 도구로, 기존 C용 검증 및 규정 준수 도구를 사용하는 고신뢰성 소프트웨어와 Rust 컴파일러가 없는 환경을 겨냥함 기계어 생성을 위한 최적화보다 원본 구조와 평가 순서 보존에 집중하며, 필요한 곳..."
+  },
+  {
     "id": "2cfe56d08e18d406",
     "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
@@ -10,6 +20,36 @@
     "snippet": "엔비디아가 AI 추론 칩 개발업체 d-매트릭스(d-Matrix)에 투자할 계획인 것으로 알려졌다. 경쟁 관계에 있는 반도체 업체들과 협력을 확대해 자사 GPU를 중심으로 한 AI 컴퓨팅 생태계를 넓히려는 움직임으로 풀이된다.디 인포메이션은 8일(현지시간) 거래에 정통한 소식통 3명을 인용해 엔비디아가 d-매트릭스에 투자할 계획이라고 보도했다. 투자 규모와 구체적인 조건은 공개되지 않았다.d-매트릭스는 AI 추론 작업에 특화된 "
   },
   {
+    "id": "4bf547f7e9f85e29",
+    "title": "FDA, 일부 독성 화학물질의 안전성 검토 없는 식품 첨가를 허용할 수도",
+    "link": "https://news.hada.io/topic?id=35134",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T20:34:10.000Z",
+    "snippet": "미국 FDA가 포장재와 가공 장비 등 식품 접촉 물질에 적용하던 규제 임계치 면제(TOR) 를 식품에 직접 넣는 성분까지 확대하는 규칙을 제안함 현행 면제 기준은 비발암성 물질, 0.5ppb 미만이지만, 공중보건 단체들은 일부 내분비계 교란 물질이 이보다 훨씬 낮은 ..."
+  },
+  {
+    "id": "d2cc1c8ac72d722d",
+    "title": "총 1억 3500만 원 납입한 일반 계좌 vs. IRP 계좌 … 15년 후 자산 차이는?",
+    "link": "https://www.mk.co.kr/news/economy/12172448",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T20:30:00.000Z",
+    "snippet": "단순 연말정산용 절세 상품에 그치지 않는 IRP의 효과찬바람이 불기 시작하면 연말 정산에 대한 관심도 함께 높아집니다. 이때 빠지지 않고 등장하는 금융상품이 개인형 퇴직연금(IRP.."
+  },
+  {
+    "id": "d78a5d6bbcabe2fd",
+    "title": "내 집값은 오르고 재산세는 내려가면 좋겠다",
+    "link": "https://news.hada.io/topic?id=35133",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T19:33:03.000Z",
+    "snippet": "미국 여러 주가 자가 거주 주택의 재산세를 감면하면서 학교와 경찰 등 공공서비스 비용 부담을 상업용 부동산 소유자, 다른 지방세, 주정부 재원으로 옮기고 있음 코로나19 이후 주택 가치 상승으로 자산이 늘어난 소유자들이 재산세 인상에 반발하고 있으며, 같은..."
+  },
+  {
     "id": "8c9628cbb7e08a1b",
     "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216107",
@@ -18,6 +58,26 @@
     "category": "AI",
     "publishedAt": "2026-10-10T18:53:43.000Z",
     "snippet": "마이크로소프트(MS)가 AI 에이전트의 의사결정을 빠르고 효율적으로 처리하는 전용 모델을 공개했다. MS는 9일(현지시간) 구조화된 의사결정 작업에 특화한 AI 모델 '마이크로소프트 디시전-1(Microsoft-Decision-1)'을 공개했다.초기 버전은 '큐원3.5-9B'를 기반으로 구축됐으며, 앞으로 마이크로소프트의 'MAI'와 오픈AI의 다른 모델을 기반으로도 확장할 계획이다.이 모델은 모델 선택과 요청 분류, 작업 우"
+  },
+  {
+    "id": "17447afdcf79a065",
+    "title": "C 언어의 정의되지 않은 동작 줄이기",
+    "link": "https://news.hada.io/topic?id=35131",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T18:37:52.000Z",
+    "snippet": "C 표준 위원회가 정의되지 않은 동작(UB) 을 줄이고 있으며, 진행 중인 C2y 초안은 기존 표준의 약 100개 UB 항목 중 45개를 제거함 UB가 있는 프로그램에는 표준이 요구사항을 부과하지 않아, 컴파일러의 공격적인 최적화와 개발자가 기대하는 실..."
+  },
+  {
+    "id": "71cef8a7be22d31e",
+    "title": "프리온 질환 치료제 후보물질 임상시험, 참가자 모집 시작",
+    "link": "https://news.hada.io/topic?id=35130",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T18:34:52.000Z",
+    "snippet": "Broad Institute와 UMass Chan Medical School이 개발한 프리온 단백질 표적 siRNA 후보물질이 첫 인체 시험에 들어감. 1상 임상시험 PRiSM에서 안전성과 내약성, 용량을 평가함 후보물질은 동일한 siRNA 두 개를 연결한 이가성 siRNA로, 프리온 단백질을 만드는 R..."
   },
   {
     "id": "94c777b1c229f39d",
@@ -38,6 +98,26 @@
     "category": "AI",
     "publishedAt": "2026-10-10T17:51:37.000Z",
     "snippet": "알리바바가 기존 이미지 생성 모델보다 작업 과정을 대폭 간소화해 속도를 높인 이미지 생성·편집 모델 '큐원 이미지 2.1 터보(Qwen-Image-2.1-Turbo)'를 공개했다. 이미지 생성에 소요되는 반복 연산 단계를 줄여 처리 속도를 높이고 효율성을 극대화하는 것이 목적이다.알리바바는 9일(현지시간) 기존 ‘큐원 이미지 2.1’을 기반으로 개발한 ‘큐원 이미지 2.1 터보’를 출시했다. 원본 모델의 70억개 매개변수 구조"
+  },
+  {
+    "id": "233f36ef9bfcdd1e",
+    "title": "Apple/macOS, 공식 Unix 등록부에서 조용히 삭제됨",
+    "link": "https://news.hada.io/topic?id=35129",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T17:36:18.000Z",
+    "snippet": "The Open Group의 UNIX 인증 제품 등록부에 IBM, Hewlett Packard Enterprise, The SCO Group 제품이 나열돼 있으며, 제공된 목록에는 Apple/macOS가 없음 Single UNIX Specification을 완전히 준수하고 인증받은 시스템만 UNIX 상표를 사용할 수..."
+  },
+  {
+    "id": "4afa6b3848841075",
+    "title": "Talorys - Cloudflare 무료 티어에서 셀프 호스팅하는 개인 AI 에이전트",
+    "link": "https://news.hada.io/topic?id=35128",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T17:33:17.000Z",
+    "snippet": "Talorys는 사용자 자신의 Cloudflare 계정에서 실행되는 무료 오픈소스 개인 AI 비서로, 대화와 기억 관리, 작업/노트/프로젝트 관리, 예약 자동화를 지원함 1인 사용을 전제로 설계되어 회원가입이나 팀 기능이 없으며, 개발자가 운영하는 서버나 데이터베이스 없..."
   },
   {
     "id": "b899e186be87f751",
@@ -228,6 +308,16 @@
     "category": "개발",
     "publishedAt": "2026-10-10T13:04:54.000Z",
     "snippet": "삭제된 Deno의 Cloudflare 관련 게시물을 복원해 달라는 요청임 복원을 요청한 이유는 해당 사안이 단순한 PR이 아니라 중요한 기술 뉴스이기 때문임 요청자는 Cloudflare가 오픈소스 팀들을 인수하면서 이들이 유지하는 프로젝트를 해체..."
+  },
+  {
+    "id": "05437895557ece69",
+    "title": "내일 10월 11일 전국 날씨 예보 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHVHbm1vcmpabkJtT0c0bVZlU1drMVg1anE2MWhFNHlXbkoyLUd2WGJINVp6Y1l4N2ozTDNvaTJiWm00MlRIbExSNTBYVUpVcG9ldXFTdkd0RXJieU1jZ21PdW5aMlo0eFNtYlJYSU5WUHJhTmlZcVNncVJfdUdPcnl6WlZkbTBPX0NTSFZ6bWdudw?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T13:00:00.000Z",
+    "snippet": "내일 10월 11일 전국 날씨 예보 Laodong.vn"
   },
   {
     "id": "3fd0f1c101bb2df0",
@@ -3858,6 +3948,16 @@
     "category": "경제",
     "publishedAt": "2026-10-08T07:33:40.000Z",
     "snippet": "분쟁조정위 반환 책임 조정결정금융사 직원의 착오로 고객 명의 계좌가 아닌 아들 명의 계좌를 해지하고 예탁금을 지급했다면 해당 금융사가 이를 반환할 책임이 있다는 금융당국의 판단이 .."
+  },
+  {
+    "id": "a846dcd25b170dd9",
+    "title": "‘남구다운 청년 창업 지원 사업(3차)’ 참가자 모집 - 시도민 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aTW5VZmhiMTRJcjdqcTNEWThsbndhcC1QOG1zTzBCWk9yc25hamQ1N001dTM2a3ZrSDR3VWduMEFlQjRGeUxBTzdjN1pKMzg?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-08T07:32:23.000Z",
+    "snippet": "‘남구다운 청년 창업 지원 사업(3차)’ 참가자 모집 시도민 뉴스"
   },
   {
     "id": "9c282d2754ad969f",

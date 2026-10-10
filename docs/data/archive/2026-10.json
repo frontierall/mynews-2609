@@ -1,5 +1,95 @@
 [
   {
+    "id": "8c9628cbb7e08a1b",
+    "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216107",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T18:53:43.000Z",
+    "snippet": "마이크로소프트(MS)가 AI 에이전트의 의사결정을 빠르고 효율적으로 처리하는 전용 모델을 공개했다. MS는 9일(현지시간) 구조화된 의사결정 작업에 특화한 AI 모델 '마이크로소프트 디시전-1(Microsoft-Decision-1)'을 공개했다.초기 버전은 '큐원3.5-9B'를 기반으로 구축됐으며, 앞으로 마이크로소프트의 'MAI'와 오픈AI의 다른 모델을 기반으로도 확장할 계획이다.이 모델은 모델 선택과 요청 분류, 작업 우"
+  },
+  {
+    "id": "94c777b1c229f39d",
+    "title": "테슬라, 유럽 승인 위해 'FSD' 명칭 떼고 '보조 주행'으로 교체",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216113",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T18:06:51.000Z",
+    "snippet": "테슬라가 유럽에서 운전자 보조 소프트웨어인 '완전 자율 주행 감독형(FSD·Full Self-Driving Supervised)'의 명칭을 '테슬라 보조 주행(Tesla Assisted Driving)'으로 변경했다. 유럽 규제 당국이 기존 명칭이 실제 기능보다 높은 수준의 자율주행을 제공하는 것처럼 오해를 일으킬 수 있다고 지적한 데 따른 조치다. 독일 교통부는 6일(현지시간) 공식 홈페이지를 통해 테슬라와의 협의를 통해 명"
+  },
+  {
+    "id": "7867b520cac466bd",
+    "title": "알리바바, 연산 단계 줄여 속도·효율 높인 '큐원 이미지 2.1 터보' 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216108",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T17:51:37.000Z",
+    "snippet": "알리바바가 기존 이미지 생성 모델보다 작업 과정을 대폭 간소화해 속도를 높인 이미지 생성·편집 모델 '큐원 이미지 2.1 터보(Qwen-Image-2.1-Turbo)'를 공개했다. 이미지 생성에 소요되는 반복 연산 단계를 줄여 처리 속도를 높이고 효율성을 극대화하는 것이 목적이다.알리바바는 9일(현지시간) 기존 ‘큐원 이미지 2.1’을 기반으로 개발한 ‘큐원 이미지 2.1 터보’를 출시했다. 원본 모델의 70억개 매개변수 구조"
+  },
+  {
+    "id": "b899e186be87f751",
+    "title": "메타 인수 무산된 마누스, 6700억 투자 유치로 독립 경영 가속",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216118",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T17:16:48.000Z",
+    "snippet": "AI 에이전트 스타트업 마누스(Manus)가 메타와의 인수 계약 무산 이후 처음 진행한 투자 라운드에서 5억달러(약 6700억원) 이상의 자금을 유치했다. 중국 당국이 20억달러(약 2조6000억원) 규모의 메타 인수를 가로막으면서 독자 노선으로 선회한 마누스는 이번 대형 투자를 발판 삼아 홀로서기에 속도를 내게 됐다.마누스의 모회사 버터플라이 이펙트(Butterfly Effect)는 5억달러가 넘는 투자 라운드를 완료했다고 "
+  },
+  {
+    "id": "daa34211d5f32134",
+    "title": "물리 법칙 실시간 예측하는 월드 모델 '오딧세이-3' 공개...\"벤치마크 최고 기록\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216110",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T17:00:38.000Z",
+    "snippet": "월드 모델 전문 오딧세이(Odyssey)가 물리 세계의 움직임과 사물 간 상호작용을 실시간으로 예측·생성하는 차세대 AI 모델 '오딧세이-3'를 공개했다. 로봇과 자율주행 등 피지컬 AI 시스템을 훈련하는 데 최적화된 이 모델은 주요 물리 예측 벤치마크에서 최고 기록을 세우며 주목받고 있다.자율주행과 로보틱스 분야의 베테랑인 올리버 캐머런과 제프 호크가 이끄는 오딧세이는 8일(현지시간) 파운데이션 월드 모델인 ‘오딧세이-3’의"
+  },
+  {
+    "id": "fb932986148360ce",
+    "title": "[AI 이슈트렌드] 대통령 지지율 제자리 속 은행권 해킹·누리호 발사·북한 도발 주목",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216119",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T16:22:49.000Z",
+    "snippet": "AI타임스와 이스트에이드의 10월 둘째 주(10월2일~9일) 이슈 분석 결과, 이재명 대통령 지지율과 시중은행 해킹 시도, 북한·미국 관련 소식이 상위권을 차지했다.이번 주 검색량 1위는 '이재명 대통령 지지율(11.22%)'이 압도적 비중을 차지했다. 한국갤럽 조사에서 국정 수행 긍정 평가는 37%로 3주 전과 같은 수준을 유지했다. 긍정 평가 이유로는 외교와 경제·민생이, 부정 평가 이유로는 부동산 정책과 국방·안보·대북이"
+  },
+  {
+    "id": "db76026ee442b6be",
+    "title": "백악관, AI 기업 '보안 사고' 보고 의무화...앤트로픽 침해 사건이 계기",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216120",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T16:16:31.000Z",
+    "snippet": "앤트로픽의 모델이 정부 시스템 무단 사용 및 보안 침해 사건을 일으키자, 트럼프 행정부가 모든 AI 기업을 대상으로 관련 사고의 즉각적인 보고와 시정 조치를 의무화하고 나섰다.백악관의 초지능 부대(Super Intelligence Force, SIF)는 10일 악시오스를 통해 발표한 성명을 통해 \"이러한 통보 및 시정 조치는 선택 사항이 아니다\"라며 \"이는 국가 안보에 필수적인 의무\"라고 밝혔다.이번 사항은 모든 AI 기업에 "
+  },
+  {
+    "id": "7a7740b85495cce9",
+    "title": "목포항구축제 16일 개막…파시·수산물 경매·항구 미식 한자리",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216086",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T15:55:00.000Z",
+    "snippet": "AI 생성 영상목포항의 전통 어시장 문화를 체험하고 지역 수산물과 항구 풍경을 함께 즐기는 ‘2026 목포항구축제’가 오는 16일 개막한다.목포시는 10월16일부터 18일까지 사흘간 목포항과 삼학도 일원에서 ‘2026 목포항구축제’를 개최한다고 밝혔다.올해 축제는 목포항의 어시장인 ‘파시(波市)’를 중심으로 전통 파시와 옛 항구도시의 모습을 재현하고, 실제 어선과 수산물을 활용한 공연·체험·미식 프로그램을 운영한다.축제 첫날인"
+  },
+  {
+    "id": "81a7d83da5568ee8",
+    "title": "앤트로픽 AI, 경찰 미제사건 제보 사이트에 '허위 제보' 소동",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216117",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T14:52:29.000Z",
+    "snippet": "앤트로픽의 AI 모델이 미국 필라델피아 경찰의 미제 살인 사건 제보 웹사이트에 허위 정보를 제출한 것으로 드러났다. 앤트로픽이 자동화 테스트 과정에서 발생한 자사 AI 모델의 비인가 행위를 공개하면서 알려진 사례다. AI 모델이 실제 수사기관에 허위 범죄 제보를 제출한 사실이 확인되면서, AI 에이전트의 웹사이트 접근과 행동을 통제하는 문제가 다시 부각됐다.월스트리트저널(WSJ)과 로이터 등에 따르면, 앤트로픽은 7일(현지시간"
+  },
+  {
     "id": "d02ad4ea8c1435a9",
     "title": "타입세이프, '제브' 출시 3주 만에 대규모 투자 유치...기업가치 10조 등극",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216111",
@@ -70,6 +160,206 @@
     "snippet": "일본의 대규모 태양광발전소에서 패널 아래 식물의 종수와 다양성이 주변 초지와 통계적으로 유의한 차이를 보이지 않은 것으로 나타났다. 2019년 가동 이후 별도의 식물 파종이나 제초제 사용 없이 연간 두 차례 풀을 베는 방식으로 관리한 발전소의 패널 아래와 주변 초지·숲 가장자리 등 5개 조사환경에서 211종의 식물이 확인됐으며, 패널 아래 식물군집은 초지보다 주변 숲 가장자리와 비슷한 특성을 보였다.도쿄도립대학교 연구진이 일본"
   },
   {
+    "id": "8c95c5406addfb25",
+    "title": "Tor Project와 Mullvad의 관계에 관한 성명",
+    "link": "https://news.hada.io/topic?id=35113",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T09:38:15.000Z",
+    "snippet": "Tor Project는 Mullvad 공동창립자의 정치 기부로 제기된 우려에도 기술 협력을 유지하되, 관계에 명확한 경계를 설정함 협력 지속 결정은 커뮤니티, 직원, 이사회와의 논의, 직원 설문, 재무 분석과 시나리오 검토를 거쳐 내려짐 Mullvad와의 협력은"
+  },
+  {
+    "id": "dafa8190070bf1ec",
+    "title": "Telegram Desktop 취약점으로 사용자 파일 탈취가 가능했음",
+    "link": "https://news.hada.io/topic?id=35112",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T09:35:15.000Z",
+    "snippet": "Telegram Desktop 7.2.8 이하에서 조작된 링크를 클릭하면 로컬 파일이 공격자 소유 채팅으로 유출될 수 있었으며, 로컬 패스코드가 없으면 세션 파일 탈취로 계정까지 장악할 수 있었음 실행 중인 Telegram에 링크를 전달하는 프로세스 간 통신(IPC) 에서 구분자를..."
+  },
+  {
+    "id": "0de099ba301f80e9",
+    "title": "\"립스틱 색깔마다 인증 받아야\"…코트라가 본 중국 수출 '복병'은",
+    "link": "https://www.hankyung.com/article/202610103537i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T09:01:28.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "3ae31445313e19f3",
+    "title": "아이디어를 찾기가 더 어려워지고 있는 것은 아니다 (2022)",
+    "link": "https://news.hada.io/topic?id=35111",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T08:44:13.000Z",
+    "snippet": "연구자 1인당 생산성 감소만으로 새로운 아이디어를 찾기 어려워졌다고 단정할 수는 없음. 연구 조직의 비효율과 유인 구조 등 다른 원인으로도 같은 결과가 나타날 수 있음 과거의 발견은 사후확신 편향 때문에 쉬워 보이고, 아직 떠올리지 못한 아이디어는 언제나..."
+  },
+  {
+    "id": "149518eaaa3cbfc5",
+    "title": "AI로 기록 보관소를 탐색해 잊힌 운석과 코뿔소 기록 등을 찾아냄",
+    "link": "https://news.hada.io/topic?id=35110",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T08:41:13.000Z",
+    "snippet": "의미 기반 검색과 다단계 AI 필터링으로 수백만 쪽의 역사 자료를 조사해 운석 낙하 보고, 코뿔소 세 마리의 운송 기록, 기존 목록에 없는 화산 분화 후보를 찾아냄 네덜란드 동인도회사 기록 435만 쪽, 570만 구절을 단일 GPU로 밤새 처리하고, 소형 판단 모델"
+  },
+  {
+    "id": "474dd1dbc448806e",
+    "title": "“중학생 딸한테 말랑이 줄게, 앱 깔아”…학교 앞 은행원 이색 영업 논란",
+    "link": "https://www.mk.co.kr/news/economy/12172730",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T08:28:53.000Z",
+    "snippet": "중학교 앞에서 학생들에게 ‘말랑이’ 장난감을 나눠주며 은행 앱 설치와 회원가입을 유도했다는 사연이 알려져 온라인에서 논란이다. 최근 사회관계망서비스(SNS)에는 한 학부모가 “중학.."
+  },
+  {
+    "id": "59e22f4e6d660526",
+    "title": "Anthropic AI 모델, 필라델피아 미해결 살인 사건에 허위 제보 제출",
+    "link": "https://news.hada.io/topic?id=35109",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T07:32:11.000Z",
+    "snippet": "Anthropic AI 모델이 무작위 웹사이트와 상호작용하는 테스트 중 미해결 살인 사건 제보 사이트에 접속해, 사건 정보를 아는 사람이 보낸 것처럼 허위 정보를 제출함 Anthropic은 사건을 발견한 뒤 해당 자동화 테스트를 종료하고 향후 테스트를 ..."
+  },
+  {
+    "id": "b2103879c8b35fae",
+    "title": "쥐도새도 모르게 고급와인 3만병 ‘싹쓸이’...현실판 ‘이탈리안잡’",
+    "link": "https://www.mk.co.kr/news/economy/12172717",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T07:11:44.000Z",
+    "snippet": "伊서 75억원 어치 무더기 도난 대형 트럭 2대에 옮겨싣고 도주이탈리아 토스카나의 한 유명 와이너리가 500만유로(약 75억원)에 달하는 고급 와인 3만 병을 무더기로 도난당하는 .."
+  },
+  {
+    "id": "64949c1320ad3cab",
+    "title": "곧 폭우가 쏟아질 것 같은데, 진앙지는 어디일까요? - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpQk1WTWs3YjJyWjZrelloaHNSWmN0VDdldzdyUmZxR2Y2ZEw5ZXdPY2Z4SGJTUl9TYWZoV1hwdGtLcEN5STlZbGx5d0VyMlk5a0ZRQmlEcU5CUG9xajU1RXFEQ0dURTVHN19BN2JmQUNyS2Nkdm5HeGJn?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T06:38:15.000Z",
+    "snippet": "곧 폭우가 쏟아질 것 같은데, 진앙지는 어디일까요? Vietnam.vn"
+  },
+  {
+    "id": "6bf375a890b74ff1",
+    "title": "로비",
+    "link": "https://news.hada.io/topic?id=35108",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T06:31:56.000Z",
+    "snippet": "기업과 부유층이 정치인의 재선 캠페인에 돈을 제공하고, 정치인이 이들의 요구를 듣고 법을 만드는 미국 로비 관행을 풍자함 돈이 정치인에게 직접 가는 것이 아니라 선거운동이나 Super PAC으로 들어간다는 구분만으로 뇌물과 다르다고 정당화하는 논리를 비꼼..."
+  },
+  {
+    "id": "41f1c1a4600f3f9a",
+    "title": "“최대 적립률 14% 진짜라고?”…컬리 매니아들 난리난 ‘이 카드’",
+    "link": "https://www.mk.co.kr/news/economy/12172709",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T06:13:45.000Z",
+    "snippet": "최대 14% 적립금 ‘컬리 신한카드’ 주목신한카드가 컬리에서 결제하면 이용금액의 7%를 적립해주는 ‘컬리 신한카드’를 최근 선보였다. 컬리 멤버십의 최대 7% 적립 혜택을 더하면 .."
+  },
+  {
+    "id": "fa05aff8c6ba6ac1",
+    "title": "“국민연금 19% 벌 때, 29개 기금은 2%대”…수익률 최대 8배 격차 왜?",
+    "link": "https://www.mk.co.kr/news/society/12172697",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T05:29:18.000Z",
+    "snippet": "68개 기금 중 4% 수익도 못거둔 기금 42개 “수익·안정성 모두 고려한 운용 유도해야”정부가 운용하는 68개 기금의 지난해 여유자금 운용수익률이 최고 18.97%에서 최저 2..."
+  },
+  {
+    "id": "ad912938ff34a2a5",
+    "title": "소송 끝난 뒤 '세금 폭탄' 터진다…개정 유류분법에 복잡해진 셈법",
+    "link": "https://www.hankyung.com/article/202610077375i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T05:00:09.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b1108f222b246d66",
+    "title": "‘롤 전설’ 페이커 위상, 이 정도였어?...기념우표도 나온다",
+    "link": "https://www.mk.co.kr/news/economy/12172692",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T04:45:50.000Z",
+    "snippet": "기념우표 전기 14만장 발행 서울 우표박물관에 전시e스포츠 리그 오브 레전드(LoL·롤) 월드 챔피언십 통산 6회 우승에 빛나는 ‘살아있는 전설’ 페이커 이상혁(T1·30) 선수의.."
+  },
+  {
+    "id": "9714ca639edf491b",
+    "title": "\"효도하고 받은 집, 유류분 방어하려면\"…증여 재산 지키는 법",
+    "link": "https://www.hankyung.com/article/202610020211i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T04:42:51.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "209eaf915a120208",
+    "title": "파나마에서 규모 7.6 지진 발생",
+    "link": "https://news.hada.io/topic?id=35107",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T04:31:45.000Z",
+    "snippet": "USGS는 파나마 Pitaloza Arriba 서남서쪽 12km에서 발생한 지진을 규모 7.7, 깊이 12.6km로 기록했으며, HN 제목의 규모 7.6과 차이가 있음 약 460만 명이 MMI V~VIII의 흔들림을 경험했으며, USGS는 흔들림의 영향과 재난 피해가 광범위할 가능성..."
+  },
+  {
+    "id": "da2364fc0660423e",
+    "title": "“내 코인 해킹됐는데 누가 책임지나요”…명문화 검토 나선 금융위 [AI 해킹, 다음은 코인③]",
+    "link": "https://www.mk.co.kr/news/economy/12172690",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T04:21:09.000Z",
+    "snippet": "가상자산 거래소에서 해킹 사고가 발생했을 때 사업자가 어디까지 책임져야 하는지, 사고 책임을 누가 입증해야 하는지를 법에 명확하게 규정하는 방안이 추진된다. 현행법에는 거래소의 이.."
+  },
+  {
+    "id": "2473df7de493d50b",
+    "title": "usAge - Claude·Codex·Cursor 등 AI 서비스의 사용량·잔여 한도·초기화 시각을 확인하는 앱",
+    "link": "https://news.hada.io/topic?id=35106",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T04:21:01.000Z",
+    "snippet": "안녕하세요. 여러 AI 서비스의 사용량과 남은 한도를 한곳에서 확인할 수 있는 앱, usAge를 만들었습니다. Claude, Codex, Cursor 등을 함께 쓰는 분들이 각 서비스의 대시보드를 따로 열지 않고도 얼마나 사용했는지, 언제 한도가 초기화되는지 확인할 수 있도록 만든 앱입니다. 앱 화면뿐 아니라 홈 화면 위"
+  },
+  {
+    "id": "089de10899b8202a",
+    "title": "똑같은 금메달인데…'100억' 안세영 웃고 나이키는 '낭패' [김소연의 얼굴전략]",
+    "link": "https://www.hankyung.com/article/202610080917g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T04:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "7281ba4f9ce7cc8f",
+    "title": "'양배추가 양상추보다 비싸졌다'…뒤집힌 채소값 [프라이스&]",
+    "link": "https://www.hankyung.com/article/202610103315i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T04:00:01.000Z",
+    "snippet": ""
+  },
+  {
     "id": "666ebc8d0ecd2e55",
     "title": "REA Reverse - 무엇이든 리버스 엔지니어링하기",
     "link": "https://news.hada.io/topic?id=35105",
@@ -78,6 +368,16 @@
     "category": "개발",
     "publishedAt": "2026-10-10T03:32:32.000Z",
     "snippet": "REA는 코딩 에이전트가 프로그램 자체를 검사하고 동작을 설명하도록 도구를 제공하며, 분석한 기능을 변경하거나 재구현하는 데 활용할 수 있음 사용자가 자연어로 질문하면 REA가 명령어, 디컴파일 코드, 호출 관계 등을 제공하고, 에이전트가 적용되는 분기와 계..."
+  },
+  {
+    "id": "452ebf8cf7a832d0",
+    "title": "한·중 청년기업가 200명 선전에 모여…“글로벌 협력 확대”",
+    "link": "https://www.hankyung.com/article/202610103408i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T03:26:31.000Z",
+    "snippet": ""
   },
   {
     "id": "a67977a2aca9bc35",
@@ -1100,6 +1400,16 @@
     "snippet": "인천 강화 길정리에 주민이 직접 참여하는 2메가와트(MW) 규모 수상태양광 발전소가 들어선다. 주민과 지역 농협이 사업에 공동 출자하고 발전수익을 주민 배당과 마을 복지 등에 활용하는 방식으로, 인천에서 추진되는 첫 ‘햇빛소득마을’이다.인천광역시는 강화군 양도면 길정리의 ‘길정햇빛소득마을협동조합’이 행정안전부 주관 햇빛소득마을 공모사업에 최종 선정됐다고 7일 밝혔다. 인천에 따르면 길정리 사업은 이번 공모에서 2MW 규모의 수"
   },
   {
+    "id": "7b0c8234f3c218b3",
+    "title": "AI로 쏠린 글로벌 벤처 투자, 금액은 늘고 건수는 줄어",
+    "link": "https://platum.kr/archives/295990?utm_source=rss&utm_medium=rss&utm_campaign=ai%25eb%25a1%259c-%25ec%258f%25a0%25eb%25a6%25b0-%25ea%25b8%2580%25eb%25a1%259c%25eb%25b2%258c-%25eb%25b2%25a4%25ec%25b2%2598-%25ed%2588%25ac%25ec%259e%2590-%25ea%25b8%2588%25ec%2595%25a1%25ec%259d%2580-%25eb%258a%2598%25ea%25b3%25a0-%25ea%25b1%25b4%25ec%2588%2598%25eb%258a%2594-%25ec%25a4%2584%25ec%2596%25b4",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-09T09:09:46.000Z",
+    "snippet": "2025년 전 세계 벤처캐피털(VC) 투자 금액은 2021년 이후 가장 큰 폭으로 늘었지만, 투자 건수는 4년 연속 줄었다. 전체 투자 금액의 절반 이상은 인공지능(AI) 분야로 향했고, 그 안에서도 소수 기업의 초대형 라운드가 큰 몫을 차지했다. 유엔 산하 세계지식재산기구(WIPO)가 9월 29일(현지시간) 발표한 ‘글로벌 혁신 지수(GII) 2026’에 따르면, 2025년 VC 투자 금액은 5,100억 달러로 전년보다 28"
+  },
+  {
     "id": "c0bcb91a008cf857",
     "title": "'부잣집 딸'처럼 입는다더니…2030 女 난리 난 패션",
     "link": "https://www.hankyung.com/article/2026100928931",
@@ -1188,6 +1498,16 @@
     "category": "경제",
     "publishedAt": "2026-10-09T08:56:57.000Z",
     "snippet": ""
+  },
+  {
+    "id": "cdedd5ba1ff92e34",
+    "title": "AI로 넓어진 도전의 문, 더 중요해진 선별",
+    "link": "https://platum.kr/archives/295985?utm_source=rss&utm_medium=rss&utm_campaign=ai%25eb%25a1%259c-%25eb%2584%2593%25ec%2596%25b4%25ec%25a7%2584-%25eb%258f%2584%25ec%25a0%2584%25ec%259d%2598-%25eb%25ac%25b8-%25eb%258d%2594-%25ec%25a4%2591%25ec%259a%2594%25ed%2595%25b4%25ec%25a7%2584-%25ec%2584%25a0%25eb%25b3%2584",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-09T08:53:47.000Z",
+    "snippet": "금융상품의 가격 움직임을 예측하는 모델로 겨루는 글로벌 퀀트 대회 ‘국제 퀀트 챔피언십(IQC)’의 올해 등록자는 약 15만 6,000명으로 집계됐다. 2024년 약 3만 8,000명, 2025년 약 8만 명에 이어 해마다 두 배 가까이 늘었다. 국내 정부 창업 공모 ‘모두의 창업’의 2차 모집에도 9만 2,838명이 신청해 1차 6만 2,944명을 넘어섰다. 두 프로그램에서 AI가 등장하는 방식은 다르다. IQC를 여는 .."
   },
   {
     "id": "3bd48ad6783174a9",
@@ -9138,6 +9458,16 @@
     "category": "개발",
     "publishedAt": "2026-10-06T07:04:07.000Z",
     "snippet": "Iroh가 BitTorrent Mainline DHT와 별도 주소 인덱스를 결합해, BLAKE3 해시로 콘텐츠 제공자를 찾고 데이터를 내려받는 실험적 시스템을 구현함 콘텐츠 탐색과 전송을 분리하고, iroh-blobs의 BLAKE3 검증 스트리밍으로 데이터를 검증함. DHT가 잘못된 제공자를 반..."
+  },
+  {
+    "id": "47049296ba59da6c",
+    "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 일본 제조혁신 실전 프로그램 참가기업 모집 공고 - 인천광역시",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG5qSGFTSDl0bnJBQk9QTDRFNEFaQnk5OEp0YU1wcjZhenpQUVFYNUxGNE5JcTcwYTJJRXc1Z2VWSU9nNWpwQ0xhTmhRQXg0Rmc4Vi1CbDIyeE9lOHRwbEU3ejRtU3BxRDlGNkFpSHluX3piRTM1MlgzLVVjS3I1YndqalNDaUpmS3dIWTJDUQ?oc=5",
+    "source": "정부지원정책",
+    "sourceId": "gov-support",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-06T07:00:00.000Z",
+    "snippet": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 일본 제조혁신 실전 프로그램 참가기업 모집 공고 인천광역시"
   },
   {
     "id": "7e2dbec90225bfa8",

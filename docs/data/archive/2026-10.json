@@ -1,5 +1,505 @@
 [
   {
+    "id": "d02ad4ea8c1435a9",
+    "title": "타입세이프, '제브' 출시 3주 만에 대규모 투자 유치...기업가치 10조 등극",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216111",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T11:48:28.000Z",
+    "snippet": "의사결정 특화 모델 '제브(Jev)'를 개발한 타입세이프 AI(TypeSafe AI)가 출시 몇 주 만에 기업가치 75억달러(약 10조원)를 인정받았다. 지난 9월 공개한 제브가 개발자와 기업들 사이에서 빠르게 퍼져 나가며 대규모 투자를 유치했다. 타입세이프 AI는 9일(현지시간) 앤드리슨 호로위츠(a16z)가 주도한 투자 라운드에서 8억7000만달러(약 1조1000억원)를 유치했다고 발표했다. 세쿼이아 캐피털과 기존 투자자인"
+  },
+  {
+    "id": "ab57f337d4a87210",
+    "title": "\"6~12개월 내 터진다\"…주요 AI 기업, 최악의 AI 재난 시나리오 가동",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216112",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T11:06:32.000Z",
+    "snippet": "앤트로픽과 오픈AI 등 주요 AI 기업들이 대규모 재앙적 사고 이후 닥쳐올 대중적 분노와 정치적 반란 사태를 가정해 비공개 시나리오 검토에 착수한 것으로 확인됐다. 이들은 앞으로 6개월에서 1년 안에 실제 치명적인 사고가 발생할 수 있다고 보고, 위기 발생 직후의 대응 전략을 가다듬고 있다.9일(현지시간) 악시오스에 따르면, 이번 시나리오 기획에 참여한 핵심 관계자들은 금융 서비스 마비, 인터넷 접속 중단, 전력 및 상수도 시"
+  },
+  {
+    "id": "1a609765af1ea8cb",
+    "title": "구글, '제미나이 4 아르곤' 후속 '카본' 테스트 중…\"오퍼스 5.5 수준\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216109",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T10:06:05.000Z",
+    "snippet": "구글이 차세대 플래그십 모델 '제미나이 4 아르곤(Argon)'의 정식 공개를 앞두고, 사내에서 향상된 코딩 성능을 갖춘 내부 체크포인트 모델 '카본(Carbon)'을 테스트 중인 것으로 알려졌다.비즈니스 인사이더는 10일(현지시간) 구글 직원들이 내부 전용 코딩 플랫폼인 '제트스키(Jetski)'를 통해 제미나이 4의 신규 버전인 카본을 테스트하고 있다고 전했다.구글은 9월30일 아르곤을 공식 발표하고 일부 사이버 보안 파트"
+  },
+  {
+    "id": "f8460659e0e4d017",
+    "title": "[내면 지도 그리기] 37 Inner Mapping: 나를 찾는 지도",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216116",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T10:00:00.000Z",
+    "snippet": "내면지도_추석의 숙제 추석이 지나간 지 보름이 되었습니다. 고속도로의 정체는 풀렸고, 냉장고에 남아 있던 전과 나물도 거의 사라졌습니다. 오랜만에 모였던 사람들은 다시 각자의 집과 일터로 돌아갔습니다. 명절을 위해 움직였던 몸과 음식과 선물은 모두 제자리로 돌아간 듯합니다.그런데 마음도 어디론가 다녀왔을까요.2024년, 유네스코는 말레이시아의 아침 식사 문화를 인류무형문화유산으로 등재했습니다. 나시 르막이나 로티 차나이처럼 특"
+  },
+  {
+    "id": "caaea6f0d3ff4261",
+    "title": "[AI카툰] Bob, Senior IT guy - 밥, 마운자로효과보면…",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216114",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T10:00:00.000Z",
+    "snippet": "글·그림 Dr. Alf"
+  },
+  {
+    "id": "9d148fb40fb94bac",
+    "title": "폴란드, 태양광·배터리 결합 지원…2027년 가정용 배터리 20만대 목표",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216057",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T09:50:00.000Z",
+    "snippet": "폴란드가 주택용 태양광과 에너지저장장치(ESS)의 결합을 확대하기 위해 10억즐로티(약 3424억원) 규모의 가정용 저장장치 지원 프로그램을 시행한다. 태양광 등 소규모 재생에너지 설비를 보유한 가구가 대상이며, 전기 배터리에는 최대 1만6000즐로티(약 548만원)를 지원한다.폴란드 기후환경부와 국가환경보호수자원관리기금(NFOŚiGW)은 지난 2일(현지시간) 가정용 에너지저장장치 지원 프로그램을 발표했다. 신청은 오는 20일"
+  },
+  {
+    "id": "2a228508a7a90619",
+    "title": "일본 태양광발전소서 식물 211종…패널 아래 다양성, 초지와 비슷",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216066",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI",
+    "publishedAt": "2026-10-10T09:45:00.000Z",
+    "snippet": "일본의 대규모 태양광발전소에서 패널 아래 식물의 종수와 다양성이 주변 초지와 통계적으로 유의한 차이를 보이지 않은 것으로 나타났다. 2019년 가동 이후 별도의 식물 파종이나 제초제 사용 없이 연간 두 차례 풀을 베는 방식으로 관리한 발전소의 패널 아래와 주변 초지·숲 가장자리 등 5개 조사환경에서 211종의 식물이 확인됐으며, 패널 아래 식물군집은 초지보다 주변 숲 가장자리와 비슷한 특성을 보였다.도쿄도립대학교 연구진이 일본"
+  },
+  {
+    "id": "666ebc8d0ecd2e55",
+    "title": "REA Reverse - 무엇이든 리버스 엔지니어링하기",
+    "link": "https://news.hada.io/topic?id=35105",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T03:32:32.000Z",
+    "snippet": "REA는 코딩 에이전트가 프로그램 자체를 검사하고 동작을 설명하도록 도구를 제공하며, 분석한 기능을 변경하거나 재구현하는 데 활용할 수 있음 사용자가 자연어로 질문하면 REA가 명령어, 디컴파일 코드, 호출 관계 등을 제공하고, 에이전트가 적용되는 분기와 계..."
+  },
+  {
+    "id": "a67977a2aca9bc35",
+    "title": "코딩 에이전트는 왜 이렇게 멍청할까?",
+    "link": "https://news.hada.io/topic?id=35104",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T03:03:09.000Z",
+    "snippet": "AI 지원 개발은 발전했지만, 모델을 코드베이스와 시스템에 연결하는 에이전트는 작업 관리, 위임, 소통에서 여전히 병목으로 남아 있음 작업을 하위 과제로 나눠도 병렬 실행과 모델별 위임이 미흡해, 간단한 작업까지 느리고 비싼 모델에 맡기거나 사람이 직접 모..."
+  },
+  {
+    "id": "7eec852a544831e7",
+    "title": "‘연휴 날벼락’ 대구 마트 천장 붕괴...36명 경상",
+    "link": "https://www.mk.co.kr/news/economy/12172686",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T03:02:14.000Z",
+    "snippet": "66명 대피...중상자는 없어10일 대구의 한 마트에서 천장이 내려앉는 사고가 발생해 36명이 경상을 입었다. 소방 당국에 따르면 이날 오전 10시 16분쯤 대구 북구 관음동 한 .."
+  },
+  {
+    "id": "3717573a836a3fc7",
+    "title": "오늘(10월 10일) 날씨 예보: 베트남 중부 일부 지역에 매우 많은 비가 내릴 예정이며, 일부 지역에서는 강우량이 200mm를 넘을 것으로 예상됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0RISTQwalRpYXh1TmNXUjFaTGZQc25rSjdybV9GQVVJY2hWLWZhd0dlR1I2Q0lkTUExUXVXQVZjTEoxZ3hCSnk4NFZtYW55Rlg3akxwS1VkNExuWTFDOGhBMFpySF9ENVR2Ylg5VFUxWDFyWGtVa1FEb0c0YjlraVAtbThqSk5oWGpmR29kWncwamdxUzdaOXd3?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T02:58:39.000Z",
+    "snippet": "오늘(10월 10일) 날씨 예보: 베트남 중부 일부 지역에 매우 많은 비가 내릴 예정이며, 일부 지역에서는 강우량이 200mm를 넘을 것으로 예상됩니다. Vietnam.vn"
+  },
+  {
+    "id": "19d5ebe9396528e6",
+    "title": "StepFun의 100만 토큰 컨텍스트 MoE 모델 Step 5 Preview, OpenRouter에 등장",
+    "link": "https://news.hada.io/topic?id=35103",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T02:48:41.000Z",
+    "snippet": "Step 5 Preview는 대규모 코드베이스와 문서를 다루며 도구 사용과 여러 단계의 결과 개선을 수행하도록 설계한 StepFun의 에이전트 작업용 주력 모델임 희소 MoE 구조로 전체 6,000억 개 파라미터 중 270억 개를 활성화하며, 100만 토큰 컨텍스트"
+  },
+  {
+    "id": "3f5aa072729962b5",
+    "title": ".lan 신규 gTLD 신청",
+    "link": "https://news.hada.io/topic?id=35102",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T02:45:40.000Z",
+    "snippet": "Coffee Danger, LLC가 .lan을 신규 일반 최상위 도메인(gTLD)으로 신청함 신청 상태는 활성(Active) 임 현재는 평가 전 처리 단계(Pre-Evaluation Processing) 임 신청자 소재지는 미국, 지역 구..."
+  },
+  {
+    "id": "a5a3c0d5206e8d1f",
+    "title": "AI 학습용 생물학 데이터 구축에 전 세계 약 2.7조원 투입 약속",
+    "link": "https://news.hada.io/topic?id=35101",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T02:42:40.000Z",
+    "snippet": "Biohub, 미국 에너지부(DOE), 국립보건원(NIH) 과 민간 파트너가 생물학 예측 AI를 위한 공개 데이터 구축 협력을 확대함. 총 18억 달러($1.8b) 규모로, 신규 자금뿐 아니라 기존 투자로 구축한 데이터, 연산 자원, 측정 기술을 포함함 목표는 세포의 작동과 개입에..."
+  },
+  {
+    "id": "a6aab7b572a6e007",
+    "title": "Microsoft-Decision-1, 빠른 의사결정을 위한 Microsoft의 모델",
+    "link": "https://news.hada.io/topic?id=35100",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T02:39:40.000Z",
+    "snippet": "Microsoft가 라우팅, 분류, 우선순위 지정, 검증, 워크플로 제어를 위한 Microsoft-Decision-1을 출시함. 정해진 선택지마다 보정된 확률을 반환해 소프트웨어가 바로 의사결정에 활용할 수 있음 Qwen3.5-9B를 사후 학습해 한 번의 처리로 선택지를 평가하도록 설계..."
+  },
+  {
+    "id": "742283152fcea4ce",
+    "title": "“명령어 몇줄로 AI 해킹”...은행 털었던 ‘아르텍스’ 결국 개발 중단",
+    "link": "https://www.mk.co.kr/news/economy/12172679",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T02:12:02.000Z",
+    "snippet": "中개발자 “악용 우려, 업데이트 안해” 종전 배포본 사용은 못 막아최근 한국 금융권에 대한 무차별 해킹 공격에 활용된 것으로 알려진 중국산 인공지능(AI) 침투테스트 도구 ‘아르텍.."
+  },
+  {
+    "id": "0cf790071bf327da",
+    "title": "학생들에게 무엇을 말해줘야 할까?",
+    "link": "https://news.hada.io/topic?id=35099",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T01:51:23.000Z",
+    "snippet": "AI의 발전 때문에 수학 진로를 포기하기보다, 수학에 대한 열정과 전문성을 쌓으려는 목표를 기준으로 박사과정 진학을 결정해야 함 AI가 인간의 수학 연구 능력을 넘어설지는 아직 알 수 없음. 현재의 낙관론도 틀릴 수 있으며, 종신재직 교수와 고용이 불안정한 ..."
+  },
+  {
+    "id": "ca4845716a7a3000",
+    "title": "‘월리스와 그로밋’, 90%를 혼자 만들다",
+    "link": "https://news.hada.io/topic?id=35098",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T01:48:23.000Z",
+    "snippet": "Nick Park는 첫 Wallace and Gromit 영화인 A Grand Day Out을 졸업작품으로 시작해, 자신의 추산으로 약 90%를 혼자 제작함 제작비와 인력의 제약 속에서 캐릭터도 달라짐. Gromit은 애니메이션 작업의 어려움 때문에 대사를 없애면서 눈만으로 감정을 드..."
+  },
+  {
+    "id": "21cd9dbb45717a12",
+    "title": "국제형사재판소에 대한 제재 부과",
+    "link": "https://news.hada.io/topic?id=35097",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T01:45:23.000Z",
+    "snippet": "미국은 미국인에 대한 기소를 허용하지 않겠다는 방침에 따라 국제형사재판소(ICC)를 제재 대상에 지정함 제재는 ICC와의 거래 금지를 통해 자원을 차단하고 운영 능력을 마비시키는 것을 목표로 함 미국 정부는 미국과 미국 국민이 ICC 관할권의..."
+  },
+  {
+    "id": "c185d9aa7b2fd8fe",
+    "title": "이란의 공작, ChatGPT로 만든 가짜 기사를 실제 미국 매체에 게재",
+    "link": "https://news.hada.io/topic?id=35096",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T01:42:23.000Z",
+    "snippet": "이란 내 ChatGPT 사용자들이 AI로 생성한 가짜 기사를 미국 언론 매체에 게재함 OpenAI에 따르면 최소 20개 언론 매체에 AI 생성 기사 약 100건이 실림 플로리다의 소규모 주간지 Port St. Joe Star에도 이란 전쟁의 비용을 경고하는 AI..."
+  },
+  {
+    "id": "9352ceba772c95dd",
+    "title": "[영상] 2026년 10월 10일 날씨 예보: 장기간 지속되는 폭우로 베트남 중부 지역에 홍수 위험, 일조량 감소 및 북부 삼각주 지역에 더 많은 강우 예상. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTHQ4YzFWNWx0dUhDSFJRMV9LSkNHU0I5VkRZRUl0S3pSQVVPRXp3WnpZT0luTzdCWG1uNVBZbFlLMHYteHVrdG9VWkxqZG9HMUxpNFltMG9aVkxBQWp5YWJWNDRCMjBrRVk1eHhieUltY1NUQmFQMWRMR2tNOFJRb2xLUGU4T0lCWDVvcTdYSHN5YnhPS2NoN0pJVVA2Z3h3Y1pkQnNVZ3pyUEQ4bHozbUZEOTRUdzIyLWJkQ3ZSYndtaVZzMngzUmExa3BVZnByNWNJTms2b2dvOEcxRnBySW9OOA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T01:41:38.000Z",
+    "snippet": "[영상] 2026년 10월 10일 날씨 예보: 장기간 지속되는 폭우로 베트남 중부 지역에 홍수 위험, 일조량 감소 및 북부 삼각주 지역에 더 많은 강우 예상. Vietnam.vn"
+  },
+  {
+    "id": "3826221d4bfe9d95",
+    "title": "“버는 돈도, 남는 돈도 딴판”…수도권 집값 상승에 재산 격차 더 벌어져",
+    "link": "https://www.mk.co.kr/news/economy/12172672",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T01:33:42.000Z",
+    "snippet": "저소득층 96% 쓰고 고소득층은 47% 남겨가계 소득이 전반적으로 늘고 있으나 재산 격차는 더 벌어지고 있다. 소득이 적은 가구는 생활비를 쓰고 나면 저축할 돈이 부족한 반면 여유.."
+  },
+  {
+    "id": "429c4df7ada3b294",
+    "title": "“한-우크라, 어쩌다 이 지경까지”...짐싸서 韓들어온 우크라대사",
+    "link": "https://www.mk.co.kr/news/economy/12172671",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T01:26:01.000Z",
+    "snippet": "駐우크라대사, 한국으로 귀국 ‘北포로 공개’ 갈등, 양국관계 악화 항의 뜻으로 19년만에 대사소환박기창 주우크라이나대사가 10일 오전 귀국했다고 외교부가 밝혔다. 이에 앞서 8일 .."
+  },
+  {
+    "id": "026f492947a002fb",
+    "title": "10월 10일 날씨 예보: 베트남 중부 지역에 폭우가 쏟아지겠으며, 하노이에는 비가 내리고 기온이 떨어지겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC16RUxkalhGY0xJejhMZ2xJXzRHNmI4N3FwNHV4aUFBOWFvQWRkWmdvS3ZTdENEVER0VmJPWDVjcDRRaUpObnRVSmpsdWF2M0JOYkgxX1FoYmgxSGpSTkZWN21fRlNwMGt2MGhFMXBBX3o4SklZcHIzZEtzYVduRlBzNzFsN3FtcVJvaENpYVBEd0VyWHByRnRCSmV4U3EyTVE?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T01:06:31.000Z",
+    "snippet": "10월 10일 날씨 예보: 베트남 중부 지역에 폭우가 쏟아지겠으며, 하노이에는 비가 내리고 기온이 떨어지겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "24e018198e0f6b7d",
+    "title": "트럼프 AI기업에 으름장...“사고내면 즉각 피해 책임”",
+    "link": "https://www.mk.co.kr/news/economy/12172666",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T00:56:28.000Z",
+    "snippet": "美정부, AI 시정 의무화 방침 잇단 오작동에 자율규제서 선회미국 도널드 트럼프 행정부가 인공지능(AI) 기업들을 겨냥해 개별 회사 모델이 일으킨 각종 사고를 정부에 즉시 신고하고.."
+  },
+  {
+    "id": "eb1309fb6f68bcdb",
+    "title": "a16z의 2026년 기술 시장 분석 - 소프트웨어에서 AI 인프라로 이동하는 투자",
+    "link": "https://news.hada.io/topic?id=35094",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T00:55:01.000Z",
+    "snippet": "기술 산업이 시장 전체의 성장과 투자 흐름을 주도하며, 2026년 S&P 500 이익 증가분의 약 76% 를 차지함. 대형 클라우드 기업의 연간 설비투자는 약 8,000억 달러, 2027년부터는 1조 달러 이상으로 예상됨 AI 투자금은 GPU뿐 아니라"
+  },
+  {
+    "id": "7356f39d652587f8",
+    "title": "독일, 옛 탄광을 유럽 최대 호수 지대로 전환",
+    "link": "https://news.hada.io/topic?id=35093",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T00:51:19.000Z",
+    "snippet": "독일 동부 Lusatian Lakeland에서 폐탄광을 호수로 바꾸는 수십 년간의 사업이 진행 중이며, 마지막 주요 구성 요소인 Lake Sedlitz가 2026년 4월 말 수영과 보트 이용객에게 개방될 예정임 인공호수 23개와 총 수면적 1만 4,000헥타르를 아우르는..."
+  },
+  {
+    "id": "2cc0ecb6521f2cf1",
+    "title": "\"아이 키우려면 돈 벌어야 하는데\"…26세 싱글맘의 눈물 [차이나 워치]",
+    "link": "https://www.hankyung.com/article/202610079376i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T00:49:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "bc398a5a78715d3c",
+    "title": "MXC - 샌드박스 코드 실행 시스템",
+    "link": "https://news.hada.io/topic?id=35092",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T00:48:19.000Z",
+    "snippet": "MXC(Microsoft eXecution Container) 는 모델 출력, 플러그인, 도구 등 신뢰할 수 없는 코드를 Windows, Linux, macOS에서 격리 실행하는 시스템임 애플리케이션에 내장하는 SDK 형태로 동작하며, OS 네이티브 프로세스 샌드박스부터 전체 VM까지 여러 백엔드를 통..."
+  },
+  {
+    "id": "a353d4b5ad9d35e7",
+    "title": "Yandex 데이터센터, 48시간 내 두 번째 피격",
+    "link": "https://news.hada.io/topic?id=35091",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T00:45:18.000Z",
+    "snippet": "러시아 칼루가 지역의 Yandex 데이터센터가 드론 공격을 받아 여러 모듈의 가동이 완전히 중단됐다고 러시아 국영 통신사 TASS가 회사 발표를 인용해 전함 칼루가 시설은 Yandex의 러시아 최대 데이터센터로 설계됐으며, 2023년 하반기에 가동을 시작함 계..."
+  },
+  {
+    "id": "b3693775d5be9a60",
+    "title": "Show HN: Carrier-Explode - iPhone, Pixel, Galaxy의 통신사 설정을 디코딩하는 서비스",
+    "link": "https://news.hada.io/topic?id=35090",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T00:42:18.000Z",
+    "snippet": "Carrier-Explode는 iPhone, Pixel, Galaxy 펌웨어의 통신사 설정을 디코딩해 조회하고 비교할 수 있는 서비스임 각 휴대전화의 통신사별 APN, VoLTE, Wi-Fi Calling, 5G 설정을 확인할 수 있음 필요한 기능을 기준으로 통신사를 찾고, 두..."
+  },
+  {
+    "id": "6121ad2db0925a08",
+    "title": "TypeSafe AI, 기업가치 약 11.3조원으로 약 1.3조원 투자 유치",
+    "link": "https://news.hada.io/topic?id=35089",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T00:39:18.000Z",
+    "snippet": "TypeSafe AI가 Andreessen Horowitz 주도로 기업가치 75억 달러($7.5b)에 8억 7,000만 달러($870m) 규모 시리즈 A 투자를 유치함 Sequoia Capital, 기존 투자자 DCVC, 엔젤 투자자들이 참여했으며 Martin Casado가 이사회에 합류함 개발..."
+  },
+  {
+    "id": "f63f2573ce3336e9",
+    "title": "[930 날씨] 남부지방·제주에 비 예보…큰 일교차 유의 - KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95T1lKVHdTelRQSVE5OFFwN1hyZ25GUGJlTGZtUU8wNzJZb0dRaG1KMVJIa2NMOWFENEN2eVVQT1FxenFFdmxITWhoVHZNeDRyR0ZtdUJRU0NEWVU?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T00:37:00.000Z",
+    "snippet": "[930 날씨] 남부지방·제주에 비 예보…큰 일교차 유의 KBS 뉴스"
+  },
+  {
+    "id": "2f732444155f5a75",
+    "title": "치폴레, 이번엔 백화점으로…내달 신세계 강남에 2호점 연다",
+    "link": "https://www.hankyung.com/article/202610103307i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T00:36:12.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "0bf2735e25a8f9d8",
+    "title": "vgpu - 브라우저와 Node.js에서 같은 코드로 쓰는 경량 WebGPU 라이브러리",
+    "link": "https://news.hada.io/topic?id=35088",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T00:30:03.000Z",
+    "snippet": "셰이더 효과, 3D 장면, GPU 연산과 시각화를 만드는 개발자를 위한 TypeScript 기반 WebGPU 라이브러리 브라우저, 화면 없이 실행하는 Node.js, 테스트 환경에서 동일한 공개 API로 코드 재사용 가능 .wgsl 셰이더 파일을 모듈처럼 가져오고..."
+  },
+  {
+    "id": "0fc1d222697ca314",
+    "title": "“왜 내 통장 출금 안돼?”...장애 잦은 금융사 이유있네",
+    "link": "https://www.mk.co.kr/news/economy/12172660",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T00:26:54.000Z",
+    "snippet": "전산장애 많은 금융사 20곳 보안예산 집행률 70% 밑돌아전산장애 발생이 많은 금융사 20곳의 지난해 정보보호 예산 집행률이 70%를 밑도는 것으로 조사됐다. 민감한 고객 개인정보.."
+  },
+  {
+    "id": "acaaa42d8b0a0d60",
+    "title": "프로그래밍은 특별하지 않다",
+    "link": "https://news.hada.io/topic?id=35087",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T00:02:37.000Z",
+    "snippet": "프로그래밍도 예술이며, 기능적인 결과물을 만든다는 이유로 다른 창작 분야와 달리 AI 사용을 정당화할 수는 없음 예술은 초월적인 작품에만 한정되지 않으며, 광고 문구와 일상적인 코드처럼 실용적인 창작 노동도 같은 기술과 연습을 바탕으로 함 비동..."
+  },
+  {
+    "id": "001e53c66b7006af",
+    "title": "검색 제국 흔들리는 바이두…AI 클라우드·로보택시서 돌파구",
+    "link": "https://www.hankyung.com/article/202609144116i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T00:00:07.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "81c71b299a9f7a3f",
+    "title": "\"김장을 왜 해요?\"…1kg '3만원' 김치 불티나는 이유 [프라이스&]",
+    "link": "https://www.hankyung.com/article/202610078534i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T00:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "97f8b98f5f016f75",
+    "title": "누구도 섬이 아니다 - AI가 지적 공동체를 해체할 때",
+    "link": "https://news.hada.io/topic?id=35086",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-09T23:52:33.000Z",
+    "snippet": "개인의 지적 활동을 오래 지속하려면 인간 공동체가 필요하며, AI가 공동체를 해체하면 혼자 배우고 만드는 활동도 줄어듦 AI 에이전트에 업무를 맡기고 취미로 프로그래밍을 계속하리라는 기대와 달리, 함께 읽고 배우고 만들어갈 공동체가 약해지면 개인의 즐거움만으로 활동을 이..."
+  },
+  {
+    "id": "d85e8828fe76b3a4",
+    "title": "Python 3.15 정식 출시 - 지연 임포트, 불변 딕셔너리, UTF-8 기본 인코딩 도입",
+    "link": "https://news.hada.io/topic?id=35085",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-09T23:49:33.000Z",
+    "snippet": "Python 3.15.0 정식 출시로 UTF-8을 기본 인코딩으로 사용하고, 불변 딕셔너리 frozendict와 고유한 표식 값을 만드는 sentinel 내장 타입 추가 명시적 지연 임포트로 모듈을 처음 사용하는 시점까지 로딩을 미뤄 시작 시간을 줄일 수 있..."
+  },
+  {
+    "id": "9d97bddfb89afe90",
+    "title": "유튜버, 경찰 추적용 Flock 방식 카메라를 만들자 경찰이 찾아왔다고 밝혀",
+    "link": "https://news.hada.io/topic?id=35084",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-09T23:46:33.000Z",
+    "snippet": "캐나다 소프트웨어 엔지니어이자 유튜버인 Anthony Sistilli가 경찰차 동선을 추적하는 자동 번호판 인식(ALPR) 카메라를 직접 제작해 설치함 Sistilli에 따르면 Peel Regional Police 소속 경찰관 2명이 집을 방문해 수집한 데이터를 어떤 목적으..."
+  },
+  {
+    "id": "be186ee1c107c526",
+    "title": "미국, 전직 ICC 판사의 노벨평화상 수상 몇 시간 뒤 ICC 제재",
+    "link": "https://news.hada.io/topic?id=35083",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-09T23:43:33.000Z",
+    "snippet": "Trump 행정부가 전직 국제형사재판소(ICC) 판사의 노벨평화상 수상 몇 시간 뒤 재판소 자체에 제재를 부과하며 유럽 동맹국들과 외교적 충돌을 빚음 기존 검사와 판사 개인에 대한 제재를 넘어 ICC와의 거래를 금지하는 조치로, 재판소에 서비스를 제공하는 기업까..."
+  },
+  {
+    "id": "158980f9bd370365",
+    "title": "AAA 지뢰찾기",
+    "link": "https://news.hada.io/topic?id=35082",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-09T23:40:32.000Z",
+    "snippet": "AAA 지뢰찾기"
+  },
+  {
+    "id": "4e0d904819b36034",
+    "title": "\"뭐가 진짜 불닭면이지?\"…짝퉁 한 방에 가르는 기막힌 기술",
+    "link": "https://www.hankyung.com/article/2026101032617",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-09T23:32:11.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "555bbf120cbca113",
+    "title": "Have you heard? Pokimane at Chipotle, a Rooster Teeth reunion, and a Mike Tomlin Minecraft update.",
+    "link": "https://www.tubefilter.com/2026/10/09/have-you-heard-pokimane-chipotle-rooster-teeth-mike-tomlin-minecraft/",
+    "source": "Tubefilter",
+    "sourceId": "tubefilter",
+    "category": "크리에이터 이코노미",
+    "publishedAt": "2026-10-09T23:00:29.000Z",
+    "snippet": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, the newest fast-casual menu item comes from a streaming star, two internet legend"
+  },
+  {
+    "id": "65da72899df7997a",
+    "title": "2026년 10월 10일 오늘 응에안 지역 날씨 예보: 일부 지역에서는 150mm가 넘는 폭우가 내린 후 해가 나올 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMXJhQjFrZVE0TmNSc0Y2ZnMyZWROeW5BNHNJQi02Q2RBTjNLX1NVSWkxWXRwVXRwUW9VYklqcTF3V1EyVlFBcXY2emw2MTZVXzhzbzJhMFY1bmo3SWlLM2xSakdjemVDQ3JKMU5Wc1pBSUxTQ1NqZGNRejJvYWFpbERGbWlick9hTGtoZFZjamt5OGJ3WUVpSmlETTlPYWhfbE5DLUNZOGUzT29fNFlPMEtrRko2SEQwaG13bnNoOA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-09T22:53:23.000Z",
+    "snippet": "2026년 10월 10일 오늘 응에안 지역 날씨 예보: 일부 지역에서는 150mm가 넘는 폭우가 내린 후 해가 나올 예정입니다. Vietnam.vn"
+  },
+  {
+    "id": "16717766d5376f53",
+    "title": "[오늘 전국 날씨예보] 기상청 날씨누리, “10일, 오늘과 내일 남부지방/제주도 중심, 모레 오후 전국 대부분 가끔 비” - 한국강사신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfcU81XzJRYkZDWkRwaHFVSGxBTjFxWWI3VTk0OGVWRmhXcFBDUEZvNmRZdkNRa3otRTU1R3kwZS1oNXktYmxQMTE4S3dDNTYxSVI0YzhSV2hycjRYdzhZMFJJR0hXNWFfVlllNDZnYUg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-09T22:53:08.000Z",
+    "snippet": "[오늘 전국 날씨예보] 기상청 날씨누리, “10일, 오늘과 내일 남부지방/제주도 중심, 모레 오후 전국 대부분 가끔 비” 한국강사신문"
+  },
+  {
+    "id": "75d57c42d20d351f",
+    "title": "“신호 위반했으니 8500만원 내라”…작심한 건보공단 청구에 법원은? [어쩌다 세상이]",
+    "link": "https://www.mk.co.kr/news/economy/12172643",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-09T22:41:33.000Z",
+    "snippet": "70세 운전자, 신호 위반하다 택시와 충돌 건보공단 “12대 중과실”…치료비 환수 통보 법원 “신호 위반만으로 중대 과실 단정 못해”교통사고로 다쳐 건강보험으로 치료를 받으면 병원.."
+  },
+  {
+    "id": "3e5cd75e632d8fb8",
+    "title": "2026년 10월 10일 날씨 예보: 며칠간 쌀쌀한 날씨가 이어진 후, 북부 지역에는 폭우가 내릴 예정이며, 많은 지역에서 천둥번개와 강풍에 주의해야 합니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFNtT25FX1VCSDJFbDBFTlVUeEhkREJlaUNlMnQwdHJwd1A3UkVkWFJsQ3oxUEQ1MHlLUFFXTjUwR0xSTFlMLTJ1bXBlSVdDVGpycUlnLW1WT096am5ESTJOSmtfVzNDa0l1VmZYNktUeFVDV0JwelpvUjg5TEdneVpHX1ZXd3NiczI1VlkyRGtBM0J5QTZlOGdGYkpiS3M0bWVXclBhUlgxdnRORHNhb2hoNFZ0WllwWVVocmFwNHhJUQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-09T22:23:40.000Z",
+    "snippet": "2026년 10월 10일 날씨 예보: 며칠간 쌀쌀한 날씨가 이어진 후, 북부 지역에는 폭우가 내릴 예정이며, 많은 지역에서 천둥번개와 강풍에 주의해야 합니다. Vietnam.vn"
+  },
+  {
     "id": "8555ad329efb518c",
     "title": "매경이 전하는 세상의 지식 (매-세-지, 10월 10일)",
     "link": "https://www.mk.co.kr/news/economy/12172424",
@@ -7590,6 +8090,16 @@
     "snippet": "전 세계 연구를 종합한 결과, 대부분의 생태계 서비스와 기능은 소수의 종만으로 충분해지는 것이 아니라 생물다양성이 높아질수록 계속 증가함 423개 연구, 222,829개 데이터 포인트를 분석한 이번 연구는 종들이 서로를 대신해 종 손실의 영향을 줄인다는"
   },
   {
+    "id": "cf84298bc0468418",
+    "title": "오늘 밤과 내일(2026년 10월 6일) 날씨 예보: 북부 지역은 밤에 춥고, 중부 지역에는 매우 많은 비가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWVNYcjJKUXNnSVFIMEpIQ3hxZ0NaNVRaTzRwN1NITHVFTWtEVVhKd05mVUdFTHlYWW9QNGxobjV3TGEyVjZ2Nm5xWllrQkNhSzhkZHExZk90QVFZdHdtbTZWSXNqYm85S2x0dlZXSTdUSHRhRnVDalNmdjNuZXA0aUhickd1R0tHWlRESDdHNE9iYlV4Mk5KMTZBVjV5b2xTZTFhWWFQYVVjYjAxbkw5c3RLTno?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T14:43:17.000Z",
+    "snippet": "오늘 밤과 내일(2026년 10월 6일) 날씨 예보: 북부 지역은 밤에 춥고, 중부 지역에는 매우 많은 비가 내리겠습니다. Vietnam.vn"
+  },
+  {
     "id": "bd2b4d78e024d813",
     "title": "Polars 2.0 출시",
     "link": "https://news.hada.io/topic?id=34894",
@@ -7908,6 +8418,16 @@
     "category": "개발",
     "publishedAt": "2026-10-06T10:52:49.000Z",
     "snippet": "안녕하세요. 금융학습 서비스 HOWBIG을 만들었습니다. 돈 관리부터 경제, 투자상품, 기업분석, 포트폴리오까지 순서대로 배울 수 있도록 구성했습니다. 저축 비율을 계산하거나 기업의 매출과 이익을 비교하는 등, 주어진 자료를 읽고 직접 판단하는 문제로 학습합니다. 학습은 다음과 같이 진행됩니다"
+  },
+  {
+    "id": "3e378e8753254a0e",
+    "title": "오늘 밤과 내일(2026년 10월 7일) 날씨 예보: 베트남 북부는 맑은 날씨와 추운 밤을 보이겠고, 중부 베트남은 매우 많은 비가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWpLbF93VlU1dWVJbFowVm1xVEQyNmxYTE5ySlBEb0NaSkpZZXVBMVhEZ0VxcDBJWEdhczhvRF9RSTc2ei03MWJSTXhoakJ4d0lMQlZWMi1IUjlvUkdNaTVRM2VySjZTdWJiYlNkZ2FnRGVFcE9vWU4zdHoxZ2psRHozQlBoc1E0T3ZUTzF0ZGl4T0taNV9BRndJckVvMHNvaGp3ZUpjc3RHbjN2Q3Vpa3V6SURKdHVaRXVr?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-06T10:48:22.000Z",
+    "snippet": "오늘 밤과 내일(2026년 10월 7일) 날씨 예보: 베트남 북부는 맑은 날씨와 추운 밤을 보이겠고, 중부 베트남은 매우 많은 비가 내리겠습니다. Vietnam.vn"
   },
   {
     "id": "4ff2eba5b369cf67",

@@ -1,5 +1,235 @@
 [
   {
+    "id": "ba3d4599d2c626de",
+    "title": "도시는 당신이 짓지 않길 바라는 도시 건설 게임",
+    "link": "https://news.hada.io/topic?id=35141",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-11T00:32:20.000Z",
+    "snippet": "Discretionary Review는 기술 산업 호황 속 주택이 부족한 샌프란시스코에서 개발업자가 되어 주택 건설을 추진하는 시뮬레이션 게임임 부지를 골라 계획을 세운 뒤 환경 검토, 위원회 심의, 이의 제기, 소송, 허가 절차를 거쳐야 하며, 이후에도 사업성이 남아 있..."
+  },
+  {
+    "id": "47fb0c826be3336c",
+    "title": "Eve - 디렉터리 하나로 AI 에이전트를 정의하고 배포하는 Vercel 프레임워크",
+    "link": "https://news.hada.io/topic?id=35140",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-11T00:30:02.000Z",
+    "snippet": "에이전트 개발자가 Markdown과 TypeScript 파일만으로 에이전트를 실행하거나 배포할 수 있는 프레임워크 지침, 도구, 채널을 정의하고 상태를 유지하며, 웹 개발의 Next.js처럼 파일 구조와 실행 인프라를 함께 제공 instructions.md에 역할과 기본 지침을 작성하면 최소 에이..."
+  },
+  {
+    "id": "7fe9421c81783d27",
+    "title": "“결국 빚 안 갚은 사람만 신났나”…부실채권 소각에 성실 채무자 ‘허탈’ [금융가 톺아보기]",
+    "link": "https://www.mk.co.kr/news/economy/12172848",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-11T00:06:29.000Z",
+    "snippet": "은행권이 장기간 회수하지 못한 대출채권을 잇달아 소각하고 있다. 채무자가 갚아야 할 빚을 은행이 없애주는 것이다. 금융 취약계층의 재기를 돕는다는 취지지만 성실하게 빚을 갚은 차주.."
+  },
+  {
+    "id": "2e81ee3f14d140fc",
+    "title": "아, 표준 C에서는 문자열의 부동소수점 변환 오류를 이식성 있게 검사할 수 없는 모양이다",
+    "link": "https://news.hada.io/topic?id=35139",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-11T00:04:54.000Z",
+    "snippet": "표준 C의 문자열→부동소수점 변환 함수는 math_errhandling에 따라 오류 보고 방식이 달라지며, 언더플로 보고는 선택 사항이라 모든 구현에서 검출을 보장할 수 없음 POSIX는 표준 C와 달리 오버플로와 언더플로 발생 시 ma..."
+  },
+  {
+    "id": "c4365c7dbb318afa",
+    "title": "2026년 10월 11일 날씨 예보: 북부 지역은 맑고 건조하며, 하노이의 기온은 섭씨 32도까지 오르겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmRlLUlRSUZaaloxQlJab1RNakxFa3A2Rk9GVU1ta2JoOUJSV2RRMFd5S05hN3pUWXcyNk8xYi1HVU9JV1pfWU91RWJOYnJiOTFkZTFiaXhYLXUyLUgyeGtiUjh6X1huYmFBMlBJcXowSHRSSVlIelNISnVQVE5yQWNCLWlnV2RjZF9ZazFnbHFlS19FTGtoSUx3?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T23:56:00.000Z",
+    "snippet": "2026년 10월 11일 날씨 예보: 북부 지역은 맑고 건조하며, 하노이의 기온은 섭씨 32도까지 오르겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "3229e255548d830a",
+    "title": "양도세 12억 비과세 받으려면…조정지역 2년 내 처분",
+    "link": "https://www.hankyung.com/article/202610080320i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T23:43:02.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "43aaff17a16d0033",
+    "title": "빵지순례 다음은 떡지순례…\"하루 백명씩 대기표 뽑는다\" [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202610103322i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T23:00:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "e86188f5da2fc21c",
+    "title": "[제주도 날씨예보] 13일 오전까지 최대 60㎜ 비…중산간 짙은 안개 주의 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRZUF0ZkZMYjFfb3lfbkpHUUJOOVdGTjZ5SHgzQzhoQUlBdE1lUHNKS1Qyb3FLaVUxWngwbjZLNzlCOThmT3NvbTg4WTZ3UWhXS2lOOUJEYklkTFQyaVl2NVpYT0dvWWlwMm5pd0xCSjXSAXRBVV95cUxQOXp6WVVmMmx3VV8zT3FFNW8tYzQ2VEtnMUQ2SnNJX2lUc2drSHNrRENnU2hqMERsVC05T2hWUUl6YXFsWlRnV0t5MmtLUHZmcG1SYlo0LU1oeE9DNW1qdzRkOHpSVm8yaEU4MHJXd1ZUV2k3QQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:53:28.000Z",
+    "snippet": "[제주도 날씨예보] 13일 오전까지 최대 60㎜ 비…중산간 짙은 안개 주의 더페어"
+  },
+  {
+    "id": "a02710e443f463bb",
+    "title": "[강원도 날씨예보] 오늘 5~20mm 소나기…14일 아침 기온 급락 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wV080TjF0RG9ybTRfWGlkakF3VVZUaUJFYWh3VEp6MkoySlRqQTBoUTAyaTY0TXgzN2dYcFF1N0JTUUNRek0xZnRGUVZGOEVxdnZNOUtFZGlaSXVkbFZGTWRld0xZODMteV9COXFmeWLSAXRBVV95cUxOZ3BfMXcwRnpQbWlnWENUVVp3dDB4VkpkUVZ2T1pmQ2RVWTNXakxjMFBVUE9nZFNmd1VHeHNPZVQxSU9ha19zMFBDaHdCME5iVFM0RnhpTjVxdnVqMDNadXNKUzFVTkhoNU1YZVh2YUlfV0hLVA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:50:39.000Z",
+    "snippet": "[강원도 날씨예보] 오늘 5~20mm 소나기…14일 아침 기온 급락 더페어"
+  },
+  {
+    "id": "865a768d5ecf1ad4",
+    "title": "[충북 날씨예보] 오후 5~20㎜ 소나기…낮 최고 28도 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SUnFtOW1vQ3VIb2YwQWNVWlM1bnpuRDdDYTdRaU9rVWlaRldTMWFkMEw2MzhxTVJLR3g5NlYxaXhnbTRIdXRfSnZNY3hadVU5aVdFcFpoSnhoLUYwNS1CY0hqYUItaUZHQ2hvYmMtbULSAXRBVV95cUxNTVFqTXlLS0F0OTVZOGd2V0hRYzNXLUctdm1sbmdsYVd0YUpwRzdocEp0eWQ5XzR1VnlPWFFhUjNjWEJOZmI3M0pMbTNld0VkTEF0MFlWQm0tRHZfUGlaNUJDNlBJUDlfTV95NFVDRjlEaXNDRg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:47:38.000Z",
+    "snippet": "[충북 날씨예보] 오후 5~20㎜ 소나기…낮 최고 28도 더페어"
+  },
+  {
+    "id": "f3166b0502ac67f5",
+    "title": "[대전·세종·충남 날씨예보] 오후 5~20㎜ 소나기…일교차 10도 안팎 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EUWxIZWJ1YTBWaGk0d295aEEwNGVuM3o4Ukh2MXdDV211eUsycnluVnN6dDdqOGpndTBPUGxiX1p2R0x1TEpHTzg5VkpvRlNQQ2VPM3VvTG1fSWppeGVyc21QQXFCVURrQmhXVFlyTUbSAXRBVV95cUxNbnpOMkY0dnp0WXFuZFYyOFlQVGw1UkNXTXpnTzNXY3hMWFFkOHROMHVEM0pDc1dKNDMtOVh6MnVfbXpXVEM3RkFseWZsZXQzV2lLZVZxcjVZWkdQT3NvbXA1c2prampDM1VES182Q3pWbkFWQQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:44:35.000Z",
+    "snippet": "[대전·세종·충남 날씨예보] 오후 5~20㎜ 소나기…일교차 10도 안팎 더페어"
+  },
+  {
+    "id": "a3688113feb10dc9",
+    "title": "[전북 날씨예보] 동부 오후 한때 5~10㎜ 소나기…낮 최고 27도 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CMUVyNlF0cFpQeGFnUDVqVmpiZ2JIOVh5YldhVXZwVy1EbWZIR2g1Z1M1MmRrVGIxOG0xaUZKaVdOUEZSTjEwMTNwdzZ2cW51cVBVWjFpU25DUV9VbnhtMnc2bS1yS0tUTDIyMFdmMVLSAXRBVV95cUxQWmlyazJid2Yyb1JoNzhDOEJLbms1V2NvRlRwcENZUEFDNzAxazdMaUZpLVZzOHRRQXlCNjZLSmcwbjhKRWZUcjdvTXloZ21lcXB5RXVBRWd2ell5VEoyWkdWbm81NVlnWU00U1FNTW1Tb250VA?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:40:51.000Z",
+    "snippet": "[전북 날씨예보] 동부 오후 한때 5~10㎜ 소나기…낮 최고 27도 더페어"
+  },
+  {
+    "id": "3df9d06f05e7a184",
+    "title": "[광주·전남 날씨예보] 전남동부 오후 소나기…13일 최대 40㎜ 비 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jRmUtamY3Q20xTG9mM0RIckc1NURSZ2lvZjdVR0xMOHB3VTRSVzE4RmhWLS0wdU9teEVFcm1kajF4ck1jdk5hSng3bzF5d2lKbVhjbElLUnBHV1BKSWw0SWJCdWVTZkhLMGxNanA0VlPSAXRBVV95cUxNUnJvM2E3alQwdHdHUUlhdUZ4Z1VNNlFVOF9zNjJ2eVJ2dHVmZXFwdDhjTHE5aS1UZHhFTlhQdXU4MW1CS1o1NlB0RUExb05zR0hZeG55Nm5ta0xfUVJqVmNnTmhtQ1JySTFFek5mOURfTUdMYQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:37:54.000Z",
+    "snippet": "[광주·전남 날씨예보] 전남동부 오후 소나기…13일 최대 40㎜ 비 더페어"
+  },
+  {
+    "id": "2bd2b694639ef5c2",
+    "title": "[대구·경북 날씨예보] 오후부터 저녁까지 소나기…예상 강수량 5~10㎜ - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15b3VvZzlKM0hSTGtEVHNGNUtIb2RrUjRDXzNVeXdwUDloUk5Fa3hrZkJ4SkI1LUN4Z2dLQjNnM1VidkFhUjMwdHBlcDB2MWJIci1JM1BWRl9oMWF6azg3ZU1ZSHNpQTQxSXZHd2ROTkPSAXRBVV95cUxOWmVuSTVOaHZOSDY3blE0UmhOajlkQ2FqQmF1dHRtbHBfX2kxdmdNSGZWZk9RbjZwVHd2bUdFLW9zQ3pTZlJuTXRJSDNRMFRmbVlVdTBaUGoxX0tMbUplNXJrMm5FaUMzS1RoMUVMQWZPSExSdQ?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:35:03.000Z",
+    "snippet": "[대구·경북 날씨예보] 오후부터 저녁까지 소나기…예상 강수량 5~10㎜ 더페어"
+  },
+  {
+    "id": "dc7189d7a5787407",
+    "title": "“내년엔 1200원대도 가능”…‘반도체 달러’ 덕에 원화 강세 계속될까",
+    "link": "https://www.mk.co.kr/news/economy/12172825",
+    "source": "매일경제 경제",
+    "sourceId": "mk-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T22:33:46.000Z",
+    "snippet": "수출 호조세에 달러 공급 이어져 시장선 원화값 추가 상승 가능성한때 1550원대까지 하락했던 달러당 원화값이 1300원대 중반에서 안정적으로 머물고 있다. 반도체 수출 호황에 달러.."
+  },
+  {
+    "id": "399bed5dc18b22ee",
+    "title": "전구형 컴퓨터",
+    "link": "https://news.hada.io/topic?id=35138",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T22:32:29.000Z",
+    "snippet": "Lightbulb Computer는 프로젝터와 컴퓨터 비전을 큰 전구 형태로 결합해, 일상 공간의 표면과 사물에 정보를 투사하는 기기 구상임 음성 명령과 손가락으로 가리키는 동작을 인식하고 눈앞의 내용을 분석해, 주방 레시피 표시부터 지도 탐색, 스마트홈 제어까지 화..."
+  },
+  {
+    "id": "c47b81201d5e30ae",
+    "title": "[부산·울산·경남 날씨예보] 경남서부내륙 오후 소나기…낮 최고 28도 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GS1RIclN0bXAxamVLVVpDTlNXWmZzRnk3a1RYZjlhQkJaMUt0QjlpbWN2NjB0clQ2VXE0ZjA4VlB1dl80MklxcXczalA4YlVoaU9wQXpsZHRvLXBrSTdrTDJza0JSMndua3VGRW93LU_SAXRBVV95cUxNVGgxRnRGSmdISmRldVIwWUEyV1o1b1VyTlhtTDdYMW8tQW9BT1YyUlBFWnROSFAwRDFHalRWcHRvVEEwZlNCVW5hMWFzaFFNSnc0QmJ4TmI5ZUlKdF9STHZlSkVNVnNfZDVWWE9MMzZTd1lSbg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:31:11.000Z",
+    "snippet": "[부산·울산·경남 날씨예보] 경남서부내륙 오후 소나기…낮 최고 28도 더페어"
+  },
+  {
+    "id": "a8b0ba656c9e0a50",
+    "title": "스타벅스는 안 간다더니…5개월 만에 1위 자리 되찾았다",
+    "link": "https://www.hankyung.com/article/2026101137887",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T22:30:01.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "a4b72e1806131b0e",
+    "title": "[수도권 날씨예보] 낮 최고 28도…경기남부 소나기·천둥번개 - 더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FcndFYm1YaGNjMkF3c1lMckhqY2MxRjNxWVFTcXBDMWhwOVVGRVdIRWNVeEVlSmlkNjhUZ0NqcEpGR2lkWkVBVXBCTHdXeHYtU1pLM09ZRF9iQ1ZfR082TUtnQzg1R1BzcE1aY3J3XzTSAXRBVV95cUxNaWdabjd5NmZ4NXRyZGlIS3VzRkNSVnlPV1BQanF4Y2dfbFNoVTVFaUs1LWlDS2duUU9fandoQzZweVVjUnpxQWJNbk53em5BcWhuQUVzbTZ6bXRfQmxPWk14MWt3cEp2Z1g2Y05IQmxOeDB1Tg?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:27:43.000Z",
+    "snippet": "[수도권 날씨예보] 낮 최고 28도…경기남부 소나기·천둥번개 더페어"
+  },
+  {
+    "id": "a95e6a7e5f7fe933",
+    "title": "2026년 10월 11일 오늘 응에안 지역 날씨: 폭우는 점차 그치고 맑은 하늘이 예상되며, 기온은 30°C까지 오르겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzVBT0c2V2RFZFJYWXB0VzlncWVJZkhuSkE0aGhjWmwxRWpDTW5xcTJ0NG5Oc0c4WnBwa3JQNXRFYVBZZkt1MkQtMER4S3ZxMmJBM0pTWkk2UmctMHAtbG1IN3k4Q0VwcHZMbF9QRnJuNWd2Q3RlLVA5NkNVRWpuQWdMdFh0dVcwWHVRd2lTa1NSR0p2M1kwaFBROWFvWDE5akVCcy1SbDdmdGdVbml6azdTR19DY2s?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T22:21:53.000Z",
+    "snippet": "2026년 10월 11일 오늘 응에안 지역 날씨: 폭우는 점차 그치고 맑은 하늘이 예상되며, 기온은 30°C까지 오르겠습니다. Vietnam.vn"
+  },
+  {
+    "id": "60a18b4e638a678f",
+    "title": "지배권 프리미엄 배분 문제 해결을 위한 법적 과제 [디엘지 기업법무 핵심노트]",
+    "link": "https://www.hankyung.com/article/202610065081i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T22:00:04.000Z",
+    "snippet": ""
+  },
+  {
+    "id": "b54ee4accabc0476",
+    "title": "Mxc: Microsoft Execution Containers 버전 1.0.0",
+    "link": "https://news.hada.io/topic?id=35136",
+    "source": "긱뉴스(GeekNews)",
+    "sourceId": "geeknews",
+    "category": "개발",
+    "publishedAt": "2026-10-10T21:32:20.000Z",
+    "snippet": "Microsoft Execution Containers(MXC) 가 정식 출시됨. 개발자와 IT 관리자가 에이전트에 허용할 파일과 네트워크 등의 자원을 선언하면, 컨테이너가 실행 중 해당 경계를 강제함 정책은 에이전트의 통제 밖에 유지되므로 모델, 생성 코드, 플러그인, 도구가 스스로..."
+  },
+  {
+    "id": "421848773cb32a12",
+    "title": "\"마시면 다음날 삭제\"…1000만병 팔린 전설의 술 돌아온다 [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202610082021i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-10T21:00:05.000Z",
+    "snippet": ""
+  },
+  {
     "id": "943ada843075c568",
     "title": "Eurydice로 Rust를 읽기 쉬운 C로 컴파일하기",
     "link": "https://news.hada.io/topic?id=35135",
@@ -358,6 +588,16 @@
     "category": "개발",
     "publishedAt": "2026-10-10T11:32:35.000Z",
     "snippet": "Read Rare는 Apple, Intel, Google, Netflix, Facebook 등을 만든 사람들의 내부 메모, 유출된 핸드북, 잊힌 책 등 54개 자료를 모은 목록임 자료는 문서 29개와 책 25권으로 나뉘며, 모두 무료로 읽거나 빌릴 수 있음 문서 목록에는"
+  },
+  {
+    "id": "20a5544af30655a2",
+    "title": "오늘 밤과 내일(2026년 10월 11일) 날씨 예보: 북부 지역은 맑고, 중부 지역 일부에는 매우 강한 비가 내리겠습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlhwSkFfUU1DNmk1M194OUlCY1JSdHZWV0FqOHJCclVaLTZBT1l3dXF1QXNEenQxUWoxZHFLYnNVenlfeUVScjJvZFFzb0c4aWpjdDhGOFczdzl6R1FFdXNqTlRVVXI3bFdHYmQta05GeDdaUEhTSHUwOVhKbHNudWhGUHRoUUx0OEJ2MXBPLWxaQUdXdVNwbVFsUUNGUVI3NmtFdE9xck4wTmtPcDVlR1dISURKdWF0?oc=5",
+    "source": "날씨 뉴스",
+    "sourceId": "weather-news",
+    "category": "날씨",
+    "publishedAt": "2026-10-10T11:14:27.000Z",
+    "snippet": "오늘 밤과 내일(2026년 10월 11일) 날씨 예보: 북부 지역은 맑고, 중부 지역 일부에는 매우 강한 비가 내리겠습니다. Vietnam.vn"
   },
   {
     "id": "adcc8dacf794a491",
@@ -4757,246 +4997,6 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-08T01:00:10.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "81994eed90d8108f",
-    "title": "\"전력망 10년 걸린다\"…막힌 중국 뚫어낼 한국 '이 기술'",
-    "link": "https://www.hankyung.com/article/202610078798i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-08T01:00:07.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "b503163637f76405",
-    "title": "K컬처 붐 타고 해외서도 '한글 로고'…\"한글날 100돌\" 들썩 [트렌드+]",
-    "link": "https://www.hankyung.com/article/202610089866g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-08T00:55:48.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "fcca1c5ff167a3d8",
-    "title": "대구 남구, `남구다운 청년 창업 지원 사업 3차` 참가자 모집 - 매일신문",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zcDhNem9NZzhJeHJuTWc1YXIwczJTSTI4QWJ0ZnF2bThORlg1X2ctd3FmbUticzhZaG5wQ1pFV0dNd3BucXAxaFRQU05ZR2RJbUpqOUNmaUFwNTdYWlhWYVp3?oc=5",
-    "source": "정부지원정책",
-    "sourceId": "gov-support",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-08T00:52:30.000Z",
-    "snippet": "대구 남구, `남구다운 청년 창업 지원 사업 3차` 참가자 모집 매일신문"
-  },
-  {
-    "id": "6d0f90c78956e7b4",
-    "title": "\"겨울 日여행지 넓힌다\"…제주항공, 가고시마·하코다테 노선 운항 재개",
-    "link": "https://www.hankyung.com/article/202610080128g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-08T00:51:52.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "760c62b0f7ff6b63",
-    "title": "pg-jev - 자연어 조건으로 데이터를 검색하고 분류하는 PostgreSQL 확장",
-    "link": "https://news.hada.io/topic?id=34981",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-08T00:50:02.000Z",
-    "snippet": "SQL 안에 “고객이 화가 났는가”, “어느 팀이 처리해야 하는가” 같은 자연어 조건을 넣어 행을 필터링하고 분류하거나 점수순으로 정렬하는 확장 자연어를 SQL로 바꾸는 도구가 아니라, 각 행의 내용을 TypeSafe의 Jev 모델이 판단하고 그 결과를 SQL에서 사용하..."
-  },
-  {
-    "id": "45ff227e3697ba53",
-    "title": "LG에너지솔루션, 3분기 영업익 7560억원…분기 최대 매출",
-    "link": "https://www.hankyung.com/article/202610080287g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-08T00:45:33.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "4e729948c413c26c",
-    "title": "a16z의 2026년 소비자 AI 앱 Top 100",
-    "link": "https://news.hada.io/topic?id=34980",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-08T00:45:01.000Z",
-    "snippet": "ChatGPT가 웹·모바일 이용량과 미국 소비자 지출에서 선두를 유지하며, Claude는 웹 3위로 올라 DeepSeek와 Perplexity를 앞섬 소비자 지출 분석을 처음 추가했으며, 상위 1%의 월평균 AI 지출은 903달러로 유료 이용자 중앙값인 25달러와 큰 차이를 보임"
-  },
-  {
-    "id": "b47cdd6e49cb0027",
-    "title": "네이버, 단풍철 앞두고 '등산 테마날씨' 강화…301개 산 맞춤 예보 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TNkRaMGl0LVdGVENPVUIwQ2NmUGpkeXJYdUhhbm9kbmNxblVobEFaWGhCSGN5eUdYcTlwRVlwdTlIZ3dna3NfTnRfdFJnY1pCdTNDSHdfb29ycnMw?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-08T00:42:00.000Z",
-    "snippet": "네이버, 단풍철 앞두고 '등산 테마날씨' 강화…301개 산 맞춤 예보 뉴스핌"
-  },
-  {
-    "id": "f9c283624342f46e",
-    "title": "\"세계 최초 코치도어 보러 가자\"…제네시스 수지서 대규모 전시",
-    "link": "https://www.hankyung.com/article/202610080228g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-08T00:40:32.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "b08f961adc2b4109",
-    "title": "네이버, 301개 산 ‘등산 날씨’ 제공…코스별 기온·바람·강수 한눈에 - 이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNckZ6RkY1ZUlYQ1NLN2c3bmlpNmtobTVlZHYySkpLLXppMFpGLVUtbml4elh5cVV6Q0pPMzlia3FGUXkyNFkxR284WEpLSGptMmdJZmxGWXdRejVtT0x6N0JOUVR0MVpXVW84VXo0ZVlobVBnTGJ6Vjc1cXhwZ2pNVg?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-08T00:40:21.000Z",
-    "snippet": "네이버, 301개 산 ‘등산 날씨’ 제공…코스별 기온·바람·강수 한눈에 이데일리"
-  },
-  {
-    "id": "75694dc6d5012709",
-    "title": "전 세계에서 소셜 미디어가 민주주의를 해친다고 보는 사람이 늘어남",
-    "link": "https://news.hada.io/topic?id=34979",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-08T00:38:16.000Z",
-    "snippet": "Pew Research Center의 37개국 조사에서, 과거와 비교 가능한 국가 대부분은 소셜 미디어가 민주주의에 해롭다고 보는 비율이 2022년 또는 2023년보다 유의하게 높아짐 부정적 평가는 대체로 고소득 국가에서 강하지만, 조사 대상 전체의 국가별 중앙값은 여전히 긍..."
-  },
-  {
-    "id": "dd4530dbbc67e960",
-    "title": "네이버, 전국 주요 산 '등산 날씨' 제공한다…초단기 예보 적용 - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hSlF1U3RvenZrOU4yX3VJTHBfdjJ6LXY3X3V5LUxrWklYU3VlRzdUbnRBa1lYRDhTaDUtMUsxYkJGdk9JV0pOV1RpY3FXbXc2Z2VmTWdVUGxYT1RJOE9VaXZ5bFpIcTFX?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-08T00:35:33.000Z",
-    "snippet": "네이버, 전국 주요 산 '등산 날씨' 제공한다…초단기 예보 적용 뉴스1"
-  },
-  {
-    "id": "d1fc58f40042ddcb",
-    "title": "나무용 테이프 (2004)",
-    "link": "https://news.hada.io/topic?id=34978",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-08T00:35:16.000Z",
-    "snippet": "네 살 Guy가 ‘나무용 테이프’를 사려던 것은, 나무 위 집에서 체커 게임을 할 체커판 테이블을 만들기 위해서였음 아버지는 아들이 직접 직원을 찾아 물건을 묻도록 하며 쇼핑을 주도하게 했지만, 프로젝트의 전체 목적은 이해하지 못한 채 따라..."
-  },
-  {
-    "id": "c9b78ffbfb4cee24",
-    "title": "WorldCrafter - 이미지 한 장으로 탐색하고 돌아올 수 있는 AI 세계 만들기",
-    "link": "https://news.hada.io/topic?id=34977",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-08T00:35:01.000Z",
-    "snippet": "Tencent ARC Lab과 베이징대학교가 개발한 영상 월드 모델로, 이미지 한 장이나 텍스트 설명에서 시작해 카메라를 움직이며 탐색하는 장면을 생성 시선을 돌렸다 돌아왔을 때 앞서 본 사물과 공간을 기억해 복원하며, 분 단위로 이어지는 탐색에서도 장면의 일관성..."
-  },
-  {
-    "id": "730c6812bae510ad",
-    "title": "2026년 10월 8일 일기예보: 여러 지역에 폭우 또는 매우 심한 비가 예상됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1lYdl9kVTk1TFBNa1l3dTJHUFkyVllKWERCS2dVck1EcC1DSzluYkVkc3A5Z3Y4bm00cmdIcHpiNkpTcy1sZWNsT2x3U2plM1J6OGNyU1c3ODBBSlRqR2pGbUJ0Undia1RwcnlqekxYMjlOeWE5eUszb1VRMi1SUmZ2Ul9oallqREFZ?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-08T00:32:54.000Z",
-    "snippet": "2026년 10월 8일 일기예보: 여러 지역에 폭우 또는 매우 심한 비가 예상됩니다. Vietnam.vn"
-  },
-  {
-    "id": "ead1dc33c90b6b82",
-    "title": "Lemma - 사람과 AI 에이전트가 한 팀으로 일하는 오픈소스 작업 공간",
-    "link": "https://news.hada.io/topic?id=34976",
-    "source": "긱뉴스(GeekNews)",
-    "sourceId": "geeknews",
-    "category": "개발",
-    "publishedAt": "2026-10-08T00:30:02.000Z",
-    "snippet": "여러 사람이 같은 AI 동료와 업무 데이터·문서·작업 흐름을 공유하며 일하는 오픈소스 플랫폼 Claude Code, Codex, Cursor, OpenCode에 원하는 업무를 설명하면 앱 화면부터 데이터 테이블, 에이전트, 워크플로와 권한까지 함께 구성 팀의 수정과 피드백을..."
-  },
-  {
-    "id": "a4f00749a75251b2",
-    "title": "네이버, 초단기 예보 ‘등산 테마날씨’로 301개 산 날씨 정보 제공 - CEO스코어데일리",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50QlV5YzJKX18yUkZBa1ppVEJSekVDZkF5NDV2Y0s1YXVzaG5JSWI1Y0VfNkpadjFSdHhfSHpJZXpaQmdMM2ZyV3RzTXVYNmFGeExldURXYWoyUVBuTnBnZlB1N1V2MjlR?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-08T00:27:08.000Z",
-    "snippet": "네이버, 초단기 예보 ‘등산 테마날씨’로 301개 산 날씨 정보 제공 CEO스코어데일리"
-  },
-  {
-    "id": "184aa4eb9087510a",
-    "title": "탄자니아 금광서 2명 사망…국제 금시장 신뢰 시험대",
-    "link": "https://www.hankyung.com/article/202610080169i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-08T00:23:54.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "e801dd18f0c9324a",
-    "title": "\"단풍 구경갈 때 날씨 확인하세요\"…네이버, 등산 맞춤 예보 제공 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ccm56cUVvekhzbVVSWEVuR2NXUEV0dXJsNkx6a2lFSFlyZmg1TUI0TnZYaEVnYjBEOFBXZExBeS1JZFAxWlcwQlM3MGxZaTBKaWZOSG42cTViZHBYODMzT9IBeEFVX3lxTE9xOG5WNVNUcUZmSm9jR2hSb1NFYnZqU1MzR3hNakNGYjBNYVY2TEdJdDAxVGFmcWgwWGhYWnd0VlZlam81OXdnX0FEMGZBT1EzbkVKOEk5alRxWHdBVzVoMERGUnZ4ZE8xUXJldnBDeDF5ZGRmbmhudQ?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-08T00:23:42.000Z",
-    "snippet": "\"단풍 구경갈 때 날씨 확인하세요\"…네이버, 등산 맞춤 예보 제공 뉴시스"
-  },
-  {
-    "id": "e6ba32a958f6a96c",
-    "title": "\"밥 말고 빵 주세요\"…요즘 직장인 홀린 그리스 밥상",
-    "link": "https://www.hankyung.com/article/202610080013g",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-08T00:20:05.000Z",
-    "snippet": ""
-  },
-  {
-    "id": "fa99d4533c593597",
-    "title": "“투자자만 울컥하겠네”…역대 최다 기록한 ETF 괴리율, 무슨 일",
-    "link": "https://www.mk.co.kr/news/economy/12171138",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-08T00:19:57.000Z",
-    "snippet": "ETF 괴리율 관리 ‘빨간불’ 올해 219건 괴리율 초과일 개인 거래대금 24조7000억 미래에셋 TIGER 반도체레버리지 21차례상장지수펀드(ETF)의 시장가격과 실제 자산가치 .."
-  },
-  {
-    "id": "fa8770e419f3e12e",
-    "title": "네이버, 전국 301개 산 초단기 예보 '등산 테마날씨' 제공 - 뉴스후플러스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBENGY2MjVXVlNkOWtwd2dsWVNRamFaVUpVMFdzM3NFMldKcjhxMTk2OXFvVmFhd3BOMG1rV2ZCTWlJSzdicWU5elZySVFmbTBTdmpORjFQUURqOGVReHFUVTM2RDVublY2amxiTkZn?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-08T00:14:44.000Z",
-    "snippet": "네이버, 전국 301개 산 초단기 예보 '등산 테마날씨' 제공 뉴스후플러스"
-  },
-  {
-    "id": "593305fbd385374f",
-    "title": "\"골프장과 단풍맛집까지\" 네이버, 초단기 예보 '등산 테마날씨' 정보 제공 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UalRqM0k2bE9pSGZLZkNaXzJLRXljdWNYRDdLSWxSa1A0R2VYU2V6bUdlNjZpZ3h1Z2xFN2JxS251MWlESm44NWFvNDRVWGxPU3FZSXJnNnhidVgydlhDeWdMX0ZlRknSAWxBVV95cUxNSGJTTDhDbEZuZDdBb3hSQ0VCdWpqczNGOFlNdnBDb3p2LUdDQjNOOWV3ZGdGejhMb3hXZDIxdHdqZ3VZXzlmOXJzcmJxZWl2cmg3cEQ5XzJtQ250cDlSWE5oSk42a2dUU2hZbkk?oc=5",
-    "source": "날씨 뉴스",
-    "sourceId": "weather-news",
-    "category": "날씨",
-    "publishedAt": "2026-10-08T00:14:13.000Z",
-    "snippet": "\"골프장과 단풍맛집까지\" 네이버, 초단기 예보 '등산 테마날씨' 정보 제공 - 머니투데이 머니투데이"
-  },
-  {
-    "id": "d2a266b61b9a8b1b",
-    "title": "사상 최고치 기록한 S&P500의 착시…대다수 종목은 하락",
-    "link": "https://www.hankyung.com/article/202610080121i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-08T00:11:30.000Z",
     "snippet": ""
   }
 ]
